@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Anaïs" audio_filename="hector3_aub.wav" version="8" version_date="140221">
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Hector" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="MS10/2012-ECFev2014"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="451.650" topic="to1">
+<Turn startTime="0" endTime="2.078" speaker="spk1">
+<Sync time="0"/>
+alors qu'est-ce que c'est ce livre ?
+</Turn>
+<Turn speaker="spk2" startTime="2.078" endTime="6.234">
+<Sync time="2.078"/>
+
+<Event desc="mic" type="noise" extent="next"/>
+ ça ça s'appelle la chèvre de monsieur Seguin 
+<Event desc="soge~ " type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="6.234" endTime="8.609">
+<Sync time="6.234"/>
+donc tu racontes un petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ peu
+</Turn>
+<Turn speaker="spk2" startTime="8.609" endTime="33.843">
+<Sync time="8.609"/>
+ben d'accord si tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ envie 
+<Event desc="pap" type="noise" extent="previous"/>
+
+<Sync time="11.109"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ il était une fois euh un monsieur un fermier en fait qui avait des chèvres 
+<Event desc="SERv" type="pronounce" extent="previous"/>
+
+<Sync time="20.877"/>
+mais comme toutes les chèvres étaient parties à la montagne
+<Sync time="24.281"/>
++ et il y en 
+<Event desc="ja~ " type="pronounce" extent="previous"/>
+ a une qui était qui était mangée toute la nuit par un loup à la montagne
+</Turn>
+<Turn speaker="spk1 spk2" startTime="33.843" endTime="34.933">
+<Sync time="33.843"/>
+<Who nb="1"/>
+hum hum
+<Who nb="2"/>
+mais lui
+</Turn>
+<Turn speaker="spk2" startTime="34.933" endTime="38.484">
+<Sync time="34.933"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ restait que une seule chèvre elle
+</Turn>
+<Turn speaker="spk1" startTime="38.484" endTime="42.094">
+<Sync time="38.484"/>
+ben attends on va voir 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.094" endTime="62.891">
+<Sync time="42.094"/>
++ 
+<Event desc="b" type="noise" extent="next"/>
+ maintenant 
+<Event desc="me~ na~ " type="pronounce" extent="previous"/>
+ monsieur Seguin 
+<Event desc="soge~ " type="pronounce" extent="previous"/>
+ euh hum prendrait 
+<Comment desc="sic"/>
+ les carottes
+<Sync time="51.625"/>
+et disait cette chèvre était bien ici
+<Sync time="55.297"/>
+mais en fait c'était pas vrai elle était mal elle aimerait y aller à la montagne 
+</Turn>
+<Turn speaker="spk1" startTime="62.891" endTime="66.423">
+<Sync time="62.891"/>
+ah c'est la seule qui est qui sur- qui a survi 
+<Comment desc="sic"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="66.423" endTime="71.282">
+<Sync time="66.423"/>
+bah nan c'est la seule qui a trouvé maintenant 
+<Event desc="me~ na~ " type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="71.282" endTime="73.126">
+<Sync time="71.282"/>
+et toutes les autres elles sont mortes ?
+</Turn>
+<Turn speaker="spk2" startTime="73.126" endTime="74.093">
+<Sync time="73.126"/>
+bah
+</Turn>
+<Turn speaker="spk1" startTime="74.093" endTime="75.174">
+<Sync time="74.093"/>
+elles ont été mangées ?
+</Turn>
+<Turn speaker="spk2" startTime="75.174" endTime="77.643">
+<Sync time="75.174"/>
+bah ou man- mangées par le loup 
+</Turn>
+<Turn speaker="spk1" startTime="77.643" endTime="78.956">
+<Sync time="77.643"/>
+oh
+</Turn>
+<Turn speaker="spk2" startTime="78.956" endTime="86.128">
+<Sync time="78.956"/>
+elle en a marre je crois 
+<Event desc="ZkRwa" type="pronounce" extent="previous"/>
+
+<Sync time="81.72"/>
+elle *** il devait avoir d'autres *** 
+<Comment desc="interprétation : chèvres qui ?"/>
+ seraient avec elle
+</Turn>
+<Turn speaker="spk1" startTime="86.128" endTime="88.503">
+<Sync time="86.128"/>
+ben elle se sent toute seule
+</Turn>
+<Turn speaker="spk2" startTime="88.503" endTime="89.035">
+<Sync time="88.503"/>
+quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="89.035" endTime="90.223">
+<Sync time="89.035"/>
+elle est toute triste
+</Turn>
+<Turn speaker="spk2" startTime="90.223" endTime="100.662">
+<Sync time="90.223"/>
+ben oui elle est toute seule
+<Sync time="92.177"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ elle a mangé monsieur Seguin 
+<Event desc="soge~ " type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ disait encore qu'elle était très contente
+<Sync time="99.818"/>
+mais en fait 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="100.662" endTime="101.396">
+<Sync time="100.662"/>
+<Who nb="1"/>
+lui il pense
+<Who nb="2"/>
+pas du tout
+</Turn>
+<Turn speaker="spk1" startTime="101.396" endTime="102.192">
+<Sync time="101.396"/>
+qu'elle est contente ?
+</Turn>
+<Turn speaker="spk2" startTime="102.192" endTime="113.521">
+<Sync time="102.192"/>
+ouais mais en fait pas du tout
+<Sync time="104.692"/>
+alors /elle,euh/ maintenant 
+<Event desc="me~ na~ " type="pronounce" extent="previous"/>
+ regardait la montagne tristement
+<Sync time="110.708"/>
+pour voir d'autres chèvres
+</Turn>
+<Turn speaker="spk1" startTime="113.521" endTime="115.646">
+<Sync time="113.521"/>
+ah elle se sent toute seule
+</Turn>
+<Turn speaker="spk2 spk1" startTime="115.646" endTime="117.875">
+<Sync time="115.646"/>
+<Who nb="1"/>
+un peu oh
+<Who nb="2"/>
+elle regarde la montagne
+</Turn>
+<Turn speaker="spk1" startTime="117.875" endTime="119.927">
+<Sync time="117.875"/>
+parce qu'elle 
+<Event desc="paskEl" type="pronounce" extent="previous"/>
+ a envie de partir là-bas
+</Turn>
+<Turn speaker="spk2" startTime="119.927" endTime="120.443">
+<Sync time="119.927"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="120.443" endTime="122.74">
+<Sync time="120.443"/>
+elle aimerait bien y aller
+</Turn>
+<Turn speaker="spk2" startTime="122.74" endTime="125.052">
+<Sync time="122.74"/>
+mais 
+<Event desc="na~ " type="pronounce" extent="instantaneous"/>
+ 
+<Comment desc="Interprétation : normalement ?"/>
+ c'est pendant la nuit qu'il y a 
+<Event desc="kja" type="pronounce" extent="previous"/>
+ le loup
+</Turn>
+<Turn speaker="spk1" startTime="125.052" endTime="127.739">
+<Sync time="125.052"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ ah que le que la nuit
+</Turn>
+<Turn speaker="spk2" startTime="127.739" endTime="128.676">
+<Sync time="127.739"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ ouais
+</Turn>
+<Turn speaker="spk1" startTime="128.676" endTime="129.457">
+<Sync time="128.676"/>
+le jour
+</Turn>
+<Turn speaker="spk2 spk1" startTime="129.457" endTime="130.895">
+<Sync time="129.457"/>
+<Who nb="1"/>
+et voilà 
+<Who nb="2"/>
+elle peut aller où elle veut
+</Turn>
+<Turn speaker="spk2" startTime="130.895" endTime="132.848">
+<Sync time="130.895"/>
+hum et voilà
+</Turn>
+<Turn speaker="spk1 spk2" startTime="132.848" endTime="136.41">
+<Sync time="132.848"/>
+<Who nb="1"/>
++ d'accord
+<Who nb="2"/>
+elle est triste quand même
+</Turn>
+<Turn speaker="spk1" startTime="136.41" endTime="137.613">
+<Sync time="136.41"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ elle est toute triste 
+</Turn>
+<Turn speaker="spk2" startTime="137.613" endTime="147.707">
+<Sync time="137.613"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ ouais mais monsieur Seguin 
+<Event desc="soge~ " type="pronounce" extent="previous"/>
+ + et la chèvre /// la chèvre
+</Turn>
+<Turn speaker="spk1" startTime="147.707" endTime="148.488">
+<Sync time="147.707"/>
+qu'est ce qu'ils font ?
+</Turn>
+<Turn speaker="spk2" startTime="148.488" endTime="167.081">
+<Sync time="148.488"/>
+
+<Event desc="ch" type="pronounce" extent="next"/>
+ *** /// et la chèvre disait à monsieur Seguin 
+<Event desc="soge~ " type="pronounce" extent="previous"/>
+
+<Sync time="160.269"/>
+elle se sent elle se sent toute seule 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ elle aurait préféré partir à la montagne
+</Turn>
+<Turn speaker="spk1" startTime="167.081" endTime="169.409">
+<Sync time="167.081"/>
+ça s- elle dit tout cela euh
+</Turn>
+<Turn speaker="spk2" startTime="169.409" endTime="184.955">
+<Sync time="169.409"/>
+ouais elle 
+<Event desc="E" type="pronounce" extent="previous"/>
+ elle 
+<Event desc="E" type="pronounce" extent="previous"/>
+ elle dit euh euh euh euh que qu'elle s'ennuie ici
+<Sync time="176.018"/>
+alors elle l'am- alors elle l'amène dans une une petite prison où elle met les chèvres
+</Turn>
+<Turn speaker="spk1" startTime="184.955" endTime="187.127">
+<Sync time="184.955"/>
+c'est le monsieur Seguin qui fait ça ?
+</Turn>
+<Turn speaker="spk2" startTime="187.127" endTime="187.549">
+<Sync time="187.127"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="187.549" endTime="190.612">
+<Sync time="187.549"/>
+il la met dans une prison qu'est-ce que c'est une prison ?
+</Turn>
+<Turn speaker="spk2" startTime="190.612" endTime="193.05">
+<Sync time="190.612"/>
+non mais je me 
+<Event desc="Zm@" type="pronounce" extent="previous"/>
+ souviens plus comment ça s'appelle
+</Turn>
+<Turn speaker="spk1" startTime="193.05" endTime="197.018">
+<Sync time="193.05"/>
+euh il l'enferme dans l'étable
+</Turn>
+<Turn speaker="spk2" startTime="197.018" endTime="198.377">
+<Sync time="197.018"/>
+ah oui dans l'étable
+</Turn>
+<Turn speaker="spk1" startTime="198.377" endTime="200.783">
+<Sync time="198.377"/>
+tu sais ce que 
+<Event desc="k@" type="pronounce" extent="previous"/>
+ c'est l'étable ?
+</Turn>
+<Turn speaker="spk2" startTime="200.783" endTime="204.189">
+<Sync time="200.783"/>
+hum c'est un truc pour m- pour enfermer les animaux
+</Turn>
+<Turn speaker="spk1" startTime="204.189" endTime="205.08">
+<Sync time="204.189"/>
+c'est bien
+</Turn>
+<Turn speaker="spk2" startTime="205.08" endTime="205.58">
+<Sync time="205.08"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="205.58" endTime="206.612">
+<Sync time="205.58"/>
+oui c'est ça 
+</Turn>
+<Turn speaker="spk2" startTime="206.612" endTime="210.783">
+<Sync time="206.612"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ + et voilà hum mis
+</Turn>
+<Turn speaker="spk1" startTime="210.783" endTime="212.908">
+<Sync time="210.783"/>
+ah elle est enfermée
+</Turn>
+<Turn speaker="spk2" startTime="212.908" endTime="218.283">
+<Sync time="212.908"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ mais il avait oub- il avait oublié la fenêtre + alors
+</Turn>
+<Turn speaker="spk1" startTime="218.283" endTime="220.174">
+<Sync time="218.283"/>
+ah par les barreaux elle peut passer
+</Turn>
+<Turn speaker="spk2" startTime="220.174" endTime="222.487">
+<Sync time="220.174"/>
+bah je sais pas
+</Turn>
+<Turn speaker="spk1" startTime="222.487" endTime="229.206">
+<Sync time="222.487"/>
+/// ah oui tu vois non 
+<Event desc="na~ " type="pronounce" extent="previous"/>
+ en fait c'est derrière il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ une petite fenêtre là
+</Turn>
+<Turn speaker="spk2" startTime="229.206" endTime="230.139">
+<Sync time="229.206"/>
+ah ben oui 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="230.139" endTime="231.502">
+<Sync time="230.139"/>
+<Who nb="1"/>
+et elle monte dessus
+<Who nb="2"/>
+et elle est pas fermée
+</Turn>
+<Turn speaker="spk2" startTime="231.502" endTime="232.658">
+<Sync time="231.502"/>
+et après ***
+</Turn>
+<Turn speaker="spk1" startTime="232.658" endTime="234.83">
+<Sync time="232.658"/>
+voilà elle saute 
+</Turn>
+<Turn speaker="spk2" startTime="234.83" endTime="245.189">
+<Sync time="234.83"/>
+après et voilà échappée dans la montagne
+<Sync time="241.533"/>
+voit plein de fleurs très jolies
+</Turn>
+<Turn speaker="spk1" startTime="245.189" endTime="247.095">
+<Sync time="245.189"/>
+elle découvre la forêt
+</Turn>
+<Turn speaker="spk2" startTime="247.095" endTime="260.391">
+<Sync time="247.095"/>
+ouais 
+<Event desc="pap" type="noise" extent="next"/>
+ /// voilà dans les champs elle trouve ça beau
+<Sync time="254.579"/>
+plein de cascades elle aime bien courir dans le ch- dans les ***
+</Turn>
+<Turn speaker="spk1" startTime="260.391" endTime="261.207">
+<Sync time="260.391"/>
+elle profite 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="261.207" endTime="262.437">
+<Sync time="261.207"/>
+<Who nb="1"/>
+de sa liberté
+<Who nb="2"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="262.437" endTime="264.577">
+<Sync time="262.437"/>
+elle peut s'amuser
+</Turn>
+<Turn speaker="spk2" startTime="264.577" endTime="265.733">
+<Sync time="264.577"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="265.733" endTime="270.342">
+<Sync time="265.733"/>
+elle est plus enfermée dans une euh maison toute 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="270.342" endTime="271.271">
+<Sync time="270.342"/>
+<Who nb="1"/>
+euh triste
+<Who nb="2"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="271.271" endTime="272.545">
+<Sync time="271.271"/>
+qu'elle aime pas
+</Turn>
+<Turn speaker="spk2" startTime="272.545" endTime="276.831">
+<Sync time="272.545"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et voilà ***
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="276.831" endTime="279.169">
+<Sync time="276.831"/>
+non regarde c'est la suite c'est bon 
+<Event desc="pap" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="279.169" endTime="286.604">
+<Sync time="279.169"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ et voilà 
+<Event desc="b" type="noise" extent="next"/>
+ dans une grande montagne 
+<Event desc="b" type="noise" extent="next"/>
+ voyait plein de maisons
+</Turn>
+<Turn speaker="spk1 spk2" startTime="286.604" endTime="288.09">
+<Sync time="286.604"/>
+<Who nb="1"/>
+elle voit 
+<Who nb="2"/>
+plein d'autres montagnes
+</Turn>
+<Turn speaker="spk1" startTime="288.09" endTime="289.621">
+<Sync time="288.09"/>
+elle voit tout le village en fait
+</Turn>
+<Turn speaker="spk2" startTime="289.621" endTime="290.59">
+<Sync time="289.621"/>
+ben non
+</Turn>
+<Turn speaker="spk1 spk2" startTime="290.59" endTime="293.278">
+<Sync time="290.59"/>
+<Who nb="1"/>
+ben si regarde *
+<Who nb="2"/>
+c'est juste un village
+</Turn>
+<Turn speaker="spk2" startTime="293.278" endTime="294.738">
+<Sync time="293.278"/>
+oui mais /il y en a,on/ là aussi
+</Turn>
+<Turn speaker="spk1" startTime="294.738" endTime="298.59">
+<Sync time="294.738"/>
+ah oui +
+</Turn>
+<Turn speaker="spk2" startTime="298.59" endTime="313.402">
+<Sync time="298.59"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et voilà
+<Sync time="300.371"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ le coucher du soleil approche le lendemain
+<Sync time="304.09"/>
+le lendemain et avec d'autres chèvres se fait beaucoup d'amis on mangeait très bien ici 
+<Sync time="311.198"/>
+on mangeait très bien ici 
+</Turn>
+<Turn speaker="spk1" startTime="313.402" endTime="314.933">
+<Sync time="313.402"/>
+elle rencontre plein de monde 
+<Event desc="dmo~d" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="314.933" endTime="322.246">
+<Sync time="314.933"/>
+ouais /// 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ six un deux trois quatre cinq six
+</Turn>
+<Turn speaker="spk1" startTime="322.246" endTime="324.09">
+<Sync time="322.246"/>
+ouais elle a six nouveaux amis 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="324.09" endTime="331.856">
+<Sync time="324.09"/>
+et elle mangeait très très bien elle avait faim *** 
+<Comment desc="interprétation = parcouru ?"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="331.856" endTime="333.528">
+<Sync time="331.856"/>
+parce qu'elle 
+<Event desc="paskEl" type="pronounce" extent="previous"/>
+ avait ?
+</Turn>
+<Turn speaker="spk2" startTime="333.528" endTime="337.496">
+<Sync time="333.528"/>
+parce qu'elle 
+<Event desc="paskEl" type="pronounce" extent="previous"/>
+ avait euh fait euh plein de chemin 
+<Event desc="dS@me~ " type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="337.496" endTime="338.841">
+<Sync time="337.496"/>
+ah oui elle a beaucoup couru
+</Turn>
+<Turn speaker="spk1 spk2" startTime="338.841" endTime="339.98">
+<Sync time="338.841"/>
+<Who nb="1"/>
+donc elle a faim 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Who nb="2"/>
+ouais
+</Turn>
+<Turn speaker="spk2" startTime="339.98" endTime="352.449">
+<Sync time="339.98"/>
+et voilà la nuit /tombée,tombait/ voyait un corbeau voyait des yeux des yeux rouges un nez et des oreilles
+</Turn>
+<Turn speaker="spk1" startTime="352.449" endTime="355.711">
+<Sync time="352.449"/>
+ah c'est la nuit puisque c'est la nuit 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="355.711" endTime="356.87">
+<Sync time="355.711"/>
+<Who nb="1"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait ***
+<Who nb="2"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait noir
+</Turn>
+<Turn speaker="spk2" startTime="356.87" endTime="357.996">
+<Sync time="356.87"/>
+* 
+<Event desc="ch" type="pronounce" extent="instantaneous"/>
+ c'est le loup
+</Turn>
+<Turn speaker="spk1" startTime="357.996" endTime="360.308">
+<Sync time="357.996"/>
+ah en fait elle voit le loup
+</Turn>
+<Turn speaker="spk2" startTime="360.308" endTime="375.776">
+<Sync time="360.308"/>
+ouais quelqu'un approche plus elle approche plus doucement
+<Sync time="366.964"/>
+c'était le loup le loup la voyait très bien voulait la manger pouvait pas lui échapper
+</Turn>
+<Turn speaker="spk1" startTime="375.776" endTime="378.104">
+<Sync time="375.776"/>
+tu qu'est-ce que tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ dis après ? il pouvait
+</Turn>
+<Turn speaker="spk2" startTime="378.104" endTime="379.479">
+<Sync time="378.104"/>
+elle pouvait pas s'é-
+</Turn>
+<Turn speaker="spk1 spk2" startTime="379.479" endTime="380.98">
+<Sync time="379.479"/>
+<Who nb="1"/>
+aïe
+<Who nb="2"/>
+s'échapper
+</Turn>
+<Turn speaker="spk1" startTime="380.98" endTime="381.902">
+<Sync time="380.98"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ elle peut pas s'échapper
+</Turn>
+<Turn speaker="spk2" startTime="381.902" endTime="382.215">
+<Sync time="381.902"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="382.215" endTime="383.043">
+<Sync time="382.215"/>
+elle est prisonnière
+</Turn>
+<Turn speaker="spk2" startTime="383.043" endTime="400.403">
+<Sync time="383.043"/>
+le loup /aimerait, aimait/ bien la manger tranquillement maintenant 
+<Event desc="me~na~ " type="pronounce" extent="previous"/>
+ mais là
+<Sync time="388.809"/>
++ et ben elle la mange elle se bagarrait avec ses se se d- donnait des coups de cornes 
+<Event desc="dkORn" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="400.403" endTime="401.309">
+<Sync time="400.403"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ font un combat
+</Turn>
+<Turn speaker="spk2" startTime="401.309" endTime="403.575">
+<Sync time="401.309"/>
+ouais plein de sang
+</Turn>
+<Turn speaker="spk1" startTime="403.575" endTime="404.793">
+<Sync time="403.575"/>
+un combat pour survivre
+</Turn>
+<Turn speaker="spk2" startTime="404.793" endTime="406.152">
+<Sync time="404.793"/>
+ben ouais
+</Turn>
+<Turn speaker="spk1" startTime="406.152" endTime="407.589">
+<Sync time="406.152"/>
+parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ celui qui va gagner
+</Turn>
+<Turn speaker="spk2" startTime="407.589" endTime="426.058">
+<Sync time="407.589"/>
+bah + tu vas voir à la fin donnait des coups de cornes 
+<Event desc="dkORn" type="pronounce" extent="previous"/>
+
+<Sync time="414.777"/>
+faisait de toutes ses forces mais mais lui il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ pouvait donner des coups de griffes 
+<Event desc="dgRif" type="pronounce" extent="previous"/>
+ et des coups de dents
+<Sync time="422.308"/>
+un seul coup de dent plein de sang dé- dégouline
+</Turn>
+<Turn speaker="spk1" startTime="426.058" endTime="429.417">
+<Sync time="426.058"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+c'est pas très joyeux comme histoire
+</Turn>
+<Turn speaker="spk2" startTime="429.417" endTime="440.073">
+<Sync time="429.417"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ et voilà plein de sang mange mangea un peu de plantes 
+<Event desc="dpla~t" type="pronounce" extent="previous"/>
+
+<Sync time="436.104"/>
+et la mangea + là elle la ***
+</Turn>
+<Turn speaker="spk1" startTime="440.073" endTime="441.355">
+<Sync time="440.073"/>
+qui mange ?
+</Turn>
+<Turn speaker="spk2" startTime="441.355" endTime="444.277">
+<Sync time="441.355"/>
+ben le loup + là 
+</Turn>
+<Turn speaker="spk1" startTime="444.277" endTime="447.011">
+<Sync time="444.277"/>
+ah le loup il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ mange la chèvre ?
+</Turn>
+<Turn speaker="spk2" startTime="447.011" endTime="447.793">
+<Sync time="447.011"/>
+ouais 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="447.793" endTime="449.212">
+<Sync time="447.793"/>
+<Who nb="1"/>
+et voilà
+<Who nb="2"/>
+c'est triste
+</Turn>
+<Turn speaker="spk2" startTime="449.212" endTime="451.650">
+<Sync time="449.212"/>
+cette histoire racontée
+</Turn>
+</Section>
+</Episode>
+</Trans>

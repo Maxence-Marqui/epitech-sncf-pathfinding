@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Corpus" audio_filename="vincent2_can.wav" version="8" version_date="090723">
+<Topics>
+<Topic id="to1" desc="SDrevuEC20/8/2007YS12/8/2008"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Vincent" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="358.492" topic="to1">
+<Turn startTime="0" endTime="13.394" speaker="spk1">
+<Sync time="0"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ Vincent le ¤C¤ il est dix heures cinq 
+<Sync time="7.649"/>
+ 
+<Event desc="conv" type="noise" extent="begin"/>
+ c'est à toi de commmencer 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ allez c'est toi qui tournes les pages tu te souviens du titre ?
+</Turn>
+<Turn speaker="spk2" startTime="13.394" endTime="14.309">
+<Sync time="13.394"/>
+oui 
+</Turn>
+<Turn speaker="spk1" startTime="14.309" endTime="24.558">
+<Sync time="14.309"/>
+c'est ? tu me dis le titre ? + "Les deux tortues de la cour" 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="24.558" endTime="25.652">
+<Sync time="24.558"/>
+<Who nb="1"/>
+"Les deux tortues 
+<Who nb="2"/>
+tu me le dis ?
+</Turn>
+<Turn speaker="spk2" startTime="25.652" endTime="26.742">
+<Sync time="25.652"/>
+de la cour"
+</Turn>
+<Turn speaker="spk1" startTime="26.742" endTime="31.147">
+<Sync time="26.742"/>
+"Les deux tortues de la cour" c'est bien +
+</Turn>
+<Turn speaker="spk2" startTime="31.147" endTime="32.127">
+<Sync time="31.147"/>
+et 
+<Comment desc="V. veut énoncer les prénoms des personnages de l'histoire dont les portraits sont en page de garde"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.127" endTime="32.784">
+<Sync time="32.127"/>
+Anaïs 
+</Turn>
+<Turn speaker="spk2" startTime="32.784" endTime="35.288">
+<Sync time="32.784"/>
+Anaïs Augustin
+</Turn>
+<Turn speaker="spk1" startTime="35.288" endTime="36.012">
+<Sync time="35.288"/>
+Augustin
+</Turn>
+<Turn speaker="spk2" startTime="36.012" endTime="39.731">
+<Sync time="36.012"/>
+Dorothée Karim et le gardien 
+</Turn>
+<Turn speaker="spk1" startTime="39.731" endTime="40.448">
+<Sync time="39.731"/>
+c'est bien
+</Turn>
+<Turn speaker="spk2 spk1" startTime="40.448" endTime="41.291">
+<Sync time="40.448"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+c'est bien
+</Turn>
+<Turn speaker="spk2" startTime="41.291" endTime="41.87">
+<Sync time="41.291"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="41.87" endTime="45.866">
+<Sync time="41.87"/>
+c'est très bien Vincent +
+</Turn>
+<Turn speaker="spk2" startTime="45.866" endTime="48.16">
+<Sync time="45.866"/>
+et je l'oublie pas le gardien
+</Turn>
+<Turn speaker="spk1" startTime="48.16" endTime="52.956">
+<Sync time="48.16"/>
+non toi tu ne l'oublies pas le gardien moi j'oublie toujours de dire qu'il y a le gardien
+</Turn>
+<Turn speaker="spk2" startTime="52.956" endTime="53.456">
+<Sync time="52.956"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="53.456" endTime="53.962">
+<Sync time="53.456"/>
+oui mais
+</Turn>
+<Turn speaker="spk2 spk1" startTime="53.962" endTime="54.003">
+<Sync time="53.962"/>
+<Who nb="1"/>
+ouais
+<Who nb="2"/>
+toi
+</Turn>
+<Turn speaker="spk1" startTime="54.003" endTime="55.218">
+<Sync time="54.003"/>
+tu l'oublies pas
+</Turn>
+<Turn speaker="spk2" startTime="55.218" endTime="55.68">
+<Sync time="55.218"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="55.68" endTime="59.246">
+<Sync time="55.68"/>
+hum allez tu me racontes l'histoire ?
+</Turn>
+<Turn speaker="spk2" startTime="59.246" endTime="59.867">
+<Sync time="59.246"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="59.867" endTime="60.809">
+<Sync time="59.867"/>
+ah 
+<Event desc="pap" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="60.809" endTime="64.953">
+<Sync time="60.809"/>
+*** 
+<Event desc="se***pardje~" type="pronounce" extent="previous"/>
+ 
+<Comment desc="Interprétation = c'est le gardien ?"/>
+ + 
+</Turn>
+<Turn speaker="spk1" startTime="64.953" endTime="66.067">
+<Sync time="64.953"/>
+qu'est-ce qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ y a là ?
+</Turn>
+<Turn speaker="spk2" startTime="66.067" endTime="67.189">
+<Sync time="66.067"/>
+dans la cour
+</Turn>
+<Turn speaker="spk1" startTime="67.189" endTime="69.366">
+<Sync time="67.189"/>
+oui 
+</Turn>
+<Turn speaker="spk2" startTime="69.366" endTime="71.897">
+<Sync time="69.366"/>
+là
+</Turn>
+<Turn speaker="spk1" startTime="71.897" endTime="77.282">
+<Sync time="71.897"/>
+oui qu'est-ce qu'il y a dans la cour ? +
+</Turn>
+<Turn speaker="spk2" startTime="77.282" endTime="78.932">
+<Sync time="77.282"/>
+les deux tortues
+</Turn>
+<Turn speaker="spk1" startTime="78.932" endTime="83.565">
+<Sync time="78.932"/>
+il y a une caisse en bois et dans la caisse en bois il y a deux tortues
+</Turn>
+<Turn speaker="spk2" startTime="83.565" endTime="85.586">
+<Sync time="83.565"/>
+Madame Tortue Monsieur Tortue
+</Turn>
+<Turn speaker="spk1" startTime="85.586" endTime="100.66">
+<Sync time="85.586"/>
+oui les deux tortues 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ + les deux tortues s'appellent Monsieur Tortue et Madame Tortue
+</Turn>
+<Turn speaker="spk2" startTime="100.66" endTime="101.911">
+<Sync time="100.66"/>
+pas de musique 
+<Event desc="dmyzik" type="pronounce" extent="previous"/>
+ 
+<Comment desc="Vincent désigne le magnétophone"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="101.911" endTime="105.186">
+<Sync time="101.911"/>
+non 
+<Event desc="b" type="noise" extent="previous"/>
+ c'est le magnétophone + allez tu 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="105.186" endTime="105.686">
+<Sync time="105.186"/>
+<Who nb="1"/>
+continues 
+<Who nb="2"/>
+*
+</Turn>
+<Turn speaker="spk1" startTime="105.686" endTime="107.507">
+<Sync time="105.686"/>
+l'histoire Vincent
+</Turn>
+<Turn speaker="spk2" startTime="107.507" endTime="111.595">
+<Sync time="107.507"/>
+la page trois et la page cinq
+</Turn>
+<Turn speaker="spk1" startTime="111.595" endTime="112.524">
+<Sync time="111.595"/>
+non allez tu me racontes 
+</Turn>
+<Turn speaker="spk2" startTime="112.524" endTime="118.448">
+<Sync time="112.524"/>
+
+<Event desc="e" type="noise" extent="instantaneous"/>
+ /// 
+</Turn>
+<Turn speaker="spk1" startTime="118.448" endTime="122.895">
+<Sync time="118.448"/>
+Anaïs et Karim alors qu'est ce qu'ils 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ font
+</Turn>
+<Turn speaker="spk1 spk2" startTime="122.895" endTime="124.016">
+<Sync time="122.895"/>
+<Who nb="1"/>
+Anaïs et Karim ? 
+<Who nb="2"/>
+Anaïs 
+<Event desc="anEs" type="pronounce" extent="previous"/>
+ et Karim
+</Turn>
+<Turn speaker="spk1" startTime="124.016" endTime="126.371">
+<Sync time="124.016"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="126.371" endTime="128.52">
+<Sync time="126.371"/>
+ben ça c'est quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="128.52" endTime="130.426">
+<Sync time="128.52"/>
+tu me racontes l'histoire Vincent ?
+</Turn>
+<Turn speaker="spk2" startTime="130.426" endTime="131.737">
+<Sync time="130.426"/>
+c'est quoi là ?
+</Turn>
+<Turn speaker="spk1" startTime="131.737" endTime="134.068">
+<Sync time="131.737"/>
+c'est un sac à dos
+</Turn>
+<Turn speaker="spk2 spk1" startTime="134.068" endTime="135.068">
+<Sync time="134.068"/>
+<Who nb="1"/>
+un sac à dos
+<Who nb="2"/>
+*** 
+</Turn>
+<Turn speaker="spk1" startTime="135.068" endTime="135.548">
+<Sync time="135.068"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="135.548" endTime="137.342">
+<Sync time="135.548"/>
+un sac à dos *** 
+<Comment desc="Interprétation = avec le ?"/>
+ cartable
+</Turn>
+<Turn speaker="spk1" startTime="137.342" endTime="148.306">
+<Sync time="137.342"/>
+oui Anaïs et Karim ont leur sac à dos sur le dos ont leur cartable sur leur sur le dos 
+<Sync time="145.209"/>
+et qu'est-ce qu'ils font Anaïs et Karim ?
+</Turn>
+<Turn speaker="spk2" startTime="148.306" endTime="150.687">
+<Sync time="148.306"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="150.687" endTime="160.734">
+<Sync time="150.687"/>
+* + ben raconte-moi Vincent + hein + moi je te l'ai raconté alors à toi de me le 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="160.734" endTime="162.172">
+<Sync time="160.734"/>
+<Who nb="1"/>
+raconter maintenant
+<Who nb="2"/>
+*** 
+<Comment desc="Vincent touche des crayons"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="162.172" endTime="167.87">
+<Sync time="162.172"/>
+non non non non Vincent à toi de me le raconter maintenant 
+<Event desc="me~tna~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="167.87" endTime="170.695">
+<Sync time="167.87"/>
+ma maman elle a deux montres
+</Turn>
+<Turn speaker="spk1" startTime="170.695" endTime="178.367">
+<Sync time="170.695"/>
+Vincent je te demande pas si ta maman a une montre je te demande de me raconter l'histoire +
+</Turn>
+<Turn speaker="spk2" startTime="178.367" endTime="178.938">
+<Sync time="178.367"/>
+*
+</Turn>
+<Turn speaker="spk1" startTime="178.938" endTime="180.433">
+<Sync time="178.938"/>
+tu te souviens là de ce qu'ils font ?
+</Turn>
+<Turn speaker="spk2" startTime="180.433" endTime="181.425">
+<Sync time="180.433"/>
+ben oui
+</Turn>
+<Turn speaker="spk1" startTime="181.425" endTime="186.608">
+<Sync time="181.425"/>
+oh ben alors dis-le moi /// 
+</Turn>
+<Turn speaker="spk2" startTime="186.608" endTime="191.181">
+<Sync time="186.608"/>
+ça me gratte 
+<Event desc="mgrat" type="pronounce" extent="previous"/>
+ ça me gratte 
+<Event desc="mgrat" type="pronounce" extent="previous"/>
+ beaucoup
+</Turn>
+<Turn speaker="spk1" startTime="191.181" endTime="192.584">
+<Sync time="191.181"/>
+tu veux pas raconter ?
+</Turn>
+<Turn speaker="spk2" startTime="192.584" endTime="201.68">
+<Sync time="192.584"/>
+non + j'ai envie de voir les grands et les moyens
+</Turn>
+<Turn speaker="spk1" startTime="201.68" endTime="212.467">
+<Sync time="201.68"/>
+quand tu auras fini de raconter tu iras d'accord ? tu me racontes d'abord 
+<Sync time="205.947"/>
+d'accord Vincent ? tu le racontes d'abord puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ après on y va tous les deux 
+</Turn>
+<Turn speaker="spk2" startTime="212.467" endTime="213.989">
+<Sync time="212.467"/>
+j'ai trop mal
+</Turn>
+<Turn speaker="spk1" startTime="213.989" endTime="216.585">
+<Sync time="213.989"/>
+tu as mal où ? $$$ 
+<Comment desc="Longue discussion entre l'adulte et l'enfant au terme de laquelle l'adulte persuade l'enfant de finir de raconter l'histoire"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="216.585" endTime="218.089">
+<Sync time="216.585"/>
+et la pomme
+</Turn>
+<Turn speaker="spk1" startTime="218.089" endTime="222.192">
+<Sync time="218.089"/>
+oui le gardien a mis la salade et la pomme dans le torchon
+</Turn>
+<Turn speaker="spk2" startTime="222.192" endTime="223.084">
+<Sync time="222.192"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="223.084" endTime="225.619">
+<Sync time="223.084"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="225.619" endTime="239.378">
+<Sync time="225.619"/>
+* + oh la sala- il(s) 
+<Event desc="i" type="pronounce" extent="previous"/>
+ demande(nt) au gardien la la la la pomme
+</Turn>
+<Turn speaker="spk1" startTime="239.378" endTime="248.529">
+<Sync time="239.378"/>
+oui Anaïs et Karim demandent /*, que/ Karim demandent au gardien de la salade et le gardien donne une pomme en plus
+</Turn>
+<Turn speaker="spk2" startTime="248.529" endTime="250.234">
+<Sync time="248.529"/>
+un petit peu pourrie
+</Turn>
+<Turn speaker="spk1 spk2" startTime="250.234" endTime="250.654">
+<Sync time="250.234"/>
+<Who nb="1"/>
+la pomme 
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="250.654" endTime="253.609">
+<Sync time="250.654"/>
+est un petit peu abîmée oui
+</Turn>
+<Turn speaker="spk2" startTime="253.609" endTime="262.886">
+<Sync time="253.609"/>
+*** il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ plein d'images + ma maman elle a pas plein d'images
+</Turn>
+<Turn speaker="spk1" startTime="262.886" endTime="266.465">
+<Sync time="262.886"/>
+hum hum et là qu'est-ce qu'ils font Anaïs et Karim ?
+</Turn>
+<Turn speaker="spk2" startTime="266.465" endTime="271.663">
+<Sync time="266.465"/>
+ils donnent euh un petit peu de salade 
+<Event desc="dsala" type="pronounce" extent="previous"/>
+ un petit peu de pomme 
+<Event desc="dpOm" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="271.663" endTime="275.445">
+<Sync time="271.663"/>
+oui ils donnent un petit peu de salade 
+<Event desc="dsalad" type="pronounce" extent="previous"/>
+
+<Sync time="273.126"/>
+et un petit peu de pomme 
+<Event desc="dpOm" type="pronounce" extent="previous"/>
+ à Monsieur et Madame Tortue
+</Turn>
+<Turn speaker="spk2" startTime="275.445" endTime="280.045">
+<Sync time="275.445"/>
+ ils sortent 
+<Event desc="sOr" type="pronounce" extent="previous"/>
+ la tête de la carapace les pieds de la carapace
+</Turn>
+<Turn speaker="spk1 spk2" startTime="280.045" endTime="280.253">
+<Sync time="280.045"/>
+<Who nb="1"/>
+c'est 
+<Who nb="2"/>
+*
+</Turn>
+<Turn speaker="spk1" startTime="280.253" endTime="287.788">
+<Sync time="280.253"/>
+bien Monsieur et Madame Tortue sortent la tête et les pattes de leurs carapaces
+</Turn>
+<Turn speaker="spk2" startTime="287.788" endTime="292.198">
+<Sync time="287.788"/>
+euh Karim il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ramasse les saletés et les crottes
+</Turn>
+<Turn speaker="spk1" startTime="292.198" endTime="295.181">
+<Sync time="292.198"/>
+oui et il met tout dans un vieux seau
+</Turn>
+<Turn speaker="spk2" startTime="295.181" endTime="295.8">
+<Sync time="295.181"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="295.8" endTime="297.54">
+<Sync time="295.8"/>
+il a il nettoie la caisse 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="297.54" endTime="299.132">
+<Sync time="297.54"/>
+<Who nb="1"/>
+et il ramasse les saletés et les crottes
+<Who nb="2"/>
+oh c'est 
+</Turn>
+<Turn speaker="spk2" startTime="299.132" endTime="299.879">
+<Sync time="299.132"/>
+quoi ça ?
+</Turn>
+<Turn speaker="spk1" startTime="299.879" endTime="300.471">
+<Sync time="299.879"/>
+ah chut tut tut tut 
+<Comment desc="L'attention de Vincent est détournée par un objet sur le bureau"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="300.471" endTime="302.236">
+<Sync time="300.471"/>
+le noir là
+</Turn>
+<Turn speaker="spk1" startTime="302.236" endTime="306.882">
+<Sync time="302.236"/>
+non non non non c'est là que ça 
+<Event desc="ksa" type="pronounce" extent="previous"/>
+ se passe 
+<Event desc="spas" type="pronounce" extent="previous"/>
+ 
+<Comment desc="L'adulte désigne le livre"/>
+ +
+</Turn>
+<Turn speaker="spk2" startTime="306.882" endTime="314.231">
+<Sync time="306.882"/>
+ ben + le 
+<Comment desc="sic"/>
+ robe rouge 
+<Comment desc="L'enfant désigne un personnage"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="314.231" endTime="322.482">
+<Sync time="314.231"/>
+oui il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ Dorothée et Augustin qui sont arrivés dans la cour 
+<Sync time="318.391"/>
+et qu'est-ce qu'ils font ? 
+<Sync time="319.235"/>
+qu'est-ce qu'ils donnent Augustin et Dorothée ?
+</Turn>
+<Turn speaker="spk2" startTime="322.482" endTime="327.179">
+<Sync time="322.482"/>
+ils donnent des épluchures de carottes 
+</Turn>
+<Turn speaker="spk1" startTime="327.179" endTime="334.58">
+<Sync time="327.179"/>
+c'est bien Augustin et Dorothée donnent des épluchures de carottes à Monsieur et Madame Tortue
+</Turn>
+<Turn speaker="spk2" startTime="334.58" endTime="336.277">
+<Sync time="334.58"/>
+il dit en revoir
+</Turn>
+<Turn speaker="spk1" startTime="336.277" endTime="336.666">
+<Sync time="336.277"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="336.666" endTime="340.227">
+<Sync time="336.666"/>
+à à Madame Tortue et à à le Monsieur Tortue 
+<Event desc="conv" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="340.227" endTime="343.816">
+<Sync time="340.227"/>
+c'est bien et ils disent 
+</Turn>
+<Turn speaker="spk2" startTime="343.816" endTime="344.996">
+<Sync time="343.816"/>
+au revoir
+</Turn>
+<Turn speaker="spk1" startTime="344.996" endTime="352.889">
+<Sync time="344.996"/>
+à demain Monsieur Tortue à demain Madame Tortue nous aussi on va goûter 
+</Turn>
+<Turn speaker="spk2" startTime="352.889" endTime="354.766">
+<Sync time="352.889"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="354.766" endTime="357.581">
+<Sync time="354.766"/>
+ c'est bien tu veux recommencer un petit peu ? 
+</Turn>
+<Turn speaker="spk2" startTime="357.581" endTime="358.492">
+<Sync time="357.581"/>
+*** $$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

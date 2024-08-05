@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="delie0092" audio_filename="reunionelus_del_10.wav" version="16" version_date="140422">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk4" name="L4" check="no" dialect="native" accent="" scope="local" type="female" />
+    <Speaker id="spk5" name="L5" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk6" name="L6" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk7" name="L7" check="no" type="male" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="499.472">
+      <Turn startTime="0.0" endTime="1.157" speaker="spk1" mode="spontaneous" fidelity="medium" channel="studio">
+        <Sync time="0.0" />
+        alors réunion d'élus
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" channel="studio" startTime="1.157" endTime="2.375">
+        <Sync time="1.157" />
+        <Event desc="tx" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="2.375" endTime="25.453">
+        <Sync time="2.375" />
+        du vingt-deux novembre deux mille dix
+        <Sync time="5.719" />
+        à l'ordre du jour deux P.V.
+        <Comment desc="sigle= procès verbal" />
+        à approuver
+        <Sync time="9.187" />
+        deux P.V. qui ne sont toujours pas rédigés un du vingt-huit septembre et la dernière du mois de novembre décentralisée
+        <Sync time="15.873" />
+        euh j'ai commencé celui euh de septembre
+        <Sync time="19.541" />
+        si vous avez pris des notes je veux bien les prendre parce que moi je n'ai rien pris du tout
+        <Event desc="pap" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="25.453" endTime="28.233" mode="spontaneous">
+        <Sync time="25.453" />
+        moi je crois que j'en ai un petit peu
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="28.233" endTime="32.382">
+        <Sync time="28.233" />
+        <Event desc="pap" type="noise" extent="instantaneous" />
+        moi j'en ai pris
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Sync time="29.445" />
+        mais tu arriveras pas à me relire
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="32.382" endTime="33.863">
+        <Sync time="32.382" />
+        on euh refera ensemble
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="33.863" endTime="35.563">
+        <Sync time="33.863" />
+        ouais d'accord O.K. pas de souci
+        <Event desc="pap" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="35.563" endTime="37.234">
+        <Sync time="35.563" />
+        j'emprunterai une heure de ton temps s'il le &lt; faut
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="37.234" endTime="39.444">
+        <Sync time="37.234" />
+        bien &gt; sûr pas de souci aucun souci
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" fidelity="medium" startTime="39.444" endTime="40.786">
+        <Sync time="39.444" />
+        la plégnière du vingt huit septembre ah oui
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" fidelity="medium" startTime="40.786" endTime="41.193">
+        <Sync time="40.786" />
+        ouais
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" fidelity="medium" startTime="41.193" endTime="41.556">
+        <Sync time="41.193" />
+        c'est light
+        <Event desc="en" type="language" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="41.556" endTime="62.426">
+        <Sync time="41.556" />
+        je suis O.K. sur l'approbation des P.V.
+        <Sync time="43.516" />
+        la vie sur la présentation de l'installation de la vidéo surveillance de l'évolution du réseau retraite ///
+        <Sync time="49.039" />
+        la vie sur le plan formation c'est O.K.
+        <Sync time="51.103" />
+        il me manque les infos du directeur il me manque les questions diverses concernant la convention de mutuelle des assurances des locaux C.P.A.M.
+        <Comment desc="sigle= caisse primaire d'assurance maladie" />
+        Vosges et /CARSACE,***/ ainsi que la prime de résultats
+        <Sync time="61.082" />
+        donc si vous avez tout ça
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" startTime="62.426" endTime="65.097">
+        <Sync time="62.426" />
+        alors j'ai sur l'information du dérect- euh directeur
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="65.097" endTime="65.566">
+        <Sync time="65.097" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" startTime="65.566" endTime="68.112">
+        <Sync time="65.566" />
+        il avait été parlé d'une prime pour le tutorat
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" fidelity="medium" startTime="68.112" endTime="69.603">
+        <Sync time="68.112" />
+        oui j'ai noté aussi
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" fidelity="medium" startTime="69.603" endTime="71.017">
+        <Sync time="69.603" />
+        exact que ça m'avait fait &lt; bondir
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" startTime="71.017" endTime="71.852">
+        <Sync time="71.017" />
+        justement &gt;
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" fidelity="medium" startTime="71.852" endTime="72.349">
+        <Sync time="71.852" />
+        parce que je me suis dis
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" fidelity="medium" startTime="72.349" endTime="73.014">
+        <Sync time="72.349" />
+        oui oui
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" fidelity="medium" startTime="73.014" endTime="76.243">
+        <Sync time="73.014" />
+        elle va me passer sous le nez parce que moi j'ai fais le tutorat il y a deux ans et maintenant
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" startTime="76.243" endTime="76.86">
+        <Sync time="76.243" />
+        voilà
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" fidelity="medium" startTime="76.86" endTime="77.516">
+        <Sync time="76.86" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="77.516" endTime="82.393">
+        <Sync time="77.516" />
+        voili voilou +
+        <Sync time="79.74" />
+        donc prime du tutorat faudra qu'on rédige une bricole là-dessus
+      </Turn>
+      <Turn speaker="spk3" startTime="82.393" endTime="85.806">
+        <Sync time="82.393" />
+        tu veux que je rajoute en même temps aussi
+        <Event desc="conv" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="85.806" endTime="91.243">
+        <Sync time="85.806" />
+        on avait parlé du B.S.I. également
+        <Sync time="87.626" />
+        hein comme quoi il y avait une euh baisse euh sur euh la la tendance du
+      </Turn>
+      <Turn speaker="spk2" startTime="91.243" endTime="92.129">
+        <Sync time="91.243" />
+        trente cinq pour cent &lt; de réponses
+      </Turn>
+      <Turn speaker="spk1" startTime="92.129" endTime="92.422">
+        <Sync time="92.129" />
+        des réponses &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="92.422" endTime="96.782">
+        <Sync time="92.422" />
+        bonnes réponses euh ///
+      </Turn>
+      <Turn speaker="spk1" startTime="96.782" endTime="99.405">
+        <Sync time="96.782" />
+        sur la convention de mutualisation
+        <Event desc="pap" type="noise" extent="previous" />
+        des locaux C.P.A.M. j'ai rien du tout
+      </Turn>
+      <Turn speaker="spk4" startTime="99.405" endTime="103.089">
+        <Sync time="99.405" />
+        et bah on a
+        <Event desc="bégaiement" type="noise" extent="previous" />
+        il nous a donné euh la convention
+      </Turn>
+      <Turn speaker="spk1" startTime="103.089" endTime="103.629">
+        <Sync time="103.089" />
+        ouais
+      </Turn>
+      <Turn speaker="spk4" startTime="103.629" endTime="105.131">
+        <Sync time="103.629" />
+        moi je l'ai euh là-bas mais pas &lt; là
+      </Turn>
+      <Turn speaker="spk1" startTime="105.131" endTime="109.671">
+        <Sync time="105.131" />
+        c'était &gt; pas exprimé un peu sur
+        <Event desc="conv" type="noise" extent="previous" />
+        le sujet
+        <Event desc="conv" type="noise" extent="instantaneous" />
+        <Event desc="pap" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="109.671" endTime="110.891">
+        <Sync time="109.671" />
+        moi je dois l'avoir aussi dans le
+      </Turn>
+      <Turn speaker="spk4" startTime="110.891" endTime="115.629">
+        <Sync time="110.891" />
+        convention non
+        <Event desc="conv" type="noise" extent="previous" />
+        <Sync time="111.732" />
+        c'est /P.A.M Carsate,***/ Epinal, c'est tout euh c'était le sixième point et et
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="115.629" endTime="117.072">
+        <Sync time="115.629" />
+        et sur la prime de résultat qu'est-ce qu'il avait dit
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="117.072" endTime="122.844">
+        <Sync time="117.072" />
+        sur la prime des résultats euh j'ai rien noté
+        <Event desc="pap" type="noise" extent="instantaneous" />
+        <Sync time="121.407" />
+        mais il en a pas parlé de la prime des &lt; résultats
+      </Turn>
+      <Turn speaker="spk5" mode="spontaneous" startTime="122.844" endTime="123.641">
+        <Sync time="122.844" />
+        si si &gt;
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="123.641" endTime="124.945">
+        <Sync time="123.641" />
+        moi j'ai rien du tout noté sur &lt; la prime
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="124.945" endTime="125.119">
+        <Sync time="124.945" />
+        non &gt;
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="125.119" endTime="125.464">
+        <Sync time="125.119" />
+        de résultats
+        <Event desc="conv" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="125.464" endTime="127.448">
+        <Sync time="125.464" />
+        &lt; prime de résultat j'ai j'aurai mis un point
+      </Turn>
+      <Turn speaker="spk6" mode="spontaneous" startTime="127.448" endTime="132.08">
+        <Sync time="127.448" />
+        elle était il me semble que elle est versée &gt; alors pour quelqu'un qui a travaillé euh toute l'année deux mille dix s'il part en deux mille onze il aura sa prime de résultats
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="132.08" endTime="132.674">
+        <Sync time="132.08" />
+        oui
+      </Turn>
+      <Turn speaker="spk6" mode="spontaneous" startTime="132.674" endTime="133.153">
+        <Sync time="132.674" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="133.153" endTime="134.769">
+        <Sync time="133.153" />
+        et c'est tout ce qu'il avait dit
+        <Event desc="conv" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="134.769" endTime="135.069">
+        <Sync time="134.769" />
+        &lt; oui il y a pas eu de
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="135.069" endTime="135.873">
+        <Sync time="135.069" />
+        il n'y avait pas de point &gt;
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="135.873" endTime="136.552">
+        <Sync time="135.873" />
+        d'explications
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="136.552" endTime="139.15">
+        <Sync time="136.552" />
+        moi par contre au point quatre je t'ai pas entendu tout à l'heure la formation
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="139.15" endTime="139.736">
+        <Sync time="139.15" />
+        bilan formation
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="139.736" endTime="140.987">
+        <Sync time="139.736" />
+        tu avais quelque chose sur la formation
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="140.987" endTime="141.465">
+        <Sync time="140.987" />
+        oui &lt; on avait un
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="141.465" endTime="142.186">
+        <Sync time="141.465" />
+        d'accord &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="142.186" endTime="144.809">
+        <Sync time="142.186" />
+        on avait juste un avis à donner hein euh
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="144.809" endTime="146.06">
+        <Sync time="144.809" />
+        ah parce qu'il avait il avait
+        <Event desc="conv" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="146.06" endTime="147.839">
+        <Sync time="146.06" />
+        bilan de l'année deux mille neuf et le partiel deux mille dix
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="147.839" endTime="151.992">
+        <Sync time="147.839" />
+        il avait ajouté cinq virgule six pour cent de formations de la masse salariale
+        <Event desc="bg" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk4" startTime="151.992" endTime="155.671">
+        <Sync time="151.992" />
+        puis il y avait les orientations c'était sur le pass
+        <Event desc="?" type="lexical" extent="previous" />
+        s'il y avait eu trente cinq stagiaires
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="155.671" endTime="159.484">
+        <Sync time="155.671" />
+        et le diff était donc prioritaire par rapport au plan de formation
+        <Sync time="158.424" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="159.484" endTime="163.996">
+        <Sync time="159.484" />
+        ouais &gt; qu'il fallait accompagner les vec- ça avait été fait sur l'accompagnement des managers et développer l'expertise technique
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="163.996" endTime="170.441">
+        <Sync time="163.996" />
+        moi j'ai simplement noté que le comité d'entreprise émettait un avis favorable sur le plan de formation sur le bilan de l'année deux mille neuf ainsi que sur le bilan partiel deux mille dix
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="170.441" endTime="170.893">
+        <Sync time="170.441" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="170.893" endTime="171.205">
+        <Sync time="170.893" />
+        c'est
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="171.205" endTime="171.935">
+        <Sync time="171.205" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="171.935" endTime="173.276">
+        <Sync time="171.935" />
+        sur l'évolution
+        <Event desc="conv" type="noise" extent="previous" />
+        &lt; sur l'évolution
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="173.276" endTime="178.01">
+        <Sync time="173.276" />
+        si tu parles du &gt;
+        <Sync time="174.573" />
+        cinq virgule six pour cent de la formation
+        <Event desc="b" type="noise" extent="previous" />
+        faut parler du un pour cent de l'obligation légale
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="178.01" endTime="178.385">
+        <Sync time="178.01" />
+        hum
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="178.385" endTime="180.502">
+        <Sync time="178.385" />
+        si tu le fais il faut que ce soit
+        <Sync time="179.417" />
+        &lt; comparé par rapport à ce qui est légal
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="180.502" endTime="183.442">
+        <Sync time="180.502" />
+        oui oui bah oui &gt; bah c'est pour ça que c'est cinq
+        <Sync time="181.001" />
+        on a euh cinq virgule six pour cent ils sont largement au-dessus
+        <Sync time="182.982" />
+        &lt; quoi
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="183.442" endTime="186.844">
+        <Sync time="183.442" />
+        voilà &gt; largement au dessus des un pour cent de ligne
+        <Event desc="bg" type="noise" extent="previous" />
+        <Sync time="185.306" />
+        ///
+        <Event desc="pap" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="186.844" endTime="191.215">
+        <Sync time="186.844" />
+        sur l'installation de la vidéo surveillance j'ai noté que ¤P1¤ ¤N1¤ nous a fait une présentation
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="191.215" endTime="192.261">
+        <Sync time="191.215" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="192.261" endTime="212.315">
+        <Sync time="192.261" />
+        elle nous a rappelé que la mise en place de que la mise en place de ce dispositif a pour but d'assurer une meilleure sécurité des agents d'accueil et de faire diminuer le risque d'agressions mais aussi d'assurer la protection de l'entrée du personnel qui n'est plus visible du poste de garde
+        <Sync time="205.886" />
+        la mise en service de l'installation se fera en décembre deux mille dix sous réserve des avis obligatoires des différentes instances
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="212.315" endTime="214.135">
+        <Sync time="212.315" />
+        oui bon elle
+        <Sync time="213.761" />
+        &lt; avait
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="214.135" endTime="231.667">
+        <Sync time="214.135" />
+        on avait &gt; prononcé notre avis
+        <Sync time="216.12" />
+        donc le comité d'entreprise émet un avis favorable sur l'installation d'un système de vidéo surveillance de contrôle d'accès au niveau de l'entrée du personnel et du hall d'accueil
+        <Sync time="222.849" />
+        néanmoins le C.E.
+        <Comment desc="sigle= comité d'entreprise" />
+        réitère une nouvelle fois sa demande de consultation préalable avant la mise en place de la vidéo surveillance et de toutes modifications apportées au projet
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="231.667" endTime="232.167">
+        <Sync time="231.667" />
+        c'est ça
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="232.167" endTime="232.551">
+        <Sync time="232.167" />
+        oui
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="232.551" endTime="233.207">
+        <Sync time="232.551" />
+        hum
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="233.207" endTime="241.309">
+        <Sync time="233.207" />
+        euh tu rajoutes ou pas moi j'avais noté que les images étaient enregistrées et euh c'était uniquement enregistré par détecteur de mouvements c'était pas tout le temps et qu'elles étaient conservées que quinze jours
+      </Turn>
+      <Turn speaker="spk5" mode="spontaneous" startTime="241.309" endTime="241.864">
+        <Sync time="241.309" />
+        &lt; quinze jours
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="241.864" endTime="242.207">
+        <Sync time="241.864" />
+        tout à fait &gt; voilà
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="242.207" endTime="244.706">
+        <Sync time="242.207" />
+        ca c'est impor- je sais qu'en banque c'était vachement très important
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="244.706" endTime="245.571">
+        <Sync time="244.706" />
+        en accord avec la C.N.I.L.
+        <Comment desc="sigle= commission nationale de l'informatique et des libertés" />
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="245.571" endTime="246.276">
+        <Sync time="245.571" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="246.276" endTime="247.097">
+        <Sync time="246.276" />
+        on va le noter là
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="247.097" endTime="251.064">
+        <Sync time="247.097" />
+        hein et qu'il y avait un système de badgeage qui était prévu euh
+        <Sync time="250.375" />
+        &lt; puis
+        <Event desc="pi" type="pronounce" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="251.064" endTime="251.719">
+        <Sync time="251.064" />
+        tu l'as rédigé &gt; comment ¤P2¤
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="251.719" endTime="255.46">
+        <Sync time="251.719" />
+        moi j'ai mis que les images étaient enregistrées sur détections de mouvements
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="255.46" endTime="255.898">
+        <Sync time="255.46" />
+        hum
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="255.898" endTime="258.73">
+        <Sync time="255.898" />
+        et les données
+        <Event desc="conv" type="noise" extent="previous" />
+        étaient gardées uniquement
+        <Sync time="258.118" />
+        &lt; quinze jours
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="258.73" endTime="259.449">
+        <Sync time="258.73" />
+        quinze jours &gt; voilà
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="259.449" endTime="260.991">
+        <Sync time="259.449" />
+        et en fait quinze jours ça fait pas beaucoup
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="260.991" endTime="264.356">
+        <Sync time="260.991" />
+        voilà et c'est en accord avec la C.N.I.L.
+        <Event desc="lu" type="pronounce" extent="instantaneous" />
+        parce que normalement
+        <Sync time="262.841" />
+        &lt; ça depasse c'est normalement c'est dix jours
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="264.356" endTime="266.208">
+        <Sync time="264.356" />
+        les images sont enregistrées &gt; euh par détection
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="266.208" endTime="266.896">
+        <Sync time="266.208" />
+        oui par &lt; détection
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="266.896" endTime="267.166">
+        <Sync time="266.896" />
+        de mouvements &gt;
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="267.166" endTime="270.515">
+        <Sync time="267.166" />
+        de mouvements ça veut dire c'est pas tout le temps enregistré
+        <Event desc="conv" type="noise" extent="previous" />
+        pas toute la journée
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="270.515" endTime="272.528">
+        <Sync time="270.515" />
+        et conservé(es) durant quinze jours
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="272.528" endTime="273.184">
+        <Sync time="272.528" />
+        quinze jours
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="273.184" endTime="276.973">
+        <Sync time="273.184" />
+        mouvement + et conservé
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="276.973" endTime="277.6">
+        <Sync time="276.973" />
+        durant quinze jours
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="277.6" endTime="279.494">
+        <Sync time="277.6" />
+        durant quinze jours en accord avec
+        <Sync time="279.002" />
+        &lt; la C.N.I.L.
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="279.494" endTime="285.237">
+        <Sync time="279.494" />
+        la C.N.I.L. &gt; voilà ouais parce que le le délai normalement légal c'est huit jours donc ils ont demandé un
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="285.237" endTime="287.295">
+        <Sync time="285.237" />
+        quinze jours en accord avec la C.N.I.L.
+        <Event desc="lu" type="pronounce" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="287.295" endTime="288.768">
+        <Sync time="287.295" />
+        &lt; tout à fait
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="288.768" endTime="294.049">
+        <Sync time="288.768" />
+        ouais ouais &gt; et là avait été rajouté les sytèmes de badgeages qui étaient prévus et puis
+        <Event desc="pi" type="pronounce" extent="instantaneous" />
+        le sens de la circulation a changé pour euh
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="294.049" endTime="294.908">
+        <Sync time="294.049" />
+        ouais
+        <Sync time="294.389" />
+        &lt; parking
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="294.908" endTime="297.829">
+        <Sync time="294.908" />
+        le fait que &gt; voilà donc important ou pas j'en euh &lt;
+        <Event desc="pap" type="noise" extent="previous" />
+        c'est à toi de voir
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="297.829" endTime="298.451">
+        <Sync time="297.829" />
+        non &gt; non
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="298.451" endTime="304.237">
+        <Sync time="298.451" />
+        et que ça avait déjà été présenté au C.H.S.T.T.
+        <Event desc="épelé" type="pronounce" extent="instantaneous" />
+        le l'avis pour la euh vidéo
+        <Sync time="303.393" />
+        &lt; surv-surveillance
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="304.237" endTime="305.45">
+        <Sync time="304.237" />
+        tout à fait voilà &gt; du vingt et un septembre
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="305.45" endTime="315.161">
+        <Sync time="305.45" />
+        et euh O.K. on se posait la question de se dire la protection de l'entrée du personnel oui c'est bien
+        <Sync time="310.436" />
+        euh le personnel de on s'intéresse du personnel du siège mais pas du personnel euh des agents
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="315.161" endTime="315.937">
+        <Sync time="315.161" />
+        hum
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="315.937" endTime="321.814">
+        <Sync time="315.937" />
+        hein sécurité du personnel O.K. mais
+        <Sync time="317.988" />
+        enfin c'est-à-dire que les agents d'accueil des agences euh vous n'avez pas besoin de sécurité quoi
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="321.814" endTime="322.283">
+        <Sync time="321.814" />
+        non
+      </Turn>
+      <Turn speaker="spk5" mode="spontaneous" startTime="322.283" endTime="324.492">
+        <Sync time="322.283" />
+        non
+        <Event desc="conv" type="noise" extent="instantaneous" />
+        on l'a déjà evoqué ce
+        <Sync time="323.895" />
+        &lt; ce
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="324.492" endTime="326.794">
+        <Sync time="324.492" />
+        voilà &gt; oui c'était c'était à ce moment-là où
+        <Sync time="326.122" />
+        &lt; moi je
+      </Turn>
+      <Turn speaker="spk5" mode="spontaneous" startTime="326.794" endTime="327.997">
+        <Sync time="326.794" />
+        ben même euh &gt; déjà plusieurs fois hein
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="327.997" endTime="328.893">
+        <Sync time="327.997" />
+        voilà c'est bon
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="328.893" endTime="334.03">
+        <Sync time="328.893" />
+        O.K.
+        <Event desc="pap" type="noise" extent="instantaneous" />
+        <Sync time="329.881" />
+        sur le cinq novembre j'ai encore rien rédigé
+        <Event desc="pap" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk4" mode="spontaneous" startTime="334.03" endTime="334.464">
+        <Sync time="334.03" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="334.464" endTime="336.151">
+        <Sync time="334.464" />
+        &lt; bon j'ai l'enregistrement donc ça ça ira
+      </Turn>
+      <Turn speaker="spk4" startTime="336.151" endTime="337.937">
+        <Sync time="336.151" />
+        ça je l'ai pas &gt; d'accord
+        <Event desc="conv" type="noise" extent="previous" />
+        <Sync time="337.341" />
+        <Event desc="pap" type="noise" extent="instantaneous" />
+        bon j'ai des notes aussi
+      </Turn>
+      <Turn speaker="spk1" startTime="337.937" endTime="339.49">
+        <Sync time="337.937" />
+        je me débrouillerai
+        <Event desc="conv" type="noise" extent="instantaneous" />
+        bah si vous avez pris des notes &lt; on pourra revoir euh
+      </Turn>
+      <Turn speaker="spk3" startTime="339.49" endTime="340.478">
+        <Sync time="339.49" />
+        bah c'était c'était &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="340.478" endTime="342.26">
+        <Sync time="340.478" />
+        j'ai des notes si
+        <Sync time="340.946" />
+        &lt; si tu en as besoin
+      </Turn>
+      <Turn speaker="spk1" startTime="342.26" endTime="342.388">
+        <Sync time="342.26" />
+        ensuite &gt;
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="342.388" endTime="343.138">
+        <Sync time="342.388" />
+        c'était un peu light
+        <Event desc="en" type="language" extent="previous" />
+        hein
+      </Turn>
+      <Turn speaker="spk1" startTime="343.138" endTime="344.452">
+        <Sync time="343.138" />
+        ouais
+        <Sync time="343.598" />
+        <Event desc="pap" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="344.452" endTime="345.452">
+        <Sync time="344.452" />
+        il y avait qu'une question non
+      </Turn>
+      <Turn speaker="spk3" startTime="345.452" endTime="348.394">
+        <Sync time="345.452" />
+        voilà moi j'ai les infos du directeur surtout
+        <Sync time="347.356" />
+        &lt; ça
+        <Sync time="347.703" />
+        c'est ça
+      </Turn>
+      <Turn speaker="spk4" startTime="348.394" endTime="350.426">
+        <Sync time="348.394" />
+        ouais P.V. &gt; infos du directeur et après euh
+      </Turn>
+      <Turn speaker="spk3" startTime="350.426" endTime="351.564">
+        <Sync time="350.426" />
+        l'évolution du réseau un peu
+      </Turn>
+      <Turn speaker="spk4" startTime="351.564" endTime="353.744">
+        <Sync time="351.564" />
+        oui ///
+      </Turn>
+      <Turn speaker="spk1" startTime="353.744" endTime="359.193">
+        <Sync time="353.744" />
+        pour le vingt-cinq novembre
+        <Sync time="355.307" />
+        seront inscrits à l'ordre du jour le congé sabbatique le congé sans solde
+        <Event desc="pap" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="359.193" endTime="361.164">
+        <Sync time="359.193" />
+        on a eu le document
+        <Event desc="conv" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="361.164" endTime="362.232">
+        <Sync time="361.164" />
+        on a demandé une suite euh &lt; de l'agence
+      </Turn>
+      <Turn speaker="spk5" startTime="362.232" endTime="362.857">
+        <Sync time="362.232" />
+        tu l'as &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="362.857" endTime="363.759">
+        <Sync time="362.857" />
+        d'¤T1¤
+      </Turn>
+      <Turn speaker="spk5" startTime="363.759" endTime="364.146">
+        <Sync time="363.759" />
+        &lt; ils l'ont
+      </Turn>
+      <Turn speaker="spk2" startTime="364.146" endTime="365.134">
+        <Sync time="364.146" />
+        oui ils &gt; l'ont envoyé euh
+      </Turn>
+      <Turn speaker="spk4" startTime="365.134" endTime="366.991">
+        <Sync time="365.134" />
+        moi je l'ai pas j'étais pas à l'agence hier avant hier
+      </Turn>
+      <Turn speaker="spk6" startTime="366.991" endTime="367.217">
+        <Sync time="366.991" />
+        ça marchait pas
+      </Turn>
+      <Turn speaker="spk1" startTime="367.217" endTime="367.913">
+        <Sync time="367.217" />
+        tu l'as sur lotus
+      </Turn>
+      <Turn speaker="spk4" startTime="367.913" endTime="368.54">
+        <Sync time="367.913" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk6" startTime="368.54" endTime="371.237">
+        <Sync time="368.54" />
+        le lotus était fermé donc
+        <Sync time="370.011" />
+        &lt; tu as peut-être pas vu de
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk4" startTime="371.237" endTime="372.331">
+        <Sync time="371.237" />
+        ah oui oui donc &gt; j'ai pas encore
+      </Turn>
+      <Turn speaker="spk5" startTime="372.331" endTime="373.987">
+        <Sync time="372.331" />
+        congé sabbatique et congé sans solde
+      </Turn>
+      <Turn speaker="spk3" startTime="373.987" endTime="374.047">
+        <Sync time="373.987" />
+        &lt; hum
+      </Turn>
+      <Turn speaker="spk1" startTime="374.047" endTime="374.387">
+        <Sync time="374.047" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk6" startTime="374.387" endTime="376.219">
+        <Sync time="374.387" />
+        <Event desc="conv" type="noise" extent="instantaneous" />
+        il y en a cinq ou six je pense
+      </Turn>
+      <Turn speaker="spk1" startTime="376.219" endTime="378.773">
+        <Sync time="376.219" />
+        c'est une présentation euh obligatoire
+        <Event desc="mic" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk4" startTime="378.773" endTime="379.738">
+        <Sync time="378.773" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="379.738" endTime="390.9">
+        <Sync time="379.738" />
+        de le présenter deux fois dans l'année
+        <Sync time="382.127" />
+        la suite de l'agence d'¤T1¤ + on a demandé également + des nouvelles concernant le trente neuf soixante le numéro d'appel &lt; téléphonique
+      </Turn>
+      <Turn speaker="spk4" startTime="390.9" endTime="391.256">
+        <Sync time="390.9" />
+        en anglais &gt;
+      </Turn>
+      <Turn speaker="spk5" startTime="391.256" endTime="392.09">
+        <Sync time="391.256" />
+        on en avait déjà parlé
+      </Turn>
+      <Turn speaker="spk4" startTime="392.09" endTime="395.687">
+        <Sync time="392.09" />
+        on en a déjà parlé pourquoi il y a un souci là ça à l'air de vous non
+      </Turn>
+      <Turn speaker="spk1" startTime="395.687" endTime="397.071">
+        <Sync time="395.687" />
+        on demande des suivis réguliers
+      </Turn>
+      <Turn speaker="spk3" startTime="397.071" endTime="397.665">
+        <Sync time="397.071" />
+        hum
+      </Turn>
+      <Turn speaker="spk4" startTime="397.665" endTime="398.718">
+        <Sync time="397.665" />
+        ah bon
+      </Turn>
+      <Turn speaker="spk3" startTime="398.718" endTime="398.974">
+        <Sync time="398.718" />
+        c'est pas
+      </Turn>
+      <Turn speaker="spk1" startTime="398.974" endTime="403.584">
+        <Sync time="398.974" />
+        et puis un comment dirais-je euh la mise à jour du plan neige
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk4" startTime="403.584" endTime="405.428">
+        <Sync time="403.584" />
+        alors ça c'est pareil
+      </Turn>
+      <Turn speaker="spk3" startTime="405.428" endTime="406.141">
+        <Sync time="405.428" />
+        oui ça c'est d'actualité
+      </Turn>
+      <Turn speaker="spk4" startTime="406.141" endTime="412.001">
+        <Sync time="406.141" />
+        tu veux que je te dise moi ça me fait toujours sourire parce que ici on fait tout un plan neige machin
+        <Sync time="409.721" />
+        en agence on a nos trottoirs à nettoyer &lt; qui sont vachement
+      </Turn>
+      <Turn speaker="spk5" startTime="412.001" endTime="413.126">
+        <Sync time="412.001" />
+        c'est à nous &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="413.126" endTime="415.14">
+        <Sync time="413.126" />
+        plus longs que ici
+        <Event desc="conv" type="noise" extent="previous" />
+        euh vous avez
+      </Turn>
+      <Turn speaker="spk5" startTime="415.14" endTime="416.067">
+        <Sync time="415.14" />
+        bah oui on l'a
+      </Turn>
+      <Turn speaker="spk4" startTime="416.067" endTime="430.706">
+        <Sync time="416.067" />
+        bah moi il a fallu
+        <Event desc="conv" type="noise" extent="previous" />
+        que j'aille acheter la pelle acheter le sel maintenant maintenant ils livrent du sel mais je veux dire ça c'est ça fait pas partie des postes des managers des techniciens des machins des trucs
+        <Sync time="424.259" />
+        sauf que si jamais tu as un souci et en plus tu es dans une copropriété ou je sais pas quoi sauf que c'est toi qui es en vitrine et c'est toi qui es responsable
+      </Turn>
+      <Turn speaker="spk1" startTime="430.706" endTime="431.144">
+        <Sync time="430.706" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk5" startTime="431.144" endTime="431.767">
+        <Sync time="431.144" />
+        bah on nettoie aussi
+      </Turn>
+      <Turn speaker="spk4" startTime="431.767" endTime="432.214">
+        <Sync time="431.767" />
+        et ça euh
+      </Turn>
+      <Turn speaker="spk6" startTime="432.214" endTime="432.617">
+        <Sync time="432.214" />
+        ouais &lt; oui non mais je veux dire les sacs de je sais pas combien
+      </Turn>
+      <Turn speaker="spk4" startTime="432.617" endTime="434.667">
+        <Sync time="432.617" />
+        et puis tu as intêret à te lever tôt
+      </Turn>
+      <Turn speaker="spk5" startTime="434.667" endTime="435.063">
+        <Sync time="434.667" />
+        bah oui parce que parce que
+      </Turn>
+      <Turn speaker="spk6" startTime="435.063" endTime="436.007">
+        <Sync time="435.063" />
+        de kilos parce que moi ça c'est la règle de l'histoire &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="436.007" endTime="438.464">
+        <Sync time="436.007" />
+        ah bah attends
+        <Sync time="436.538" />
+        &lt; vingt-c- attends vingt-cinq kilos
+      </Turn>
+      <Turn speaker="spk6" startTime="438.464" endTime="439.62">
+        <Sync time="438.464" />
+        et puis ouais ben ça c'est le gros &gt; et je me suis dit maintenant comment je fais
+      </Turn>
+      <Turn speaker="spk4" startTime="439.62" endTime="440.855">
+        <Sync time="439.62" />
+        dans l'entrée il te fout le machin &lt; dans l'entrée
+      </Turn>
+      <Turn speaker="spk1" startTime="440.855" endTime="441.108">
+        <Sync time="440.855" />
+        tu jettes devant &gt;
+      </Turn>
+      <Turn speaker="spk6" startTime="441.108" endTime="442.326">
+        <Sync time="441.108" />
+        ouais non mais &lt; je suis allé chercher des gants euh
+      </Turn>
+      <Turn speaker="spk4" startTime="442.326" endTime="444.462">
+        <Sync time="442.326" />
+        non mais tu peux pas et puis des et tu sais mine de rien quand tu sales comme ça
+      </Turn>
+      <Turn speaker="spk5" startTime="444.462" endTime="447.056">
+        <Sync time="444.462" />
+        oh non nous on a coupé une bouteille d'eau en deux &gt;
+      </Turn>
+      <Turn speaker="spk6" startTime="447.056" endTime="447.582">
+        <Sync time="447.056" />
+        ouais ouais
+      </Turn>
+      <Turn speaker="spk4" startTime="447.582" endTime="448.919">
+        <Sync time="447.582" />
+        tu en as plein le nez de ce sel-là quand tu fais ça moi j'ai pris un truc de lessive hein
+      </Turn>
+      <Turn speaker="spk3" startTime="448.919" endTime="454.247">
+        <Sync time="448.919" />
+        oui je pense qu'il faut quand même prévoir de leur trouver un équipement quoi des gants
+        <Event desc="conv" type="noise" extent="instantaneous" />
+        <Sync time="452.419" />
+        des pelles adéquates quand même
+      </Turn>
+      <Turn speaker="spk5" startTime="454.247" endTime="456.52">
+        <Sync time="454.247" />
+        alors &gt; on a une pelle ça c'est sur elle est adéquate la pelle
+      </Turn>
+      <Turn speaker="spk3" startTime="456.52" endTime="458.63">
+        <Sync time="456.52" />
+        attends c'est quand même pas normal qu'elle doive aller acheter la pelle pour déneiger
+        <Event desc="conv" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk4" startTime="458.63" endTime="461.743">
+        <Sync time="458.63" />
+        ca y est c'est fait c'est remboursé
+        <Sync time="459.994" />
+        non non mais c'est bon maintenant je l'ai
+        <Sync time="461.2" />
+        &lt; elle est remboursée
+      </Turn>
+      <Turn speaker="spk3" startTime="461.743" endTime="464.428">
+        <Sync time="461.743" />
+        non mais c'est quand même pas à toi &gt; à aller
+        <Event desc="tx" type="noise" extent="previous" />
+        <Sync time="462.46" />
+        &lt; l'acheter quoi je veux dire des gants
+      </Turn>
+      <Turn speaker="spk4" startTime="464.428" endTime="471.711">
+        <Sync time="464.428" />
+        mais tu vois là où ça pose un souci &gt; c'est le truc de sel il est gros et quand tu prends le sel dedans et bah tu as plein d'inhalations et de machins et je t'assures que ça c'est euh
+      </Turn>
+      <Turn speaker="spk5" startTime="471.711" endTime="473.624">
+        <Sync time="471.711" />
+        moi j'ai coupé une bouteille en deux
+      </Turn>
+      <Turn speaker="spk1" startTime="473.624" endTime="476.225">
+        <Sync time="473.624" />
+        ah bah quand même
+        <Event desc="bruit de porte" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="476.225" endTime="478.694">
+        <Sync time="476.225" />
+        j'ai coupé une bouteille en deux
+        <Event desc="conv" type="noise" extent="previous" />
+        parce que c'est souvent moi qui le fait alors
+      </Turn>
+      <Turn speaker="spk4" startTime="478.694" endTime="481.078">
+        <Sync time="478.694" />
+        et bah moi j'ai pris un truc un truc de lessive
+      </Turn>
+      <Turn speaker="spk7" startTime="481.078" endTime="481.504">
+        <Sync time="481.078" />
+        elle a pas
+      </Turn>
+      <Turn speaker="spk2" startTime="481.504" endTime="483.234">
+        <Sync time="481.504" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="483.234" endTime="483.783">
+        <Sync time="483.234" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk4" startTime="483.783" endTime="484.471">
+        <Sync time="483.783" />
+        mise à jour &gt; plan neige
+      </Turn>
+      <Turn speaker="spk1" startTime="484.471" endTime="484.785">
+        <Sync time="484.471" />
+        juste avant la position
+      </Turn>
+      <Turn speaker="spk2" startTime="484.785" endTime="487.293">
+        <Sync time="484.785" />
+        fais gaffe qu'il soit bien dégagé mercredi j'ai fait le tour
+      </Turn>
+      <Turn speaker="spk1" startTime="487.293" endTime="490.803">
+        <Sync time="487.293" />
+        on aura euh
+        <Event desc="conv" type="noise" extent="previous" />
+        on aura également jeudi
+      </Turn>
+      <Turn speaker="spk4" startTime="490.803" endTime="499.472">
+        <Sync time="490.803" />
+        et je suis pas là là vous êtes culottés hein quand même hein non non mais vous êtes culottés
+        <Sync time="495.347" />
+        vous voulez les jours où je suis pas là et vous prévenez pas je trouve pas ça normal
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

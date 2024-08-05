@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Yann Rejony" audio_filename="india3_bru.wav" version="8" version_date="110421">
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="India" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="YR09/05/2007-YS16/02/2011-EC22/4/2011"/>
+</Topics>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="302.768" topic="to1">
+<Turn startTime="0" endTime="2.203" speaker="spk1">
+<Sync time="0"/>
+
+<Event desc="shh" type="noise" extent="begin"/>
+ qu'est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ tu attrapes ?
+</Turn>
+<Turn speaker="spk2" startTime="2.203" endTime="4.204">
+<Sync time="2.203"/>
+euh un livre
+</Turn>
+<Turn speaker="spk1" startTime="4.204" endTime="6.781">
+<Sync time="4.204"/>
+un autre 
+<Event desc="not" type="pronounce" extent="previous"/>
+ livre ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ tu veux que je t'aide 
+<Event desc="StEd" type="pronounce" extent="previous"/>
+ ?
+</Turn>
+<Turn speaker="spk2" startTime="6.781" endTime="10.438">
+<Sync time="6.781"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ hum hum regarde c'est /mes, les/ poupées
+</Turn>
+<Turn speaker="spk1" startTime="10.438" endTime="12.813">
+<Sync time="10.438"/>
+ah oui c'est une poupée et ça c'est un banc ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="12.813" endTime="13.063">
+<Sync time="12.813"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+pour
+</Turn>
+<Turn speaker="spk1" startTime="13.063" endTime="14.079">
+<Sync time="13.063"/>
+qu'elle s'asseoit dessus
+</Turn>
+<Turn speaker="spk2" startTime="14.079" endTime="15.032">
+<Sync time="14.079"/>
+c'est fragile
+</Turn>
+<Turn speaker="spk1" startTime="15.032" endTime="16.673">
+<Sync time="15.032"/>
+ah oui ça se voit 
+<Event desc="zvwa" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="16.673" endTime="18.282">
+<Sync time="16.673"/>
+ça se voit que c'est frag-
+</Turn>
+<Turn speaker="spk1" startTime="18.282" endTime="22.312">
+<Sync time="18.282"/>
+ouais *** hop là 
+</Turn>
+<Turn speaker="spk2" startTime="22.312" endTime="24.047">
+<Sync time="22.312"/>
+oh c'est la même
+</Turn>
+<Turn speaker="spk1" startTime="24.047" endTime="24.485">
+<Sync time="24.047"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="24.485" endTime="25.391">
+<Sync time="24.485"/>
+c'est à moi
+</Turn>
+<Turn speaker="spk1" startTime="25.391" endTime="26.595">
+<Sync time="25.391"/>
+c'est à toi ?
+</Turn>
+<Turn speaker="spk2" startTime="26.595" endTime="28.032">
+<Sync time="26.595"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="28.032" endTime="28.548">
+<Sync time="28.032"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="28.548" endTime="32.531">
+<Sync time="28.548"/>
+j'attrape un livre 
+<Event desc="liv" type="pronounce" extent="previous"/>
+ moi
+<Sync time="30.751"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut que 
+<Event desc="ko" type="pronounce" extent="previous"/>
+ tu m'aides
+</Turn>
+<Turn speaker="spk1" startTime="32.531" endTime="34.297">
+<Sync time="32.531"/>
+d'accord j'arrive
+</Turn>
+<Turn speaker="spk2" startTime="34.297" endTime="36.594">
+<Sync time="34.297"/>
+ah celui-là
+</Turn>
+<Turn speaker="spk1" startTime="36.594" endTime="37.484">
+<Sync time="36.594"/>
+le rose ?
+</Turn>
+<Turn speaker="spk2" startTime="37.484" endTime="42.609">
+<Sync time="37.484"/>
+oui tu le connais c'est "Le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ chaperon rouge"
+</Turn>
+<Turn speaker="spk1" startTime="42.609" endTime="45.718">
+<Sync time="42.609"/>
+ah "Le petit chaperon rouge" ben non je connais pas
+<Sync time="44.828"/>
+tu vas me le 
+<Event desc="ml2" type="pronounce" extent="previous"/>
+ raconter
+</Turn>
+<Turn speaker="spk2" startTime="45.718" endTime="49.359">
+<Sync time="45.718"/>
+c'est le loup qui vient le chercher pour la manger
+</Turn>
+<Turn speaker="spk1" startTime="49.359" endTime="50.327">
+<Sync time="49.359"/>
+ah bon ?
+</Turn>
+<Turn speaker="spk2" startTime="50.327" endTime="52.077">
+<Sync time="50.327"/>
+parce que 
+<Event desc="pak@" type="pronounce" extent="previous"/>
+ elle 
+<Event desc="E" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="52.077" endTime="53.514">
+<Sync time="52.077"/>
+<Who nb="1"/>
+ben il est méchant hein ?
+<Who nb="2"/>
+lui
+</Turn>
+<Turn speaker="spk2" startTime="53.514" endTime="59.265">
+<Sync time="53.514"/>
+lui il adore manger des *** 
+<Event desc="Zi" type="pronounce" extent="previous"/>
+
+<Sync time="56.402"/>
+des des chaperons 
+<Event desc="Zapo~" type="pronounce" extent="previous"/>
+ rouges
+</Turn>
+<Turn speaker="spk1" startTime="59.265" endTime="61.311">
+<Sync time="59.265"/>
+il aime bien manger des petits chaperons rouges ?
+</Turn>
+<Turn speaker="spk2" startTime="61.311" endTime="61.843">
+<Sync time="61.311"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="61.843" endTime="63.172">
+<Sync time="61.843"/>
+ben il est méchant
+</Turn>
+<Turn speaker="spk2" startTime="63.172" endTime="67.61">
+<Sync time="63.172"/>
+oui regarde c'est c'est il est pas gentil
+</Turn>
+<Turn speaker="spk1" startTime="67.61" endTime="71.719">
+<Sync time="67.61"/>
+non il n'est pas gentil
+<Sync time="69.032"/>
+alors comment il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait pour la manger le petit chaperon rouge ?
+</Turn>
+<Turn speaker="spk2" startTime="71.719" endTime="79.141">
+<Sync time="71.719"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ le prend et après
+<Sync time="75.647"/>
+hop aïe il le met entière 
+<Comment desc="sic"/>
+ dans sa bouche
+</Turn>
+<Turn speaker="spk1 spk2" startTime="79.141" endTime="79.484">
+<Sync time="79.141"/>
+<Who nb="1"/>
+qui ?
+<Who nb="2"/>
+toc toc 
+</Turn>
+<Turn speaker="spk2" startTime="79.484" endTime="81.203">
+<Sync time="79.484"/>
+toc qui est là ?
+</Turn>
+<Turn speaker="spk1" startTime="81.203" endTime="83.289">
+<Sync time="81.203"/>
+toc toc toc qui est là ?
+</Turn>
+<Turn speaker="spk2" startTime="83.289" endTime="84.391">
+<Sync time="83.289"/>
+il a dit ça
+</Turn>
+<Turn speaker="spk1" startTime="84.391" endTime="87.546">
+<Sync time="84.391"/>
+et qui c- qui c'est qui répond ?
+</Turn>
+<Turn speaker="spk2" startTime="87.546" endTime="89.202">
+<Sync time="87.546"/>
+hein ?
+</Turn>
+<Turn speaker="spk1" startTime="89.202" endTime="94.219">
+<Sync time="89.202"/>
+quand il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit toc toc toc qui est là 
+<Sync time="90.637"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ la grand-mère qui dit c'est moi
+</Turn>
+<Turn speaker="spk2" startTime="94.219" endTime="99.764">
+<Sync time="94.219"/>
+ouais il est dedans sa chambre 
+<Event desc="sa~b" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="99.764" endTime="100.733">
+<Sync time="99.764"/>
+<Who nb="1"/>
+wouah
+<Who nb="2"/>
+il est beau son lit
+</Turn>
+<Turn speaker="spk1" startTime="100.733" endTime="104.625">
+<Sync time="100.733"/>
+ouais
+ et là qu'est-ce qu'il 
+<Event desc="skil" type="pronounce" extent="previous"/>
+ est en train de faire 
+<Event desc="dfER" type="pronounce" extent="previous"/>
+ ?
+</Turn>
+<Turn speaker="spk2" startTime="104.625" endTime="107.297">
+<Sync time="104.625"/>
+
+<Event desc="e" type="pronounce" extent="instantaneous"/>
+ va manger le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ chaperon rouge
+</Turn>
+<Turn speaker="spk1" startTime="107.297" endTime="111.864">
+<Sync time="107.297"/>
+/ah, ben/ oui hein et le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ chaperon rouge
+<Sync time="109.582"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'enfuit parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ qu'il a peur
+</Turn>
+<Turn speaker="spk2" startTime="111.864" endTime="114.942">
+<Sync time="111.864"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="114.942" endTime="120.429">
+<Sync time="114.942"/>
+ça va regarde finalement alors qu'est-ce qui 
+<Event desc="ski" type="pronounce" extent="previous"/>
+ s'est passé ?
+</Turn>
+<Turn speaker="spk2" startTime="120.429" endTime="121.984">
+<Sync time="120.429"/>
+il est mort maintenant 
+<Event desc="me~tna~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="121.984" endTime="124.641">
+<Sync time="121.984"/>
+ben oui le loup il est mort et tu sais pourquoi ?
+</Turn>
+<Turn speaker="spk2" startTime="124.641" endTime="127.454">
+<Sync time="124.641"/>
+*** 
+<Comment desc="interprétation = parce que le loup ?"/>
+ est mort
+</Turn>
+<Turn speaker="spk1" startTime="127.454" endTime="135.251">
+<Sync time="127.454"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ le bûcheron
+<Sync time="130.126"/>
+qui est venu le tuer le bûcheron c'est lui
+</Turn>
+<Turn speaker="spk2" startTime="135.251" endTime="135.792">
+<Sync time="135.251"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="135.792" endTime="143.088">
+<Sync time="135.792"/>
+et il a sauvé le petit chaperon rouge et sa grand-mère + et voilà
+</Turn>
+<Turn speaker="spk2" startTime="143.088" endTime="144.104">
+<Sync time="143.088"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="144.104" endTime="144.495">
+<Sync time="144.104"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="144.495" endTime="147.72">
+<Sync time="144.495"/>
+tu veux me raconter un autre 
+<Event desc="not" type="pronounce" extent="previous"/>
+ livre ?
+</Turn>
+<Turn speaker="spk1" startTime="147.72" endTime="148.235">
+<Sync time="147.72"/>
+euh ben
+</Turn>
+<Turn speaker="spk2" startTime="148.235" endTime="149.642">
+<Sync time="148.235"/>
+*** est nouveau
+</Turn>
+<Turn speaker="spk1" startTime="149.642" endTime="150.877">
+<Sync time="149.642"/>
+comme tu veux
+</Turn>
+<Turn speaker="spk2" startTime="150.877" endTime="154.533">
+<Sync time="150.877"/>
+celui-là il est nouveau c'était chez Martine
+</Turn>
+<Turn speaker="spk1" startTime="154.533" endTime="156.346">
+<Sync time="154.533"/>
+chez Martine ? qui c'est Martine ?
+</Turn>
+<Turn speaker="spk2" startTime="156.346" endTime="159.518">
+<Sync time="156.346"/>
+c'était quand j'étais bé- petit 
+<Comment desc="sic"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="159.518" endTime="161.159">
+<Sync time="159.518"/>
+ah quand tu étais 
+<Event desc="tEtE" type="pronounce" extent="previous"/>
+ petite ?
+</Turn>
+<Turn speaker="spk2" startTime="161.159" endTime="162.44">
+<Sync time="161.159"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="162.44" endTime="163.784">
+<Sync time="162.44"/>
+c'est ta maîtresse ?
+</Turn>
+<Turn speaker="spk2" startTime="163.784" endTime="166.598">
+<Sync time="163.784"/>
+non c'était pas ma maîtresse mais
+</Turn>
+<Turn speaker="spk1" startTime="166.598" endTime="166.786">
+<Sync time="166.598"/>
+ah
+</Turn>
+<Turn speaker="spk2" startTime="166.786" endTime="168.254">
+<Sync time="166.786"/>
+Inès elle était là
+</Turn>
+<Turn speaker="spk1" startTime="168.254" endTime="171.082">
+<Sync time="168.254"/>
+ah d'accord
+</Turn>
+<Turn speaker="spk2" startTime="171.082" endTime="178.082">
+<Sync time="171.082"/>
+et après elle m'a donné ça
+<Sync time="172.957"/>
+et ma maman elle a acheté un sac à dos pour moi
+</Turn>
+<Turn speaker="spk1" startTime="178.082" endTime="179.738">
+<Sync time="178.082"/>
+oh ben c'est gentil
+</Turn>
+<Turn speaker="spk2" startTime="179.738" endTime="183.567">
+<Sync time="179.738"/>
+ah oui c'est gentil ah c'est /elle, ça, */
+</Turn>
+<Turn speaker="spk1" startTime="183.567" endTime="183.942">
+<Sync time="183.567"/>
+ouais
+</Turn>
+<Turn speaker="spk2 spk1" startTime="183.942" endTime="184.692">
+<Sync time="183.942"/>
+<Who nb="1"/>
+et B
+<Who nb="2"/>
+c'est la lettre
+</Turn>
+<Turn speaker="spk1" startTime="184.692" endTime="186.674">
+<Sync time="184.692"/>
+A et ça c'est la lettre B
+</Turn>
+<Turn speaker="spk2" startTime="186.674" endTime="187.377">
+<Sync time="186.674"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="187.377" endTime="191.829">
+<Sync time="187.377"/>
+alors A comme ça c'est quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="191.829" endTime="194.11">
+<Sync time="191.829"/>
+comme
+</Turn>
+<Turn speaker="spk1" startTime="194.11" endTime="195.016">
+<Sync time="194.11"/>
+comme un âne
+</Turn>
+<Turn speaker="spk2" startTime="195.016" endTime="199.657">
+<Sync time="195.016"/>
+comme un âne et ça A et B
+</Turn>
+<Turn speaker="spk1" startTime="199.657" endTime="200.063">
+<Sync time="199.657"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="200.063" endTime="201.751">
+<Sync time="200.063"/>
+comme un
+</Turn>
+<Turn speaker="spk1" startTime="201.751" endTime="203.61">
+<Sync time="201.751"/>
+ça c'est une autruche
+</Turn>
+<Turn speaker="spk2" startTime="203.61" endTime="207.642">
+<Sync time="203.61"/>
+c'est une autruche N
+</Turn>
+<Turn speaker="spk1" startTime="207.642" endTime="208.579">
+<Sync time="207.642"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="208.579" endTime="209.36">
+<Sync time="208.579"/>
+D
+</Turn>
+<Turn speaker="spk1" startTime="209.36" endTime="219.41">
+<Sync time="209.36"/>
+alors là non il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut suivre
+<Sync time="211.869"/>
+alors regarde Carole s'amuse sur son camion au milieu des animaux
+<Sync time="217.379"/>
+alors ça c'est quoi comme animal ?
+</Turn>
+<Turn speaker="spk2" startTime="219.41" endTime="220.675">
+<Sync time="219.41"/>
+un crocodile
+</Turn>
+<Turn speaker="spk1" startTime="220.675" endTime="222.3">
+<Sync time="220.675"/>
+ouais et ça ?
+</Turn>
+<Turn speaker="spk2" startTime="222.3" endTime="223.3">
+<Sync time="222.3"/>
+un canard
+</Turn>
+<Turn speaker="spk1" startTime="223.3" endTime="225.003">
+<Sync time="223.3"/>
+ouais ça aussi c'est un canard
+</Turn>
+<Turn speaker="spk2" startTime="225.003" endTime="226.691">
+<Sync time="225.003"/>
+ça aussi
+</Turn>
+<Turn speaker="spk1 spk2" startTime="226.691" endTime="227.785">
+<Sync time="226.691"/>
+<Who nb="1"/>
+et ça ?
+<Who nb="2"/>
+ça
+</Turn>
+<Turn speaker="spk2" startTime="227.785" endTime="229.219">
+<Sync time="227.785"/>
+ça c'est quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="229.219" endTime="231.211">
+<Sync time="229.219"/>
+ça c'est un petit canard
+</Turn>
+<Turn speaker="spk2" startTime="231.211" endTime="231.633">
+<Sync time="231.211"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="231.633" endTime="231.805">
+<Sync time="231.633"/>
+un
+</Turn>
+<Turn speaker="spk1 spk2" startTime="231.805" endTime="232.133">
+<Sync time="231.805"/>
+<Who nb="1"/>
+bébé
+<Who nb="2"/>
+chat
+</Turn>
+<Turn speaker="spk1" startTime="232.133" endTime="232.602">
+<Sync time="232.133"/>
+canard
+</Turn>
+<Turn speaker="spk2" startTime="232.602" endTime="234.228">
+<Sync time="232.602"/>
+c'est un chat
+</Turn>
+<Turn speaker="spk1" startTime="234.228" endTime="234.494">
+<Sync time="234.228"/>
+ouais
+</Turn>
+<Turn speaker="spk2 spk1" startTime="234.494" endTime="234.854">
+<Sync time="234.494"/>
+<Who nb="1"/>
+chat
+<Who nb="2"/>
+c'est un chat
+</Turn>
+<Turn speaker="spk1" startTime="234.854" endTime="235.53">
+<Sync time="234.854"/>
+chat
+</Turn>
+<Turn speaker="spk2" startTime="235.53" endTime="240.271">
+<Sync time="235.53"/>
+ça c'est un c'est une coccin-
+<Sync time="237.992"/>
+ça c'est un chien et ça c'est une coccinelle
+</Turn>
+<Turn speaker="spk1" startTime="240.271" endTime="240.474">
+<Sync time="240.271"/>
+ah
+</Turn>
+<Turn speaker="spk1 spk2" startTime="240.474" endTime="240.895">
+<Sync time="240.474"/>
+<Who nb="1"/>
+ben oui
+<Who nb="2"/>
+et ça
+</Turn>
+<Turn speaker="spk2" startTime="240.895" endTime="243.094">
+<Sync time="240.895"/>
+c'est un garçon et ça c'est un cochon
+</Turn>
+<Turn speaker="spk1" startTime="243.094" endTime="243.437">
+<Sync time="243.094"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="243.437" endTime="247.109">
+<Sync time="243.437"/>
+D comme un dinosaure
+</Turn>
+<Turn speaker="spk1" startTime="247.109" endTime="248.016">
+<Sync time="247.109"/>
+oh ben oui c'est ça
+</Turn>
+<Turn speaker="spk2" startTime="248.016" endTime="249.484">
+<Sync time="248.016"/>
+un *** 
+<Event desc="SamozOR" type="pronounce" extent="previous"/>
+ qui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="249.484" endTime="249.781">
+<Sync time="249.484"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+tire
+</Turn>
+<Turn speaker="spk2" startTime="249.781" endTime="250.645">
+<Sync time="249.781"/>
+la langue
+</Turn>
+<Turn speaker="spk1" startTime="250.645" endTime="254.222">
+<Sync time="250.645"/>
+un *** 
+<Event desc="SamozOR" type="pronounce" extent="previous"/>
+ ?
+<Sync time="252.379"/>
+c'est nouveau comme animal un *** 
+<Event desc="SamozOR" type="pronounce" extent="previous"/>
+ ?
+</Turn>
+<Turn speaker="spk2" startTime="254.222" endTime="254.874">
+<Sync time="254.222"/>
+ça
+</Turn>
+<Turn speaker="spk1" startTime="254.874" endTime="257.031">
+<Sync time="254.874"/>
+non regarde attends attends regarde
+</Turn>
+<Turn speaker="spk2" startTime="257.031" endTime="257.344">
+<Sync time="257.031"/>
+ça
+</Turn>
+<Turn speaker="spk1" startTime="257.344" endTime="259.86">
+<Sync time="257.344"/>
+ça c'est un dromadaire
+</Turn>
+<Turn speaker="spk2" startTime="259.86" endTime="261.094">
+<Sync time="259.86"/>
+oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="261.094" endTime="261.359">
+<Sync time="261.094"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+tu crois
+</Turn>
+<Turn speaker="spk1" startTime="261.359" endTime="261.843">
+<Sync time="261.359"/>
+que ça 
+<Event desc="ksa" type="pronounce" extent="previous"/>
+ existe un
+</Turn>
+<Turn speaker="spk1 spk2" startTime="261.843" endTime="263.702">
+<Sync time="261.843"/>
+<Who nb="1"/>
+*** 
+<Event desc="SamozOR" type="pronounce" extent="previous"/>
+ ?
+
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="263.702" endTime="266.905">
+<Sync time="263.702"/>
+regarde il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ crache du feu
+</Turn>
+<Turn speaker="spk1" startTime="266.905" endTime="268.17">
+<Sync time="266.905"/>
+ouais il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ crache du feu
+</Turn>
+<Turn speaker="spk2" startTime="268.17" endTime="269.264">
+<Sync time="268.17"/>
+pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="269.264" endTime="274.12">
+<Sync time="269.264"/>
+ben parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que c'est un dragon
+<Sync time="271.152"/>
+alors les dragons ça crache du feu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="274.12" endTime="274.495">
+<Sync time="274.12"/>
+<Who nb="1"/>
+hum
+<Who nb="2"/>
+et regarde
+</Turn>
+<Turn speaker="spk1" startTime="274.495" endTime="276.385">
+<Sync time="274.495"/>
+qu'est-ce qu'il 
+<Event desc="ski" type="pronounce" extent="previous"/>
+ fait le dromadaire ?
+</Turn>
+<Turn speaker="spk2" startTime="276.385" endTime="278.385">
+<Sync time="276.385"/>
+il ***
+</Turn>
+<Turn speaker="spk2 spk1" startTime="278.385" endTime="279.182">
+<Sync time="278.385"/>
+<Who nb="1"/>
+il lui tire
+
+<Who nb="2"/>
+il tire la langue
+</Turn>
+<Turn speaker="spk1" startTime="279.182" endTime="282.323">
+<Sync time="279.182"/>
+voilà il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ tire la langue 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="282.323" endTime="283.375">
+<Sync time="282.323"/>
+<Who nb="1"/>
+et c'est drôle
+<Who nb="2"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que
+</Turn>
+<Turn speaker="spk1" startTime="283.375" endTime="292.602">
+<Sync time="283.375"/>
+ben oui mais il lui tire la langue parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ qu'il est pas content
+<Sync time="286.217"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que le le dragon il lui crache du feu
+<Sync time="289.442"/>
+alors le dromadaire comme il est pas content il lui tire la langue
+</Turn>
+<Turn speaker="spk2" startTime="292.602" endTime="294.134">
+<Sync time="292.602"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="294.134" endTime="295.821">
+<Sync time="294.134"/>
+c'est pas très poli hein de tirer la langue ?
+</Turn>
+<Turn speaker="spk2" startTime="295.821" endTime="296.603">
+<Sync time="295.821"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="296.603" endTime="298.812">
+<Sync time="296.603"/>
+d'accord tu tires pas la langue toi ? 
+</Turn>
+<Turn speaker="spk2" startTime="298.812" endTime="299.874">
+<Sync time="298.812"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="299.874" endTime="300.436">
+<Sync time="299.874"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="300.436" endTime="302.343">
+<Sync time="300.436"/>
+et regarde il a *** lui
+</Turn>
+<Turn speaker="spk1" startTime="302.343" endTime="302.768">
+<Sync time="302.343"/>
+oui 
+<Event desc="shh" type="noise" extent="end"/>
+ 
+</Turn>
+</Section>
+</Episode>
+</Trans>

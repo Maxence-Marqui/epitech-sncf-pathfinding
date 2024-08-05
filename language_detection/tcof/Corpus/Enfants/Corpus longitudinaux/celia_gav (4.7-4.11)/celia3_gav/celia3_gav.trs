@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="admin" audio_filename="celia3_gav.wav" version="7" version_date="140221">
+<Topics>
+<Topic id="to1" desc="MS10/2012-ECFev2014"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Célia" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="322.093" topic="to1">
+<Turn startTime="0" endTime="2.247" speaker="spk1 spk2">
+<Sync time="0"/>
+<Who nb="1"/>
+ils jouent dehors toute la journée
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2.247" endTime="5.134">
+<Sync time="2.247"/>
++ et après
+</Turn>
+<Turn speaker="spk1 spk2" startTime="5.134" endTime="6.626">
+<Sync time="5.134"/>
+<Who nb="1"/>
+c'est la fin de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ journée
+<Who nb="2"/>
+oui oui 
+</Turn>
+<Turn speaker="spk2" startTime="6.626" endTime="7.829">
+<Sync time="6.626"/>
+c'est la fin de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ journée 
+<Event desc="ch" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="7.829" endTime="9.579">
+<Sync time="7.829"/>
+donc qu'est-ce qu'ils 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ font ?
+</Turn>
+<Turn speaker="spk2" startTime="9.579" endTime="12.345">
+<Sync time="9.579"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ rentrent chez eux 
+<Event desc="ch" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="12.345" endTime="14.286">
+<Sync time="12.345"/>
+<Who nb="1"/>
+voilà le petit ours 
+<Who nb="2"/>
+ils rentrent chez eux
+</Turn>
+<Turn speaker="spk2" startTime="14.286" endTime="20.606">
+<Sync time="14.286"/>
+parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ ça va le soleil il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va bientôt se faire nuit 
+<Comment desc="sic"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va bientôt se faire nuit 
+<Event desc="ch" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="20.606" endTime="21.853">
+<Sync time="20.606"/>
+<Who nb="1"/>
+voilà il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va bientôt faire nuit 
+<Who nb="2"/>
+hum 
+</Turn>
+<Turn speaker="spk2" startTime="21.853" endTime="26.641">
+<Sync time="21.853"/>
+et il l'emmene là dans la grotte dans chez eux dans la grotte
+</Turn>
+<Turn speaker="spk1" startTime="26.641" endTime="33.002">
+<Sync time="26.641"/>
+voilà le grand ours emmène petit ours chez eux dans leur grotte parce que le soleil se couche et qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ va bientôt faire nuit
+</Turn>
+<Turn speaker="spk2" startTime="33.002" endTime="45.359">
+<Sync time="33.002"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ 
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+ et et et et bah tu sais et après et et bah grand ours il était assis sur le fauteuil d'ours et là il lit son histoire d'ours
+</Turn>
+<Turn speaker="spk1" startTime="45.359" endTime="51.049">
+<Sync time="45.359"/>
+voilà le grand ours il s'assoit dans son fauteuil d'ours et il lit son histoire d'ours et petit ours qu'est-ce qu'il fait ?
+</Turn>
+<Turn speaker="spk2" startTime="51.049" endTime="52.656">
+<Sync time="51.049"/>
+il a peur du noir 
+</Turn>
+<Turn speaker="spk1" startTime="52.656" endTime="54.913">
+<Sync time="52.656"/>
+alors petit ours il est au lit il essaie de dormir 
+</Turn>
+<Turn speaker="spk2" startTime="54.913" endTime="56.673">
+<Sync time="54.913"/>
+oui il se cache 
+</Turn>
+<Turn speaker="spk1" startTime="56.673" endTime="57.758">
+<Sync time="56.673"/>
+il se cache
+</Turn>
+<Turn speaker="spk2" startTime="57.758" endTime="58.71">
+<Sync time="57.758"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+ il se cache
+</Turn>
+<Turn speaker="spk1" startTime="58.71" endTime="59.883">
+<Sync time="58.71"/>
+parce-qu'il 
+<Event desc="paskil" type="pronounce" extent="previous"/>
+ a peur du noir
+</Turn>
+<Turn speaker="spk2" startTime="59.883" endTime="62.194">
+<Sync time="59.883"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+ il se cache en deux sous son oreiller
+</Turn>
+<Turn speaker="spk1" startTime="62.194" endTime="67.131">
+<Sync time="62.194"/>
+voilà 
+<Event desc="tx" type="noise" extent="previous"/>
+ il se met 
+<Event desc="sme" type="pronounce" extent="previous"/>
+ la tête sous l'oreiller parce qu'il a peur du noir il arrive pas à s'endormir
+</Turn>
+<Turn speaker="spk2" startTime="67.131" endTime="78.429">
+<Sync time="67.131"/>
+le pa- il dit pourqu- le pa- le grand ours il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit pourquoi tu dors ici * endormi petit ours ?
+<Sync time="74.341"/>
+il dit j'ai peur de quoi tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ -tu peur ? 
+<Comment desc="sic"/>
+ du noir
+</Turn>
+<Turn speaker="spk1" startTime="78.429" endTime="85.258">
+<Sync time="78.429"/>
+voilà le grand ours demande au petit ours pourquoi est-ce qu'il n'arrive pas à s'endormir 
+<Sync time="83.146"/>
+et le petit ours il lui dit qu'il a peur du noir
+</Turn>
+<Turn speaker="spk2" startTime="85.258" endTime="89.043">
+<Sync time="85.258"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit où ? tout autour de nous
+</Turn>
+<Turn speaker="spk1" startTime="89.043" endTime="93.946">
+<Sync time="89.043"/>
+voilà le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours il dit qu'il y a du noir tout autour d'eux donc il arrive pas à dormir
+</Turn>
+<Turn speaker="spk2" startTime="93.946" endTime="97.602">
+<Sync time="93.946"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit je t'apporte 
+<Event desc="ZtapORt" type="pronounce" extent="previous"/>
+ une petite lumière
+</Turn>
+<Turn speaker="spk1 spk2" startTime="97.602" endTime="99.165">
+<Sync time="97.602"/>
+<Who nb="1"/>
+voilà le 
+<Who nb="2"/>
+et maintenant faut dormir
+</Turn>
+<Turn speaker="spk1" startTime="99.165" endTime="104.536">
+<Sync time="99.165"/>
+voilà le grand ours il dit au petit ours qu'il lui apporte une petite lanterne 
+<Sync time="102.62"/>
+et que maintenant il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut dormir parce qu'il est tard
+</Turn>
+<Turn speaker="spk2" startTime="104.536" endTime="113.265">
+<Sync time="104.536"/>
+et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit pourquoi t'es pas t-il encore endormi ? 
+<Comment desc="sic"/>
+
+<Sync time="108.868"/>
+j'ai peur de quoi tu as t'il 
+<Event desc="tatil" type="pronounce" extent="previous"/>
+ peur ? 
+<Comment desc="sic"/>
+ du noir tout autour de nous 
+<Event desc="rire" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="113.265" endTime="121.59">
+<Sync time="113.265"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ voilà c'est pareil 
+<Sync time="114.402"/>
+le petit ours il arrive pas encore à s'endormir alors le grand ours il va le voir et il lui dit pourquoi est-ce que tu dors pas ? 
+<Sync time="119.558"/>
+le petit ours il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ lui dit qu'il a peur du noir 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="121.59" endTime="122.575">
+<Sync time="121.59"/>
+<Who nb="1"/>
+tout autour d'eux 
+<Who nb="2"/>
+et bah 
+</Turn>
+<Turn speaker="spk2" startTime="122.575" endTime="126.298">
+<Sync time="122.575"/>
+alors après il a donné une lanterne un petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ peu plus grosse
+</Turn>
+<Turn speaker="spk1" startTime="126.298" endTime="132.0">
+<Sync time="126.298"/>
+voilà le grand ours il apporte au petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours une lanterne un petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ peu plus grosse 
+<Sync time="130.083"/>
+pour que ça 
+<Event desc="ksa" type="pronounce" extent="previous"/>
+ fasse un petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ peu plus de lumière
+</Turn>
+<Turn speaker="spk2" startTime="132.0" endTime="141.285">
+<Sync time="132.0"/>
+et après il lui dit il /s'est, faut/ remis remis dans son fauteuil d'ours il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'est remis à lire son histoire
+</Turn>
+<Turn speaker="spk1 spk2" startTime="141.285" endTime="142.291">
+<Sync time="141.285"/>
+<Who nb="1"/>
+voilà 
+<Who nb="2"/>
+et et le
+</Turn>
+<Turn speaker="spk2" startTime="142.291" endTime="147.15">
+<Sync time="142.291"/>
+petit ours il arrive pas il regarde il fait le comédien 
+<Event desc="ch" type="pronounce" extent="next"/>
+ il fait n'importe quoi
+</Turn>
+<Turn speaker="spk1" startTime="147.15" endTime="155.342">
+<Sync time="147.15"/>
+voilà 
+<Event desc="rire" type="noise" extent="previous"/>
+ le grand ours il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se remet 
+<Event desc="R@me" type="pronounce" extent="previous"/>
+ dans son fauteuil pour lire son histoire
+<Sync time="150.954"/>
+et le petit ours qui doit essayer de dormir
+<Sync time="152.806"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait n'importe quoi regarde il fait des galipettes 
+<Comment desc="Célia rit"/>
+ dans son lit
+</Turn>
+<Turn speaker="spk2 spk1" startTime="155.342" endTime="157.75">
+<Sync time="155.342"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="next"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va pas sauter il saute pas encore
+<Who nb="2"/>
+il
+</Turn>
+<Turn speaker="spk1" startTime="157.75" endTime="162.092">
+<Sync time="157.75"/>
+saute pas dans son lit il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ saute pas partout mais il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ saute dans son lit il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait des galipettes il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait n'importe quoi
+</Turn>
+<Turn speaker="spk2" startTime="162.092" endTime="162.347">
+<Sync time="162.092"/>
+oui 
+</Turn>
+<Turn speaker="spk1" startTime="162.347" endTime="164.346">
+<Sync time="162.347"/>
+donc le grand ours il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va le voir et qu'est-ce qu'il lui dit ?
+</Turn>
+<Turn speaker="spk2" startTime="164.346" endTime="170.376">
+<Sync time="164.346"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit pourquoi tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ pas t-il encore endormi ? 
+<Sync time="166.857"/>
+j'ai peur de quoi tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ t-il peur ? 
+<Comment desc="sic"/>
+ du noir tout autour de nous
+</Turn>
+<Turn speaker="spk1" startTime="170.376" endTime="173.892">
+<Sync time="170.376"/>
+voilà c'est encore pareil le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours il lui dit j'ai encore peur du noir 
+</Turn>
+<Turn speaker="spk2" startTime="173.892" endTime="177.329">
+<Sync time="173.892"/>
+et il dit où ? tout autour de nous
+</Turn>
+<Turn speaker="spk1" startTime="177.329" endTime="183.66">
+<Sync time="177.329"/>
+voilà il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours il dit au à au grand ours 
+<Sync time="180.088"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ plein de noir autour d'eux alors il a peur et qu'est-ce qu'il dit le grand ours ?
+</Turn>
+<Turn speaker="spk2" startTime="183.66" endTime="189.878">
+<Sync time="183.66"/>
+il dit il il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit je t'apporte 
+</Turn>
+<Turn speaker="spk1" startTime="189.878" endTime="191.067">
+<Sync time="189.878"/>
+je t'ai 
+<Event desc="Zte" type="pronounce" extent="previous"/>
+ déjà apporté 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="191.067" endTime="192.41">
+<Sync time="191.067"/>
+<Who nb="1"/>
+deux lanternes 
+<Who nb="2"/>
+*
+</Turn>
+<Turn speaker="spk1" startTime="192.41" endTime="196.221">
+<Sync time="192.41"/>
+oui mais j'ai encore peur dit petit ours
+</Turn>
+<Turn speaker="spk2" startTime="196.221" endTime="202.112">
+<Sync time="196.221"/>
+et après il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit je t'ai 
+<Event desc="Zte" type="pronounce" extent="previous"/>
+ apporté une plus grosse lanterne et maintenant après il faut dormir
+</Turn>
+<Turn speaker="spk1" startTime="202.112" endTime="206.869">
+<Sync time="202.112"/>
+voilà le grand ours il apporte la plus grosse de toutes les lanternes au petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours 
+<Sync time="205.472"/>
+et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ lui dit qu'il faut qu'il dorme maintenant
+</Turn>
+<Turn speaker="spk2" startTime="206.869" endTime="207.76">
+<Sync time="206.869"/>
+
+<Event desc="ch" type="pronounce" extent="next"/>
+ ouais 
+</Turn>
+<Turn speaker="spk1" startTime="207.76" endTime="210.035">
+<Sync time="207.76"/>
+parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ lui il aimerait bien finir son histoire d'ours
+</Turn>
+<Turn speaker="spk2" startTime="210.035" endTime="222.009">
+<Sync time="210.035"/>
+et après il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit pourquoi tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ pas encore t-il endormi ? 
+<Comment desc="sic"/>
+
+<Sync time="215.433"/>
+parce que j'ai peur de quoi tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ t-il peur ? le noir où ? autour de tout de nous 
+<Comment desc="sic"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="222.009" endTime="230.421">
+<Sync time="222.009"/>
+voilà le grand ours il retourne voir le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours et lui dit  
+<Sync time="225.313"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ lui demande 
+<Event desc="dma~d" type="pronounce" extent="previous"/>
+ si il dort pas encore et le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours il lui dit qu'il a encore peur du noir
+</Turn>
+<Turn speaker="spk2" startTime="230.421" endTime="239.301">
+<Sync time="230.421"/>
++ 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit là-bas j'ai peur il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit pourquoi tu as t-il peur ? 
+<Comment desc="sic"/>
+ là-bas il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ du noir
+</Turn>
+<Turn speaker="spk1" startTime="239.301" endTime="249.675">
+<Sync time="239.301"/>
+voilà le grand ours il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ demande 
+<Event desc="dma~d" type="pronounce" extent="previous"/>
+ pourquoi est-ce qu'il a encore peur
+<Sync time="242.653"/>
+et le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ lui dit il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ plus de noir autour de moi
+<Sync time="245.304"/>
+mais tout là-bas à l'entrée de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ grotte 
+<Sync time="246.937"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ encore plein de noir
+<Sync time="248.233"/>
+alors le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours il a encore peur
+</Turn>
+<Turn speaker="spk2" startTime="249.675" endTime="261.324">
+<Sync time="249.675"/>
+et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit viens on va où ? dehors a dit le grand ours 
+<Sync time="256.987"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit on va dans la nuit ? oui mais j'ai peur de de la nuit
+</Turn>
+<Turn speaker="spk1" startTime="261.324" endTime="269.295">
+<Sync time="261.324"/>
+voilà le grand ours il amène le petit ours dehors 
+<Sync time="264.672"/>
+et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ lui dit de ne pas s'inquièter parce que dehors même s'il fait noir il faut pas avoir peur
+</Turn>
+<Turn speaker="spk2" startTime="269.295" endTime="272.48">
+<Sync time="269.295"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+ regarde la lune petit ours
+</Turn>
+<Turn speaker="spk1" startTime="272.48" endTime="273.012">
+<Sync time="272.48"/>
+voilà
+</Turn>
+<Turn speaker="spk1 spk2" startTime="273.012" endTime="276.042">
+<Sync time="273.012"/>
+<Who nb="1"/>
+et le
+<Who nb="2"/>
+et je t'ai 
+<Event desc="Zte" type="pronounce" extent="previous"/>
+ apporté une lune et plein d'étoiles
+</Turn>
+<Turn speaker="spk1" startTime="276.042" endTime="283.335">
+<Sync time="276.042"/>
+voilà le grand qui dit au petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours pour pas qu'il ait peur qu'il lui a apporté la lune et des milliers d'étoiles tu vois ?
+<Sync time="281.938"/>
+donc il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait pas si noir que ça
+</Turn>
+<Turn speaker="spk2" startTime="283.335" endTime="293.797">
+<Sync time="283.335"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ et après il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'é- il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'était endormi c'est pour ça qu'il peut plus parler alors il s'est il se 
+<Sync time="290.256"/>
+et bah il est allé dans son fauteuil d'ours et lui dans ses bras
+</Turn>
+<Turn speaker="spk1" startTime="293.797" endTime="305.793">
+<Sync time="293.797"/>
+voilà le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ ours il répond pas parce qu'il s'était endormi dans les bras de grand ours 
+<Sync time="298.324"/>
+donc grand grand ours ramène petit ours dans la grotte 
+<Sync time="301.293"/>
+il s'installe dans son fauteuil avec son livre et le petit ours dans les bras
+</Turn>
+<Turn speaker="spk2 spk1" startTime="305.793" endTime="307.674">
+<Sync time="305.793"/>
+<Who nb="1"/>
+et son doudou il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dort maintenant aussi
+<Who nb="2"/>
+voilà 
+</Turn>
+<Turn speaker="spk1" startTime="307.674" endTime="309.383">
+<Sync time="307.674"/>
+son doudou il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dort près de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ cheminée aussi
+</Turn>
+<Turn speaker="spk2" startTime="309.383" endTime="309.721">
+<Sync time="309.383"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="309.721" endTime="311.493">
+<Sync time="309.721"/>
+et grand ours qu'est-ce qu'il fait maintenant ?
+</Turn>
+<Turn speaker="spk2" startTime="311.493" endTime="316.934">
+<Sync time="311.493"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ et bah il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ relit son histoire et le feu il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'est remis à chauffer
+</Turn>
+<Turn speaker="spk1" startTime="316.934" endTime="322.093">
+<Sync time="316.934"/>
+voilà grand ours il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'est installé près du feu et il lit son histoire d'ours jusqu'à la fin
+</Turn>
+</Section>
+</Episode>
+</Trans>

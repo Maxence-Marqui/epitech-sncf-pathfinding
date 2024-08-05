@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Jilliane" audio_filename="gaetan1_bau.wav" version="7" version_date="140514">
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Gaetan" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="Prunier / GN - 05/2014"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="364.434" topic="to1">
+<Turn startTime="0" endTime="10.657" speaker="spk1">
+<Sync time="0"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+ 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ tu vois ce que 
+<Event desc="c'que" type="pronounce" extent="previous"/>
+ je veux dire 
+<Sync time="6.056"/>
+un vrai arbre + allez vas-y
+</Turn>
+<Turn speaker="spk2" startTime="10.657" endTime="12.582">
+<Sync time="10.657"/>
+mais mais tu peux m'aider
+</Turn>
+<Turn speaker="spk1" startTime="12.582" endTime="13.102">
+<Sync time="12.582"/>
+oui 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="13.102" endTime="16.497">
+<Sync time="13.102"/>
+<Who nb="1"/>
+qu'est ce que tu veux que je fasse ?
+<Who nb="2"/>
+
+<Comment desc="l'enfant rote"/>
+
+<Event desc="rire" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="16.497" endTime="20.96">
+<Sync time="16.497"/>
+qu'est ce qu'est ce qu'on dit ?
+</Turn>
+<Turn speaker="spk2" startTime="20.96" endTime="25.001">
+<Sync time="20.96"/>
+vieille mamie 
+<Sync time="21.995"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="rire" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="25.001" endTime="34.796">
+<Sync time="25.001"/>
+d'accord allez je te fais déjà le pont ///
+</Turn>
+<Turn speaker="spk2" startTime="34.796" endTime="36.761">
+<Sync time="34.796"/>
+fais moi mieux que ca 
+<Event desc="qu'ça" type="pronounce" extent="previous"/>
+ hein ?
+</Turn>
+<Turn speaker="spk1" startTime="36.761" endTime="42.857">
+<Sync time="36.761"/>
+ho c'est bien là allez tu continues 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.857" endTime="58.228">
+<Sync time="42.857"/>
+
+<Comment desc="l'enfant frappe sur quelque chose en criant"/>
+
+<Sync time="46.335"/>
++ un deux trois quatre cinq six sept huit neuf
+<Sync time="53.393"/>
+dix onze douze treize + 
+</Turn>
+<Turn speaker="spk1" startTime="58.228" endTime="62.705">
+<Sync time="58.228"/>
+he bravo tu comptes bien Gaetan
+<Sync time="61.265"/>
+tu sais compter jusque combien ?
+</Turn>
+<Turn speaker="spk2" startTime="62.705" endTime="67.564">
+<Sync time="62.705"/>
+* 
+<Comment desc="il compte rapidemment"/>
+ un deux trois quatre cinq six sept huit neuf dix
+<Sync time="66.05"/>
+
+<Comment desc="il compte plus lentement"/>
+ onze douze treize
+</Turn>
+<Turn speaker="spk1" startTime="67.564" endTime="68.97">
+<Sync time="67.564"/>
+et après ?
+</Turn>
+<Turn speaker="spk2" startTime="68.97" endTime="70.164">
+<Sync time="68.97"/>
+quinze seize
+</Turn>
+<Turn speaker="spk1" startTime="70.164" endTime="71.94">
+<Sync time="70.164"/>
+non non après treize quatorze
+</Turn>
+<Turn speaker="spk2" startTime="71.94" endTime="76.366">
+<Sync time="71.94"/>
+quinze seize dix-sept dix-huit dix-neuf vingt heu vingt-deux 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="76.366" endTime="77.28">
+<Sync time="76.366"/>
+<Who nb="1"/>
+non non
+<Who nb="2"/>
+vingt
+</Turn>
+<Turn speaker="spk1" startTime="77.28" endTime="79.758">
+<Sync time="77.28"/>
+après vingt vingt vingt et 
+</Turn>
+<Turn speaker="spk2" startTime="79.758" endTime="90.863">
+<Sync time="79.758"/>
+un vingt et deux vingt et trois vingt et quatre vingt et cinq vingt et six 
+<Sync time="85.483"/>
+vingt et sept vingt et huit vingt et neuf + trente 
+</Turn>
+<Turn speaker="spk1" startTime="90.863" endTime="91.846">
+<Sync time="90.863"/>
+trente et
+</Turn>
+<Turn speaker="spk2" startTime="91.846" endTime="101.285">
+<Sync time="91.846"/>
+un trente deux trente et trois trente et quatre trente et cinq trente et six 
+<Sync time="97.55"/>
+trente et sept trente et huit trente et neuf et +
+</Turn>
+<Turn speaker="spk1" startTime="101.285" endTime="102.562">
+<Sync time="101.285"/>
+quaaa
+</Turn>
+<Turn speaker="spk2 spk1" startTime="102.562" endTime="103.323">
+<Sync time="102.562"/>
+<Who nb="1"/>
+rante 
+
+<Who nb="2"/>
+rante 
+</Turn>
+<Turn speaker="spk1" startTime="103.323" endTime="105.832">
+<Sync time="103.323"/>
+et après c'est pareil quarante et 
+</Turn>
+<Turn speaker="spk2" startTime="105.832" endTime="106.461">
+<Sync time="105.832"/>
+un 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="106.461" endTime="107.702">
+<Sync time="106.461"/>
+<Who nb="1"/>
+quarante deux 
+<Who nb="2"/>
+quanrante deux 
+</Turn>
+<Turn speaker="spk2" startTime="107.702" endTime="116.05">
+<Sync time="107.702"/>
+quarante trois quanrante quatre quarante cinq quarante six 
+<Sync time="111.79"/>
+quarante sept quarante huit quarante neuf 
+<Sync time="115.308"/>
+et
+</Turn>
+<Turn speaker="spk1" startTime="116.05" endTime="117.263">
+<Sync time="116.05"/>
+cinq
+</Turn>
+<Turn speaker="spk2" startTime="117.263" endTime="120.911">
+<Sync time="117.263"/>
+ciiiinnnq
+</Turn>
+<Turn speaker="spk1" startTime="120.911" endTime="122.431">
+<Sync time="120.911"/>
+cinquante 
+</Turn>
+<Turn speaker="spk2" startTime="122.431" endTime="127.998">
+<Sync time="122.431"/>
+cinquante et + un cinquante deux cinquante trois cinquante cinq
+</Turn>
+<Turn speaker="spk1" startTime="127.998" endTime="129.511">
+<Sync time="127.998"/>
+non cinquante trois
+</Turn>
+<Turn speaker="spk2" startTime="129.511" endTime="132.018">
+<Sync time="129.511"/>
+cinquan cinquante cinq
+</Turn>
+<Turn speaker="spk1" startTime="132.018" endTime="133.348">
+<Sync time="132.018"/>
+non cinquante trois 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="133.348" endTime="134.126">
+<Sync time="133.348"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+cinquante
+</Turn>
+<Turn speaker="spk1" startTime="134.126" endTime="134.808">
+<Sync time="134.126"/>
+quatre
+</Turn>
+<Turn speaker="spk2" startTime="134.808" endTime="141.673">
+<Sync time="134.808"/>
+quatre cinquante cinq cinquante six cinquante cinquante sept
+<Sync time="139.333"/>
+cinquante huit cinquante neuf
+</Turn>
+<Turn speaker="spk1" startTime="141.673" endTime="143.944">
+<Sync time="141.673"/>
+soi + xante 
+</Turn>
+<Turn speaker="spk2" startTime="143.944" endTime="145.246">
+<Sync time="143.944"/>
+quatre 
+</Turn>
+<Turn speaker="spk1" startTime="145.246" endTime="146.684">
+<Sync time="145.246"/>
+soixante et un
+</Turn>
+<Turn speaker="spk2" startTime="146.684" endTime="148.976">
+<Sync time="146.684"/>
+soixante et deux soixante et
+</Turn>
+<Turn speaker="spk1 spk2" startTime="148.976" endTime="150.433">
+<Sync time="148.976"/>
+<Who nb="1"/>
+allez c'est facile hein
+<Who nb="2"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="150.433" endTime="176.876">
+<Sync time="150.433"/>
+
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ c'est facile tu faut juste que tu saches bien les après chaque + chaque dizaine 
+<Sync time="158.023"/>
+/// ha là c'est mieux
+</Turn>
+<Turn speaker="spk2" startTime="176.876" endTime="177.533">
+<Sync time="176.876"/>
+quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="177.533" endTime="197.737">
+<Sync time="177.533"/>
+là c'est plus beau là + là c'est bien Gaetan là tu fais bien les branches hein
+<Sync time="182.716"/>
+/// là tu t'appliques bien c'est bien + ha ouais là ça ressemble plus à des branches hein
+<Sync time="197.037"/>
+continues là 
+</Turn>
+<Turn speaker="spk2" startTime="197.737" endTime="199.724">
+<Sync time="197.737"/>
+mais non c'est toi
+</Turn>
+<Turn speaker="spk1" startTime="199.724" endTime="202.491">
+<Sync time="199.724"/>
+ha non c'est toi qui dessine mieux que moi 
+<Event desc="mic" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="202.491" endTime="203.441">
+<Sync time="202.491"/>
+c'est quoi ça ?
+</Turn>
+<Turn speaker="spk1" startTime="203.441" endTime="212.244">
+<Sync time="203.441"/>
+c'est heu le micro + enregistreur laisses laisses *** t'occupes pas 
+<Sync time="209.012"/>
+n'appuie pas sur le bouton 
+</Turn>
+<Turn speaker="spk2" startTime="212.244" endTime="214.514">
+<Sync time="212.244"/>
+je vais 
+<Event desc="j'vais" type="pronounce" extent="previous"/>
+ appuyer 
+</Turn>
+<Turn speaker="spk1" startTime="214.514" endTime="217.175">
+<Sync time="214.514"/>
+non non arrêtes arrêtes Gaetan arrêtes 
+</Turn>
+<Turn speaker="spk2" startTime="217.175" endTime="218.768">
+<Sync time="217.175"/>
+j'ai appuyé
+</Turn>
+<Turn speaker="spk1" startTime="218.768" endTime="227.453">
+<Sync time="218.768"/>
+*** il faut pas que tu touches non non gaetan gaetan 
+<Sync time="224.312"/>
+tu sais pourquoi il faut pas *** 
+</Turn>
+<Turn speaker="spk2" startTime="227.453" endTime="228.412">
+<Sync time="227.453"/>
+ouais 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="228.412" endTime="231.023">
+<Sync time="228.412"/>
+<Who nb="1"/>
+pourquoi ?
+<Who nb="2"/>
+parce que tu m'enregistres 
+</Turn>
+<Turn speaker="spk1" startTime="231.023" endTime="233.462">
+<Sync time="231.023"/>
+pourquoi ?
+</Turn>
+<Turn speaker="spk2" startTime="233.462" endTime="236.203">
+<Sync time="233.462"/>
+parce que tu m'enregistres
+</Turn>
+<Turn speaker="spk1" startTime="236.203" endTime="246.046">
+<Sync time="236.203"/>
+bah oui faut pas et pis après on pourra plus 
+<Event desc="pu" type="pronounce" extent="previous"/>
+ on pourra plus 
+<Event desc="pu" type="pronounce" extent="previous"/>
+ étudier Gaetan
+<Sync time="240.614"/>
+et c'est pas bien 
+<Sync time="242.546"/>
+tu veux que les gens ils t'écoutent parler ? pour que Gaetan
+</Turn>
+<Turn speaker="spk2" startTime="246.046" endTime="252.74">
+<Sync time="246.046"/>
+et crotte de bique
+<Sync time="247.883"/>
+moi j'ai un nouveau jeu playstation 
+<Event desc="mic" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="252.74" endTime="253.428">
+<Sync time="252.74"/>
+c'est quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="253.428" endTime="255.021">
+<Sync time="253.428"/>
+je te 
+<Event desc="jte" type="pronounce" extent="previous"/>
+ le dit pas 
+</Turn>
+<Turn speaker="spk1" startTime="255.021" endTime="255.876">
+<Sync time="255.021"/>
+pourquoi ?
+</Turn>
+<Turn speaker="spk2" startTime="255.876" endTime="256.589">
+<Sync time="255.876"/>
+devines 
+</Turn>
+<Turn speaker="spk1" startTime="256.589" endTime="262.477">
+<Sync time="256.589"/>
+si tu veux que je
+<Event desc="q'je" type="pronounce" extent="previous"/>
+ t'achètes encore des jeux de playstation à noel et pour ton anniversaire tu as
+<Event desc="t'as" type="pronounce" extent="previous"/>
+ plutôt interêt de me
+<Event desc="dme" type="pronounce" extent="previous"/>
+ le dire 
+<Sync time="261.459"/>
+c'est quoi Gaetan ?
+</Turn>
+<Turn speaker="spk2" startTime="262.477" endTime="267.936">
+<Sync time="262.477"/>
+alors devines
+<Sync time="264.03"/>
+un des super héros
+</Turn>
+<Turn speaker="spk1" startTime="267.936" endTime="268.481">
+<Sync time="267.936"/>
+batman ?
+</Turn>
+<Turn speaker="spk2" startTime="268.481" endTime="269.294">
+<Sync time="268.481"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="269.294" endTime="270.771">
+<Sync time="269.294"/>
+superman 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="270.771" endTime="273.566">
+<Sync time="270.771"/>
+<Who nb="1"/>
+non 
+<Who nb="2"/>
+ha non superman c'est moi qui te l'ai
+<Event desc="tlai" type="pronounce" extent="previous"/>
+ acheté
+</Turn>
+<Turn speaker="spk1" startTime="273.566" endTime="275.011">
+<Sync time="273.566"/>
+un super heros tu as 
+<Event desc="t'as" type="pronounce" extent="previous"/>
+ dit 
+</Turn>
+<Turn speaker="spk2" startTime="275.011" endTime="276.218">
+<Sync time="275.011"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="276.218" endTime="278.798">
+<Sync time="276.218"/>
+spiderman
+</Turn>
+<Turn speaker="spk2" startTime="278.798" endTime="282.068">
+<Sync time="278.798"/>
+non
+<Sync time="279.508"/>
+un qui a des lunettes
+</Turn>
+<Turn speaker="spk1" startTime="282.068" endTime="286.019">
+<Sync time="282.068"/>
++ les indestructibles ?
+</Turn>
+<Turn speaker="spk2" startTime="286.019" endTime="288.758">
+<Sync time="286.019"/>
+nooon c'est pas les ind
+</Turn>
+<Turn speaker="spk1 spk2" startTime="288.758" endTime="290.027">
+<Sync time="288.758"/>
+<Who nb="1"/>
+un qui a des lunettes ?
+<Who nb="2"/>
+tructibes
+</Turn>
+<Turn speaker="spk2" startTime="290.027" endTime="291.111">
+<Sync time="290.027"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="291.111" endTime="299.808">
+<Sync time="291.111"/>
+/// bon dis moi vas y
+</Turn>
+<Turn speaker="spk2" startTime="299.808" endTime="302.698">
+<Sync time="299.808"/>
+mais non devines un qui a des lunettes 
+</Turn>
+<Turn speaker="spk1" startTime="302.698" endTime="303.908">
+<Sync time="302.698"/>
+des lunettes de quelles couleurs ?
+</Turn>
+<Turn speaker="spk2" startTime="303.908" endTime="308.766">
+<Sync time="303.908"/>
++ heu grises
+</Turn>
+<Turn speaker="spk1" startTime="308.766" endTime="317.098">
+<Sync time="308.766"/>
+un qui a des lunettes grises moi je je le 
+<Event desc="jle" type="pronounce" extent="previous"/>
+ connais au moins
+<Sync time="314.655"/>
+est ce que tu es 
+<Event desc="t'es" type="pronounce" extent="previous"/>
+ sûr que je le 
+<Event desc="jle" type="pronounce" extent="previous"/>
+ connais
+</Turn>
+<Turn speaker="spk2" startTime="317.098" endTime="325.673">
+<Sync time="317.098"/>
+oui
+<Sync time="318.036"/>
+il ///
+</Turn>
+<Turn speaker="spk1" startTime="325.673" endTime="329.973">
+<Sync time="325.673"/>
+gris pourtant je les
+<Event desc="jles" type="pronounce" extent="previous"/>
+ ai tous dit non ?
+</Turn>
+<Turn speaker="spk2" startTime="329.973" endTime="333.851">
+<Sync time="329.973"/>
++ un qui a une baguette
+</Turn>
+<Turn speaker="spk1" startTime="333.851" endTime="338.071">
+<Sync time="333.851"/>
+une baguette + une baguette ?
+</Turn>
+<Turn speaker="spk2" startTime="338.071" endTime="340.094">
+<Sync time="338.071"/>
+oui bag
+</Turn>
+<Turn speaker="spk1" startTime="340.094" endTime="341.424">
+<Sync time="340.094"/>
+une baguette de pain ?
+</Turn>
+<Turn speaker="spk2" startTime="341.424" endTime="349.474">
+<Sync time="341.424"/>
+non 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+une baguette pas celui qui la tourne il a qu'une baguette normale
+</Turn>
+<Turn speaker="spk1" startTime="349.474" endTime="353.665">
+<Sync time="349.474"/>
+tu arriverais
+<Event desc="t'arriverais" type="pronounce" extent="previous"/>
+ à le dessiner pour que je vois
+<Event desc="jvois" type="pronounce" extent="previous"/>
+ que je devine
+<Event desc="jdevine" type="pronounce" extent="previous"/>
+ qui c'est
+</Turn>
+<Turn speaker="spk2" startTime="353.665" endTime="354.802">
+<Sync time="353.665"/>
+oui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="354.802" endTime="358.552">
+<Sync time="354.802"/>
+<Who nb="1"/>
+*** 
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="358.552" endTime="364.434">
+<Sync time="358.552"/>
+non il a pas c'est pas * regardes 
+<Event desc="regares" type="pronounce" extent="previous"/>
+ 
+<Event desc="conv" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

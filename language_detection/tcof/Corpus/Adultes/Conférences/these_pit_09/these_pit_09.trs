@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Caroline Pitoy" audio_filename="these_pit_09.wav" version="23" version_date="140424">
+  <Topics>
+    <Topic id="to1" desc="thèseOC" />
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode program="" air_date="">
+    <Section type="report" startTime="0.0" endTime="586.823" topic="to1">
+      <Turn startTime="0.0" endTime="586.823" speaker="spk1">
+        <Sync time="0.0" />
+        d'accord ben merci beaucoup euh avant toutes choses je voudrais euh remercier l'ensemble euh des membres du jury pour avoir lu mon manuscrit fait part de leurs euh de leurs remarques et améliorations
+        <Sync time="8.299" />
+        et puis pour être venu ici jusqu'à ¤T1¤ euh certains de loin
+        <Sync time="11.69" />
+        donc euh je les remercie d'avance pour ça
+        <Sync time="14.475" />
+        euh donc je vais vous présenter les travaux que j'ai réalisés dans le cadre de
+        <Event desc="porte qui claque" type="noise" extent="instantaneous" />
+        ma thèse
+        <Sync time="18.201" />
+        donc qui est une thèse CIFRE
+        <Comment desc="conventions industrielles de formation par la recherche" />
+        qui a été encadrée par les professeurs euh ¤P1¤ ¤N1¤ et ¤P2¤ ¤N2¤ au niveau euh statistique et académique
+        <Sync time="24.592" />
+        et euh qui a été financé par le la- laboratoire de biotechnologie ¤S1¤
+        <Event desc="porte qui claque" type="noise" extent="instantaneous" />
+        qui a été *** par le docteur ¤P3¤ ¤N3¤
+        <Sync time="30.559" />
+        et euh et qui nous a soumis en fait les problèmes de biologie dont on va discuter aujourd'hui
+        <Event desc="porte qui grince" type="noise" extent="instantaneous" />
+        <Sync time="35.619" />
+        donc comme euh comme le plan
+        <Event desc="porte qui claque" type="noise" extent="instantaneous" />
+        de de mon euh enfin le titre de ma diapositive le laisse présager il va y avoir deux parties distinctes dans dans mon exposé
+        <Sync time="43.084" />
+        donc la première partie sera en cancérologie
+        <Sync time="44.978" />
+        euh dans laquelle je vais chercher à mettre en évidence euh des positions d'ARN
+        <Comment desc="sigle= acide ribonucléique" />
+        messager pour lesquelles on a une plus forte probabilité de substitution dans le cas cancer et dans le cas normal
+        <Sync time="54.631" />
+        euh la principale euh principale origina- originalité au niveau statistique de cette partie ça va être l'utilisation d'une procédure de tests multiples
+        <Sync time="62.768" />
+        euh dans la deuxième partie on va traiter de la détection de l'allergie à l'arachide et puis de la prédiction de de sa sévérité
+        <Sync time="69.474" />
+        euh donc là l'aspect plus clinique euh plus clinique des choses dans dans laquelle les méthodes statistiques qui sont mises en place ce sera une combinaison originale de méthodes standards de d'analyse discriminante et de méthodes factorielles
+        <Sync time="80.0" />
+        et puis euh la mise en place d'un algorithme pour traiter le cas de de la dose réactogène qui est un petit peu heu un petit peu particulier
+        <Sync time="86.367" />
+        donc tout d'abord je vais commencer par quelques rappels de biologie
+        <Sync time="89.301" />
+        donc tout d'abord l'A.D.N. pour euh acide désoxyribonucléique qui est le support de l'information génétique et qui se trouve dans chacune de nos cellules
+        <Sync time="96.287" />
+        alors c'est une molécule qui est double brin euh chacun des deux euh des deux brins peut être représenté par la suite des nucléotides qui le composent
+        <Sync time="102.231" />
+        chaque nucléotide euh étant représenté par le la première lettre de son nom donc il y a l'adénine la tymine la guanine et la cytosine
+        <Event desc="porte qui grince" type="noise" extent="instantaneous" />
+        <Sync time="109.141" />
+        alors une propriété qui est qui est importante dans l'A.D.N. c'est que les deux brins sont complémentaires c'est-à-dire qu'ils sont associés de telle manière pour qu'en face d'un A sur le premier brin se trouve toujours un T en face d'un T d'un A d'un C d'un G et d'un G d'un C
+        <Sync time="123.241" />
+        ce qui est important au niveau de de l'A.D.N. c'est que le les gènes se trouvent sur l'A.D.N.
+        <Sync time="128.351" />
+        euh les gènes sont le plan de fabrication d'une protéine de ma- de manière euh de manière très schématique et il y a deux étapes fondamentales qui séparent le gène de la protéine c'est la transcription et la traduction
+        <Sync time="138.224" />
+        la trancri- la transcription elle nous fait partir du gène et elle nous donne euh l'A.R.N. messager qui est également une euh une molécule qui s'écrit dans un alphabet à à quatre lettres qui peut également être représenté par une séquence de lettres mais c'est une molécule qui est simple brin
+        <Sync time="151.007" />
+        euh dans cet alphabet le U remplace le T +
+        <Sync time="154.735" />
+        euh c'est c'est cette phase-là qui va nous intéresser en particulier dans dans la première partie
+        <Sync time="159.79" />
+        ensuite il y a la phase de traduction qui permet de passer de l'A.R.N. messager aux protéines
+        <Sync time="164.6" />
+        pour ça en fait il y a une grosse molécule qui s'appelle un ribosome qui va lire les les nucléotides trois par trois par codon et qui va leur faire correspondre un acide aminé
+        <Sync time="173.897" />
+        et c'est la concaténation des acides aminés qui sont obtenus à partir de de l'A.R.N. messager grâce au ribosome qui va nous donner la protéine
+        <Sync time="180.803" />
+        euh la protéine va ensuite aller vivre sa fonction dans le corps humain elles peuvent être très diverses
+        <Sync time="185.403" />
+        celle qui va nous intéresser en particulier aujourd'hui surtout dans le cas de l'allergie ça va être la défense du corps humain au travers des anticorps
+        <Sync time="192.019" />
+        ceci étant rappelé euh je vais m'intéresser maintenant à la partie de cancérologie
+        <Sync time="197.085" />
+        donc tout d'abord quelques quelques renseignements entre guillemets sur le cancer donc il faut savoir que c'est une maladie qui est génétique c'est-à-dire qu'elle est due à l'accumulation de mutations euh dans dans les séquences d'A.D.N.
+        <Sync time="208.522" />
+        alors qu'est-ce qu- dans certains gènes
+        <Sync time="210.116" />
+        ce qu'on appelle mutation ça va être un changement dans la séquence du nucléotide de l'A.D.N. alors ça va être dans notre cas à nous des substitutions c'est-à-dire un changement de nucléotide(s)
+        <Sync time="218.156" />
+        mais il peut y avoir aussi une insertion ou une délétion de nucléotides qui vont décaler tout le reste euh de la séquence
+        <Sync time="223.374" />
+        alors ces gènes qui peuvent être euh qui peuvent être touchés par des euh par des mutations c'est des gènes qui ont un rôle de contrôle dans la division de la cellule
+        <Sync time="231.609" />
+        si bien que si ils sont mutés la cellule va se diviser de manière complètement anarchique jusqu'à créer des tumeurs
+        <Sync time="237.135" />
+        alors évidemment c'est ce sera une nouvelle pour personne
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        le cancer c'est une maladie qui est extrêmement grave euh en l'an deux mille en France on a re- on a recensé cent cinquante mille décès
+        <Sync time="245.437" />
+        c'est pour ça qu'un des enjeu de la recherche euh bio- en bio- biologique et médicale actuellement c'est la la mise au point d'un diagnostic précoce
+        <Sync time="254.202" />
+        c'est-à-dire que au plus tôt on va détecter la maladie du patient meilleure va être sa prise en charge dans la suite
+        <Sync time="259.25" />
+        d'où la nécessité de trouver des molécules qu'on appelle euh qu'on appelle des biomarqueurs euh dont la quantité va être différente chez des patients qui seraient malades et des patients qui seraient sains
+        <Sync time="268.843" />
+        c'est un petit peu ce qu'on va s'attacher à à faire dans cette étude à aller voir quelles pourraient être ces ces molécules d'intérêt
+        <Sync time="274.813" />
+        donc à l'arrivée de ma thèse euh la société ¤S1¤ a a soumis la question euh originale suivante
+        <Sync time="280.257" />
+        c'est est-ce qu'il est possible de trouver chez l'homme des A.R.N. messagers dont la séquence nucléotidique serait différente dans le cas cancer et dans le cas normal
+        <Sync time="287.543" />
+        donc pour tester ça
+        <Sync time="288.911" />
+        pour
+        <Event desc="un portable sonne" type="noise" extent="instantaneous" />
+        vérifier cette euh cette hypothèse
+        <Sync time="291.739" />
+        on a choisi dix-sept gènes d'intérêt pour lesquels à chacune des positions de la séquence euh de la séquence d'A.R.N. messager on va comparer la probabilité d'avoir une substitution dans le cas cancer et dans le et dans le cas sain +
+        <Sync time="305.341" />
+        alors le le problème qu'on a c'est que l'A.R.N. messager c'est une molécule qui est instable et on va pas pouvoir le séquencer directement pour créer un échantillon représentatif et pour que nous les st- les st- les st-statisticiens pardon on puisse travailler dessus
+        <Sync time="318.399" />
+        alors pour ça on va faire appel aux E.S.T. pour Expressed Sequence Tags
+        <Event desc="en" type="language" extent="previous" />
+        ce qui veut dire marqueurs de séquences exprimés en français qui vont nous permettre d'avoir une idée euh de ce qui se passe sur l'A.R.N. messager
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="328.527" />
+        donc je vais ra- rappeler brièvement comment on les obtient donc on part de l'ensemble des A.R.N. messagers qui sont présents euh dans une préparation qui a été issue d'un tissu donc je rappelle simplement les A.R.N. messagers sont issus de la transcription à partir de l'A.D.N.
+        <Sync time="340.574" />
+        de ces A.R.N. messagers on va les reconstituer euh par complémentarité l'A.D.N. à partir duquel ils ont été transcrits c'est ce qu'on appelle l'A.D.N. complémentaire
+        <Sync time="350.581" />
+        euh cette phase-là s'appelle euh assez assez logiquement la transcription inverse
+        <Sync time="355.754" />
+        une fois qu'on a construit l'A.D.N. complémentaire on va aller euh on va aller le couper en plusieurs petits morceaux d'où la longueur assez court
+        <Comment desc="sic" />
+        des E.S.T. environ cinq cents nucléotides par rapport à la longueur totale des A.R.N. messagers
+        <Sync time="366.243" />
+        et euh leur séquence de de nucléotides va être lue euh par un séquenceur
+        <Sync time="371.1" />
+        c'est ce qu'on appelle les E.S.T. qu'on obtient donc à la fin du séquençage si bien qu'on va obtenir une euh une correspondance indirecte entre les A.R.N. messagers et les E.S.T.
+        <Sync time="381.726" />
+        le problème c'est que le prix qu'on va payer pour pouvoir euh avoir un échantillon qui nous donne une idée de ce qui se passe sur les A.R.N. messagers c'est l'erreur du séquençage
+        <Sync time="389.521" />
+        en fait dans dans toute cette phase que j'ai représentée en en bleu qui serait une un phénomène de synthèse euh entre guillemets
+        <Sync time="397.401" />
+        on on va perdre une certaine information c'est-à-dire que certains nucléotides vont être mal remplacés vont être mal mal recopiés sur les E.S.T. par rapport à l'A.R.N. messager de de départ
+        <Sync time="405.881" />
+        donc vu que nous on va s'intéresser dans la suite euh à à calculer des probabilités de d'erreurs il est évidemment important de de prendre en compte ces erreurs de ces erreurs de séquençage-là dans le modèle
+        <Sync time="415.766" />
+        alors par contre ce dont on dispose c'est de de la séquence de référence pour chacun des dix-sept gènes
+        <Sync time="421.109" />
+        c'est à dire euh de la séquence entre guillemets canonique qui nous donne exactement ce qu'on a au niveau de l'A.R.N. messager pour chacun des gènes
+        <Sync time="427.514" />
+        ce qui est important de noter c'est que c'est la même dans le cas cancer et dans le cas normal
+        <Sync time="430.924" />
+        alors avant de mettre en place euh l'approche statistique il reste une phase
+        <Sync time="434.954" />
+        euh c'est la récupération des données et leur tri euh les E.S.T. euh sont disponibles sur euh sur Internet en ligne dans la bande de données du système T.D.I.
+        <Sync time="442.109" />
+        au moment de de l'étude il y avait deux millions six E.S.T. cancéreux qui étaient disponibles pour nos dix-sept gènes et deux millions six d'E.S.T. sains
+        <Sync time="448.387" />
+        alors pour chacun des gènes avec le logi- avec le logiciel BLAST on va aller les aligner contre la séquence de référence
+        <Sync time="455.534" />
+        c'est-à-dire qu'on va pouvoir comparer les E.S.T. euh dont on dispose à la séquence euh la séquence représentative référente du gène
+        <Sync time="462.957" />
+        donc sur le dessin il y a la séquence de référence qui est représentée donc en haut en bleu euh un peu plus gras qui est la même dans le cas cancer et dans le cas normal
+        <Sync time="469.536" />
+        maintenant si on regarde les les E.S.T. euh on va s'apercevoir qu'à certaines positions il y a certaines erreurs
+        <Sync time="475.472" />
+        donc si je me concentre là sur la position du milieu où il y a un T on va remarquer que dans le cas cancéreux sur les la dizaine d'E.S.T. que j'ai alignée il va y avoir trois erreurs
+        <Sync time="484.034" />
+        et puis dans le cas sain il y a une erreur + il y a un A donc c'est c'est ces probabilités là qu'on va essayer de ben déjà d'estimer puis de comparer par la suite
+        <Sync time="493.124" />
+        donc si je me place maintenant à une position euh donnée d'une des séquences de référence des des dix-sept gènes je vais appeler P un la probabilité d'avoir substitution dans le cas cancer et P deux une substitution dans le cas normal
+        <Sync time="504.46" />
+        le test que je vais euh enfin sur les A.R.N. messagers + euh le test que je vais chercher à réaliser c'est le test qui est qui est écrit ici donc d'hypothèse nulle P un plus petit que P deux et d'hypothèse H un P un plus grand que P deux
+        <Sync time="515.947" />
+        alors le le problème c'est que ces ces probabilités-là on peut pas les estimer directement
+        <Sync time="521.727" />
+        parce que comme j'avais expliqué on n'a pas accès à l'A.R.N. messager on a accès qu'à un qu'à un qu'à un miroir déformé entre guillemets que sont les E.S.T.
+        <Sync time="528.521" />
+        donc on va essayer de mesurer l'impact de l'erreur de séquençage sur euh sur ce test-là et voir ce qu'on peut déduire en réalisant le test sur les E.S.T.
+        <Sync time="536.317" />
+        donc je me place toujours avec une position B euh une position I où il y a une base B de la séquence de référence et en concertation avec les biologistes on fait trois hypothèses sur l'erreur de séquençage
+        <Sync time="546.27" />
+        d'abord on va supposer que la probabilité epsilon
+        <Event desc="grec" type="language" extent="previous" />
+        d'avoir une erreur de séquençage elle est la même que du côté cancer que dans que du côté sain
+        <Sync time="552.426" />
+        ce qui paraît assez raisonnable dans la mesure où les E.S.T. sont sont fabriqués entre guillemets de la même manière qu'on soit dans un can- dans le cas cancéreux où dans le cas sain
+        <Sync time="560.348" />
+        il y a deux autres hypothèses qui suivent la première euh enfin la deuxième c'est qu'on suppose que l'erreur de séquençage elle va elle va affecter de la même manière euh un T un A un T un C ou un G sur la base de référence
+        <Sync time="572.239" />
+        quellle que soit la base que je vais trouver sur la séquence je vais avoir la même probabilité d'avoir une erreur de séquençage à cet endroit-là
+        <Sync time="577.818" />
+        enfin la dernière hypothèse que je fais c'est que si il y a une erreur de séquençage à un endroit euh la base est remplacée uniformément par l'une des trois autres bases avec une probabilité epsilon sur trois
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

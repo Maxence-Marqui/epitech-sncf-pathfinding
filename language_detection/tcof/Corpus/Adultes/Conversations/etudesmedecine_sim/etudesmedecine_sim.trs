@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Corpus" audio_filename="EtudesMédecine_ANON_SIM" version="19" version_date="110503">
+  <Speakers>
+    <Speaker id="spk1" name="L1" scope="local" />
+    <Speaker id="spk2" name="L2" scope="local" />
+    <Speaker id="spk3" name="L3" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="608.848">
+      <Turn speaker="spk1" startTime="0.0" endTime="0.188">
+        <Sync time="0.0" />
+        en fait &lt; si je fais euh
+      </Turn>
+      <Turn speaker="spk3" startTime="0.188" endTime="1.118">
+        <Sync time="0.188" />
+        mais euh &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="1.118" endTime="11.682">
+        <Sync time="1.118" />
+        le le le
+        <Event desc="l2m" type="pronounce" extent="previous" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        le bilan de tout
+        <Event desc="b" type="noise" extent="instantaneous" />
+        + physique j'ai complètement loupé ça c'est clair et net +
+        <Sync time="7.844" />
+        euh chimie je sais pas donc je peux pas dire + hum
+        <Event desc="tx" type="noise" extent="previous" />
+        &lt; après tu as
+      </Turn>
+      <Turn speaker="spk2" startTime="11.682" endTime="12.803">
+        <Sync time="11.682" />
+        tu veux euh rien d'autre après &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="12.803" endTime="13.165">
+        <Sync time="12.803" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="13.165" endTime="30.51">
+        <Sync time="13.165" />
+        bio. cell.
+        <Comment desc="abréviation de biologie cellulaire" />
+        j'ai sauvé les meubles
+        <Sync time="15.26" />
+        anat.
+        <Comment desc="abréviation de anatomie" />
+        on va dire j'ai plutôt réussi +
+        <Sync time="18.292" />
+        biochimie j'ai + je sais pas c'est comme la chimie
+        <Sync time="22.337" />
+        et euh
+        <Event desc="9m" type="pronounce" extent="previous" />
+        enfin
+        <Event desc="fe~" type="pronounce" extent="previous" />
+        j'ai sauvé les meubles quand même
+        <Sync time="25.364" />
+        et euh
+        <Event desc="9m" type="pronounce" extent="previous" />
+        il y a quoi d'autre comme matière bio. stats
+        <Comment desc="abréviation de statistiques appliquées à la biologie" />
+        + &lt; ***
+      </Turn>
+      <Turn speaker="spk3" startTime="30.51" endTime="32.423">
+        <Sync time="30.51" />
+        physique et stats
+        <Comment desc="abréviation de statistiques" />
+        moi je crois &gt; que c'est celui où je me suis le plus plantée
+      </Turn>
+      <Turn speaker="spk1" startTime="32.423" endTime="34.026">
+        <Sync time="32.423" />
+        donc le problème c'est que je peux
+        <Event desc="b" type="noise" extent="previous" />
+        pas dire c'est qu'il y a &lt; quand même trois matières
+      </Turn>
+      <Turn speaker="spk3" startTime="34.026" endTime="35.557">
+        <Sync time="34.026" />
+        il faut dire il faut dire qu'il y a &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="35.557" endTime="41.48">
+        <Sync time="35.557" />
+        où je peux vraiment rien dire dessus
+        <Event desc="b" type="noise" extent="previous" />
+        <Sync time="36.932" />
+        je peux pas dire si j'ai réussi
+        <Event desc="b" type="noise" extent="previous" />
+        ou si j'ai raté parce que la plupart euh
+        <Sync time="39.245" />
+        j'ai mis un peu
+        <Event desc="b" type="noise" extent="previous" />
+        par déduction &lt; donc euh
+      </Turn>
+      <Turn speaker="spk3" startTime="41.48" endTime="43.854">
+        <Sync time="41.48" />
+        justement &gt; généralement quand tu mets par déduction c'est pas bon
+      </Turn>
+      <Turn speaker="spk1" startTime="43.854" endTime="44.571">
+        <Sync time="43.854" />
+        c'est jamais trop bon ***
+      </Turn>
+      <Turn speaker="spk3" startTime="44.571" endTime="46.288">
+        <Sync time="44.571" />
+        moi la chimie
+        <Event desc="Simjo" type="pronounce" extent="previous" />
+        j'ai presque tout mis &lt; hein mis par euh pas bon
+      </Turn>
+      <Turn speaker="spk1" startTime="46.288" endTime="47.328">
+        <Sync time="46.288" />
+        ben moi aussi
+        <Event desc="b" type="noise" extent="previous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="47.328" endTime="47.924">
+        <Sync time="47.328" />
+        pas bon du tout non
+      </Turn>
+      <Turn speaker="spk1" startTime="47.924" endTime="48.578">
+        <Sync time="47.924" />
+        moi aussi
+      </Turn>
+      <Turn speaker="spk3" startTime="48.578" endTime="51.945">
+        <Sync time="48.578" />
+        surtout les T.P.
+        <Comment desc="sigle = Travaux Pratiques" />
+        <Event desc="e" type="noise" extent="instantaneous" />
+        + mais bon +
+      </Turn>
+      <Turn speaker="spk1" startTime="51.945" endTime="54.382">
+        <Sync time="51.945" />
+        la chimie des T.P.
+        <Comment desc="sigle = Travaux Pratiques" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        +
+      </Turn>
+      <Turn speaker="spk3" startTime="54.382" endTime="58.274">
+        <Sync time="54.382" />
+        hum * toi T.P.
+        <Comment desc="sigle = Travaux Pratiques" />
+        tu as qu'une seule réponse de bonne
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="58.274" endTime="59.161">
+        <Sync time="58.274" />
+        on s'en fout &lt; se planter ***
+      </Turn>
+      <Turn speaker="spk3" startTime="59.161" endTime="61.571">
+        <Sync time="59.161" />
+        parce que c'est &gt; si c'est vrai non je suis sûre que c'est là &lt; ***
+      </Turn>
+      <Turn speaker="spk1" startTime="61.571" endTime="62.214">
+        <Sync time="61.571" />
+        *** &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="62.214" endTime="64.079">
+        <Sync time="62.214" />
+        /mais,mê-/ même pour les T.P.
+        <Comment desc="sigle = Travaux Pratiques" />
+        tu as qu'une seule réponse possible
+      </Turn>
+      <Turn speaker="spk1" startTime="64.079" endTime="66.755">
+        <Sync time="64.079" />
+        * bien sûr c'est
+        <Event desc="b" type="noise" extent="previous" />
+        bizarre leur truc
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="66.755" endTime="68.763">
+        <Sync time="66.755" />
+        ou c'est qu'elle est vraiment conne hein
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        excuse-moi mais
+      </Turn>
+      <Turn speaker="spk1" startTime="68.763" endTime="78.211">
+        <Sync time="68.763" />
+        ben non même pas c'est qu'ils sont tous cons puisque après euh c'est pas la seule à avoir fait le sujet hein
+        <Sync time="73.522" />
+        le ¤N1¤ et tout tu imagines lui le ¤N1¤ ne pas faire un + un truc régressif
+      </Turn>
+      <Turn speaker="spk3" startTime="78.211" endTime="80.596">
+        <Sync time="78.211" />
+        attends
+        <Event desc="ta~" type="pronounce" extent="previous" />
+        +
+      </Turn>
+      <Turn speaker="spk1" startTime="80.596" endTime="80.835">
+        <Sync time="80.596" />
+        bizarre
+      </Turn>
+      <Turn speaker="spk3" startTime="80.835" endTime="85.895">
+        <Sync time="80.835" />
+        ou ou à moins qu'il y avait vraiment plein de faux ou
+        <Event desc="b" type="noise" extent="previous" />
+        plein de vrais
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Sync time="83.769" />
+        plein de tout vrai ou plein de tout faux +
+        <Event desc="bb" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="85.895" endTime="89.763">
+        <Sync time="85.895" />
+        ben oui mais quand il y a des calculs et puis que tu as euh trente six réponses
+        <Sync time="88.723" />
+        tu en as qu'une de juste
+        <Event desc="b" type="noise" extent="instantaneous" />
+        &lt; ***
+      </Turn>
+      <Turn speaker="spk3" startTime="89.763" endTime="98.607">
+        <Sync time="89.763" />
+        oui mais des fois &gt; euh tu vois comme en physique des fois on calcule on trouve pas le même euh résultat +
+        <Sync time="94.185" />
+        et c- tout est faux quand tu trouves pas le même résultat alors à moins qu'ils avaient fait pareil +
+      </Turn>
+      <Turn speaker="spk1" startTime="98.607" endTime="106.337">
+        <Sync time="98.607" />
+        en chimie non c'était pas trop possible parce /qu'à,que/ chaque fois c'étaient les mêmes unités +
+        <Sync time="102.009" />
+        * donc forcément il y avait un
+        <Event desc="b" type="noise" extent="previous" />
+        <Sync time="103.201" />
+        ah oui soit tout faux ou oui mais tout vrai c'est impossible &lt; soit un vrai soit tout faux
+      </Turn>
+      <Turn speaker="spk3" startTime="106.337" endTime="108.655">
+        <Sync time="106.337" />
+        oui ben oui ouais oui &gt; oui oui
+      </Turn>
+      <Turn speaker="spk1" startTime="108.655" endTime="110.162">
+        <Sync time="108.655" />
+        ah oui ça ça arrive oui
+      </Turn>
+      <Turn speaker="spk3" startTime="110.162" endTime="116.362">
+        <Sync time="110.162" />
+        alors à moins qu'ils nous ont fait ça tout le temps +
+        <Sync time="112.439" />
+        même qu'à chaque fois en physique quand je trouvais jamais la même réponse
+        <Sync time="114.299" />
+        je recalculais tout le temps et je sais
+        <Event desc="b" type="noise" extent="previous" />
+        jamais je me j- dis &lt; *
+      </Turn>
+      <Turn speaker="spk1" startTime="116.362" endTime="116.577">
+        <Sync time="116.362" />
+        tu perds &gt; trop de temps
+      </Turn>
+      <Turn speaker="spk3" startTime="116.577" endTime="117.014">
+        <Sync time="116.577" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="117.014" endTime="144.775">
+        <Sync time="117.014" />
+        justement ils s'amusent
+        <Event desc="b" type="noise" extent="previous" />
+        là-dessus hein ils le savent qu'on recalculera si on trouve pas ///
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Sync time="126.324" />
+        eh ben maintenant c'est fait on verra bien hein ///
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Sync time="140.813" />
+        ¤P1¤ est-ce que tu as vu tous les muscles qu'on a à apprendre au deuxième quad.
+        <Comment desc="abréviation de quadrimestre" />
+      </Turn>
+      <Turn speaker="spk2" startTime="144.775" endTime="145.4">
+        <Sync time="144.775" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="145.4" endTime="150.77">
+        <Sync time="145.4" />
+        eh ben je vais te montrer + jusqu'à la fin du bouquin + sachant qu'il y a pas &lt; que les muscles hein
+      </Turn>
+      <Turn speaker="spk3" startTime="150.77" endTime="152.487">
+        <Sync time="150.77" />
+        prends la largeur ça ira mieux &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="152.487" endTime="154.848">
+        <Sync time="152.487" />
+        ah ouais hum
+        <Event desc="b" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="154.848" endTime="158.473">
+        <Sync time="154.848" />
+        sachant qu'il y a pas que les muscles hein là il y a que les muscles dans le bouquin
+      </Turn>
+      <Turn speaker="spk3" startTime="158.473" endTime="159.809">
+        <Sync time="158.473" />
+        il y a toutes les articulations
+        <Event desc="b" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="159.809" endTime="161.888">
+        <Sync time="159.809" />
+        et puis tu as vite tendance à les mélanger ils se ressemblent tous
+      </Turn>
+      <Turn speaker="spk3" startTime="161.888" endTime="164.702">
+        <Sync time="161.888" />
+        ah ouais l'anat.
+        <Comment desc="abréviation de anatomie" />
+        je vais l'apprendre dès le début la hum &lt; ***
+      </Turn>
+      <Turn speaker="spk1" startTime="164.702" endTime="165.823">
+        <Sync time="164.702" />
+        ah moi aussi &gt; hein
+        <Event desc="b" type="noise" extent="instantaneous" />
+        &lt; je la reverrai ***
+      </Turn>
+      <Turn speaker="spk3" startTime="165.823" endTime="171.07">
+        <Sync time="165.823" />
+        la génèt.
+        <Comment desc="abréviation de génétique" />
+        pareil &gt;
+        <Sync time="166.945" />
+        il y a peut être /que,0/ les stats
+        <Comment desc="abréviation de statistiques" />
+        que j'apprendrais pas dès le début +
+      </Turn>
+      <Turn speaker="spk1" startTime="171.07" endTime="171.48">
+        <Sync time="171.07" />
+        euh
+      </Turn>
+      <Turn speaker="spk3" startTime="171.48" endTime="177.251">
+        <Sync time="171.48" />
+        la génèt.
+        <Comment desc="abréviation de génétique" />
+        sûr je l'apprends dès le début anat.
+        <Comment desc="abréviation de anatomie" />
+        la chimie
+      </Turn>
+      <Turn speaker="spk1" startTime="177.251" endTime="178.825">
+        <Sync time="177.251" />
+        ouais parce que c'est long
+      </Turn>
+      <Turn speaker="spk3" startTime="178.825" endTime="181.043">
+        <Sync time="178.825" />
+        faut vraiment que je l'apprenne dès le début la chimie +
+      </Turn>
+      <Turn speaker="spk1" startTime="181.043" endTime="183.433">
+        <Sync time="181.043" />
+        la physique tu peux te permettre de l'apprendre vers la fin
+      </Turn>
+      <Turn speaker="spk2" startTime="183.433" endTime="185.179">
+        <Sync time="183.433" />
+        un beau bordel quand même hein
+      </Turn>
+      <Turn speaker="spk1" startTime="185.179" endTime="185.47">
+        <Sync time="185.179" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" startTime="185.47" endTime="187.933">
+        <Sync time="185.47" />
+        eh ben je te signale que ton bordel il est dans toi
+      </Turn>
+      <Turn speaker="spk1" startTime="187.933" endTime="189.75">
+        <Sync time="187.933" />
+        on est bien fait hein
+      </Turn>
+      <Turn speaker="spk2" startTime="189.75" endTime="191.314">
+        <Sync time="189.75" />
+        un peu compliqué +
+      </Turn>
+      <Turn speaker="spk1" startTime="191.314" endTime="193.442">
+        <Sync time="191.314" />
+        ouais on est trop bien fait
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="193.442" endTime="199.098">
+        <Sync time="193.442" />
+        ah ouais c'est *
+        <Event desc="b" type="noise" extent="instantaneous" />
+        ///
+      </Turn>
+      <Turn speaker="spk1" startTime="199.098" endTime="201.984">
+        <Sync time="199.098" />
+        stats
+        <Comment desc="abréviation de statistiques" />
+        ***
+      </Turn>
+      <Turn speaker="spk3" startTime="201.984" endTime="210.307">
+        <Sync time="201.984" />
+        ben oui enfin
+        <Event desc="fe~" type="pronounce" extent="previous" />
+        au premier quad. on a + on a histo.
+        <Comment desc="abréviation de histologie" />
+        et tout ce qui va avec + hum
+      </Turn>
+      <Turn speaker="spk1" startTime="210.307" endTime="214.104">
+        <Sync time="210.307" />
+        oh vous pouvez me dire comment on comment on on efface des programmes sur une calculette
+      </Turn>
+      <Turn speaker="spk2" startTime="214.104" endTime="215.707">
+        <Sync time="214.104" />
+        ah ouais je vais te le faire moi
+      </Turn>
+      <Turn speaker="spk1" startTime="215.707" endTime="216.308">
+        <Sync time="215.707" />
+        tu me le fais
+      </Turn>
+      <Turn speaker="spk2" startTime="216.308" endTime="218.364">
+        <Sync time="216.308" />
+        ouais si tu veux
+      </Turn>
+      <Turn speaker="spk1" startTime="218.364" endTime="221.564">
+        <Sync time="218.364" />
+        je vais effacer mes les trucs de stats
+        <Comment desc="abréviation de statistiques" />
+        du premier quad. &lt; ils serviront pas au deuxième
+      </Turn>
+      <Turn speaker="spk3" startTime="221.564" endTime="223.83">
+        <Sync time="221.564" />
+        ben /oui,non/ &gt; ça t'a servi
+      </Turn>
+      <Turn speaker="spk1" startTime="223.83" endTime="227.183">
+        <Sync time="223.83" />
+        pff penses-tu que ça m'a servi que dalle ouais + ce que j'avais &lt; mis
+      </Turn>
+      <Turn speaker="spk2" startTime="227.183" endTime="227.677">
+        <Sync time="227.183" />
+        * &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="227.677" endTime="233.084">
+        <Sync time="227.677" />
+        soit je le connaissais donc j'avais pas besoin
+        <Sync time="229.502" />
+        ou alors euh les questions où je regardais dedans il y était pas ok euh
+      </Turn>
+      <Turn speaker="spk2" startTime="233.084" endTime="234.162">
+        <Sync time="233.084" />
+        j'efface tout
+      </Turn>
+      <Turn speaker="spk1" startTime="234.162" endTime="240.195">
+        <Sync time="234.162" />
+        tu effaces tout + on (n')a pas besoin hein il y a plein de trucs hein ***
+      </Turn>
+      <Turn speaker="spk3" startTime="240.195" endTime="241.702">
+        <Sync time="240.195" />
+        elle nous a mis les cours de biostats
+        <Comment desc="abréviation de statistiques appliquées à la biologie" />
+      </Turn>
+      <Turn speaker="spk1" startTime="241.702" endTime="258.829">
+        <Sync time="241.702" />
+        non j'ai pas mis le cours en fait
+        <Sync time="243.333" />
+        j'ai euh j'ai repris des exemples dans euh dans les Q.C.
+        <Event desc="kys" type="pronounce" extent="previous" />
+        <Comment desc="abréviation de Q.C.M. {sigle = Questions à Choix Multiples}" />
+        <Sync time="246.514" />
+        et puis vu que c'était pas du tout le même genre euh ///
+        <Event desc="b" type="noise" extent="begin" />
+        <Sync time="252.433" />
+        je me suis fait chier à tout taper pour rien
+        <Event desc="b" type="noise" extent="end" />
+        <Sync time="254.397" />
+        je m'en suis servie
+        <Event desc="b" type="noise" extent="previous" />
+        si je m'en suis servie pour la loi si elle était symétrique ou asymétrique là
+      </Turn>
+      <Turn speaker="spk3" startTime="258.829" endTime="259.11">
+        <Sync time="258.829" />
+        ah ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="259.11" endTime="263.627">
+        <Sync time="259.11" />
+        une fois je m'en suis servie et encore je m'en doutais parce que c'était écrit exclusivement symétrique
+        <Sync time="263.373" />
+        je me suis &lt; dit
+        <Event desc="b" type="noise" extent="previous" />
+        ça doit être ça
+      </Turn>
+      <Turn speaker="spk3" startTime="263.627" endTime="265.75">
+        <Sync time="263.627" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="265.75" endTime="271.311">
+        <Sync time="265.75" />
+        donc génial
+        <Event desc="b" type="noise" extent="instantaneous" />
+        + tu effaces même les titres hein
+      </Turn>
+      <Turn speaker="spk2" startTime="271.311" endTime="272.122">
+        <Sync time="271.311" />
+        ouais
+        <Event desc="b" type="noise" extent="previous" />
+        je t'efface tout
+        <Event desc="b" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="272.122" endTime="277.559">
+        <Sync time="272.122" />
+        ouais bon ben vas-y efface tout
+        <Sync time="274.293" />
+        de toute façon j'en ai plus besoin hein euh je pense pas que
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Sync time="276.773" />
+        c'est pas du tout pareil au deuxième quad.
+        <Comment desc="abréviation de quadrimestre" />
+        &lt; ***
+      </Turn>
+      <Turn speaker="spk3" startTime="277.559" endTime="280.707">
+        <Sync time="277.559" />
+        euh &gt; ///
+      </Turn>
+      <Turn speaker="spk1" startTime="280.707" endTime="281.971">
+        <Sync time="280.707" />
+        ben et puis même je remettrai hein
+      </Turn>
+      <Turn speaker="spk3" startTime="281.971" endTime="286.636">
+        <Sync time="281.971" />
+        les lois les lois en fait si parce que
+        <Event desc="psk@" type="pronounce" extent="previous" />
+        comme je disais à ¤P2¤ en fait au premier quad.
+        <Comment desc="abréviation de quadrimestre" />
+        <Sync time="285.487" />
+        tout ce qu'il faut qu'on sache c'est juste &lt; savoir
+      </Turn>
+      <Turn speaker="spk1" startTime="286.636" endTime="287.328">
+        <Sync time="286.636" />
+        ah oui &gt; pour les appliquer
+      </Turn>
+      <Turn speaker="spk3" startTime="287.328" endTime="288.83">
+        <Sync time="287.328" />
+        et on les applique au deuxième
+      </Turn>
+      <Turn speaker="spk1" startTime="288.83" endTime="290.643">
+        <Sync time="288.83" />
+        ben c'est pas grave je les remettrai
+      </Turn>
+      <Turn speaker="spk2" startTime="290.643" endTime="291.649">
+        <Sync time="290.643" />
+        j'ai pas encore effacé hein si tu &lt; veux
+      </Turn>
+      <Turn speaker="spk1" startTime="291.649" endTime="294.75">
+        <Sync time="291.649" />
+        ah &gt; ben attends
+        <Event desc="b" type="noise" extent="instantaneous" />
+        ouais ben alors euh
+        <Event desc="b" type="noise" extent="instantaneous" />
+        *
+      </Turn>
+      <Turn speaker="spk3" startTime="294.75" endTime="295.584">
+        <Sync time="294.75" />
+        attends ***
+      </Turn>
+      <Turn speaker="spk1" startTime="295.584" endTime="296.857">
+        <Sync time="295.584" />
+        je te montre ce que tu &lt; effaces pas
+      </Turn>
+      <Turn speaker="spk2" startTime="296.857" endTime="297.544">
+        <Sync time="296.857" />
+        *** &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="297.544" endTime="298.519">
+        <Sync time="297.544" />
+        attends
+      </Turn>
+      <Turn speaker="spk1" startTime="298.519" endTime="305.37">
+        <Sync time="298.519" />
+        *** + tout ce qui est loi tu effaces pas
+        <Sync time="302.063" />
+        quand c'est écrit loi tu effaces pas + tout le reste tu peux
+      </Turn>
+      <Turn speaker="spk2" startTime="305.37" endTime="311.404">
+        <Sync time="305.37" />
+        ben tu veux pas les garder ça te coûte rien ça te fera pas ramer ta calculette ni rien ///
+      </Turn>
+      <Turn speaker="spk3" startTime="311.404" endTime="312.768">
+        <Sync time="311.404" />
+        les lois garde-les hein
+      </Turn>
+      <Turn speaker="spk2" startTime="312.768" endTime="313.197">
+        <Sync time="312.768" />
+        toutes les lois
+      </Turn>
+      <Turn speaker="spk3" startTime="313.197" endTime="313.841">
+        <Sync time="313.197" />
+        mais oui les &lt; les
+      </Turn>
+      <Turn speaker="spk1" startTime="313.841" endTime="314.199">
+        <Sync time="313.841" />
+        c'est &gt; tout hein
+      </Turn>
+      <Turn speaker="spk3" startTime="314.199" endTime="315.277">
+        <Sync time="314.199" />
+        les lois tu les gardes
+      </Turn>
+      <Turn speaker="spk1" startTime="315.277" endTime="316.498">
+        <Sync time="315.277" />
+        non parce que si je remets des trucs &lt; ça fait de la place
+      </Turn>
+      <Turn speaker="spk2" startTime="316.498" endTime="323.729">
+        <Sync time="316.498" />
+        mais &gt; *** la petite étoile ça veux dire que j'efface +
+        <Sync time="319.116" />
+        ça veux dire kappa indicate formule experiment données org données quan données qual.
+        <Comment desc="énumération de noms de programmes" />
+        euh
+      </Turn>
+      <Turn speaker="spk1" startTime="323.729" endTime="324.044">
+        <Sync time="323.729" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="324.044" endTime="324.24">
+        <Sync time="324.044" />
+        tout ça j'enlève
+      </Turn>
+      <Turn speaker="spk1" startTime="324.24" endTime="324.454">
+        <Sync time="324.24" />
+        ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="324.454" endTime="326.104">
+        <Sync time="324.454" />
+        tout ça on l'aura plus au deuxième quad.
+        <Comment desc="abréviation de quadrimestre" />
+      </Turn>
+      <Turn speaker="spk2" startTime="326.104" endTime="326.633">
+        <Sync time="326.104" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="326.633" endTime="327.468">
+        <Sync time="326.633" />
+        tu g- tu gardes que loi
+      </Turn>
+      <Turn speaker="spk2" startTime="327.468" endTime="329.781">
+        <Sync time="327.468" />
+        le moyerfor
+        <Comment desc="nom d'un programme" />
+        ça je le garde ou pas
+      </Turn>
+      <Turn speaker="spk1" startTime="329.781" endTime="331.141">
+        <Sync time="329.781" />
+        non non non
+      </Turn>
+      <Turn speaker="spk3" startTime="331.141" endTime="332.267">
+        <Sync time="331.141" />
+        tout sauf les lois il y a que les lois qu'on conserve &lt; * deuxième quad.
+        <Comment desc="abréviation quadrimestre" />
+      </Turn>
+      <Turn speaker="spk1" startTime="332.267" endTime="333.989">
+        <Sync time="332.267" />
+        ouais tu laisses &gt; tout ce qui est loi
+      </Turn>
+      <Turn speaker="spk3" startTime="333.989" endTime="335.806">
+        <Sync time="333.989" />
+        je sais même plus ce qu'on avait fait l'année dernière
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="335.806" endTime="337.467">
+        <Sync time="335.806" />
+        ben moi j'ai jamais regardé alors &lt; tu sais
+      </Turn>
+      <Turn speaker="spk2" startTime="337.467" endTime="338.549">
+        <Sync time="337.467" />
+        moi aussi &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="338.549" endTime="341.678">
+        <Sync time="338.549" />
+        oui parce qu'au deuxième quad.
+        <Comment desc="abréviation de quadrimestre" />
+        on a quoi +
+        <Sync time="340.749" />
+        on a beaucoup de matières on a
+      </Turn>
+      <Turn speaker="spk1" startTime="341.678" endTime="342.827">
+        <Sync time="341.678" />
+        bio. stats
+        <Comment desc="abréviation statistiques appliquées à la biologie" />
+        &lt; bio. physique
+      </Turn>
+      <Turn speaker="spk3" startTime="342.827" endTime="345.928">
+        <Sync time="342.827" />
+        bio. physique &gt; enfin bio. stats
+        <Comment desc="abréviation statistiques appliquées à la biologie" />
+        bio. physique histo.
+        <Comment desc="abréviation de histologie" />
+      </Turn>
+      <Turn speaker="spk1" startTime="345.928" endTime="347.602">
+        <Sync time="345.928" />
+        histo.
+        <Comment desc="abréviation de histologie" />
+        physio.
+        <Comment desc="abréviation de physiologie" />
+      </Turn>
+      <Turn speaker="spk3" startTime="347.602" endTime="348.007">
+        <Sync time="347.602" />
+        physio.
+        <Comment desc="abréviation de physiologie" />
+      </Turn>
+      <Turn speaker="spk1" startTime="348.007" endTime="348.26">
+        <Sync time="348.007" />
+        &lt; anat.
+        <Comment desc="abréviation de anatomie" />
+      </Turn>
+      <Turn speaker="spk3" startTime="348.26" endTime="348.914">
+        <Sync time="348.26" />
+        anat.
+        <Comment desc="abréviation de anatomie" />
+        &gt; &lt; S.H.S.
+        <Comment desc="sigle = Sciences Humaines et Sociales" />
+      </Turn>
+      <Turn speaker="spk2" startTime="348.914" endTime="349.385">
+        <Sync time="348.914" />
+        ah alors en &gt; fait
+      </Turn>
+      <Turn speaker="spk3" startTime="349.385" endTime="350.012">
+        <Sync time="349.385" />
+        &lt; S.H.S.
+        <Comment desc="sigle = Sciences Humaines et Sociales" />
+        bioch.
+        <Comment desc="abréviation de biochimie" />
+      </Turn>
+      <Turn speaker="spk2" startTime="350.012" endTime="351.642">
+        <Sync time="350.012" />
+        je te les ai pas effacés &gt; je te les ai archivés
+      </Turn>
+      <Turn speaker="spk1" startTime="351.642" endTime="352.62">
+        <Sync time="351.642" />
+        ça fait sept matières
+      </Turn>
+      <Turn speaker="spk2" startTime="352.62" endTime="352.863">
+        <Sync time="352.62" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="352.863" endTime="356.278">
+        <Sync time="352.863" />
+        il y en a plus + on en a encore +
+      </Turn>
+      <Turn speaker="spk1" startTime="356.278" endTime="361.338">
+        <Sync time="356.278" />
+        la S.H.S.
+        <Comment desc="sigle = Sciences Humaines et Sociales" />
+        et euh + et physio.
+        <Comment desc="abréviation de physiologie" />
+        en plus
+      </Turn>
+      <Turn speaker="spk3" startTime="361.338" endTime="363.819">
+        <Sync time="361.338" />
+        et b- et bioch.
+        <Comment desc="abréviation de biochimie" />
+        on n'avait pas l'année dernière
+      </Turn>
+      <Turn speaker="spk1" startTime="363.819" endTime="366.781">
+        <Sync time="363.819" />
+        non mais je veux dire on l'a euh par rapport à euh je parle au premier quad.
+        <Comment desc="abréviation de quadrimestre" />
+      </Turn>
+      <Turn speaker="spk3" startTime="366.781" endTime="367.263">
+        <Sync time="366.781" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="367.263" endTime="370.606">
+        <Sync time="367.263" />
+        on a S.H.S.
+        <Comment desc="sigle = Sciences Humaines et Sociales" />
+        et euh physio.
+        <Comment desc="abréviation de physiologie" />
+        en plus
+        <Sync time="369.264" />
+        puisqu'histo.
+        <Comment desc="abréviation de histologie" />
+        c'est comme euh
+      </Turn>
+      <Turn speaker="spk3" startTime="370.606" endTime="371.274">
+        <Sync time="370.606" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="371.274" endTime="381.314">
+        <Sync time="371.274" />
+        comme bio. cell.
+        <Comment desc="abréviation de biologie cellulaire" />
+        <Sync time="372.519" />
+        puis ça veut dire qu'en bio. cell.
+        <Comment desc="abréviation de biologie cellulaire" />
+        il faut absolument que j'arrive +
+        <Sync time="376.234" />
+        euh c'est quoi comme matières qu'on n'a plus par contre +
+        <Sync time="380.552" />
+        physique on l'a encore &lt; chimie on l'a encore
+      </Turn>
+      <Turn speaker="spk2" startTime="381.314" endTime="382.988">
+        <Sync time="381.314" />
+        voilà tiens &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="382.988" endTime="385.444">
+        <Sync time="382.988" />
+        merci + ah nickel
+      </Turn>
+      <Turn speaker="spk3" startTime="385.444" endTime="394.888">
+        <Sync time="385.444" />
+        il y a que bio. cell.
+        <Comment desc="abréviation de biologie cellulaire" />
+        puisqu'on a anat.
+        <Comment desc="abréviation de anatomie" />
+        <Event desc="b" type="noise" extent="begin" />
+        <Sync time="387.789" />
+        aussi on a tout on a encore bioch.
+        <Comment desc="abréviation de biochimie" />
+        +
+        <Sync time="392.217" />
+        on a encore physique on a encore stats
+        <Comment desc="abréviation de statistiques" />
+        <Event desc="b" type="noise" extent="end" />
+      </Turn>
+      <Turn speaker="spk1" startTime="394.888" endTime="395.68">
+        <Sync time="394.888" />
+        on a tout alors
+      </Turn>
+      <Turn speaker="spk3" startTime="395.68" endTime="397.163">
+        <Sync time="395.68" />
+        on a tout sauf euh bio. cell.
+        <Comment desc="abréviation de biologie cellulaire" />
+      </Turn>
+      <Turn speaker="spk1" startTime="397.163" endTime="403.769">
+        <Sync time="397.163" />
+        donc ça veut dire que que que c'est pas dramatique si j'ai euh pas la moyenne mais proche quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="403.769" endTime="409.206">
+        <Sync time="403.769" />
+        ben écoute oui + sous la bioch.
+        <Comment desc="abréviation de biochimie" />
+        on a que les lipides glucides
+        <Sync time="406.732" />
+        alors il y a moyen hein en apprenant que ça euh
+      </Turn>
+      <Turn speaker="spk1" startTime="409.206" endTime="410.232">
+        <Sync time="409.206" />
+        c'est énorme
+      </Turn>
+      <Turn speaker="spk3" startTime="410.232" endTime="412.788">
+        <Sync time="410.232" />
+        oui c'est une grosse partie mais
+        <Event desc="b" type="noise" extent="begin" />
+        je veux dire maintenant euh
+        <Event desc="b" type="noise" extent="end" />
+        &lt; ça sera pas
+      </Turn>
+      <Turn speaker="spk1" startTime="412.788" endTime="414.458">
+        <Sync time="412.788" />
+        tu prends &gt; les cours hein Nénette
+        <Event desc="b" type="noise" extent="previous" />
+        lundi hein
+      </Turn>
+      <Turn speaker="spk3" startTime="414.458" endTime="414.749">
+        <Sync time="414.458" />
+        ben oui je les prends
+      </Turn>
+      <Turn speaker="spk1" startTime="414.749" endTime="415.755">
+        <Sync time="414.749" />
+        tu me les passeras mardi
+      </Turn>
+      <Turn speaker="spk3" startTime="415.755" endTime="416.471">
+        <Sync time="415.755" />
+        ben oui je les prendrai
+      </Turn>
+      <Turn speaker="spk1" startTime="416.471" endTime="418.002">
+        <Sync time="416.471" />
+        parce que je commence
+        <Event desc="b" type="noise" extent="previous" />
+        à apprendre dès le début
+      </Turn>
+      <Turn speaker="spk3" startTime="418.002" endTime="422.533">
+        <Sync time="418.002" />
+        hum hum + et je sais même pas ce qu'on a comme cours lundi
+      </Turn>
+      <Turn speaker="spk1" startTime="422.533" endTime="427.04">
+        <Sync time="422.533" />
+        je peux pas te dire j'ai pas mon truc
+        <Event desc="b" type="noise" extent="instantaneous" />
+        +
+      </Turn>
+      <Turn speaker="spk3" startTime="427.04" endTime="432.077">
+        <Sync time="427.04" />
+        oui ben oui je les prendrai
+        <Event desc="b" type="noise" extent="previous" />
+        +
+      </Turn>
+      <Turn speaker="spk1" startTime="432.077" endTime="434.633">
+        <Sync time="432.077" />
+        * je crois que le lundi on n'a pas grand chose
+      </Turn>
+      <Turn speaker="spk3" startTime="434.633" endTime="441.263">
+        <Sync time="434.633" />
+        hum hum et puis tous les jours à huit heures et demi pile +
+        <Sync time="438.414" />
+        à part les jours où j'ai rééduc.
+        <Comment desc="abréviation de rééducation " />
+        <Sync time="439.645" />
+        ah oui moi j'ai rééduc.
+        <Comment desc="abréviation de rééducation " />
+        réadap.
+        <Comment desc="abréviation de réadaptation" />
+        je fais la &lt; même chose
+      </Turn>
+      <Turn speaker="spk1" startTime="441.263" endTime="443.481">
+        <Sync time="441.263" />
+        j'y vais &gt; pas je fais pas kiné.
+        <Comment desc="abréviation de kinésithérapie" />
+        &lt; si
+      </Turn>
+      <Turn speaker="spk3" startTime="443.481" endTime="444.78">
+        <Sync time="443.481" />
+        *** &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="444.78" endTime="446.967">
+        <Sync time="444.78" />
+        je vais pas me charger en plus
+      </Turn>
+      <Turn speaker="spk3" startTime="446.967" endTime="447.945">
+        <Sync time="446.967" />
+        puis en plus c'est long
+      </Turn>
+      <Turn speaker="spk2" startTime="447.945" endTime="450.235">
+        <Sync time="447.945" />
+        c'est vrai +
+      </Turn>
+      <Turn speaker="spk3" startTime="450.235" endTime="450.766">
+        <Sync time="450.235" />
+        nous la première &lt; heure on a
+      </Turn>
+      <Turn speaker="spk1" startTime="450.766" endTime="458.777">
+        <Sync time="450.766" />
+        c'est long mais euh &gt; il y a plein de trucs évidents que tu as même pas besoin d'apprendre
+        <Sync time="454.218" />
+        des trucs non mais je te jure hein
+        <Sync time="455.774" />
+        tu as tu as franchement pas besoin d'apprendre c'est
+        <Comment desc="sic" />
+        des trucs que tu sais &lt; genre euh
+      </Turn>
+      <Turn speaker="spk3" startTime="458.777" endTime="460.199">
+        <Sync time="458.777" />
+        moi je me s- souviens pas &gt; j'ai pas
+      </Turn>
+      <Turn speaker="spk1" startTime="460.199" endTime="466.68">
+        <Sync time="460.199" />
+        enfin moi comme j'ai fait tellement de kiné.
+        <Comment desc="abréviation de kinésithérapie" />
+        aussi que je sais je sais je sais plein de trucs
+        <Sync time="463.859" />
+        mais en fait euh + j'ai fait tellement de kiné.
+        <Comment desc="abréviation de kinésithérapie" />
+        je parle euh
+      </Turn>
+      <Turn speaker="spk3" startTime="466.68" endTime="467.992">
+        <Sync time="466.68" />
+        oui oui je sais par rapport à ta cheville
+      </Turn>
+      <Turn speaker="spk1" startTime="467.992" endTime="475.556">
+        <Sync time="467.992" />
+        euh genre euh le patient a euh +
+        <Sync time="471.135" />
+        euh un problème au niveau de la jambe gauche de quel côté il doit prendre euh la béquille tu vois si c'est la jambe gauche
+      </Turn>
+      <Turn speaker="spk3" startTime="475.556" endTime="476.51">
+        <Sync time="475.556" />
+        c'est droite
+      </Turn>
+      <Turn speaker="spk1" startTime="476.51" endTime="478.871">
+        <Sync time="476.51" />
+        ouais tu as tu as plein de trucs des petits trucs mais évidents &lt; quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="478.871" endTime="481.9">
+        <Sync time="478.871" />
+        ben &gt; il peut pas marcher sur son plâtre c'est con ça
+      </Turn>
+      <Turn speaker="spk1" startTime="481.9" endTime="484.126">
+        <Sync time="481.9" />
+        non non mais un patient qui peut marcher en fait des deux pieds &lt; et
+      </Turn>
+      <Turn speaker="spk2" startTime="484.126" endTime="484.281">
+        <Sync time="484.126" />
+        ah &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="484.281" endTime="486.825">
+        <Sync time="484.281" />
+        il a une at- une atteinte du pied droit par exemple &lt; ben
+      </Turn>
+      <Turn speaker="spk2" startTime="486.825" endTime="487.027">
+        <Sync time="486.825" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="487.027" endTime="491.301">
+        <Sync time="487.027" />
+        bien souvent il y a des gens ils vont prendre du côté droit pour remplacer la jambe tu vois ce que je veux dire
+      </Turn>
+      <Turn speaker="spk2" startTime="491.301" endTime="492.363">
+        <Sync time="491.301" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="492.363" endTime="494.333">
+        <Sync time="492.363" />
+        ben en fait ils ont mal à la jambe droite &lt; donc
+      </Turn>
+      <Turn speaker="spk2" startTime="494.333" endTime="494.345">
+        <Sync time="494.333" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="494.345" endTime="496.6">
+        <Sync time="494.345" />
+        ils vont mettre la béquille du côté droit pour histoire &lt; de pour qu'ils remplacent mais en fait
+      </Turn>
+      <Turn speaker="spk2" startTime="496.6" endTime="498.726">
+        <Sync time="496.6" />
+        ah oui en fait ils marchent sur une jambe &gt; et sur une béquille quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="498.726" endTime="503.544">
+        <Sync time="498.726" />
+        voilà et c'est pas bon en fait il faut mettre
+        <Event desc="b" type="noise" extent="previous" />
+        côté opposé où tu as mal
+        <Event desc="b" type="noise" extent="instantaneous" />
+        +
+        <Sync time="503.258" />
+        tu vois ***
+      </Turn>
+      <Turn speaker="spk2" startTime="503.544" endTime="504.025">
+        <Sync time="503.544" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="504.025" endTime="515.182">
+        <Sync time="504.025" />
+        <Event desc="b" type="noise" extent="next" />
+        les trucs comme ça et il y a plein de trucs regarde en on l'avait même dit en en rééducation ***
+        <Sync time="507.477" />
+        franchement on n'a pas regardé un seul cours de l'année et euh le jour des partiels en fait
+        <Sync time="512.129" />
+        on a fait tout au pif et quand on a lu tu sais à la fin parce qu'on avait fini tôt
+      </Turn>
+      <Turn speaker="spk3" startTime="515.182" endTime="515.592">
+        <Sync time="515.182" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="515.592" endTime="519.279">
+        <Sync time="515.592" />
+        on s'est rendus compte que il y avait des trucs mais vraiment évidents sans apprendre quoi
+        <Event desc="b" type="noise" extent="previous" />
+        &lt; tu
+      </Turn>
+      <Turn speaker="spk3" startTime="519.279" endTime="519.498">
+        <Sync time="519.279" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="519.498" endTime="522.012">
+        <Sync time="519.498" />
+        verras hein il y a
+        <Event desc="b" type="noise" extent="previous" />
+        des trucs évidents hein
+      </Turn>
+      <Turn speaker="spk3" startTime="522.012" endTime="522.518">
+        <Sync time="522.012" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="522.518" endTime="526.243">
+        <Sync time="522.518" />
+        donc euh bon rééducation
+        <Event desc="b" type="noise" extent="previous" />
+        il faudra que tu travailles
+        <Event desc="b" type="noise" extent="previous" />
+        régulièrement quand même
+      </Turn>
+      <Turn speaker="spk3" startTime="526.243" endTime="526.605">
+        <Sync time="526.243" />
+        ben oui parce que &lt; c'est long quand même
+      </Turn>
+      <Turn speaker="spk1" startTime="526.605" endTime="527.702">
+        <Sync time="526.605" />
+        parce
+        <Event desc="b" type="noise" extent="previous" />
+        que ça va être long &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="527.702" endTime="528.179">
+        <Sync time="527.702" />
+        <Event desc="b" type="noise" extent="next" />
+        oui c'est long
+      </Turn>
+      <Turn speaker="spk1" startTime="528.179" endTime="529.109">
+        <Sync time="528.179" />
+        c'est gros coef.
+        <Comment desc="abréviation de coefficient" />
+      </Turn>
+      <Turn speaker="spk3" startTime="529.109" endTime="534.571">
+        <Sync time="529.109" />
+        ben le problème c'est que c'est c'est long tu sais c'est quand même un peu comme la chimie
+        <Sync time="531.797" />
+        quoi ça va être long à c'est pas compliqué mais c'est c'est long à apprendre quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="534.571" endTime="539.909">
+        <Sync time="534.571" />
+        ouais
+        <Event desc="b" type="noise" extent="instantaneous" />
+        ///
+      </Turn>
+      <Turn speaker="spk3" startTime="539.909" endTime="540.633">
+        <Sync time="539.909" />
+        pourquoi tu le dis pas plus fort
+      </Turn>
+      <Turn speaker="spk2" startTime="540.633" endTime="545.169">
+        <Sync time="540.633" />
+        je
+        <Event desc="j@" type="pronounce" extent="previous" />
+        t'aime
+        <Event desc="b" type="noise" extent="previous" />
+        <Comment desc="embrasse L3" />
+        ///
+      </Turn>
+      <Turn speaker="spk1" startTime="545.169" endTime="549.228">
+        <Sync time="545.169" />
+        ça ça m'attire pas du tout *** ma mère elle veut absolument que je fasse ça
+      </Turn>
+      <Turn speaker="spk3" startTime="549.228" endTime="550.654">
+        <Sync time="549.228" />
+        ben écoute si tu veux pas tu vas pas faire
+      </Turn>
+      <Turn speaker="spk1" startTime="550.654" endTime="551.527">
+        <Sync time="550.654" />
+        ça m'attire pas
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="551.527" endTime="552.19">
+        <Sync time="551.527" />
+        tu vas pas te forcer
+      </Turn>
+      <Turn speaker="spk1" startTime="552.19" endTime="555.319">
+        <Sync time="552.19" />
+        après le euh on verra bien les résultats hein &lt; ***
+      </Turn>
+      <Turn speaker="spk3" startTime="555.319" endTime="558.686">
+        <Sync time="555.319" />
+        c'est clair que &gt; c'est clair que maintenant après si tu as que ça
+        <Sync time="557.551" />
+        peut être que tu
+        <Event desc="b" type="noise" extent="previous" />
+        seras tentée quand même de le &lt; faire
+      </Turn>
+      <Turn speaker="spk1" startTime="558.686" endTime="563.289">
+        <Sync time="558.686" />
+        ben &gt; genre euh si je suis six centième euh + autant tenter hein +
+      </Turn>
+      <Turn speaker="spk3" startTime="563.289" endTime="564.868">
+        <Sync time="563.289" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="564.868" endTime="572.63">
+        <Sync time="564.868" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        tu vois ce que je veux dire
+        <Sync time="565.954" />
+        si je suis pas
+        <Event desc="b" type="noise" extent="previous" />
+        appelée par l'école d'inf.
+        <Comment desc="abréviation de infirmières" />
+        donc ce qui est sûr
+        <Sync time="568.196" />
+        et si je suis six centième genre bon ben si j'ai que ça autant prendre ça hein euh voilà
+        <Sync time="572.05" />
+        je vais pas rester &lt; à rien faire
+      </Turn>
+      <Turn speaker="spk3" startTime="572.63" endTime="578.238">
+        <Sync time="572.63" />
+        ben oui &gt; voilà parce que *** même moi j'ai dit je prendrai pas médecine et tout mais
+        <Sync time="576.652" />
+        si je l'ai
+        <Event desc="b" type="noise" extent="previous" />
+        euh parce que &lt; peut-être
+      </Turn>
+      <Turn speaker="spk1" startTime="578.238" endTime="578.589">
+        <Sync time="578.238" />
+        *** &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="578.589" endTime="582.345">
+        <Sync time="578.589" />
+        moi je dis ça parce que j- j- parce que je sais que je l'aurai pas
+        <Sync time="581.143" />
+        mais si par ma grande surprise je l'ai &lt; et puis
+      </Turn>
+      <Turn speaker="spk1" startTime="582.345" endTime="582.769">
+        <Sync time="582.345" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="582.769" endTime="586.124">
+        <Sync time="582.769" />
+        je le prendrai pas quand même c'est ça c'est ça on peut pas prévoir les réactions des gens quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="586.124" endTime="595.52">
+        <Sync time="586.124" />
+        ben non on peut pas savoir
+        <Event desc="b" type="noise" extent="instantaneous" />
+        + ben c'est pour ça ouais mais d'un autre côté euh voilà
+        <Event desc="b" type="noise" extent="previous" />
+        <Sync time="591.436" />
+        je vais pas bosser jusqu'au mois de février la rééducation si je suis pas sûre de le faire quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="595.52" endTime="595.77">
+        <Sync time="595.52" />
+        hum
+        <Event desc="b" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="595.77" endTime="597.166">
+        <Sync time="595.77" />
+        ça va me prendre du temps
+      </Turn>
+      <Turn speaker="spk3" startTime="597.166" endTime="598.292">
+        <Sync time="597.166" />
+        ben c'est ça faut faire euh ***
+      </Turn>
+      <Turn speaker="spk1" startTime="598.292" endTime="604.295">
+        <Sync time="598.292" />
+        puis d'un
+        <Event desc="b" type="noise" extent="previous" />
+        autre côté si je zappe euh
+        <Event desc="b" type="noise" extent="previous" />
+        la rééducation jusque jusque
+        <Event desc="b" type="noise" extent="previous" />
+        fin février il va falloir je rattrape
+        <Sync time="602.975" />
+        enfin après si il y a que ça
+        <Event desc="b" type="noise" extent="previous" />
+        c'est pas grave
+      </Turn>
+      <Turn speaker="spk3" startTime="604.295" endTime="605.484">
+        <Sync time="604.295" />
+        oui voilà après faut dire que
+        <Event desc="b" type="noise" extent="previous" />
+        *
+      </Turn>
+      <Turn speaker="spk1" startTime="605.484" endTime="608.848">
+        <Sync time="605.484" />
+        ah ben non je zappe puis en un mois les premiers cours faut dire que
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

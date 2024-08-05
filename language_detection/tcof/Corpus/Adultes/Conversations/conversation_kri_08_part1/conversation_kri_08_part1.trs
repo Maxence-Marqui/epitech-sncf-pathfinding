@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Perigard" audio_filename="conversation_kri_08_part1.wav" version="11" version_date="110503">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="392.382">
+      <Turn speaker="spk1" startTime="0.0" endTime="2.208">
+        <Sync time="0.0" />
+        tu sais que mon père ça doit faire euh
+      </Turn>
+      <Turn speaker="spk2" startTime="2.208" endTime="4.671">
+        <Sync time="2.208" />
+        bah plus de deux mois et demi que tu l'as pas
+        <Event desc="rire" type="noise" extent="begin" />
+        vu puisque
+        <Event desc="rire" type="noise" extent="end" />
+      </Turn>
+      <Turn speaker="spk1" startTime="4.671" endTime="15.704">
+        <Sync time="4.671" />
+        <Event desc="étonnement" type="noise" extent="instantaneous" />
+        on s'est croisé quand + euh +
+        <Sync time="10.509" />
+        samedi dernier on s'est croisé dix minutes
+        <Event desc="i" type="noise" extent="instantaneous" />
+        point barre +
+        <Event desc="b" type="noise" extent="instantaneous" />
+        ça doit faire deux semaines que je l'ai pas vu
+      </Turn>
+      <Turn speaker="spk2" startTime="15.704" endTime="17.928">
+        <Sync time="15.704" />
+        mais moi mon père il pète les plombs quand il
+        <Event desc="i" type="pronounce" extent="previous" />
+        me voit pas
+      </Turn>
+      <Turn speaker="spk1" startTime="17.928" endTime="29.459">
+        <Sync time="17.928" />
+        mais je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        lui ai dit en même temps voilà
+        <Event desc="vla" type="pronounce" extent="previous" />
+        quoi le week end eh ben naturellement euh
+        <Sync time="21.348" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        je reste pas devant
+        <Event desc="dva~" type="pronounce" extent="previous" />
+        la télé et la semaine il est pas là + donc euh forcément
+      </Turn>
+      <Turn speaker="spk2" startTime="29.459" endTime="43.118">
+        <Sync time="29.459" />
+        bon ben la les dimanches ¤S1¤ ¤S1¤ c'est ouvert tu vois donc euh
+        <Sync time="32.574" />
+        le dimanche ben dimanche dernier enfin pas dimanche dernier c'était fermé dimanche de il
+        <Event desc="dil" type="pronounce" extent="previous" />
+        y a deux semaines
+        <Event desc="soufflement fumée de cigarette" type="noise" extent="instantaneous" />
+        <Sync time="38.783" />
+        ben alors je sais plus ce qu'on a fait samedi soir j'étais pas avec toi
+      </Turn>
+      <Turn speaker="spk1" startTime="43.118" endTime="46.167">
+        <Sync time="43.118" />
+        je sais euh ¤P1¤ devait pas travailler
+      </Turn>
+      <Turn speaker="spk2" startTime="46.167" endTime="92.878">
+        <Sync time="46.167" />
+        enfin
+        <Event desc="fe~" type="pronounce" extent="previous" />
+        bref
+        <Sync time="48.047" />
+        le dimanche midi pas moyen de me lever et puis ma mère elle vient me
+        <Event desc="m" type="pronounce" extent="previous" />
+        voir elle me dit tu vois tu fais à manger
+        <Sync time="51.693" />
+        tu
+        <Event desc="t" type="pronounce" extent="previous" />
+        sais quoi je lui dis ouais je peux pas j'ai trop mal à la tête je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        reste couchée
+        <Sync time="53.785" />
+        mais en fait je me suis rendue compte que c'est pas le fait de me réveiller qui me
+        <Event desc="m" type="pronounce" extent="previous" />
+        fait mal au crâne
+        <Sync time="57.176" />
+        c'est le fait de me dire qu'il
+        <Event desc="i" type="pronounce" extent="previous" />
+        faut que
+        <Event desc="k" type="pronounce" extent="previous" />
+        je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        me lève
+        <Event desc="rire" type="noise" extent="previous" />
+        <Sync time="59.101" />
+        <Event desc="r" type="noise" extent="instantaneous" />
+        mais du coup mon père je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        l'ai pas vu ce dimanche tu vois et comme j'avais passé le le week-end dehors
+        <Sync time="62.923" />
+        comme je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        fais tout le temps euh je l'avais pas vu du week-end le truc
+        <Sync time="65.19" />
+        c'est que
+        <Event desc="k" type="pronounce" extent="previous" />
+        j- j'étais censée retournée à ¤T1¤ le dimanche
+        <Event desc="soufflement fumée de cigarette" type="noise" extent="instantaneous" />
+        +
+        <Sync time="69.025" />
+        finalement je fais oh euh
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        tu
+        <Event desc="t" type="pronounce" extent="previous" />
+        sais mon père il
+        <Event desc="i" type="pronounce" extent="previous" />
+        rentre le soir il
+        <Event desc="i" type="pronounce" extent="previous" />
+        me regarde et me
+        <Event desc="m" type="pronounce" extent="previous" />
+        fait bah t'es pas partie
+        <Sync time="72.929" />
+        bonjour papa moi aussi je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        suis contente de te voir non je pensais rentrer demain
+        <Event desc="dme~" type="pronounce" extent="previous" />
+        <Sync time="76.602" />
+        lundi je vais à ¤S1¤ avec ma mère il me regarde et me
+        <Event desc="m" type="pronounce" extent="previous" />
+        fait bah tu
+        <Event desc="t" type="pronounce" extent="previous" />
+        es encore là +
+        <Sync time="80.052" />
+        bah écoute euh oui je pense que je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        vais rentrer demain
+        <Event desc="dme~" type="pronounce" extent="previous" />
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        <Sync time="83.625" />
+        mais bon le
+        <Event desc="l" type="pronounce" extent="previous" />
+        mardi je suis partie tu vois puis bon comme il
+        <Event desc="non prononcé" type="pronounce" extent="previous" />
+        y avait le blocage j'ai passé un mois à la maison
+        <Sync time="87.404" />
+        donc il m'a vue une fois de temps en temps donc pour manger le midi rarement très très rarement le soir
+      </Turn>
+      <Turn speaker="spk1" startTime="92.878" endTime="94.326">
+        <Sync time="92.878" />
+        tous les soirs moi je mangeais enfin
+        <Event desc="fe~" type="pronounce" extent="previous" />
+        je mange
+      </Turn>
+      <Turn speaker="spk2" startTime="94.326" endTime="101.126">
+        <Sync time="94.326" />
+        mais les soirs je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        suis avec elle + une fois de temps en temps on passe au ¤S2¤ ou ¤S3¤
+        <Sync time="98.029" />
+        tu vois mais tous les soirs on est ensemble donc je remonte pas chez moi pour manger
+      </Turn>
+      <Turn speaker="spk3" startTime="101.126" endTime="106.466">
+        <Sync time="101.126" />
+        ma mère elle aurait bien voulu le faire mais je me barre
+        <Event desc="rire" type="noise" extent="previous" />
+        <Sync time="104.118" />
+        elle était plus habituée de me revoir euh la semaine
+      </Turn>
+      <Turn speaker="spk1" startTime="106.466" endTime="106.964">
+        <Sync time="106.466" />
+        &lt; ah ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="106.964" endTime="111.341">
+        <Sync time="106.964" />
+        et tout &gt; à la fin de la grêve je t'en supplie remonte à ¤T1¤ t'es trop soulante
+      </Turn>
+      <Turn speaker="spk2" startTime="111.341" endTime="114.011">
+        <Sync time="111.341" />
+        vas-y
+        <Event desc="oh la la" type="noise" extent="previous" />
+        oh mais comme ça fait plaisir
+      </Turn>
+      <Turn speaker="spk3" startTime="114.011" endTime="117.365">
+        <Sync time="114.011" />
+        alors que l'été on s'était pris la tête parce qu'elle me voyait plus
+        <Event desc="py" type="pronounce" extent="previous" />
+        elle voulait que je me barre &lt; de la baraque
+      </Turn>
+      <Turn speaker="spk2" startTime="117.365" endTime="119.277">
+        <Sync time="117.365" />
+        ah ouais je m'en rappelle de &gt; ça
+      </Turn>
+      <Turn speaker="spk3" startTime="119.277" endTime="123.079">
+        <Sync time="119.277" />
+        + ouais c'était sympathique le coup-là
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="123.079" endTime="124.73">
+        <Sync time="123.079" />
+        &lt; quand ¤P2¤ elle m'appelle
+      </Turn>
+      <Turn speaker="spk3" startTime="124.73" endTime="125.574">
+        <Sync time="124.73" />
+        j'avais ma mère au téléphone &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="125.574" endTime="143.09">
+        <Sync time="125.574" />
+        tu sais je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        m'étais enfin
+        <Event desc="fe~" type="pronounce" extent="previous" />
+        ça allait pas à cause de ¤P3¤
+        <Sync time="128.37" />
+        donc euh j'appelle ¤P2¤ en plus tu sais
+        <Event desc="tse" type="pronounce" extent="previous" />
+        j'ai été limitée vers ¤P4¤ tout l'été mais euh ça va pas je t'appelle
+        <Sync time="134.165" />
+        j'avais pas envie de te saouler ***
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        en fait là là je suis dans la merde quand j'essaye de + de me rattraper &lt; ***
+      </Turn>
+      <Turn speaker="spk1" startTime="143.09" endTime="146.929">
+        <Sync time="143.09" />
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        *** non mais franchement &gt; c'est pas grave
+      </Turn>
+      <Turn speaker="spk2" startTime="146.929" endTime="170.012">
+        <Sync time="146.929" />
+        mais bon ça allait pas ah non c'est parce que toi de toute façon j'avais dû t'appeler ou je comptais t'appeler après
+        <Sync time="151.772" />
+        puisqu'on s'appelait toujours aux mêmes heures
+        <Event desc="omEm9R" type="pronounce" extent="previous" />
+        <Sync time="153.155" />
+        oui on on s'appelait pendant notre notre pause clope enfin ma pause clope du matin
+        <Sync time="155.699" />
+        je descendais fumer à dix heures pour l'appeler + mais c'est comme ça tout le temps tu vois
+        <Sync time="158.823" />
+        attends je prends une pause clope à tout à l'heure on s'appelle ou alors elle m'envoyait un message
+        <Sync time="161.777" />
+        je vais prendre ma pause clope oh moi aussi
+        <Event desc="y a" type="pronounce" extent="begin" />
+        il y a
+        <Event desc="y a" type="pronounce" extent="end" />
+        pas de soucis je descends ***
+        <Sync time="164.355" />
+        je revenais de je venais d'aller manger je revenais je me remettais seulement à travailler je redescendais fumer
+        <Sync time="169.006" />
+        tu sais
+        <Event desc="rire" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="170.012" endTime="171.131">
+        <Sync time="170.012" />
+        putain
+        <Event desc="te~" type="pronounce" extent="previous" />
+        *** la chance
+      </Turn>
+      <Turn speaker="spk2" startTime="171.131" endTime="201.397">
+        <Sync time="171.131" />
+        ah non ça c'est nikel là il m'embête pas
+        <Event desc="rire" type="noise" extent="previous" />
+        <Sync time="172.439" />
+        mais bon j'avais appelé ¤P2¤ et euh putain
+        <Event desc="te~" type="pronounce" extent="previous" />
+        je l'ai eu au téléphone euh +
+        <Sync time="177.998" />
+        bah tu
+        <Event desc="t" type="pronounce" extent="previous" />
+        sais moi ça allait pas donc euh déjà à la base je l'avais appelé euh
+        <Sync time="181.0" />
+        c'était pour prendre de ses nouvelles mais surtout pour parler
+        <Event desc="mh mh" type="noise" extent="instantaneous" />
+        <Comment desc="d'acquiescement" />
+        pour euh pour m'alléger un peu
+        <Sync time="185.15" />
+        elle me dit ouais non mais euh je lui dis bah toi ça va elle me dit non euh
+        <Sync time="188.631" />
+        c'est normal je prends de ses nouvelles avant de lui donner des miennes
+        <Event desc="rire" type="noise" extent="previous" />
+        tu vois
+        <Sync time="191.272" />
+        non non ça va pas euh je me suis encore pris la gueule avec ma mère
+        <Sync time="194.003" />
+        elle veut me foutre dehors et tout je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        fais wouah là d'un coup j'ai totalement zappé ¤P3¤
+        <Sync time="197.556" />
+        tu vois euh je me suis consacrée mais ça marche super bien de se consacrer aux problèmes des autres
+        <Event desc="bb mmh " type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="201.397" endTime="203.402">
+        <Sync time="201.397" />
+        non mais tu sais que le coup-là j'ai flippé
+      </Turn>
+      <Turn speaker="spk2" startTime="203.402" endTime="206.628">
+        <Sync time="203.402" />
+        trouve-toi des problèmes
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        c'est drôle hein faut m'en parler
+      </Turn>
+      <Turn speaker="spk3" startTime="206.628" endTime="229.885">
+        <Sync time="206.628" />
+        non non ça va
+        <Event desc="rire en fond" type="noise" extent="previous" />
+        pareil j'ai bien flippé quoi tu
+        <Event desc="t" type="pronounce" extent="previous" />
+        sais j'étais chez mon ex
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        <Sync time="211.266" />
+        donc ¤P5¤ et puis elle me je lui téléphone et tout je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        lui dis euh
+        <Sync time="215.725" />
+        ouais je rentre pas je rentre pas aujourd'hui je rentrerai demain et tout
+        <Sync time="218.147" />
+        elle a commencé à me péter un cable ouais de toute façon euh tu es
+        <Event desc="te" type="pronounce" extent="previous" />
+        plus
+        <Event desc="py" type="pronounce" extent="previous" />
+        ma fille
+        <Sync time="221.538" />
+        on se
+        <Event desc="s" type="pronounce" extent="previous" />
+        voit plus
+        <Event desc="py" type="pronounce" extent="previous" />
+        machin et tout et moi j'ai envie d'abreg- d'a- d'abreger ma souffrance euh
+        <Sync time="226.082" />
+        c'est fini viens rechercher tes affaires je veux plus te voir euh quitte la baraque euh
+      </Turn>
+      <Turn speaker="spk1" startTime="229.885" endTime="231.062">
+        <Sync time="229.885" />
+        quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="231.062" endTime="233.428">
+        <Sync time="231.062" />
+        <Event desc="conv" type="noise" extent="instantaneous" />
+        quand elle m'a dit ça au téléphone euh
+        <Event desc="i" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="233.428" endTime="234.582">
+        <Sync time="233.428" />
+        ah bah ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="234.582" endTime="258.63">
+        <Sync time="234.582" />
+        euh ouais c'est dur
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        c'est dur mais tu penses bien que maintenant que je suis plus avec elle c'est la fête
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        <Sync time="241.029" />
+        elle est heureuse
+        <Sync time="242.889" />
+        mais tu sais
+        <Event desc="tse" type="pronounce" extent="previous" />
+        qu'elle y croyait pas hein +
+        <Sync time="245.08" />
+        pendant une semaine elle me disait pourquoi tu montes pas à ¤T2¤ pourquoi tu vas pas le voir
+        <Sync time="248.563" />
+        à la fin je fais non mais t'as encore pas compris
+        <Event desc="b" type="noise" extent="previous" />
+        <Comment desc="parole interlocutrice ***" />
+        ben on s'est pris la tête je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        lui parle plus
+        <Event desc="py" type="pronounce" extent="previous" />
+        <Sync time="252.12" />
+        j'ai plus envie de
+        <Event desc="d" type="pronounce" extent="previous" />
+        le voir je vais le plaquer et puis elle y croyait pas mais elle y croit toujours pas
+        <Sync time="255.889" />
+        bon maintenant qu'elle sait que je suis avec ¤P6¤ elle y croit
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="258.63" endTime="264.021">
+        <Sync time="258.63" />
+        <Event desc="rire" type="noise" extent="begin" />
+        ma fille n'est pas une salope elle plaque son mec
+        <Sync time="260.94" />
+        et elle attend au moins deux semaines avant de s'en reprendre un autre nikel
+        <Event desc="rire" type="noise" extent="end" />
+      </Turn>
+      <Turn speaker="spk3" startTime="264.021" endTime="267.591">
+        <Sync time="264.021" />
+        si elle lui dit en plus je lui dirais ouais non je me remets avec personne
+        <Event desc="tx L2" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="267.591" endTime="294.953">
+        <Sync time="267.591" />
+        ouais bah ouais euh ça aussi
+        <Sync time="269.306" />
+        le pire c'est le: que: je lui ai dit oh maman on dort chez ¤P1¤ ce soir oh maman on dort chez ¤P1¤ ce soir
+        <Sync time="273.64" />
+        puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        mais c'est qui ¤P1¤
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        <Sync time="276.382" />
+        oh tu
+        <Event desc="t" type="pronounce" extent="previous" />
+        sais c'est le serveur de chez ¤S4¤ ah ouais
+        <Sync time="279.101" />
+        c'est ton amant ouais on peut dire ça comme ça
+        <Comment desc="en coeur toute ensemble" />
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        <Sync time="284.943" />
+        elle me
+        <Event desc="m'" type="pronounce" extent="previous" />
+        dit quand il est parti en vacances bah +
+        <Sync time="288.246" />
+        ça fait deux semaines que tu dors à la maison qu'est-ce qu'il
+        <Event desc="ki" type="pronounce" extent="previous" />
+        se passe
+        <Sync time="290.667" />
+        bah il est où ¤P1¤ ah ben il est parti en vacances ah ah ah d'accord
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="294.953" endTime="296.814">
+        <Sync time="294.953" />
+        je comprends mieux pourquoi je te vois
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="296.814" endTime="304.665">
+        <Sync time="296.814" />
+        ah d'accord
+        <Event desc="i" type="noise" extent="instantaneous" />
+        O.K. +
+        <Sync time="301.166" />
+        mais bon c'est pareil ma mère je
+        <Event desc="Z" type="pronounce" extent="previous" />
+        lui ai pas dit qu'on s'était pris la tête ou je sais pas tous les trucs
+      </Turn>
+      <Turn speaker="spk2" startTime="304.665" endTime="307.688">
+        <Sync time="304.665" />
+        en même temps si tu commences à le dire à ta mère ça va foutre la merde entre toi
+      </Turn>
+      <Turn speaker="spk3" startTime="307.688" endTime="307.915">
+        <Sync time="307.688" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="307.915" endTime="317.919">
+        <Sync time="307.915" />
+        tu vois ce que je veux dire &gt; que ce soit toi ¤P2¤ ou moi on sait très bien que même si on se prend la gueule avec
+        <Sync time="312.136" />
+        bon moi il y a euh ¤P2¤ là il y a plus aucune chance parce qu'elle euh
+        <Sync time="314.944" />
+        elle veut plus
+        <Event desc="py" type="pronounce" extent="previous" />
+        vraiment parler à ¤P5¤
+        <Sync time="316.571" />
+        même s'il l'appelle tous les jours
+      </Turn>
+      <Turn speaker="spk3" startTime="317.919" endTime="320.962">
+        <Sync time="317.919" />
+        ouais il
+        <Event desc="i" type="pronounce" extent="previous" />
+        va m'appeler là encore dans une heure une demi-heure
+      </Turn>
+      <Turn speaker="spk2" startTime="320.962" endTime="333.638">
+        <Sync time="320.962" />
+        moi étant donné que ¤P3¤ a une copine ça devrait plus
+        <Event desc="py" type="pronounce" extent="previous" />
+        trop poser de
+        <Event desc="d" type="pronounce" extent="previous" />
+        problèmes
+        <Sync time="324.462" />
+        mais euh
+        <Event desc="tapotement" type="noise" extent="begin" />
+        il y a deux trois mois de ça
+        <Event desc="tapotement" type="noise" extent="end" />
+        que ce soit toi ¤P2¤ ou moi euh
+        <Sync time="329.362" />
+        on se prenait la gueule avec mais euh
+        <Event desc="bg" type="noise" extent="instantaneous" />
+        ça servait à rien d'en parler on savait très bien que
+        <Event desc="k" type="pronounce" extent="previous" />
+        ça allait s'arranger
+      </Turn>
+      <Turn speaker="spk3" startTime="333.638" endTime="338.583">
+        <Sync time="333.638" />
+        ouais bah moi j'ai fait la connerie de raconter tout ce qu'il
+        <Event desc="i" type="pronounce" extent="previous" />
+        faisait euh à ma mère
+      </Turn>
+      <Turn speaker="spk2" startTime="338.583" endTime="339.263">
+        <Sync time="338.583" />
+        &lt; mais moi c'est ce que ***
+      </Turn>
+      <Turn speaker="spk3" startTime="339.263" endTime="344.358">
+        <Sync time="339.263" />
+        c'est pour ça après *** normal &gt; qu'il mette les pieds à la maison et tout
+        <Sync time="342.532" />
+        et ça c'est la une p- putain de
+        <Event desc="d" type="pronounce" extent="previous" />
+        connerie que j'ai faite
+      </Turn>
+      <Turn speaker="spk2" startTime="344.358" endTime="372.95">
+        <Sync time="344.358" />
+        moi c'est ce que j'ai fait au début c'est pour ça que après quand ça a commencé à merder tu vois
+        <Sync time="347.877" />
+        tu m'as dit euh hum lundi hier ah ouais c'est hier qu'on s'est vues toutes les trois
+        <Sync time="352.598" />
+        hier tu m'as dit euh tu as enfin tu as
+        <Event desc="ta" type="pronounce" extent="previous" />
+        dit à ¤P4¤ mais elle c'est horrible quand elle sort euh
+        <Sync time="356.247" />
+        tu la regardes pas tu fais ça
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        mais le truc
+        <Event desc="ltRyk" type="pronounce" extent="previous" />
+        c'est parce que c'est tu sais quand je suis à la maison euh
+        <Sync time="360.349" />
+        je passe mon temps entre bon je me lève pour aller manger une fois de temps en temps
+        <Sync time="363.163" />
+        mais sinon je suis entre ma chambre et en bas sur l'ordinateur quoi
+        <Sync time="365.793" />
+        donc ma mère elle me voit pas et je me dis que laisse tomber parce que si je me mets pas la télé chez moi
+        <Sync time="369.554" />
+        il y a pas moyen qu'elle m'entende pas tu vois donc du coup j'ai appris à pleurer silencieusement
+      </Turn>
+      <Turn speaker="spk2" startTime="372.95" endTime="373.603">
+        <Sync time="372.95" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" startTime="373.603" endTime="377.562">
+        <Sync time="373.603" />
+        et moi je peux
+        <Event desc="jp@" type="pronounce" extent="previous" />
+        pas + ma mère direct elle m'entend
+      </Turn>
+      <Turn speaker="spk1" startTime="377.562" endTime="385.804">
+        <Sync time="377.562" />
+        non moi ça va je suis assez discrète et puis je préfère hein parce que sinon laisse tomber voilà les questions toi
+        <Sync time="382.843" />
+        qu'est-ce qu'il se passe ***
+      </Turn>
+      <Turn speaker="spk2" startTime="385.804" endTime="392.382">
+        <Sync time="385.804" />
+        bah c'est pas ça +
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        le truc c'est
+        <Event desc="conv" type="noise" extent="instantaneous" />
+        quand tu te prends
+        <Event desc="tpRa~" type="pronounce" extent="previous" />
+        la gueule avec tu le dis à ta mère après c'est automatique tu vois
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

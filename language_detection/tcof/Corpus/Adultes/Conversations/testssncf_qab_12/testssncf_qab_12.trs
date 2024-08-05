@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="michel28u" audio_filename="testssncf_qab_12.wav" version="13" version_date="140219">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L2" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="915.54">
+      <Turn startTime="0.0" endTime="6.749" speaker="spk1">
+        <Sync time="0.0" />
+        bon ¤Pren1¤ comment euh
+        <Event desc="rire en fond" type="noise" extent="previous" />
+        t'as eu l'idée de devenir conducteur de train
+      </Turn>
+      <Turn speaker="spk3" startTime="6.749" endTime="14.758">
+        <Sync time="6.749" />
+        hé ben c'était l'année dernière en fait euh j'ai décidé de euh de euh vouloir travailler à la S.N.C.F. en fait
+      </Turn>
+      <Turn speaker="spk1" startTime="14.758" endTime="15.838">
+        <Sync time="14.758" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk3" startTime="15.838" endTime="109.873">
+        <Sync time="15.838" />
+        et donc il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        eu des donc une opportunité un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu de
+        <Sync time="20.103" />
+        pouvoir euh ben s'inscrire sur le sur le site de recrutement de la S.N.C.F.
+        <Sync time="25.898" />
+        donc euh c'est parce que
+        <Event desc="pask" type="pronounce" extent="previous" />
+        c'est tout en ligne c'est tout sur internet maintenant
+        <Sync time="28.963" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        et donc euh donc j'ai constitué un dossier sur le site et puis euh donc j'ai rempli
+        <Sync time="36.868" />
+        mes informations mon niveau d'étude tout ça et j'ai coché les
+        <Comment desc="dernière syllabe longue" />
+        les types
+        <Sync time="42.938" />
+        de métiers et les et les les comment dire les filières c'est à dire
+        <Sync time="49.254" />
+        si c'est du si c'est plus administratif ou euh sur le terrain quoi j'ai envie de dire
+        <Sync time="56.256" />
+        et donc euh j'ai coché donc les annonces qui pouvaient m'intéresser et
+        <Comment desc="dernière syllabe longue" />
+        <Sync time="61.712" />
+        donc en Lorraine et un jour euh donc j'ai reçu un mail comme quoi
+        <Sync time="67.681" />
+        euh une session de recrutement de conducteurs de train était ouverte donc pour la région Lorraine
+        <Sync time="74.81" />
+        donc euh à cette annonce donc euh j'y ai répondu en écrivant
+        <Sync time="79.718" />
+        une petite lettre de motivation euh sur le site de quinze lignes environ
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        voilà
+        <Sync time="84.902" />
+        donc euh un mois après j'ai été donc euh recontacté donc apparemment
+        <Sync time="89.931" />
+        euh la lettre de motivation avait fait sion
+        <Event desc="sjo~" type="pronounce" extent="previous" />
+        avait fait son effet
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="94.874" />
+        puisque euh j'ai été rappelé un matin et ils m'ont proposé
+        <Sync time="100.238" />
+        euh donc un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        entretien téléphonique d'abord
+        <Sync time="104.567" />
+        donc euh sur euh mes motivations donc il y avait
+        <Event desc="javE" type="pronounce" extent="previous" />
+        simplement à répéter
+        <Sync time="107.786" />
+        un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu ce qu'il y avait
+        <Event desc="skjavE" type="pronounce" extent="previous" />
+        dans la
+        <Sync time="109.568" />
+        &lt; lettre de
+      </Turn>
+      <Turn speaker="spk1" startTime="109.873" endTime="110.242">
+        <Sync time="109.873" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="110.242" endTime="121.073">
+        <Sync time="110.242" />
+        motivation voilà
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        et
+        <Comment desc="dernière syllabe longue" />
+        ensuite euh ils m'ont proposé
+        <Sync time="114.727" />
+        donc un rendez-vous pour une journée de recrutement donc euh à Paris voilà et pour passer des tests
+      </Turn>
+      <Turn speaker="spk1" startTime="121.073" endTime="125.3">
+        <Sync time="121.073" />
+        ah ouais passer des tests et l'hébergement c'était à toi à le
+        <Comment desc="sic" />
+        trouver ou c'est la S.N.C.F. qui te l'a trouvé
+      </Turn>
+      <Turn speaker="spk3" startTime="125.3" endTime="131.75">
+        <Sync time="125.3" />
+        alors euh oui ça a été le
+        <Comment desc="dernière syllabe longue" />
+        le problème
+        <Sync time="127.631" />
+        le premier problème en fait c'est de trouver un logement à Paris
+      </Turn>
+      <Turn speaker="spk1" startTime="131.75" endTime="132.579">
+        <Sync time="131.75" />
+        ouais
+        <Sync time="132.115" />
+        &lt; pas évident
+      </Turn>
+      <Turn speaker="spk3" startTime="132.579" endTime="139.812">
+        <Sync time="132.579" />
+        donc sa- &gt;
+        <Sync time="132.883" />
+        sachant que euh j- il m'a fallu trois jours
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        pour euh pour trouver euh
+      </Turn>
+      <Turn speaker="spk1" startTime="139.812" endTime="140.663">
+        <Sync time="139.812" />
+        trois jours quand même
+      </Turn>
+      <Turn speaker="spk3" startTime="140.663" endTime="172.471">
+        <Sync time="140.663" />
+        oui trois jours avant j'ai été appelé avant la session de recrutement
+        <Sync time="144.107" />
+        donc euh pour trouver un hôtel à Paris en trois jours c'est un peu compliqué
+        <Sync time="148.871" />
+        donc euh
+        <Comment desc="dernière syllabe longue" />
+        finalement donc euh même en les rappelant euh
+        <Sync time="153.416" />
+        pour savoir si ils avaient
+        <Event desc="izavE" type="pronounce" extent="previous" />
+        pas des solutions d'hébergement
+        <Sync time="155.803" />
+        donc ils m'ont répond- donc je les ai rappelés ils m'ont dit non
+        <Sync time="158.598" />
+        que euh c'était à nous de euh nous débrouiller
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="161.677" />
+        donc voilà donc euh la solution euh qui s'est euh comment qui s'est
+        <Sync time="166.951" />
+        présentée finalement c'est le euh bah la famille quoi donc j'avais
+        <Sync time="172.418" />
+        &lt; de la
+      </Turn>
+      <Turn speaker="spk1" startTime="172.471" endTime="172.771">
+        <Sync time="172.471" />
+        ah &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="172.771" endTime="181.001">
+        <Sync time="172.771" />
+        famille donc sur Paris donc euh du côté de ma belle-mère
+        <Sync time="176.765" />
+        qui pouvait m'héberger là-bas pour euh une nuit
+      </Turn>
+      <Turn speaker="spk1" startTime="181.001" endTime="183.091">
+        <Sync time="181.001" />
+        ouais bah c'est pas mal fin c'est bien quoi
+        <Comment desc="miaulement" />
+      </Turn>
+      <Turn speaker="spk3" startTime="183.091" endTime="195.73">
+        <Sync time="183.091" />
+        parce que les recrutements euh les tests commençaient fallait
+        <Sync time="186.114" />
+        se- être à Paris à sept heures quarante-cinq donc euh partir le matin ça fait un peu
+        <Sync time="191.223" />
+        tôt depuis ici donc voilà
+        <Event desc="i" type="noise" extent="instantaneous" />
+        euh
+      </Turn>
+      <Turn speaker="spk1" startTime="195.73" endTime="196.5">
+        <Sync time="195.73" />
+        ouais pas mal
+      </Turn>
+      <Turn speaker="spk3" startTime="196.5" endTime="196.635">
+        <Sync time="196.5" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="196.635" endTime="198.929">
+        <Sync time="196.635" />
+        ouais &gt;
+        <Sync time="196.794" />
+        quand t'es hébergé déjà
+        <Event desc="dZa" type="language" extent="previous" />
+        par de la
+        <Event desc="dla" type="pronounce" extent="previous" />
+        famille c'est déjà
+        <Event desc="dZa" type="language" extent="previous" />
+        un bon point
+      </Turn>
+      <Turn speaker="spk3" startTime="198.929" endTime="199.899">
+        <Sync time="198.929" />
+        oui c'est sûr
+      </Turn>
+      <Turn speaker="spk1" startTime="199.899" endTime="201.735">
+        <Sync time="199.899" />
+        c'est déjà
+        <Event desc="dZa" type="pronounce" extent="previous" />
+        moins stressant euh à Paris surtout à
+        <Sync time="201.465" />
+        &lt; Paris si on connait pas de trop
+        <Event desc="dtRo" type="pronounce" extent="previous" />
+        Paris
+      </Turn>
+      <Turn speaker="spk3" startTime="201.735" endTime="204.548">
+        <Sync time="201.735" />
+        oui voilà et puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        euh &gt;
+        <Sync time="203.169" />
+        surtout Paris
+        <Sync time="204.283" />
+        &lt; euh
+      </Turn>
+      <Turn speaker="spk1" startTime="204.548" endTime="204.851">
+        <Sync time="204.548" />
+        ouais-ais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="204.851" endTime="206.319">
+        <Sync time="204.851" />
+        s-surtout quand on y est
+        <Comment desc="dernière syllabe longue" />
+      </Turn>
+      <Turn speaker="spk1" startTime="206.319" endTime="207.185">
+        <Sync time="206.319" />
+        c'est la capitale
+      </Turn>
+      <Turn speaker="spk3" startTime="207.185" endTime="268.713">
+        <Sync time="207.185" />
+        voila donc euh quand on connait pas du tout c'est un vrai sac de noeuds
+        <Sync time="210.516" />
+        donc voilà donc euh et grâce à donc euh cette dame donc qui m'a hébergé
+        <Sync time="217.475" />
+        j'ai ai
+        <Comment desc="dernière syllabe longue" />
+        pu donc d'abord ben
+        <Sync time="220.885" />
+        visiter Paris quand je suis
+        <Event desc="SHi" type="pronounce" extent="previous" />
+        <Event desc="Hi" type="pronounce" extent="previous" />
+        arrivé
+        <Sync time="222.224" />
+        donc j'y ai été en-en train oui je me suis déplacé en en train et tous mes comment
+        <Sync time="227.627" />
+        tous mes j'avais demandé pour les pour les comment pour les transports euh si la
+        <Sync time="234.646" />
+        S.N.C.F. pouvait faire quelque chose et
+        <Comment desc="dernière syllabe longue" />
+        donc ils m'ont dit que oui
+        <Event desc="Hi" type="pronounce" extent="previous" />
+        <Sync time="238.57" />
+        si on prenait le train tout était remboursé donc mes trajets
+        <Sync time="241.69" />
+        en T.G.V. donc euh jusqu'à Paris ont été remboursés intégralement
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="247.987" />
+        voilà donc je suis
+        <Event desc="SHi" type="pronounce" extent="previous" />
+        arrivé donc la veille euh là-bas euh dans l'après-midi
+        <Sync time="251.101" />
+        donc euh j'ai fait donc euh bah j'ai retrouvé donc euh la dame qui m'hébergeait quoi
+        <Sync time="256.417" />
+        et euh comment
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        bah j'ai donc euh elle m'a proposé déjà de visiter un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu Paris
+        <Sync time="263.935" />
+        donc j'ai vu donc euh bah la première chose que j'ai vue bah j'ai fait la
+        <Sync time="267.113" />
+        Tour Eiffel parce que
+        <Event desc="pask" type="pronounce" extent="previous" />
+        bon j'avais jamais
+        <Sync time="268.529" />
+        &lt; été donc voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="268.713" endTime="270.335">
+        <Sync time="268.713" />
+        ouais
+        <Event desc="rire" type="noise" extent="previous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="270.335" endTime="280.472">
+        <Sync time="270.335" />
+        j'ai vu aussi le Sacré Coeur et puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        ben aussi comprendre comment fonctionne
+        <Sync time="274.753" />
+        un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu le métro parce que
+        <Event desc="pask" type="pronounce" extent="previous" />
+        c'est bon c'est assez simple
+        <Sync time="277.708" />
+        hein c'est juste des jeux de couleurs et de chiffres mais bon
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="280.472" endTime="282.284">
+        <Sync time="280.472" />
+        ouais c'est pour compliquer pour les gens qui connaissent pas
+      </Turn>
+      <Turn speaker="spk3" startTime="282.284" endTime="283.598">
+        <Sync time="282.284" />
+        oui c'est sûr quand on connait pas
+        <Sync time="283.497" />
+        &lt; euh
+      </Turn>
+      <Turn speaker="spk1" startTime="283.598" endTime="284.113">
+        <Sync time="283.598" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="284.113" endTime="285.574">
+        <Sync time="284.113" />
+        il y a quelques trucs à avoir quand même
+      </Turn>
+      <Turn speaker="spk1" startTime="285.574" endTime="286.593">
+        <Sync time="285.574" />
+        ouais voilà oui oui oui oui
+      </Turn>
+      <Turn speaker="spk3" startTime="286.593" endTime="286.988">
+        <Sync time="286.593" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="286.988" endTime="288.178">
+        <Sync time="286.988" />
+        oui je comprends
+        <Event desc="Sko~pRa~" type="pronounce" extent="previous" />
+        bien
+      </Turn>
+      <Turn speaker="spk3" startTime="288.178" endTime="289.019">
+        <Sync time="288.178" />
+        voilà donc
+      </Turn>
+      <Turn speaker="spk1" startTime="289.019" endTime="291.596">
+        <Sync time="289.019" />
+        et
+        <Comment desc="dernière syllabe longue" />
+        par contre tes tests est-ce que c'était
+        <Sync time="291.487" />
+        &lt; difficile
+      </Turn>
+      <Turn speaker="spk3" startTime="291.596" endTime="345.855">
+        <Sync time="291.596" />
+        alors oui
+        <Comment desc="dernière syllabe longue" />
+        &gt;
+        <Sync time="292.46" />
+        mes tests donc euh après la
+        <Comment desc="dernière syllabe longue" />
+        donc après la nuit donc
+        <Sync time="296.831" />
+        euh le lendemain donc levé de bonne heure donc euh métro et arrivé donc sur place pour les tests
+        <Sync time="301.68" />
+        donc euh bah je suis
+        <Event desc="SHi" type="pronounce" extent="previous" />
+        arrivé donc euh donc on arrive dans un bâtiment
+        <Sync time="305.396" />
+        on donne sa carte d'identité on nous donne un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        badge et quand on veut
+        <Sync time="309.077" />
+        ressortir on redonne sa carte d'identité enfin on redonne son badge et on récupère
+        <Sync time="312.1" />
+        la carte d'identité
+        <Event desc="i" type="noise" extent="instantaneous" />
+        et
+        <Comment desc="dernière syllabe longue" />
+        voilà
+        <Sync time="315.127" />
+        donc alors pour les tests donc on nous fait attendre donc d'abord dans une salle
+        <Sync time="318.029" />
+        donc on a euh donc euh on était euh je sais plus une trentaine donc apparemment
+        <Sync time="323.698" />
+        donc euh toute façon
+        <Event desc="tfaso~" type="pronounce" extent="previous" />
+        je me
+        <Event desc="Zme" type="pronounce" extent="previous" />
+        doutais bien que je devais
+        <Event desc="Zd@vE" type="pronounce" extent="previous" />
+        pas
+        <Sync time="325.925" />
+        être tout seul évidemment parce que
+        <Event desc="pask" type="pronounce" extent="previous" />
+        sinon ça servirait à rien
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="329.914" />
+        donc euh donc on nous a fait patienter un
+        <Comment desc="dernière syllabe longue" />
+        petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        moment
+        <Sync time="333.105" />
+        donc euh ensuite on nous a on nous a tous réuni devant dans une salle avec des ordinateurs
+        <Sync time="339.035" />
+        donc euh donc dans cette salle donc il y a une dame qui nous a expliqué donc le déroulement un peu de la journée
+      </Turn>
+      <Turn speaker="spk1" startTime="345.855" endTime="345.885">
+        <Sync time="345.855" />
+        &lt; hum hum
+      </Turn>
+      <Turn speaker="spk3" startTime="345.885" endTime="360.123">
+        <Sync time="345.885" />
+        et &gt;
+        <Sync time="346.348" />
+        donc elle nous a d'abord demandé donc nos diplômes donc et
+        <Comment desc="dernière syllabe longue" />
+        et de de
+        <Sync time="351.043" />
+        rédiger donc en cinq minutes euh pareil nos motivations en écrivant
+        <Sync time="355.271" />
+        donc euh nom prénom mot- euh adresse tout ça numéro de téléphone
+      </Turn>
+      <Turn speaker="spk1" startTime="360.123" endTime="361.168">
+        <Sync time="360.123" />
+        ah cinq minutes ça fait court
+      </Turn>
+      <Turn speaker="spk3" startTime="361.168" endTime="361.86">
+        <Sync time="361.168" />
+        ah oui oui bah faut
+        <Sync time="361.857" />
+        &lt; faut
+      </Turn>
+      <Turn speaker="spk1" startTime="361.86" endTime="362.666">
+        <Sync time="361.86" />
+        ah oui &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="362.666" endTime="363.052">
+        <Sync time="362.666" />
+        ah ben j'ai
+      </Turn>
+      <Turn speaker="spk1" startTime="363.052" endTime="363.737">
+        <Sync time="363.052" />
+        faut speeder
+        <Event desc="en" type="language" extent="previous" />
+        quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="363.737" endTime="371.574">
+        <Sync time="363.737" />
+        il
+        <Event desc="i" type="pronounce" extent="previous" />
+        fallait pile cinq minutes pour euh pour remplir hein
+        <Sync time="366.639" />
+        on n'avait pas une minute de plus euh pour se relire ou donc en même temps ça servait de test euh
+        <Sync time="371.373" />
+        &lt; d'orthographe
+      </Turn>
+      <Turn speaker="spk1" startTime="371.574" endTime="372.884">
+        <Sync time="371.574" />
+        ouais voir s'il y a
+        <Event desc="sja" type="pronounce" extent="previous" />
+        de la
+        <Event desc="dla" type="pronounce" extent="previous" />
+        rapidité &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="372.884" endTime="377.101">
+        <Sync time="372.884" />
+        voilà et puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        euh voilà donc si on sait bien s'exprimer aussi
+      </Turn>
+      <Turn speaker="spk1" startTime="377.101" endTime="378.893">
+        <Sync time="377.101" />
+        ouais ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="378.893" endTime="395.573">
+        <Sync time="378.893" />
+        donc voilà donc ça c'était le le premier test
+        <Event desc="i" type="noise" extent="instantaneous" />
+        euh ensuite euh c'et- donc il y avait les tests
+        <Sync time="386.144" />
+        euh donc toujours tous ensemble donc on nous a refait patienter encore pendant peut-être
+        <Sync time="390.495" />
+        une demi-heure dans dans une salle d'attente donc euh qui était
+        <Event desc="ketE" type="pronounce" extent="previous" />
+        très bien
+        <Sync time="394.138" />
+        avec café distributeur
+        <Sync time="395.435" />
+        &lt; tout ça
+      </Turn>
+      <Turn speaker="spk1" startTime="395.573" endTime="395.878">
+        <Sync time="395.573" />
+        ah &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="395.878" endTime="397.278">
+        <Sync time="395.878" />
+        enfin ça va aller voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="397.278" endTime="397.886">
+        <Sync time="397.278" />
+        bon enfant quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="397.886" endTime="422.088">
+        <Sync time="397.886" />
+        oui voilà
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        et euh donc on est retournés
+        <Event desc="RtuRne" type="pronounce" extent="previous" />
+        donc dans cette salle au
+        <Comment desc="dernière syllabe longue" />
+        <Sync time="402.788" />
+        avec les ordinateurs et là on a passé donc les tests euh donc psychotechniques
+        <Sync time="407.199" />
+        donc euh qui sont comme un peu comme à l'armée quoi un peu du même genre
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="411.974" />
+        et
+        <Comment desc="dernière syllabe longue" />
+        donc euh les tests là euh donc c'est des tests euh un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu
+        <Sync time="415.932" />
+        de logique euh de mémoire avec des par exemple des noms de ville à
+        <Sync time="419.595" />
+        retenir donc au début on fait un test
+        <Sync time="421.902" />
+        &lt; de vingt minutes
+      </Turn>
+      <Turn speaker="spk1" startTime="422.088" endTime="422.782">
+        <Sync time="422.088" />
+        **
+        <Event desc="pi" type="pronounce" extent="previous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="422.782" endTime="447.478">
+        <Sync time="422.782" />
+        et à la fin il faut les
+        <Comment desc="dernière syllabe longue" />
+        les restituer dans dans le bon ordre
+        <Sync time="425.895" />
+        donc euh c'est les tests comme ça donc voilà
+        <Comment desc="dernière syllabe longue" />
+        <Sync time="430.595" />
+        donc ensuite euh donc ce test là c'était un des plus longs je crois
+        <Event desc="SkrHa" type="pronounce" extent="previous" />
+        qui devait
+        <Event desc="dvE" type="pronounce" extent="previous" />
+        faire
+        <Sync time="433.792" />
+        quarante quarante-cinq minutes enfin
+        <Event desc="fE~" type="pronounce" extent="previous" />
+        bref et donc après en retournant donc
+        <Sync time="438.122" />
+        dans la salle euh c'est la la longue attente le long stress euh qu'il y avait
+        <Event desc="kiavE" type="pronounce" extent="previous" />
+        <Sync time="443.337" />
+        c'est que
+        <Comment desc="dernière syllabe longue" />
+        cinq par cinq ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        rappellent des candidats
+      </Turn>
+      <Turn speaker="spk1" startTime="447.478" endTime="447.705">
+        <Sync time="447.478" />
+        ah oui
+      </Turn>
+      <Turn speaker="spk3" startTime="447.705" endTime="484.41">
+        <Sync time="447.705" />
+        donc euh voilà donc alors y en qui partent puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        après donc on
+        <Comment desc="dernière syllabe longue" />
+        les revoit plus
+        <Sync time="452.549" />
+        passer quoi ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        reviennent pu dans la salle jusque donc comme ça ça a duré euh on va dire
+        <Sync time="456.678" />
+        une demi-heure et à la fin on n'était plus que sept voilà puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        une dame
+        <Sync time="460.977" />
+        qui vient nous voir bon bah les sept derniers euh venez
+        <Event desc="vne" type="pronounce" extent="previous" />
+        nous voir donc voilà
+        <Sync time="465.367" />
+        donc on on suit la dame elle nous fait asseoir dans une dans une autre salle
+        <Sync time="468.341" />
+        avec un un grand tableau voilà donc elle nous fait asseoir
+        <Sync time="471.836" />
+        et elle nous dit euh bon bah félicitations euh vous êtes les
+        <Comment desc="dernière syllabe longue" />
+        les sept
+        <Sync time="475.728" />
+        euh derniers euh fin on était quatorze en fait il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        deux groupes de sept
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="479.046" />
+        donc dans les vous êtes dans les dans les derniers ah enfin
+        <Event desc="fE~" type="pronounce" extent="previous" />
+        vous êtes euh
+        <Sync time="484.328" />
+        &lt; ceux
+      </Turn>
+      <Turn speaker="spk1" startTime="484.41" endTime="485.142">
+        <Sync time="484.41" />
+        **
+        <Event desc="pi" type="pronounce" extent="previous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="485.142" endTime="486.376">
+        <Sync time="485.142" />
+        voilà ceux qui ont réussi les tests quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="486.376" endTime="487.118">
+        <Sync time="486.376" />
+        ouais réussi ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="487.118" endTime="491.735">
+        <Sync time="487.118" />
+        donc euh déjà vous avez réussi la première étape
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="488.987" />
+        donc là déjà on était un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu un un grand ouf
+        <Sync time="491.679" />
+        &lt; de soulagement
+      </Turn>
+      <Turn speaker="spk1" startTime="491.735" endTime="493.673">
+        <Sync time="491.735" />
+        ouais ouais
+        <Event desc="rire" type="noise" extent="previous" />
+        je comprends
+        <Event desc="Sko~pRa~" type="pronounce" extent="previous" />
+        bien
+      </Turn>
+      <Turn speaker="spk3" startTime="493.673" endTime="528.227">
+        <Sync time="493.673" />
+        voilà &gt;
+        <Sync time="493.989" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        et donc euh maintenant
+        <Event desc="mE~tna~" type="pronounce" extent="previous" />
+        c'était l'étape euh deux donc c'était euh
+        <Sync time="498.702" />
+        avec donc des psychologues du travail il fallait euh s- on avait un
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        un genre de jeu à
+        <Sync time="507.137" />
+        à faire avec euh un service de livraison et
+        <Comment desc="dernière syllabe longue" />
+        et des problèmes avec
+        <Sync time="512.82" />
+        euh une voiture euh qui fallait mettre de l'essence qui fallait laver qui fallait euh il y avait
+        <Event desc="javE" type="pronounce" extent="previous" />
+        des
+        <Sync time="518.248" />
+        routes en travaux euh et cetera en fait et il fallait s'organiser
+        <Sync time="522.919" />
+        de manière à arriver à livrer le plus rapidement possible et dans les meilleures conditions
+      </Turn>
+      <Turn speaker="spk1" startTime="528.227" endTime="528.538">
+        <Sync time="528.227" />
+        ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="528.538" endTime="548.753">
+        <Sync time="528.538" />
+        et chacun à la fin mettait ses idées euh en commun enfin argumentait
+        <Sync time="532.673" />
+        pourquoi il a préféré laver sa voiture plutôt que de mettre
+        <Event desc="dmEtR" type="pronounce" extent="previous" />
+        <Sync time="535.162" />
+        de l'essence ou inversement et
+        <Comment desc="dernière syllabe longue" />
+        pour euh
+        <Sync time="538.937" />
+        et ça permettait donc au psychologue de de savoir euh faire un un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        euh
+        <Sync time="543.964" />
+        de faire un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        comment un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        bilan de de nos pensées quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="548.753" endTime="549.495">
+        <Sync time="548.753" />
+        ouais voilà oui oui
+        <Sync time="549.488" />
+        &lt; oui oui
+      </Turn>
+      <Turn speaker="spk3" startTime="549.495" endTime="550.38">
+        <Sync time="549.495" />
+        savoir comment on
+      </Turn>
+      <Turn speaker="spk1" startTime="550.38" endTime="550.691">
+        <Sync time="550.38" />
+        ouais ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="550.691" endTime="551.05">
+        <Sync time="550.691" />
+        comment on
+        <Sync time="550.974" />
+        &lt; réfléchit
+      </Turn>
+      <Turn speaker="spk1" startTime="551.05" endTime="553.06">
+        <Sync time="551.05" />
+        vaut &gt;
+        <Sync time="551.318" />
+        mieux mettre de l'essence que de laver la voiture quoi peut-être
+        <Event desc="ptEt" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="553.06" endTime="557.774">
+        <Sync time="553.06" />
+        bah oui mais après euh il y en
+        <Event desc="ja~a" type="pronounce" extent="previous" />
+        a ils ont
+        <Event desc="izo~" type="pronounce" extent="previous" />
+        préféré
+        <Sync time="555.218" />
+        laver la voiture c'était pour euh l'image de l'entreprise
+        <Sync time="557.667" />
+        &lt; tout ça donc
+      </Turn>
+      <Turn speaker="spk1" startTime="557.774" endTime="558.315">
+        <Sync time="557.774" />
+        ah oui &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="558.315" endTime="559.4">
+        <Sync time="558.315" />
+        euh voilà tout de suite
+        <Event desc="tudsHit" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="559.4" endTime="559.654">
+        <Sync time="559.4" />
+        oui
+        <Sync time="559.553" />
+        &lt; oui oui
+      </Turn>
+      <Turn speaker="spk3" startTime="559.654" endTime="561.941">
+        <Sync time="559.654" />
+        c'est des pers- &gt;
+        <Sync time="560.141" />
+        c'est pour euh comparer les personnalités quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="561.941" endTime="564.022">
+        <Sync time="561.941" />
+        bah disons on peut faire les deux laver la voiture puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        mettre de l'essence
+      </Turn>
+      <Turn speaker="spk3" startTime="564.022" endTime="566.487">
+        <Sync time="564.022" />
+        oui mais après on n'aurait pu le temps
+        <Event desc="lta~" type="pronounce" extent="previous" />
+        pour euh
+        <Sync time="565.851" />
+        &lt; payer l'autoroute ou je sais plus quoi dans le problème
+      </Turn>
+      <Turn speaker="spk1" startTime="566.487" endTime="567.372">
+        <Sync time="566.487" />
+        <Event desc="rire" type="noise" extent="previous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="567.372" endTime="568.068">
+        <Sync time="567.372" />
+        donc c'est
+        <Sync time="567.696" />
+        &lt; on prenait pas le temps
+        <Event desc="lta~" type="pronounce" extent="previous" />
+        de tout faire quoi
+        <Event desc="bb" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="568.068" endTime="569.629">
+        <Sync time="568.068" />
+        ah oui oui ouais
+        <Event desc="rire" type="noise" extent="previous" />
+        &gt;
+        <Event desc="bb" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="569.629" endTime="581.942">
+        <Sync time="569.629" />
+        donc euh c'est pour ça fallait bien s'organiser
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        enfin bref donc euh après
+        <Sync time="574.398" />
+        ça donc ça euh c'était pas éliminatoire en fait c'était euh c'était un vraiment un un
+      </Turn>
+      <Turn speaker="spk1" startTime="581.942" endTime="582.587">
+        <Sync time="581.942" />
+        ouais un test comme
+        <Sync time="582.53" />
+        &lt; ça
+      </Turn>
+      <Turn speaker="spk3" startTime="582.587" endTime="583.14">
+        <Sync time="582.587" />
+        ouais &gt;
+        <Sync time="582.83" />
+        un
+        <Sync time="582.973" />
+        &lt; test un
+      </Turn>
+      <Turn speaker="spk1" startTime="583.14" endTime="583.505">
+        <Sync time="583.14" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="583.505" endTime="603.212">
+        <Sync time="583.505" />
+        premier test de personnalité quoi
+        <Event desc="i" type="noise" extent="instantaneous" />
+        donc ensuite on a eu
+        <Comment desc="dernière syllabe longue" />
+        un
+        <Comment desc="dernière syllabe longue" />
+        <Sync time="587.276" />
+        on nous a passé un diaporama durant vingt minutes sur le métier de conducteur de train donc les deux
+        <Sync time="592.151" />
+        métiers euh types donc qu'il y a
+        <Event desc="kia" type="pronounce" extent="previous" />
+        à la S.N.C.F. donc euh les métiers donc euh de conducteur
+        <Sync time="598.545" />
+        euh de manoeuvre donc qui sont plus réservés aux débutants ou aux jeunes
+        <Sync time="602.81" />
+        &lt; et euh
+        <Comment desc="dernière syllabe longue" />
+      </Turn>
+      <Turn speaker="spk1" startTime="603.212" endTime="606.426">
+        <Sync time="603.212" />
+        ouais comme toi tu veux faire quoi &gt;
+        <Sync time="604.553" />
+        enfin en débutant quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="606.426" endTime="606.837">
+        <Sync time="606.426" />
+        ouais voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="606.837" endTime="607.987">
+        <Sync time="606.837" />
+        t'es obligé de passer
+        <Event desc="dpase" type="pronounce" extent="previous" />
+        par là quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="607.987" endTime="643.69">
+        <Sync time="607.987" />
+        voilà et
+        <Comment desc="dernière syllabe longue" />
+        les
+        <Comment desc="dernière syllabe longue" />
+        et le
+        <Comment desc="dernière syllabe longue" />
+        le poste de
+        <Sync time="610.914" />
+        conducteur donc euh de ligne euh donc qui est déjà euh normalement la suite du conducteur
+        <Sync time="616.003" />
+        de manoeuvre et que
+        <Comment desc="dernière syllabe longue" />
+        on peut normal- enfin normalement si on est externe
+        <Sync time="620.414" />
+        ne pas accéder euh comme ça quoi
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="623.767" />
+        et
+        <Comment desc="dernière syllabe longue" />
+        ensuite euh donc après ce petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        diaporama donc euh il était
+        <Sync time="627.735" />
+        préférable de prendre des notes parce qu'après on avait un premier entretien avec une euh psychologue
+        <Sync time="633.095" />
+        du travail ou un psychologue du travail donc dans l'après-midi ce coup-ci
+        <Event desc="skusi" type="pronounce" extent="previous" />
+        puisque on a eu la
+        <Sync time="636.493" />
+        pause pour manger euh entre le diaporama et donc pareil là c'est assez stressant
+        <Sync time="641.227" />
+        parce que
+        <Event desc="pask" type="pronounce" extent="previous" />
+        bon euh face à une seule personne et tout et
+        <Comment desc="dernière syllabe longue" />
+      </Turn>
+      <Turn speaker="spk1" startTime="643.69" endTime="644.929">
+        <Sync time="643.69" />
+        oui oui oui c'est stressant
+      </Turn>
+      <Turn speaker="spk3" startTime="644.929" endTime="659.365">
+        <Sync time="644.929" />
+        et
+        <Comment desc="dernière syllabe longue" />
+        elle pose des questions euh quitte à poser trois fois la même question
+        <Sync time="649.362" />
+        pour vraiment savoir ce qu'on
+        <Event desc="sko~" type="pronounce" extent="previous" />
+        pense euh donc euh c'est pour
+        <Event desc="spur" type="pronounce" extent="previous" />
+        ça c'est
+        <Sync time="652.256" />
+        c'est des tests où c'est vraiment inutile de mentir quoi
+        <Event desc="i" type="noise" extent="instantaneous" />
+        parce que
+        <Event desc="pask" type="pronounce" extent="previous" />
+        euh si on ment
+        <Sync time="657.474" />
+        euh et qu'on essaye de
+        <Sync time="658.851" />
+        &lt; de contourner quelque chose
+      </Turn>
+      <Turn speaker="spk1" startTime="659.365" endTime="660.951">
+        <Sync time="659.365" />
+        mais ils le voient
+        <Event desc="vwaj" type="pronounce" extent="previous" />
+        ouais ouais ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="660.951" endTime="661.934">
+        <Sync time="660.951" />
+        elle le voit directement
+      </Turn>
+      <Turn speaker="spk1" startTime="661.934" endTime="662.795">
+        <Sync time="661.934" />
+        oui directement ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="662.795" endTime="678.413">
+        <Sync time="662.795" />
+        donc voilà donc euh donc ça a duré euh peut-être
+        <Event desc="ptEt" type="pronounce" extent="previous" />
+        euh je sais
+        <Event desc="SE" type="pronounce" extent="previous" />
+        pas moi
+        <Sync time="666.733" />
+        ouais vingt bonnes minutes assez stressantes là aussi
+        <Event desc="i" type="noise" extent="instantaneous" />
+        et donc à la fin elle m- donc euh la
+        <Sync time="672.721" />
+        psychologue elle m'a dit euh bah c'est bon pour moi y'a pas de soucis
+        <Event desc="dsusi" type="pronounce" extent="previous" />
+        et tout
+        <Sync time="675.636" />
+        donc euh maintenant
+        <Event desc="mE~tna~" type="pronounce" extent="previous" />
+        c'est pas moi qui prend la décision finale
+      </Turn>
+      <Turn speaker="spk1" startTime="678.413" endTime="678.451">
+        <Sync time="678.413" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="678.451" endTime="685.078">
+        <Sync time="678.451" />
+        c'est &gt;
+        <Sync time="678.714" />
+        au recruteur donc euh de la région Lorraine donc à ¤T1¤
+        <Event desc="i" type="noise" extent="instantaneous" />
+        que c'est
+        <Event desc="ksE" type="pronounce" extent="previous" />
+        à eux de prendre
+        <Sync time="683.44" />
+        la décision quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="685.078" endTime="687.201">
+        <Sync time="685.078" />
+        oui maintenant
+        <Event desc="mana~" type="pronounce" extent="previous" />
+        t'es apte à c- à conduire des trains
+      </Turn>
+      <Turn speaker="spk3" startTime="687.201" endTime="687.808">
+        <Sync time="687.201" />
+        bah disons
+        <Sync time="687.732" />
+        &lt; que
+        <Comment desc="dernière syllabe longue" />
+      </Turn>
+      <Turn speaker="spk1" startTime="687.808" endTime="688.418">
+        <Sync time="687.808" />
+        au niveau des tests là &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="688.418" endTime="690.112">
+        <Sync time="688.418" />
+        apte euh psychologiquement oui
+      </Turn>
+      <Turn speaker="spk1" startTime="690.112" endTime="690.654">
+        <Sync time="690.112" />
+        psychologiquement
+      </Turn>
+      <Turn speaker="spk3" startTime="690.654" endTime="691.065">
+        <Sync time="690.654" />
+        &lt; psychologiquement oui je suis apte
+      </Turn>
+      <Turn speaker="spk1" startTime="691.065" endTime="692.691">
+        <Sync time="691.065" />
+        oui oui
+        <Event desc="Hi" type="pronounce" extent="previous" />
+        oui
+        <Event desc="Hi" type="pronounce" extent="previous" />
+        oui
+        <Event desc="Hi" type="pronounce" extent="previous" />
+        oui
+        <Event desc="Hi" type="pronounce" extent="previous" />
+        pas maintenant &gt;
+        <Sync time="692.22" />
+        oui oui faut
+      </Turn>
+      <Turn speaker="spk3" startTime="692.691" endTime="693.323">
+        <Sync time="692.691" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="693.323" endTime="694.961">
+        <Sync time="693.323" />
+        faudra des formations plus poussées euh
+      </Turn>
+      <Turn speaker="spk3" startTime="694.961" endTime="695.582">
+        <Sync time="694.961" />
+        voilà c'est
+        <Sync time="695.569" />
+        &lt; ça
+      </Turn>
+      <Turn speaker="spk1" startTime="695.582" endTime="696.891">
+        <Sync time="695.582" />
+        par &gt;
+        <Sync time="695.767" />
+        la suite quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="696.891" endTime="707.174">
+        <Sync time="696.891" />
+        donc voilà donc j'ai eu donc mon petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        papier tout ça comme quoi j'avais
+        <Sync time="699.882" />
+        euh donc là c'était à ¤T1¤ le lendemain
+        <Event desc="la~dmE~" type="pronounce" extent="previous" />
+        fallait donc je retourne
+        <Event desc="Zr2turn" type="pronounce" extent="previous" />
+        <Sync time="703.128" />
+        euh chez moi et donc euh à ¤T1¤ le lendemain
+        <Event desc="la~dmE~" type="pronounce" extent="previous" />
+        pour euh passer le test
+      </Turn>
+      <Turn speaker="spk1" startTime="707.174" endTime="707.899">
+        <Sync time="707.174" />
+        deuxième stress
+      </Turn>
+      <Turn speaker="spk3" startTime="707.899" endTime="715.861">
+        <Sync time="707.899" />
+        voilà de
+        <Comment desc="dernière syllabe longue" />
+        de recrutement donc celui qui est vraiment euh plus euh
+        <Sync time="711.551" />
+        c'est-à-dire
+        <Event desc="stadir" type="pronounce" extent="previous" />
+        qui est
+        <Event desc="kE" type="pronounce" extent="previous" />
+        plus en rapport ce coup-ci
+        <Event desc="skusi" type="pronounce" extent="previous" />
+        avec
+        <Sync time="714.33" />
+        euh si on connait bien euh
+        <Sync time="715.304" />
+        &lt; l'entreprise
+      </Turn>
+      <Turn speaker="spk1" startTime="715.861" endTime="716.489">
+        <Sync time="715.861" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="716.489" endTime="770.916">
+        <Sync time="716.489" />
+        tout ça
+        <Event desc="i" type="noise" extent="instantaneous" />
+        et puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        euh vraiment exposer vraiment là c'est plus
+        <Sync time="720.292" />
+        nos motivations que
+        <Comment desc="dernière syllabe longue" />
+        que que psychologiquement quoi
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        donc voilà
+        <Sync time="727.371" />
+        donc du coup bah euh je suis donc euh j'ai repris
+        <Event desc="rpri" type="pronounce" extent="previous" />
+        le métro
+        <Event desc="lmetro" type="pronounce" extent="previous" />
+        je suis
+        <Event desc="SHi" type="pronounce" extent="previous" />
+        rentré
+        <Sync time="730.359" />
+        donc euh je suis
+        <Event desc="SHi" type="pronounce" extent="previous" />
+        retourné
+        <Event desc="rturne" type="pronounce" extent="previous" />
+        jusqu'à la gare j'ai repris
+        <Event desc="rpri" type="pronounce" extent="previous" />
+        le T.G.V.
+        <Sync time="734.384" />
+        donc et je suis
+        <Event desc="SHi" type="pronounce" extent="previous" />
+        rentré
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        voilà et jusqu'au
+        <Sync time="737.429" />
+        donc lendemain
+        <Event desc="la~dmE~" type="pronounce" extent="previous" />
+        donc où je suis où je suis retourné donc à ¤T1¤
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="743.193" />
+        donc euh je suis
+        <Event desc="SHi" type="pronounce" extent="previous" />
+        arrivé donc devant les recruteurs donc il y avait
+        <Event desc="javE" type="pronounce" extent="previous" />
+        un chef
+        <Sync time="746.959" />
+        de conducteurs de trains euh de ¤T1¤ une D.R.H. de ¤T1¤ et euh deux autres euh
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        deux autres euh
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="756.025" />
+        donc euh c'était des dirigeants euh des cadres de la S.N.C.F. donc euh dans
+        <Sync time="761.44" />
+        le domaine
+        <Event desc="ldomEn" type="pronounce" extent="previous" />
+        de la conduite
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="764.192" />
+        et donc déjà la première impression euh quand ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        m'ont vu arriver
+        <Sync time="767.135" />
+        ils ont
+        <Event desc="izo~" type="pronounce" extent="previous" />
+        fait les gros yeux enfin ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        se sont dit
+        <Sync time="769.449" />
+        il
+        <Event desc="i" type="pronounce" extent="previous" />
+        s'est pas trompé de porte lui parce que
+        <Event desc="pask2" type="pronounce" extent="previous" />
+        euh
+      </Turn>
+      <Turn speaker="spk1" startTime="770.916" endTime="771.067">
+        <Sync time="770.916" />
+        oui voilà
+        <Event desc="vla" type="pronounce" extent="previous" />
+        <Sync time="771.06" />
+        &lt; un jeunot quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="771.067" endTime="772.149">
+        <Sync time="771.067" />
+        vu mon &gt;
+        <Sync time="771.29" />
+        oui
+        <Sync time="771.959" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="772.149" endTime="772.622">
+        <Sync time="772.149" />
+        <Event desc="rire" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="772.622" endTime="789.093">
+        <Sync time="772.622" />
+        oui &gt;
+        <Sync time="772.908" />
+        vu votre jeune âge et tout fin ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        m'ont dit ola vous êtes jeune
+        <Sync time="776.034" />
+        j'ai dit
+        <Event desc="Zdi" type="pronounce" extent="previous" />
+        bah oui et tout il
+        <Event desc="i" type="pronounce" extent="previous" />
+        fait ah bon c'est bien donc voilà
+        <Sync time="780.149" />
+        et
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        euh et donc euh j'ai donc j'ai j'ai répondu à des questions
+        <Sync time="786.514" />
+        j'ai eu des questions sur ma formation euh
+        <Sync time="788.501" />
+        &lt; de
+      </Turn>
+      <Turn speaker="spk1" startTime="789.093" endTime="789.497">
+        <Sync time="789.093" />
+        à Paris &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="789.497" endTime="790.39">
+        <Sync time="789.497" />
+        de BAC et
+        <Sync time="790.351" />
+        &lt; pis nan nan de de BAC
+      </Turn>
+      <Turn speaker="spk1" startTime="790.39" endTime="791.686">
+        <Sync time="790.39" />
+        ah oui ah de BAC &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="791.686" endTime="811.739">
+        <Sync time="791.686" />
+        ce que
+        <Event desc="sk2" type="pronounce" extent="previous" />
+        je savais
+        <Event desc="SavE" type="pronounce" extent="previous" />
+        faire à l'école tout ça
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        et
+        <Comment desc="dernière syllabe longue" />
+        et voilà
+        <Sync time="795.987" />
+        donc euh ils ont
+        <Event desc="izo~" type="pronounce" extent="previous" />
+        dit que
+        <Comment desc="dernière syllabe longue" />
+        que c'était bien quoi mais bon qu'après la décision
+        <Sync time="802.094" />
+        ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        pouvaient pas me le
+        <Event desc="ml2" type="pronounce" extent="previous" />
+        dire directement donc je serai
+        <Event desc="SrE" type="pronounce" extent="previous" />
+        euh contacté
+        <Sync time="805.036" />
+        ensuite donc euh pour le pour la réponse euh finale quoi soit par mail soit par
+        <Sync time="811.71" />
+        &lt; téléphone quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="811.739" endTime="813.028">
+        <Sync time="811.739" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="813.028" endTime="820.006">
+        <Sync time="813.028" />
+        donc là voilà mais j'étais content quand même de mon entretien qui a
+        <Event desc="ka" type="pronounce" extent="previous" />
+        duré quand même
+        <Sync time="816.195" />
+        près d'une heure et demi donc ce qui est
+        <Event desc="skE" type="pronounce" extent="previous" />
+        assez euh assez conséquent pour
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        un
+      </Turn>
+      <Turn speaker="spk1" startTime="820.006" endTime="820.328">
+        <Sync time="820.006" />
+        ah une
+        <Sync time="820.212" />
+        &lt; heure et demi oui c'est c'est long
+      </Turn>
+      <Turn speaker="spk3" startTime="820.328" endTime="822.129">
+        <Sync time="820.328" />
+        pour un pour un entretien &gt;
+        <Sync time="821.486" />
+        de travail
+        <Sync time="821.973" />
+        &lt; c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="822.129" endTime="822.566">
+        <Sync time="822.129" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="822.566" endTime="822.805">
+        <Sync time="822.566" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="822.805" endTime="823.925">
+        <Sync time="822.805" />
+        un premier entretien
+        <Sync time="823.836" />
+        &lt; **
+      </Turn>
+      <Turn speaker="spk3" startTime="823.925" endTime="847.197">
+        <Sync time="823.925" />
+        mais bon on va dire qu'on a beaucoup &gt;
+        <Sync time="825.116" />
+        parlé aussi de de mes cours avec euh un des cadres qui avait fait la même formation
+        <Sync time="830.366" />
+        que moi
+        <Event desc="kmHa" type="pronounce" extent="previous" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        et
+        <Comment desc="dernière syllabe longue" />
+        et voilà
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        donc euh voilà
+        <Sync time="835.306" />
+        donc après c'était donc euh des des
+        <Comment desc="dernière syllabe longue" />
+        temps de un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        <Sync time="839.542" />
+        peu d'attente et tout parce que
+        <Event desc="pask2" type="pronounce" extent="previous" />
+        sachant que
+        <Comment desc="dernière syllabe longue" />
+        ben voilà
+        <Sync time="842.08" />
+        j'allais à l'école entre temps hein encore donc euh moi j'étais prêt à quitter l'école
+        <Sync time="845.873" />
+        donc à à me lancer
+        <Sync time="846.97" />
+        &lt; là-dedans
+        <Event desc="lada~" type="pronounce" extent="previous" />
+        aller en formation
+      </Turn>
+      <Turn speaker="spk1" startTime="847.197" endTime="849.175">
+        <Sync time="847.197" />
+        oui puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        rentrer ouais-ais &gt;
+        <Sync time="848.517" />
+        ah pas mal
+      </Turn>
+      <Turn speaker="spk3" startTime="849.175" endTime="868.499">
+        <Sync time="849.175" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        voilà sauf que ben
+        <Comment desc="dernière syllabe longue" />
+        donc je les
+        <Event desc="ZlE" type="pronounce" extent="previous" />
+        rappelais
+        <Event desc="raplE" type="pronounce" extent="previous" />
+        <Sync time="852.447" />
+        assez souvent parce que
+        <Event desc="pask" type="pronounce" extent="previous" />
+        bon au bout d'un mois un mois et demi
+        <Event desc="dmi" type="pronounce" extent="previous" />
+        j'avais
+        <Sync time="854.719" />
+        toujours pas de réponse
+        <Event desc="drepo~s" type="pronounce" extent="previous" />
+        donc ça m'étonnait
+        <Event desc="i" type="noise" extent="instantaneous" />
+        donc je les
+        <Event desc="ZlE" type="pronounce" extent="previous" />
+        ai rappelé
+        <Sync time="858.397" />
+        <Event desc="raple" type="pronounce" extent="previous" />
+        donc ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        disaient donc euh à Paris ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        disaient que
+        <Comment desc="dernière syllabe longue" />
+        <Sync time="861.527" />
+        ils avaient
+        <Event desc="izavE" type="pronounce" extent="previous" />
+        pas de réponse de ¤T1¤ et quand j'appelais
+        <Event desc="ZaplE" type="pronounce" extent="previous" />
+        euh ¤T1¤
+        <Sync time="864.612" />
+        ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        disaient qu'ils avaient
+        <Event desc="kizavE" type="pronounce" extent="previous" />
+        pas de réponse de Paris donc c'était un gros bazar
+        <Event desc="i" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="868.499" endTime="868.907">
+        <Sync time="868.499" />
+        ouais ça
+        <Sync time="868.763" />
+        &lt; c'est
+      </Turn>
+      <Turn speaker="spk3" startTime="868.907" endTime="869.533">
+        <Sync time="868.907" />
+        voilà &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="869.533" endTime="870.271">
+        <Sync time="869.533" />
+        c'est du yoyo quoi
+        <Sync time="870.142" />
+        &lt;
+        <Event desc="rire" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="870.271" endTime="873.267">
+        <Sync time="870.271" />
+        bah c'est toujours le problème &gt;
+        <Sync time="871.423" />
+        de l'administration quoi j'ai envie de dire
+        <Event desc="d@dir" type="pronounce" extent="previous" />
+        mais bon
+        <Sync time="873.249" />
+        &lt;
+        <Event desc="i" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="873.267" endTime="874.116">
+        <Sync time="873.267" />
+        ouais voilà oui oui &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="874.116" endTime="898.329">
+        <Sync time="874.116" />
+        voilà euh donc euh donc euh finalement j'ai réussi euh donc à avoir plus
+        <Sync time="881.099" />
+        d'informations car pendant mes vacances ben j'ai été à Paris donc euh pour
+        <Sync time="885.576" />
+        visiter cette fois-ci donc pas pour passer des tests
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="888.654" />
+        mais euh cette fois-ci ben j'ai un matin euh j'ai décidé d'aller me déplacer
+        <Event desc="mdeplase" type="pronounce" extent="previous" />
+        <Sync time="894.314" />
+        donc euh personnellement jusqu'à jusqu'à l'établissement là où
+        <Sync time="897.966" />
+        &lt; j'avais passé mes tests
+      </Turn>
+      <Turn speaker="spk1" startTime="898.329" endTime="899.219">
+        <Sync time="898.329" />
+        ouais c'est bien ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="899.219" endTime="915.54">
+        <Sync time="899.219" />
+        donc voilà donc euh je suis
+        <Event desc="SHi" type="pronounce" extent="previous" />
+        arrivé bon ben évidemment la dame à l'accueil
+        <Sync time="902.555" />
+        elle m'a dit ah mais je peux
+        <Event desc="Spe" type="pronounce" extent="previous" />
+        pas vous faire monter et tout donc je lui
+        <Event desc="ZlHi" type="pronounce" extent="previous" />
+        <Sync time="905.682" />
+        ai expliqué que je venais
+        <Event desc="Zv2nE" type="pronounce" extent="previous" />
+        de Lorraine
+        <Event desc="dlorEn" type="pronounce" extent="previous" />
+        tout ça donc euh j'étais pas venu
+        <Event desc="vny" type="pronounce" extent="previous" />
+        <Sync time="908.198" />
+        exprès pour ça j'étais venu
+        <Event desc="vny" type="pronounce" extent="previous" />
+        quand même un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu en vacances au départ
+        <Sync time="911.078" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        et vu que j'avais
+        <Event desc="kZavE" type="pronounce" extent="previous" />
+        pas de nouvelles
+        <Event desc="dnuv@l" type="pronounce" extent="previous" />
+        je préférais
+        <Event desc="SprefErE" type="pronounce" extent="previous" />
+        <Sync time="912.661" />
+        me déplacer quand même et puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        mettre tout ça un peu au clair
+        <Event desc="i" type="noise" extent="instantaneous" />
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

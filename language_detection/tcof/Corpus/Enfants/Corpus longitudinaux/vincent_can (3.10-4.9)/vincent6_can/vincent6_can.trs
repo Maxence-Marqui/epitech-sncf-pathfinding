@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Corpus" audio_filename="vincent6_can.wav" version="7" version_date="080825">
+<Topics>
+<Topic id="to1" desc="SDrevuEC21/8/2007YS13/8/2008"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Vincent" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="160.213" topic="to1">
+<Turn startTime="0" endTime="2.37" speaker="spk1">
+<Sync time="0"/>
+ou tu veux je te relise celui-là
+</Turn>
+<Turn speaker="spk2" startTime="2.37" endTime="3.921">
+<Sync time="2.37"/>
+euh un autre
+</Turn>
+<Turn speaker="spk1" startTime="3.921" endTime="4.609">
+<Sync time="3.921"/>
+un autre livre
+</Turn>
+<Turn speaker="spk2" startTime="4.609" endTime="6.462">
+<Sync time="4.609"/>
+oui $$$
+<Sync time="5.411"/>
+en jaune 
+<Comment desc="Vincent désigne le titre"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="6.462" endTime="8.78">
+<Sync time="6.462"/>
+oui en jaune c'est écrit "Cheval-Papi" c'est le titre
+</Turn>
+<Turn speaker="spk2" startTime="8.78" endTime="9.82">
+<Sync time="8.78"/>
+et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ là ?
+</Turn>
+<Turn speaker="spk1" startTime="9.82" endTime="11.699">
+<Sync time="9.82"/>
+là c'est écrit "Histoires à parler"
+</Turn>
+<Turn speaker="spk2" startTime="11.699" endTime="12.945">
+<Sync time="11.699"/>
+le bleu c'est écrit quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="12.945" endTime="14.927">
+<Sync time="12.945"/>
+c'est écrit "Histoires à parler"
+</Turn>
+<Turn speaker="spk2" startTime="14.927" endTime="15.581">
+<Sync time="14.927"/>
+et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ là ?
+</Turn>
+<Turn speaker="spk1" startTime="15.581" endTime="24.625">
+<Sync time="15.581"/>
+c'est le nom de la dame qui a écrit qui a écrit le livre Laurence Lentin +
+<Sync time="23.597"/>
+tu 
+<Event desc="b" type="noise" extent="previous"/>
+ veux me le raconter 
+</Turn>
+<Turn speaker="spk2" startTime="24.625" endTime="25.187">
+<Sync time="24.625"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="25.187" endTime="26.907">
+<Sync time="25.187"/>
+allez vas-y 
+</Turn>
+<Turn speaker="spk2" startTime="26.907" endTime="31.509">
+<Sync time="26.907"/>
+Cheval-Papi 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se met 
+<Event desc="sme" type="pronounce" extent="previous"/>
+ à quatre 
+<Event desc="kat" type="pronounce" extent="previous"/>
+ pattes
+</Turn>
+<Turn speaker="spk1" startTime="31.509" endTime="36.702">
+<Sync time="31.509"/>
+oui Papi s'est mis à quatre pattes pour jouer à Cheval-Papi 
+</Turn>
+<Turn speaker="spk2" startTime="36.702" endTime="38.37">
+<Sync time="36.702"/>
+pour jouer à Cheval-Papi
+</Turn>
+<Turn speaker="spk1" startTime="38.37" endTime="42.393">
+<Sync time="38.37"/>
+oui 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.393" endTime="47.509">
+<Sync time="42.393"/>
+Cheval-Papi ne bouge pas
+</Turn>
+<Turn speaker="spk1" startTime="47.509" endTime="53.769">
+<Sync time="47.509"/>
++ oui Cheval-Papi ne bouge pas du tout pendant que Didou monte sur son dos 
+</Turn>
+<Turn speaker="spk2" startTime="53.769" endTime="57.11">
+<Sync time="53.769"/>
+pendant que 
+<Event desc="k" type="pronounce" extent="previous"/>
+ Didou *** monte sur son dos il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle Didou ?
+</Turn>
+<Turn speaker="spk1" startTime="57.11" endTime="67.227">
+<Sync time="57.11"/>
+oui il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle Didou le petit garçon +
+<Sync time="60.972"/>
+tu me le redis Cheval-Papi ne bouge pas du tout pendant que Didou monte sur son dos 
+</Turn>
+<Turn speaker="spk2" startTime="67.227" endTime="73.352">
+<Sync time="67.227"/>
+Cheval-Papi il
+<Event desc="i" type="pronounce" extent="previous"/>
+ bouge pas parce 
+<Event desc="pars" type="pronounce" extent="previous"/>
+ que Di- Didou il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ monte sur son dos
+</Turn>
+<Turn speaker="spk1" startTime="73.352" endTime="80.052">
+<Sync time="73.352"/>
+c'est bien Vincent 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk2" startTime="80.052" endTime="88.363">
+<Sync time="80.052"/>
+Cheval-Papi se met 
+<Event desc="sme" type="pronounce" extent="previous"/>
+ debout Didou il il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'accroche à son cou pour pas tomber
+</Turn>
+<Turn speaker="spk1" startTime="88.363" endTime="92.062">
+<Sync time="88.363"/>
+bien très bien +
+</Turn>
+<Turn speaker="spk2" startTime="92.062" endTime="97.324">
+<Sync time="92.062"/>
+c'est c'est * Di- Cheval-Papi il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle là ?
+</Turn>
+<Turn speaker="spk1" startTime="97.324" endTime="97.818">
+<Sync time="97.324"/>
+oui 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="97.818" endTime="98.848">
+<Sync time="97.818"/>
+<Who nb="1"/>
+/ça, là/
+<Who nb="2"/>
+ oui
+</Turn>
+<Turn speaker="spk2" startTime="98.848" endTime="105.153">
+<Sync time="98.848"/>
+Cheval-Papi se lève fou fou fou partout
+</Turn>
+<Turn speaker="spk1" startTime="105.153" endTime="109.266">
+<Sync time="105.153"/>
+hum oui il court partout en poussant des cris hi hi hi hi hi hi 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="109.266" endTime="115.176">
+<Sync time="109.266"/>
+<Who nb="1"/>
+hi 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Who nb="2"/>
+hi 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk2" startTime="115.176" endTime="118.933">
+<Sync time="115.176"/>
+il fait semblant de manger 
+<Event desc="ma~te" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ met son nez dessus
+</Turn>
+<Turn speaker="spk1" startTime="118.933" endTime="131.762">
+<Sync time="118.933"/>
+oui il met son nez dessus et il fait semblant de manger 
+<Sync time="122.954"/>
+il
+<Event desc="i" type="pronounce" extent="previous"/>
+ met quand il voit quelque chose de bon à manger il met son nez dessus +
+</Turn>
+<Turn speaker="spk2" startTime="131.762" endTime="137.093">
+<Sync time="131.762"/>
+il dit 
+<Event desc="e" type="pronounce" extent="previous"/>
+ le cheval-Papi c'est fini pour Cheval-Papi
+</Turn>
+<Turn speaker="spk1" startTime="137.093" endTime="154.42">
+<Sync time="137.093"/>
+oui Cheval-Papi est un peu fatigué alors il fait tomber Didou sur le lit
+<Sync time="143.148"/>
+et Didou crie c'est fini pour aujourd'hui Cheval-Papi 
+<Sync time="147.253"/>
++ et voilà c'est bien Vincent tu veux aller jouer avec tes copains maintenant 
+<Event desc="me~tna~" type="pronounce" extent="previous"/>
+ ? 
+</Turn>
+<Turn speaker="spk2" startTime="154.42" endTime="155.249">
+<Sync time="154.42"/>
+hein ?
+</Turn>
+<Turn speaker="spk1" startTime="155.249" endTime="160.213">
+<Sync time="155.249"/>
+tu veux aller jouer avec tes copains ? + 
+<Comment desc="L'enfant désigne la pile de livres"/>
+
+<Sync time="157.817"/>
+tu veux encore un autre livre ?
+<Sync time="159.182"/>
+ouais ? $$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

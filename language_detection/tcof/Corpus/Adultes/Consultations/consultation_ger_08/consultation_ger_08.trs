@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<Trans scribe="Louise" audio_filename="consultation_ger_08.wav" version="20" version_date="140414">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" type="female" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="609.765">
+      <Turn speaker="spk1" startTime="0.0" endTime="4.735">
+        <Sync time="0.0" />
+        on y va alors dîtes-moi tout
+        <Sync time="2.533" />
+        que vous arrive-t-il ah ah l'insuline
+      </Turn>
+      <Turn speaker="spk2" startTime="4.735" endTime="6.611">
+        <Sync time="4.735" />
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        test positif
+      </Turn>
+      <Turn speaker="spk1" startTime="6.611" endTime="7.531">
+        <Sync time="6.611" />
+        &lt; le test voilà hein
+      </Turn>
+      <Turn speaker="spk2" startTime="7.531" endTime="10.033">
+        <Sync time="7.531" />
+        euh donc &gt; j'aimerais faire un &lt; ben un bilan sanguin complet
+      </Turn>
+      <Turn speaker="spk1" startTime="10.033" endTime="10.562">
+        <Sync time="10.033" />
+        * un un c- un con- un contôle quoi &gt; &lt; c'est ça
+      </Turn>
+      <Turn speaker="spk2" startTime="10.562" endTime="12.002">
+        <Sync time="10.562" />
+        ouais &gt; avant d'aller voir &lt; la gynécologue
+      </Turn>
+      <Turn speaker="spk1" startTime="12.002" endTime="12.312">
+        <Sync time="12.002" />
+        hum &gt; voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="12.312" endTime="14.252">
+        <Sync time="12.312" />
+        faire un bilan sanguin complet
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="14.252" endTime="18.362">
+        <Sync time="14.252" />
+        ah oui parce que là de toute façon on sait que c'est positif donc comme c'est positif c'est &lt; positif ah ouais voilà hein ah oui euh ça euh
+      </Turn>
+      <Turn speaker="spk2" startTime="18.362" endTime="22.769">
+        <Sync time="18.362" />
+        c'est positif ouais donc &gt; mais avec une prise de sang
+        <Sync time="19.108" />
+        &lt; parce que je voulais une prise de sang de confirmation mais euh
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="22.769" endTime="24.343">
+        <Sync time="22.769" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        &gt; quand le test est négatif vous savez pas mais
+      </Turn>
+      <Turn speaker="spk2" startTime="24.343" endTime="24.503">
+        <Sync time="24.343" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="24.503" endTime="26.578">
+        <Sync time="24.503" />
+        quand il est positif il il &lt; vous trompe jamais hein
+      </Turn>
+      <Turn speaker="spk2" startTime="26.578" endTime="26.847">
+        <Sync time="26.578" />
+        donc euh ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="26.847" endTime="28.594">
+        <Sync time="26.847" />
+        au prix où c'est d'ailleurs hein euh il peut pas hein &lt; hum
+      </Turn>
+      <Turn speaker="spk2" startTime="28.594" endTime="31.25">
+        <Sync time="28.594" />
+        donc toxo
+        <Event desc="apocope de toxoplasmose" type="lexical" extent="instantaneous" />
+        &gt; tout ça quoi &lt; parce que
+        <Event desc="la locutrice soupire" type="noise" extent="instantaneous" />
+        moi j'ai toujours été
+      </Turn>
+      <Turn speaker="spk1" startTime="31.25" endTime="31.847">
+        <Sync time="31.25" />
+        voilà on va faire comme ça
+      </Turn>
+      <Turn speaker="spk2" startTime="31.847" endTime="32.05">
+        <Sync time="31.847" />
+        négative avec
+      </Turn>
+      <Turn speaker="spk1" startTime="32.05" endTime="32.659">
+        <Sync time="32.05" />
+        carte vitale vous avez ça
+      </Turn>
+      <Turn speaker="spk2" startTime="32.659" endTime="32.941">
+        <Sync time="32.659" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="32.941" endTime="34.44">
+        <Sync time="32.941" />
+        hum
+        <Sync time="33.612" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="34.44" endTime="36.05">
+        <Sync time="34.44" />
+        <Event desc="bruit de la locutrice posant la carte vitale sur le bureau" type="noise" extent="instantaneous" />
+        ça &lt; et puis euh
+      </Turn>
+      <Turn speaker="spk1" startTime="36.05" endTime="37.643">
+        <Sync time="36.05" />
+        donc vous vous sentez prête là &gt; pour la deuxième course &lt; poursuite c'est ça
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="37.643" endTime="41.331">
+        <Sync time="37.643" />
+        ben ouais c'est pour c'est c'était prévu enfin c'était prévu euh &gt;
+        <Sync time="39.424" />
+        qu'on remette en route là mais euh &lt;
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="41.331" endTime="46.003">
+        <Sync time="41.331" />
+        voilà &gt; bon
+        <Sync time="42.611" />
+        ah c'est sûr qu'il faut refaire diabète et tout le tralala hein donc euh hein &lt; *** hum
+      </Turn>
+      <Turn speaker="spk2" startTime="46.003" endTime="49.173">
+        <Sync time="46.003" />
+        ouais alors par contre &gt; euh je venais aussi pour avoir une autre lettre
+      </Turn>
+      <Turn speaker="spk1" startTime="49.173" endTime="49.565">
+        <Sync time="49.173" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="49.565" endTime="50.548">
+        <Sync time="49.565" />
+        pour un nutritionniste
+      </Turn>
+      <Turn speaker="spk1" startTime="50.548" endTime="51.159">
+        <Sync time="50.548" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="51.159" endTime="52.736">
+        <Sync time="51.159" />
+        parce que j'ai été voir euh madame ¤N1¤ +
+      </Turn>
+      <Turn speaker="spk1" startTime="52.736" endTime="53.159">
+        <Sync time="52.736" />
+        &lt; hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="53.159" endTime="55.22">
+        <Sync time="53.159" />
+        et &gt; madame ¤N1¤ ne euh a quitté la région
+      </Turn>
+      <Turn speaker="spk1" startTime="55.22" endTime="55.737">
+        <Sync time="55.22" />
+        elle est &lt; partie
+      </Turn>
+      <Turn speaker="spk2" startTime="55.737" endTime="58.001">
+        <Sync time="55.737" />
+        n'exerce &gt; plus sur euh ouais sur euh ¤T1¤
+      </Turn>
+      <Turn speaker="spk1" startTime="58.001" endTime="58.393">
+        <Sync time="58.001" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="58.393" endTime="61.22">
+        <Sync time="58.393" />
+        et son associé m'a reçue
+      </Turn>
+      <Turn speaker="spk1" startTime="61.22" endTime="61.534">
+        <Sync time="61.22" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" startTime="61.534" endTime="70.986">
+        <Sync time="61.534" />
+        <Event desc="inspiration de L2" type="noise" extent="instantaneous" />
+        alors il m'a prescrit un un régime diététique avec sachets hyperprotéinés
+        <Sync time="67.189" />
+        et douze gélules par jour d'a- de de compléments alimentaires à &lt; prendre
+      </Turn>
+      <Turn speaker="spk1" startTime="70.986" endTime="71.486">
+        <Sync time="70.986" />
+        ah &gt; bon
+      </Turn>
+      <Turn speaker="spk2" startTime="71.486" endTime="74.314">
+        <Sync time="71.486" />
+        trois cents euros le mois
+        <Sync time="72.783" />
+        j'ai dit non hein j'ai refusé &lt; hein
+      </Turn>
+      <Turn speaker="spk1" startTime="74.314" endTime="75.064">
+        <Sync time="74.314" />
+        il faut &gt; il faut un régime euh &lt; *** hum
+      </Turn>
+      <Turn speaker="spk2" startTime="75.064" endTime="82.439">
+        <Sync time="75.064" />
+        ben oui il je &gt; pense qu'il a pas compris votre lettre
+        <Sync time="77.408" />
+        ou je sais pas ou je parlais pas français
+        <Sync time="79.439" />
+        et je lui disais que c'était juste pour reprendre avant une grossesse &lt; mais équilibrer
+      </Turn>
+      <Turn speaker="spk1" startTime="82.439" endTime="85.065">
+        <Sync time="82.439" />
+        non parce que ce sont ils sont dans leur(s) euh &lt; ***
+        <Sync time="83.205" />
+        et euh ouais &gt; il était dans son truc &lt; euh
+      </Turn>
+      <Turn speaker="spk1" startTime="85.065" endTime="86.392">
+        <Sync time="85.065" />
+        ils sont dans leur petit &gt; monde à eux là &lt; hein donc un petit peu
+      </Turn>
+      <Turn speaker="spk2" startTime="86.392" endTime="89.658">
+        <Sync time="86.392" />
+        je lui ai trois cents euros je peux pas quoi
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="89.658" endTime="90.393">
+        <Sync time="89.658" />
+        c'est sympa oui
+      </Turn>
+      <Turn speaker="spk2" startTime="90.393" endTime="92.325">
+        <Sync time="90.393" />
+        et puis même euh avec les sachets &lt; machin
+      </Turn>
+      <Turn speaker="spk1" startTime="92.325" endTime="92.591">
+        <Sync time="92.325" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="92.591" endTime="93.454">
+        <Sync time="92.591" />
+        je sais pas si c'est tellement bon
+      </Turn>
+      <Turn speaker="spk1" startTime="93.454" endTime="94.487">
+        <Sync time="93.454" />
+        ah non non puis pour la grossesse &lt; c'est hors de q- il est h- il il est hors de question hein
+      </Turn>
+      <Turn speaker="spk2" startTime="94.487" endTime="101.439">
+        <Sync time="94.487" />
+        il me dit oh pour le diabète euh c'est &gt; la façon la plus radicale
+        <Sync time="97.986" />
+        de perdre du poids tout de suite vous allez perdre sept kilos en un mois
+        <Sync time="100.486" />
+        je dis oui mais bon je vais
+      </Turn>
+      <Turn speaker="spk1" startTime="101.439" endTime="101.907">
+        <Sync time="101.439" />
+        hum
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="101.907" endTime="105.454">
+        <Sync time="101.907" />
+        j- c'est pour remettre en route une deuxième grossesse
+        <Sync time="103.845" />
+        est-ce bien judicieux &lt; quoi de faire ça
+      </Turn>
+      <Turn speaker="spk1" startTime="105.454" endTime="105.97">
+        <Sync time="105.454" />
+        voilà &gt; ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="105.97" endTime="107.205">
+        <Sync time="105.97" />
+        ben il était bloqué sur son &lt; truc quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="107.205" endTime="108.267">
+        <Sync time="107.205" />
+        c'est c'est &gt; impressionant &lt; c'est il s'appelle comment
+      </Turn>
+      <Turn speaker="spk2" startTime="108.267" endTime="108.485">
+        <Sync time="108.267" />
+        donc euh &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="108.485" endTime="109.36">
+        <Sync time="108.485" />
+        alors celui que vous avez vu son &lt; associé
+      </Turn>
+      <Turn speaker="spk2" startTime="109.36" endTime="110.954">
+        <Sync time="109.36" />
+        alors &gt; lui s- monsieur ¤N2¤
+      </Turn>
+      <Turn speaker="spk1" startTime="110.954" endTime="113.08">
+        <Sync time="110.954" />
+        ¤N2¤ alors c'est pas la pei- même pas la peine alors c'est &lt; sûr hein
+      </Turn>
+      <Turn speaker="spk2" startTime="113.08" endTime="113.252">
+        <Sync time="113.08" />
+        ah ouais &gt; &lt; oh je
+      </Turn>
+      <Turn speaker="spk1" startTime="113.252" endTime="114.424">
+        <Sync time="113.252" />
+        ouais laissez tomber hein &gt; oh oui
+      </Turn>
+      <Turn speaker="spk2" startTime="114.424" endTime="117.517">
+        <Sync time="114.424" />
+        moi je pense que je vais aller retourner voir celui de la maternité
+        <Sync time="116.767" />
+        monsieur ¤N3¤ hein
+      </Turn>
+      <Turn speaker="spk1" startTime="117.517" endTime="117.814">
+        <Sync time="117.517" />
+        &lt; oui
+      </Turn>
+      <Turn speaker="spk2" startTime="117.814" endTime="118.408">
+        <Sync time="117.814" />
+        qui &gt; m'avait suivie à la mat
+        <Event desc="apocope de maternité" type="lexical" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="118.408" endTime="120.314">
+        <Sync time="118.408" />
+        mais je sais pas s'il travaille encore ¤N3¤ c'est ça le problème
+      </Turn>
+      <Turn speaker="spk2" startTime="120.314" endTime="120.533">
+        <Sync time="120.314" />
+        ah
+      </Turn>
+      <Turn speaker="spk1" startTime="120.533" endTime="122.971">
+        <Sync time="120.533" />
+        hein c'est pour ça q- hein on avait des problèmes
+        <Sync time="121.986" />
+        allez voir &lt; à la à ¤T2¤
+      </Turn>
+      <Turn speaker="spk2" startTime="122.971" endTime="123.081">
+        <Sync time="122.971" />
+        d'accord &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="123.081" endTime="124.549">
+        <Sync time="123.081" />
+        le le monsieur ¤N4¤ + qui est très &lt; bien
+      </Turn>
+      <Turn speaker="spk2" startTime="124.549" endTime="125.753">
+        <Sync time="124.549" />
+        ben &gt; oui c'était lui que &lt; j'avais eu
+      </Turn>
+      <Turn speaker="spk1" startTime="125.753" endTime="125.893">
+        <Sync time="125.753" />
+        ouais ouais &gt; &lt; ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="125.893" endTime="127.519">
+        <Sync time="125.893" />
+        à ma première grossesse &gt; et j'ai pas accroché
+      </Turn>
+      <Turn speaker="spk1" startTime="127.519" endTime="132.081">
+        <Sync time="127.519" />
+        vous avez pas accroché donc ben c'est pas la peine alors
+        <Sync time="128.972" />
+        parce que lui il était pas mal finalement
+        <Sync time="130.081" />
+        mais &lt; si vous n'accrochez pas c'est pas la peine
+      </Turn>
+      <Turn speaker="spk2" startTime="132.081" endTime="135.095">
+        <Sync time="132.081" />
+        ben ouais mais il a même &gt; pas vu que mon appareil euh était pas bon
+        <Sync time="134.549" />
+        &lt; et faussé
+      </Turn>
+      <Turn speaker="spk1" startTime="135.095" endTime="135.251">
+        <Sync time="135.095" />
+        ah bon &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="135.251" endTime="136.751">
+        <Sync time="135.251" />
+        il était faussé alors euh
+        <Event desc="la locutrice soupire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="136.751" endTime="137.391">
+        <Sync time="136.751" />
+        oui c'est embêtant ça
+      </Turn>
+      <Turn speaker="spk2" startTime="137.391" endTime="140.937">
+        <Sync time="137.391" />
+        moi je veux bien le revoir mais il a même pas vu que mon appareil était faussé
+        <Sync time="139.438" />
+        je me mettais trop trop &lt; d'insuline
+      </Turn>
+      <Turn speaker="spk1" startTime="140.937" endTime="144.843">
+        <Sync time="140.937" />
+        hum &gt; alors on tombe sur euh pas grand monde
+        <Sync time="143.234" />
+        alors c'est vrai que ¤N3¤ était pas mal
+      </Turn>
+      <Turn speaker="spk2" startTime="144.843" endTime="147.218">
+        <Sync time="144.843" />
+        ah il exerce plus euh en cabinet
+      </Turn>
+      <Turn speaker="spk1" startTime="147.218" endTime="150.062">
+        <Sync time="147.218" />
+        non je crois qu'il qu'il est plus euh il est à l'hôpital et puis &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="150.062" endTime="151.141">
+        <Sync time="150.062" />
+        ah &gt; c'est tout il est plus qu'à la mat
+      </Turn>
+      <Turn speaker="spk1" startTime="151.141" endTime="151.39">
+        <Sync time="151.141" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="151.39" endTime="151.703">
+        <Sync time="151.39" />
+        O.K.
+      </Turn>
+      <Turn speaker="spk1" startTime="151.703" endTime="151.953">
+        <Sync time="151.703" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="151.953" endTime="152.828">
+        <Sync time="151.953" />
+        ben je le verrais à la mat &lt;
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="152.828" endTime="154.406">
+        <Sync time="152.828" />
+        ben il faut le voir à la mat &gt; à mon avis hein &lt; ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="154.406" endTime="156.625">
+        <Sync time="154.406" />
+        ou alors &gt; consulter à la mat &lt; directement puisque euh
+      </Turn>
+      <Turn speaker="spk1" startTime="156.625" endTime="157.296">
+        <Sync time="156.625" />
+        bien sûr moi je pense &gt; &lt; honnêtement
+      </Turn>
+      <Turn speaker="spk2" startTime="157.296" endTime="159.936">
+        <Sync time="157.296" />
+        puisque &gt; bon ma gynéco va me suivre jusque euh ben /la,là,l'a-/ euh
+      </Turn>
+      <Turn speaker="spk1" startTime="159.936" endTime="161.92">
+        <Sync time="159.936" />
+        et puis moi j'aime l- j'aime bien ¤N3¤ parce que c'est &lt; quand même lui
+      </Turn>
+      <Turn speaker="spk2" startTime="161.92" endTime="162.248">
+        <Sync time="161.92" />
+        ouais il est bien &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="162.248" endTime="163.217">
+        <Sync time="162.248" />
+        qui s'occupe un petit peu &lt; des grossesses
+      </Turn>
+      <Turn speaker="spk2" startTime="163.217" endTime="163.403">
+        <Sync time="163.217" />
+        il est bien &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="163.403" endTime="164.155">
+        <Sync time="163.403" />
+        et des il est &lt; pas mal hein
+      </Turn>
+      <Turn speaker="spk2" startTime="164.155" endTime="165.045">
+        <Sync time="164.155" />
+        c'est lui qui m'a rerégulée
+      </Turn>
+      <Turn speaker="spk1" startTime="165.045" endTime="165.467">
+        <Sync time="165.045" />
+        &lt; hein
+      </Turn>
+      <Turn speaker="spk2" startTime="165.467" endTime="166.779">
+        <Sync time="165.467" />
+        qui &gt; m'a remis
+        <Comment desc="sic" />
+        euh une semaine à la mat
+      </Turn>
+      <Turn speaker="spk1" startTime="166.779" endTime="166.888">
+        <Sync time="166.779" />
+        ah ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="166.888" endTime="167.716">
+        <Sync time="166.888" />
+        pour me reréguler
+      </Turn>
+      <Turn speaker="spk1" startTime="167.716" endTime="167.966">
+        <Sync time="167.716" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="167.966" endTime="168.857">
+        <Sync time="167.966" />
+        voir &gt; l'appareil euh
+      </Turn>
+      <Turn speaker="spk1" startTime="168.857" endTime="173.826">
+        <Sync time="168.857" />
+        j'accroche moins avec madame ¤N5¤ euh hein
+        <Event desc="L2 se mouche" type="noise" extent="previous" />
+        <Sync time="170.513" />
+        qui est qui l'a remplacé au cabinet
+        <Sync time="171.748" />
+        et puis euh monsieur ¤N6¤ hein qui sont déjà des
+      </Turn>
+      <Turn speaker="spk2" startTime="173.826" endTime="174.283">
+        <Sync time="173.826" />
+        j'essaierai de me &lt; renseigner
+      </Turn>
+      <Turn speaker="spk1" startTime="174.283" endTime="174.802">
+        <Sync time="174.283" />
+        hein &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="174.802" endTime="175.24">
+        <Sync time="174.802" />
+        pour &lt; euh
+      </Turn>
+      <Turn speaker="spk1" startTime="175.24" endTime="175.529">
+        <Sync time="175.24" />
+        un petit peu hein hum
+      </Turn>
+      <Turn speaker="spk2" startTime="175.529" endTime="177.873">
+        <Sync time="175.529" />
+        aller à la mat &gt; carrément faire une &lt; consultation
+      </Turn>
+      <Turn speaker="spk1" startTime="177.873" endTime="179.06">
+        <Sync time="177.873" />
+        voilà on a &gt; on (n') a pas beaucoup de monde hein
+        <Sync time="178.373" />
+        moi je je &lt; traîne
+      </Turn>
+      <Turn speaker="spk2" startTime="179.06" endTime="179.217">
+        <Sync time="179.06" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="179.217" endTime="185.403">
+        <Sync time="179.217" />
+        aussi avec ¤N7¤ et puis euh
+        <Event desc="inspiration de L1" type="noise" extent="instantaneous" />
+        ¤N8¤
+        <Sync time="181.294" />
+        à à ¤T3¤ mais c'est pareil hein c'est ils sont plutôt clientélistes euh
+      </Turn>
+      <Turn speaker="spk2" startTime="185.403" endTime="185.528">
+        <Sync time="185.403" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="185.528" endTime="188.293">
+        <Sync time="185.528" />
+        hein c'est c'est plus de la médecine euh
+      </Turn>
+      <Turn speaker="spk2" startTime="188.293" endTime="188.621">
+        <Sync time="188.293" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="188.621" endTime="190.887">
+        <Sync time="188.621" />
+        de terrain là c'est on est au d- on est ailleurs hein donc euh
+      </Turn>
+      <Turn speaker="spk2" startTime="190.887" endTime="191.715">
+        <Sync time="190.887" />
+        dans les régimes
+      </Turn>
+      <Turn speaker="spk1" startTime="191.715" endTime="195.122">
+        <Sync time="191.715" />
+        ah voilà ça c'est encore autre chose
+        <Sync time="193.325" />
+        dès qu'on est dans les régimes ils sont dans leur domaine à eux &lt; et puis euh c'est
+      </Turn>
+      <Turn speaker="spk2" startTime="195.122" endTime="199.481">
+        <Sync time="195.122" />
+        ah ouais ouais ouais les &gt; trucs hyperprotéinés
+        <Sync time="196.825" />
+        ils ont leur(s) ah ça va ils ont leur(s) laboratoire(s) hein
+        <Sync time="198.622" />
+        il avait son laboratoire
+        <Event desc="ricanement de L2" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="199.481" endTime="203.142">
+        <Sync time="199.481" />
+        on a l'impression soit des chamanes soit des gourous d'une secte
+        <Sync time="201.465" />
+        hein donc ils font partie là du groupe
+        <Sync time="202.808" />
+        et ils &lt; vous proposent
+      </Turn>
+      <Turn speaker="spk2" startTime="203.142" endTime="203.484">
+        <Sync time="203.142" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="203.484" endTime="206.495">
+        <Sync time="203.484" />
+        des produits effectivement
+        <Sync time="204.183" />
+        tout le monde a trois cents euros à dépenser par mois hein &lt; pour faire un régime un peu
+      </Turn>
+      <Turn speaker="spk2" startTime="206.495" endTime="209.355">
+        <Sync time="206.495" />
+        oui voilà c'est ça quoi &gt; et puis surtout pour euh avant de redémarrer une grossesse
+      </Turn>
+      <Turn speaker="spk1" startTime="209.355" endTime="209.683">
+        <Sync time="209.355" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="209.683" endTime="210.621">
+        <Sync time="209.683" />
+        c'est &gt; vachement judicieux
+      </Turn>
+      <Turn speaker="spk1" startTime="210.621" endTime="215.293">
+        <Sync time="210.621" />
+        hum bon
+        <Event desc="rire de L2" type="noise" extent="instantaneous" />
+        ben ah moi j'aime bien ¤N3¤ effectivement
+        <Sync time="213.949" />
+        s'il continue &lt; à consulter
+      </Turn>
+      <Turn speaker="spk2" startTime="215.293" endTime="215.605">
+        <Sync time="215.293" />
+        ben je vais essayer &gt; de &lt; euh
+      </Turn>
+      <Turn speaker="spk1" startTime="215.605" endTime="217.917">
+        <Sync time="215.605" />
+        hein &gt; donc il ça vaut le coup de euh de reprendre contact avec
+      </Turn>
+      <Turn speaker="spk2" startTime="217.917" endTime="218.104">
+        <Sync time="217.917" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="218.104" endTime="222.808">
+        <Sync time="218.104" />
+        allez &gt; on va regarder au niveau tension déjà ce que ça donne hop
+        <Sync time="220.245" />
+        ça à l'air de marcher hein ça parle
+      </Turn>
+      <Turn speaker="spk2" startTime="222.808" endTime="223.48">
+        <Sync time="222.808" />
+        <Event desc="rire de L2" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="223.48" endTime="227.729">
+        <Sync time="223.48" />
+        <Comment desc="L1 et L2 se déplacent vers la salle d'auscultation" />
+        j'ai je je pense que j'ai dû faire des erreurs
+        <Sync time="225.229" />
+        avec la hé les enregistrements avant parce que ça faisait
+      </Turn>
+      <Turn speaker="spk2" startTime="227.729" endTime="227.963">
+        <Sync time="227.729" />
+        &lt; ah ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="227.963" endTime="231.573">
+        <Sync time="227.963" />
+        ça faisait pas &gt; comme ça tout à l'heure
+        <Event desc="crissement du tabouret sur le sol" type="noise" extent="instantaneous" />
+        <Sync time="229.683" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        je vais me faire disputer
+      </Turn>
+      <Turn speaker="spk2" startTime="231.573" endTime="234.574">
+        <Sync time="231.573" />
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        quand même la journée a été longue non
+      </Turn>
+      <Turn speaker="spk1" startTime="234.574" endTime="235.183">
+        <Sync time="234.574" />
+        &lt; non
+      </Turn>
+      <Turn speaker="spk2" startTime="235.183" endTime="235.917">
+        <Sync time="235.183" />
+        vous avez &gt; pour toute la journée là
+      </Turn>
+      <Turn speaker="spk1" startTime="235.917" endTime="239.402">
+        <Sync time="235.917" />
+        oui oui mais on fera demain encore ça va
+        <Sync time="237.808" />
+        <Event desc="inspiration de L1" type="noise" extent="instantaneous" />
+        quand on aime on ne compte pas
+      </Turn>
+      <Turn speaker="spk2" startTime="239.402" endTime="241.199">
+        <Sync time="239.402" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        ah il y a du mérite hein
+      </Turn>
+      <Turn speaker="spk1" startTime="241.199" endTime="252.744">
+        <Sync time="241.199" />
+        allez + alors si je veux faire régime il faut que je gagne trois cents euros
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        <Sync time="246.386" />
+        ça va être difficile
+        <Event desc="bruit du tensiomètre" type="noise" extent="instantaneous" />
+        <Event desc="inspiration de L1" type="noise" extent="instantaneous" />
+        <Event desc="inspiration de L2" type="noise" extent="instantaneous" />
+        <Sync time="249.463" />
+        non c'est vrai ils s- je trouve qu'ils sont un peu pénibles
+        <Sync time="250.947" />
+        il y a pas beaucoup de nutritionnistes diététiciens *** &lt; ***
+      </Turn>
+      <Turn speaker="spk2" startTime="252.744" endTime="253.259">
+        <Sync time="252.744" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="253.259" endTime="263.556">
+        <Sync time="253.259" />
+        comme ¤T1¤ hein c'est dire que +
+        <Sync time="257.228" />
+        la tension est bonne hein douze +
+        <Sync time="260.228" />
+        c'est pas une spécialité reconnue en ville
+        <Sync time="262.275" />
+        donc il y a pas de nutritionniste(s)
+      </Turn>
+      <Turn speaker="spk2" startTime="263.556" endTime="263.946">
+        <Sync time="263.556" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="263.946" endTime="272.759">
+        <Sync time="263.946" />
+        attitré(s) c'est ça le problème hein
+        <Event desc="bruit du tensiomètre" type="noise" extent="instantaneous" />
+        <Sync time="266.259" />
+        c'est un vrai manque ça hein
+        <Sync time="267.275" />
+        douze et demi sept pas tout à fait douze et demi d'ailleurs entre les deux hein
+        <Event desc="le docteur retire le scratch du tensiomètre" type="noise" extent="instantaneous" />
+        <Sync time="270.665" />
+        on regarde l'autre côté
+      </Turn>
+      <Turn speaker="spk2" startTime="272.759" endTime="273.243">
+        <Sync time="272.759" />
+        toc
+      </Turn>
+      <Turn speaker="spk1" startTime="273.243" endTime="276.868">
+        <Sync time="273.243" />
+        donc ça c'est bien hein voilà
+        <Sync time="274.493" />
+        bon ce qu'il faut c'est surtout pas prendre trop de poids en début de grossesse
+      </Turn>
+      <Turn speaker="spk2" startTime="276.868" endTime="277.743">
+        <Sync time="276.868" />
+        &lt; mais non mais non
+      </Turn>
+      <Turn speaker="spk1" startTime="277.743" endTime="279.228">
+        <Sync time="277.743" />
+        bon * &gt; là il va falloir piloter plus sûr &lt; quoi un petit
+      </Turn>
+      <Turn speaker="spk2" startTime="279.228" endTime="279.603">
+        <Sync time="279.228" />
+        ben oui &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="279.603" endTime="280.65">
+        <Sync time="279.603" />
+        peu
+        <Sync time="279.729" />
+        puis maintenant qu'on est au courant &lt; hein là là ils sont pris ensemble
+      </Turn>
+      <Turn speaker="spk2" startTime="280.65" endTime="283.026">
+        <Sync time="280.65" />
+        voilà on a annoncé il faut &gt; que ça soit pris dès &lt; le départ
+      </Turn>
+      <Turn speaker="spk1" startTime="283.026" endTime="285.01">
+        <Sync time="283.026" />
+        ouais &gt; vous avez la machine à la maison
+        <Event desc="bruit du tensiomètre" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="285.01" endTime="287.588">
+        <Sync time="285.01" />
+        oui mais bon comme elle donne des indications faussées
+      </Turn>
+      <Turn speaker="spk1" startTime="287.588" endTime="288.4">
+        <Sync time="287.588" />
+        ben il faut en prendre une autre
+      </Turn>
+      <Turn speaker="spk2" startTime="288.4" endTime="290.385">
+        <Sync time="288.4" />
+        ben oui il faut qu'il(s) m'en ouais il faut m'en
+      </Turn>
+      <Turn speaker="spk1" startTime="290.385" endTime="292.073">
+        <Sync time="290.385" />
+        on va faire d- une ordonnance pour en avoir une autre
+      </Turn>
+      <Turn speaker="spk2" startTime="292.073" endTime="297.489">
+        <Sync time="292.073" />
+        ben voilà ///
+        <Comment desc="le docteur L1 prend la tension de L2" />
+      </Turn>
+      <Turn speaker="spk1" startTime="297.489" endTime="303.102">
+        <Sync time="297.489" />
+        c'est ça douze sept pas tout à fait douze
+        <Sync time="298.975" />
+        hein donc c'est bien
+        <Sync time="299.591" />
+        donc c'est la bonne fourchette sur celle-là
+        <Event desc="bruit de scratch" type="noise" extent="instantaneous" />
+        <Sync time="300.811" />
+        hein la deuxième valeur est toujours meilleure que la première
+      </Turn>
+      <Turn speaker="spk2" startTime="303.102" endTime="304.098">
+        <Sync time="303.102" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="304.098" endTime="306.985">
+        <Sync time="304.098" />
+        ah ce serait ce serait l'effet l'effet blouse blanche la première fois
+      </Turn>
+      <Turn speaker="spk2" startTime="306.985" endTime="309.164">
+        <Sync time="306.985" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="307.983" />
+        &lt; oh ça fait deux heures euh
+      </Turn>
+      <Turn speaker="spk1" startTime="309.164" endTime="309.86">
+        <Sync time="309.164" />
+        oh enfin &gt; c'est ça
+      </Turn>
+      <Turn speaker="spk2" startTime="309.86" endTime="311.124">
+        <Sync time="309.86" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        c'est l'attente
+      </Turn>
+      <Turn speaker="spk1" startTime="311.124" endTime="331.424">
+        <Sync time="311.124" />
+        ah mais j'ai pas la blouse blanche ni /un air vrai,***/
+        <Sync time="314.143" />
+        c'est le principe
+        <Sync time="315.447" />
+        ///
+        <Sync time="319.111" />
+        de toute façon les deux affres c'est ça
+        <Sync time="320.366" />
+        c'est l- c'est le diabète et l'hypertension
+        <Sync time="322.096" />
+        hein enfin et il faut jouer là-dessus et ça il faut être toujours vigilant encore un petit peu
+        <Sync time="325.531" />
+        <Event desc="inspiration de L1" type="noise" extent="instantaneous" />
+        pour le reste pour la prise de sang vous verrez effectivement
+        <Sync time="327.958" />
+        on va faire une prise de sang à jeun strict
+        <Sync time="329.569" />
+        avec euh l'hémoglobine diquée
+      </Turn>
+      <Turn speaker="spk2" startTime="331.424" endTime="331.71">
+        <Sync time="331.424" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="331.71" endTime="355.062">
+        <Sync time="331.71" />
+        bilan &gt; lipidique on va refaire les bilans hormonaux
+        <Sync time="333.985" />
+        + on fera des des diagnostiques biologiques quand même pour euh s'assurer que
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        ça marche
+        <Sync time="338.202" />
+        un petit peu
+        <Sync time="339.225" />
+        mais bon si c'est positif c'est que c'était bon hein quand même hein voilà
+        <Sync time="342.488" />
+        /// bon alors *** un faux négati- un faux positif
+        <Sync time="347.787" />
+        voilà ce ce c'est se moquer un petit peu du produit fait hein
+        <Event desc="L2  ricane" type="noise" extent="instantaneous" />
+        <Sync time="350.577" />
+        /// ça va hein c'est bien
+      </Turn>
+      <Turn speaker="spk2" startTime="355.062" endTime="356.473">
+        <Sync time="355.062" />
+        non puis bon j'ai les &lt; symptômes
+      </Turn>
+      <Turn speaker="spk1" startTime="356.473" endTime="357.329">
+        <Sync time="356.473" />
+        hum &gt; en forme quand même &lt; hein
+      </Turn>
+      <Turn speaker="spk2" startTime="357.329" endTime="359.757">
+        <Sync time="357.329" />
+        oui oui
+        <Event desc="crissement du tabouret sur le sol" type="noise" extent="instantaneous" />
+        &gt;
+        <Sync time="358.227" />
+        moi je suis fatiguée enfin euh
+      </Turn>
+      <Turn speaker="spk1" startTime="359.757" endTime="360.243">
+        <Sync time="359.757" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="360.243" endTime="360.895">
+        <Sync time="360.243" />
+        c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="360.895" endTime="361.771">
+        <Sync time="360.895" />
+        plus au boulot
+      </Turn>
+      <Turn speaker="spk2" startTime="361.771" endTime="362.378">
+        <Sync time="361.771" />
+        comment
+      </Turn>
+      <Turn speaker="spk1" startTime="362.378" endTime="372.167">
+        <Sync time="362.378" />
+        non
+        <Sync time="362.991" />
+        <Event desc="clic de stylo" type="noise" extent="instantaneous" />
+        respirez bien à fond
+        <Sync time="364.848" />
+        voilà
+        <Sync time="366.146" />
+        + parfait hum + toussez un peu
+      </Turn>
+      <Turn speaker="spk2" startTime="372.167" endTime="374.609">
+        <Sync time="372.167" />
+        <Event desc="L2 tousse" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="374.609" endTime="379.077">
+        <Sync time="374.609" />
+        ça marche hein pas de souci
+        <Sync time="375.87" />
+        hein pas de problème de ce côté-là
+        <Sync time="377.321" />
+        venez voir sur la balance ça c'est le truc &lt; ouais bon
+      </Turn>
+      <Turn speaker="spk2" startTime="379.077" endTime="379.647">
+        <Sync time="379.077" />
+        ouh la la &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="379.647" endTime="380.378">
+        <Sync time="379.647" />
+        oui
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="380.378" endTime="381.422">
+        <Sync time="380.378" />
+        oh ben alors
+        <Event desc="bruit de pas" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="381.422" endTime="382.02">
+        <Sync time="381.422" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="382.02" endTime="383.12">
+        <Sync time="382.02" />
+        <Event desc="bruit de pas" type="noise" extent="instantaneous" />
+        je crois que
+      </Turn>
+      <Turn speaker="spk1" startTime="383.12" endTime="384.588">
+        <Sync time="383.12" />
+        on va voir ce que ça donne hum
+      </Turn>
+      <Turn speaker="spk2" startTime="384.588" endTime="392.552">
+        <Sync time="384.588" />
+        ///
+        <Comment desc="L2 monte sur la balance" />
+        ouais c'est ça soixante-six
+      </Turn>
+      <Turn speaker="spk1" startTime="392.552" endTime="393.267">
+        <Sync time="392.552" />
+        soixante-six
+      </Turn>
+      <Turn speaker="spk2" startTime="393.267" endTime="393.695">
+        <Sync time="393.267" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="393.695" endTime="394.964">
+        <Sync time="393.695" />
+        ça fait soixante-cinq &lt; euh hein
+      </Turn>
+      <Turn speaker="spk2" startTime="394.964" endTime="396.165">
+        <Sync time="394.964" />
+        je suis soixante-quatre &gt; en été
+      </Turn>
+      <Turn speaker="spk1" startTime="396.165" endTime="396.434">
+        <Sync time="396.165" />
+        c'est ça
+      </Turn>
+      <Turn speaker="spk2" startTime="396.434" endTime="397.127">
+        <Sync time="396.434" />
+        et soixante-six en &lt; hiver
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="397.127" endTime="405.188">
+        <Sync time="397.127" />
+        c'est ça un petit peu plus hein &gt; voilà
+        <Sync time="399.325" />
+        partir sur l'hypothèse-là et puis euh voilà hein
+        <Sync time="403.092" />
+        donc on sait qu'on part de soixante-six hop &lt; voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="405.188" endTime="406.477">
+        <Sync time="405.188" />
+        et &gt; puis voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="406.477" endTime="407.229">
+        <Sync time="406.477" />
+        et puis
+      </Turn>
+      <Turn speaker="spk2" startTime="407.229" endTime="409.485">
+        <Sync time="407.229" />
+        oui de toute façon j'ai les symptômes hein
+        <Sync time="409.097" />
+        j'ai &lt; j'ai des crampes
+      </Turn>
+      <Turn speaker="spk1" startTime="409.485" endTime="410.009">
+        <Sync time="409.485" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="410.009" endTime="410.862">
+        <Sync time="410.009" />
+        en bas du &lt; ventre euh
+      </Turn>
+      <Turn speaker="spk1" startTime="410.862" endTime="410.934">
+        <Sync time="410.862" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="410.934" endTime="412.713">
+        <Sync time="410.934" />
+        je supporte plus la douche sur les seins &lt; euh
+      </Turn>
+      <Turn speaker="spk1" startTime="412.713" endTime="413.576">
+        <Sync time="412.713" />
+        hum hum &gt;
+        <Event desc="L1 tape à l'ordinateur" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="413.576" endTime="414.885">
+        <Sync time="413.576" />
+        je suis constipée
+        <Comment desc="L2 parle plus vite" />
+        ah ben ça &lt; de toute façon
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="414.885" endTime="415.97">
+        <Sync time="414.885" />
+        hum oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="415.97" endTime="419.272">
+        <Sync time="415.97" />
+        donc ouais euh il y a les symptômes quand même hein
+        <Sync time="418.187" />
+        <Event desc="bruit de bouche de L2" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="419.272" endTime="420.675">
+        <Sync time="419.272" />
+        voilà voilà
+        <Event desc="L1 pose quelque chose sur le bureau" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="420.675" endTime="424.054">
+        <Sync time="420.675" />
+        donc ouais surveiller aller voir quelqu'un et puis prendre tout de suite euh &lt; en charge
+      </Turn>
+      <Turn speaker="spk1" startTime="424.054" endTime="429.572">
+        <Sync time="424.054" />
+        je pense que le suivi reste hospitalier
+        <Sync time="426.026" />
+        donc comme c'est un problème un peu particulier
+        <Sync time="427.982" />
+        /gardez,garder/ le contact avec euh &lt; le milieu hospitalier hein hum
+      </Turn>
+      <Turn speaker="spk2" startTime="429.572" endTime="431.711">
+        <Sync time="429.572" />
+        oui et puis comme de toute façon euh &gt; j'accouche à la mat
+      </Turn>
+      <Turn speaker="spk1" startTime="431.711" endTime="432.506">
+        <Sync time="431.711" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="432.506" endTime="436.894">
+        <Sync time="432.506" />
+        hein ma gynéco n'est pas accoucheu- euh elle accouche pas mais euh je euh hum
+      </Turn>
+      <Turn speaker="spk1" startTime="436.894" endTime="437.996">
+        <Sync time="436.894" />
+        c'est elle qui fait le suivi et puis elle &lt; euh elle est en en contact avec la mat c'est ça
+      </Turn>
+      <Turn speaker="spk2" startTime="437.996" endTime="442.026">
+        <Sync time="437.996" />
+        elle fait le suivi jusqu'à ben &gt; moi en fait c'est monsieur ¤N9¤ donc &lt; qui m- euh
+      </Turn>
+      <Turn speaker="spk1" startTime="442.026" endTime="443.423">
+        <Sync time="442.026" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="443.423" endTime="449.685">
+        <Sync time="443.423" />
+        que je vois parce que c'est lui qui m'avait euh
+        <Event desc="L2 fouille dans son sac à main" type="noise" extent="instantaneous" />
+        <Sync time="447.605" />
+        qui avait fait l'intervention &lt; quand
+      </Turn>
+      <Turn speaker="spk1" startTime="449.685" endTime="450.58">
+        <Sync time="449.685" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="450.58" endTime="457.28">
+        <Sync time="450.58" />
+        du premier euh il fallait l'enlever là
+        <Event desc="inspiration de L2" type="noise" extent="instantaneous" />
+        <Sync time="453.289" />
+        et donc c'est lui qui m'avait accouchée et qui avait suivi la fin de m- l- la fin de ma grossesse
+      </Turn>
+      <Turn speaker="spk1" startTime="457.28" endTime="458.543">
+        <Sync time="457.28" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="458.543" endTime="462.908">
+        <Sync time="458.543" />
+        de Timéo et euh je pense que je vais le recontacter pour qu'il suive euh la fin de celle-ci quoi &lt; aussi
+      </Turn>
+      <Turn speaker="spk1" startTime="462.908" endTime="473.251">
+        <Sync time="462.908" />
+        voilà &gt;
+        <Sync time="463.718" />
+        ah oui il faut *** /pour,comme/ ça
+        <Sync time="464.859" />
+        donc on va refaire un dosage donc comme celui-ci allez hop
+        <Sync time="467.89" />
+        ici diagnostic +
+        <Comment desc="L1 remplit le dossier médical de L2" />
+      </Turn>
+      <Turn speaker="spk2" startTime="473.251" endTime="476.055">
+        <Sync time="473.251" />
+        s'il faut aller consulter à la mat j'irai consulter à la mat et euh &lt; c'est plus pratique
+      </Turn>
+      <Turn speaker="spk1" startTime="476.055" endTime="476.89">
+        <Sync time="476.055" />
+        c'est pas plus gênant que ça &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="476.89" endTime="477.541">
+        <Sync time="476.89" />
+        en plus que &lt; d'aller à au centre de ¤T1¤ et euh
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="477.541" endTime="481.043">
+        <Sync time="477.541" />
+        je pense je crois
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        je suis d'accord avec &gt; &lt; vous
+      </Turn>
+      <Turn speaker="spk2" startTime="481.043" endTime="484.499">
+        <Sync time="481.043" />
+        pour se garer &gt; tout ça euh
+      </Turn>
+      <Turn speaker="spk1" startTime="484.499" endTime="512.881">
+        <Sync time="484.499" />
+        voilà
+        <Sync time="485.839" />
+        vous avez pas plus de complications je suis d'accord avec vous voilà
+        <Sync time="489.015" />
+        aujourd'hui + nous sommes + le dix + douze + deux mille huit
+        <Comment desc="L1 tape à l'ordinateur" />
+        +
+        <Sync time="497.083" />
+        votre tension c'est bien
+        <Sync time="499.302" />
+        <Comment desc="L1 tape à l'ordinateur" />
+        + deux mille huit ///
+        <Sync time="503.747" />
+        <Comment desc="L1 tape à l'ordinateur" />
+        voilà il faudra faire euh +
+        <Sync time="509.483" />
+        une petite recherche aussi vitamine D &lt; mais bon
+      </Turn>
+      <Turn speaker="spk2" startTime="512.881" endTime="514.875">
+        <Sync time="512.881" />
+        je prends &gt; de l'acide folique
+      </Turn>
+      <Turn speaker="spk1" startTime="514.875" endTime="515.67">
+        <Sync time="514.875" />
+        en ce moment
+      </Turn>
+      <Turn speaker="spk2" startTime="515.67" endTime="518.571">
+        <Sync time="515.67" />
+        ouais
+        <Sync time="516.182" />
+        parce que bon ben comme je voulais on voulait remettre en route là
+      </Turn>
+      <Turn speaker="spk1" startTime="518.571" endTime="518.88">
+        <Sync time="518.571" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="518.88" endTime="522.731">
+        <Sync time="518.88" />
+        ça fait ben j'ai commencé euh le deux octobre l'acide folique ça fait deux mois
+      </Turn>
+      <Turn speaker="spk1" startTime="522.731" endTime="523.954">
+        <Sync time="522.731" />
+        d'accord donc on va regarder &lt; ça
+      </Turn>
+      <Turn speaker="spk2" startTime="523.954" endTime="526.87">
+        <Sync time="523.954" />
+        ouais &gt; j'avais je l'avais appelée la gynéco pour qu'elle me donne de l'acide folique
+      </Turn>
+      <Turn speaker="spk1" startTime="526.87" endTime="536.698">
+        <Sync time="526.87" />
+        + on va mettre *** super serique+
+        <Sync time="531.16" />
+        *** les folates *** et les frais sans prendre le folate ce jour-là hein
+      </Turn>
+      <Turn speaker="spk2" startTime="536.698" endTime="537.389">
+        <Sync time="536.698" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="537.389" endTime="546.987">
+        <Sync time="537.389" />
+        il faut pas en mélanger la les il faut pas tromper le le dosage hein
+        <Sync time="542.268" />
+        voilà le niveau euh complet voilà
+        <Event desc="inspiration de L1" type="noise" extent="instantaneous" />
+        <Sync time="544.813" />
+        vitamine D ferretine fer folates &lt; la thyroïde
+      </Turn>
+      <Turn speaker="spk2" startTime="546.987" endTime="548.531">
+        <Sync time="546.987" />
+        hum hum &gt; hum pour voir si &lt; il manque de rien
+      </Turn>
+      <Turn speaker="spk1" startTime="548.531" endTime="551.952">
+        <Sync time="548.531" />
+        voilà &gt; un petit peu donc la partie euh lipidique euh &lt; les protéines un petit peu
+      </Turn>
+      <Turn speaker="spk2" startTime="551.952" endTime="552.988">
+        <Sync time="551.952" />
+        toxo tout ça &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="552.988" endTime="569.005">
+        <Sync time="552.988" />
+        et puis euh toxoplasmose puisque c'est toujours négatif hein euh
+        <Sync time="556.604" />
+        sérologie la rubéole c'était bon
+        <Sync time="558.575" />
+        toxo- ///
+        <Comment desc="L1 tape à l'ordinateur" />
+        -plasmose et sérologie
+        <Sync time="565.293" />
+        *** voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="569.005" endTime="571.104">
+        <Sync time="569.005" />
+        ouais comme ça quand j'irai la voir elle aura bien tout
+      </Turn>
+      <Turn speaker="spk1" startTime="571.104" endTime="576.957">
+        <Sync time="571.104" />
+        ///
+        <Comment desc="L1 tape à l'ordinateur" />
+        rubéole voilà hein
+      </Turn>
+      <Turn speaker="spk2" startTime="576.957" endTime="578.357">
+        <Sync time="576.957" />
+        donc tout ça hum à jeun
+      </Turn>
+      <Turn speaker="spk1" startTime="578.357" endTime="578.986">
+        <Sync time="578.357" />
+        à jeun oui
+      </Turn>
+      <Turn speaker="spk2" startTime="578.986" endTime="579.291">
+        <Sync time="578.986" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="579.291" endTime="596.331">
+        <Sync time="579.291" />
+        ben c'est important c'est + pour euh la suite des évènements hein
+        <Sync time="583.245" />
+        +
+        <Comment desc="L1 tape à l'ordinateur" />
+        quantitatif ///
+        <Comment desc="L1 tape à l'ordinateur" />
+        ah oui on fait comme ça voilà
+        <Sync time="593.808" />
+        plus un E.E.G.
+        <Comment desc="sigle= électroencéphalogramme" />
+        <Event desc="inspiration de L1" type="noise" extent="instantaneous" />
+        <Sync time="595.308" />
+        donc le sucre l'hémoglobine diquée
+      </Turn>
+      <Turn speaker="spk2" startTime="596.331" endTime="597.063">
+        <Sync time="596.331" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="597.063" endTime="609.765">
+        <Sync time="597.063" />
+        bilan lipidique fonction rénale avec euh polysémie
+        <Event desc="?" type="lexical" extent="previous" />
+        protéinémie
+        <Sync time="601.374" />
+        donc euh les transaminases au niveau du foie
+        <Sync time="604.121" />
+        numération de formule la thyroïde donc les vitamines le fer les folates et les sérologies
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

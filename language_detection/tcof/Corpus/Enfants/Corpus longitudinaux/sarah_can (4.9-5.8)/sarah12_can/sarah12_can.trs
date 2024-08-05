@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Corpus" audio_filename="sarah12_can.wav" version="6" version_date="090723">
+<Topics>
+<Topic id="to1" desc="SDsept07RevuECaout08YS18/8/2008"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Sarah" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="316.351" topic="to1">
+<Turn startTime="0" endTime="17.17" speaker="spk1">
+<Sync time="0"/>
+
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ Sarah nous sommes le ¤C¤
+<Sync time="5.484"/>
+il est quinze heures sûrement
+<Sync time="7.437"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et nous sommes dans une classe voilà $$$
+<Sync time="11.703"/>
+
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ une lecture 
+<Event desc="mic" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="17.17" endTime="23.49">
+<Sync time="17.17"/>
+là c'est quand il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ le ca- 
+<Event desc="kaj" type="pronounce" extent="previous"/>
+ camion 
+<Event desc="lkamo~" type="pronounce" extent="previous"/>
+
+<Sync time="18.838"/>
+le camion 
+<Event desc="lkamo~" type="pronounce" extent="previous"/>
+ dans l- dans la cour
+</Turn>
+<Turn speaker="spk1" startTime="23.49" endTime="27.096">
+<Sync time="23.49"/>
+hum hum Anaïs et Ludovic
+</Turn>
+<Turn speaker="spk2" startTime="27.096" endTime="29.223">
+<Sync time="27.096"/>
+sont très étonnés
+</Turn>
+<Turn speaker="spk1" startTime="29.223" endTime="30.153">
+<Sync time="29.223"/>
+sont quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="30.153" endTime="30.678">
+<Sync time="30.153"/>
+très étonnés
+</Turn>
+<Turn speaker="spk1" startTime="30.678" endTime="39.029">
+<Sync time="30.678"/>
+oui ils sont très étonnés ils se demandent 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ à qui est ce camion ///
+</Turn>
+<Turn speaker="spk2" startTime="39.029" endTime="39.749">
+<Sync time="39.029"/>
+je tourne 
+<Event desc="Sturn" type="pronounce" extent="previous"/>
+ la page ?
+</Turn>
+<Turn speaker="spk1" startTime="39.749" endTime="48.267">
+<Sync time="39.749"/>
+bien sûr 
+<Sync time="40.247"/>
+quand tu as fini tu tournes la page
+<Sync time="42.584"/>
+ah tu as sauté des pages là ouais +
+</Turn>
+<Turn speaker="spk2" startTime="48.267" endTime="51.634">
+<Sync time="48.267"/>
+là ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ regardent par la fenêtre 
+<Event desc="fnEtr" type="pronounce" extent="previous"/>
+ tous les trois
+</Turn>
+<Turn speaker="spk1" startTime="51.634" endTime="57.076">
+<Sync time="51.634"/>
+oui est-ce que tu te souviens de ce que dit la maman
+<Sync time="54.845"/>
+de d'Anaïs et de Ludovic ? 
+</Turn>
+<Turn speaker="spk2" startTime="57.076" endTime="57.629">
+<Sync time="57.076"/>
+ là ?
+</Turn>
+<Turn speaker="spk1" startTime="57.629" endTime="69.028">
+<Sync time="57.629"/>
+non ici 
+<Sync time="58.456"/>
+tu te souviens ? 
+<Sync time="60.611"/>
+non ?
+<Sync time="61.097"/>
+elle dit moi je sais pourquoi il est là ce camion ///
+</Turn>
+<Turn speaker="spk2" startTime="69.028" endTime="74.251">
+<Sync time="69.028"/>
+vite *** il faut que j'aille aider mes amis
+</Turn>
+<Turn speaker="spk1" startTime="74.251" endTime="81.768">
+<Sync time="74.251"/>
+oui la maman descend en disant qu'il faut qu'elle aille aider ses amis +
+</Turn>
+<Turn speaker="spk2" startTime="81.768" endTime="86.733">
+<Sync time="81.768"/>
+et là ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ descendent toutes les caisses et les cartons
+</Turn>
+<Turn speaker="spk1" startTime="86.733" endTime="94.531">
+<Sync time="86.733"/>
+hum hum 
+<Sync time="89.538"/>
+et quand toutes les caisses tous les cartons tous les paquets sont sortis
+</Turn>
+<Turn speaker="spk2" startTime="94.531" endTime="99.158">
+<Sync time="94.531"/>
+eh ben le papa 
+<Event desc="b" type="noise" extent="previous"/>
+ sort un gros canapé
+</Turn>
+<Turn speaker="spk1" startTime="99.158" endTime="103.934">
+<Sync time="99.158"/>
+ah et tu te souviens pas qu'est ce qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ y a ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ + 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="103.934" endTime="105.389">
+<Sync time="103.934"/>
+<Who nb="1"/>
+pendant que toutes les caisses tous les
+<Who nb="2"/>
+ ***
+</Turn>
+<Turn speaker="spk1" startTime="105.389" endTime="107.543">
+<Sync time="105.389"/>
+cartons sont sortis ?
+</Turn>
+<Turn speaker="spk2" startTime="107.543" endTime="116.586">
+<Sync time="107.543"/>
+eh ben deux petites f- une petite fille descend
+<Sync time="110.732"/>
+puis une deuxième petite fille et une mamie
+<Sync time="113.774"/>
+qui tient dans un un bébé dans ses bras
+</Turn>
+<Turn speaker="spk1" startTime="116.586" endTime="120.636">
+<Sync time="116.586"/>
+très bien +
+</Turn>
+<Turn speaker="spk2" startTime="120.636" endTime="129.116">
+<Sync time="120.636"/>
+et le papa 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ euh prend un grand c- cana- porte un grand canapé
+</Turn>
+<Turn speaker="spk1" startTime="129.116" endTime="139.614">
+<Sync time="129.116"/>
+hum hum +
+<Sync time="132.081"/>
+la maman d'Anaïs et de Ludovic explique 
+<Sync time="136.98"/>
+que la plus petite fille s'appelle
+</Turn>
+<Turn speaker="spk2" startTime="139.614" endTime="140.954">
+<Sync time="139.614"/>
+ José-
+</Turn>
+<Turn speaker="spk1" startTime="140.954" endTime="141.431">
+<Sync time="140.954"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="141.431" endTime="142.652">
+<Sync time="141.431"/>
+Joséphine
+</Turn>
+<Turn speaker="spk1" startTime="142.652" endTime="144.159">
+<Sync time="142.652"/>
+ah la plus petite fille s'appelle 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="144.159" endTime="145.075">
+<Sync time="144.159"/>
+<Who nb="1"/>
+Victoria
+<Who nb="2"/>
+Victoria
+</Turn>
+<Turn speaker="spk1" startTime="145.075" endTime="149.434">
+<Sync time="145.075"/>
+hum et que la plus grande fille s'appelle
+</Turn>
+<Turn speaker="spk2" startTime="149.434" endTime="150.706">
+<Sync time="149.434"/>
+Joséphine
+</Turn>
+<Turn speaker="spk1" startTime="150.706" endTime="160.675">
+<Sync time="150.706"/>
+voilà /// 
+<Sync time="154.292"/>
+si tu as fini tu tournes la page ///
+</Turn>
+<Turn speaker="spk2" startTime="160.675" endTime="163.351">
+<Sync time="160.675"/>
+là c'est le bébé qui pleure + 
+</Turn>
+<Turn speaker="spk1" startTime="163.351" endTime="165.597">
+<Sync time="163.351"/>
+hum hum
+</Turn>
+<Turn speaker="spk2" startTime="165.597" endTime="167.128">
+<Sync time="165.597"/>
+parce que il a faim 
+</Turn>
+<Turn speaker="spk1" startTime="167.128" endTime="169.322">
+<Sync time="167.128"/>
+hum hum +
+</Turn>
+<Turn speaker="spk2" startTime="169.322" endTime="182.204">
+<Sync time="169.322"/>
+et là eh ben 
+<Event desc="pf" type="noise" extent="previous"/>
+ Victoria a trouvé l'image où on voit + l'ima- l'image de couches
+</Turn>
+<Turn speaker="spk1" startTime="182.204" endTime="183.588">
+<Sync time="182.204"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="183.588" endTime="187.981">
+<Sync time="183.588"/>
+et Joséphine a vu l'image où on voit un biberon aussi
+</Turn>
+<Turn speaker="spk1" startTime="187.981" endTime="195.045">
+<Sync time="187.981"/>
+ très bien ///
+</Turn>
+<Turn speaker="spk2" startTime="195.045" endTime="209.311">
+<Sync time="195.045"/>
+et là Anaïs et Ludovic eh ben + 
+<Sync time="201.015"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ portent la valise
+<Sync time="202.725"/>
+où il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ le bébé euh les habits du Bébé-Moïse
+</Turn>
+<Turn speaker="spk1" startTime="209.311" endTime="214.681">
+<Sync time="209.311"/>
+oui ///
+</Turn>
+<Turn speaker="spk2" startTime="214.681" endTime="224.721">
+<Sync time="214.681"/>
+et là 
+<Event desc="b" type="noise" extent="previous"/>
+ le papa a perdu sa guitare
+<Sync time="218.633"/>
+et la maman -mie et la mamie a a perdu son son tricot
+</Turn>
+<Turn speaker="spk1" startTime="224.721" endTime="228.471">
+<Sync time="224.721"/>
+hum hum + 
+<Sync time="227.455"/>
+ils ont retrou- il a 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="228.471" endTime="229.33">
+<Sync time="228.471"/>
+<Who nb="1"/>
+oui oui
+<Who nb="2"/>
+retrouvé la 
+</Turn>
+<Turn speaker="spk1" startTime="229.33" endTime="238.104">
+<Sync time="229.33"/>
+guitare dans le lit de Bébé-Moïse + 
+<Sync time="234.734"/>
+et la mamie où est-ce qu'elle a retrouvé son tricot ?
+</Turn>
+<Turn speaker="spk2" startTime="238.104" endTime="241.347">
+<Sync time="238.104"/>
+dans la marmite à au riz à riz 
+</Turn>
+<Turn speaker="spk1" startTime="241.347" endTime="247.5">
+<Sync time="241.347"/>
+oui très bien ///
+</Turn>
+<Turn speaker="spk2" startTime="247.5" endTime="254.84">
+<Sync time="247.5"/>
+et là il a retrouvé sa guitare et + euh +
+</Turn>
+<Turn speaker="spk1" startTime="254.84" endTime="256.037">
+<Sync time="254.84"/>
+c'est Joséphine
+</Turn>
+<Turn speaker="spk2" startTime="256.037" endTime="262.743">
+<Sync time="256.037"/>
+Joséphine eh ben elle a dit regarde mon poisson
+<Sync time="260.145"/>
+il faut qu'on cherche son aquarium 
+</Turn>
+<Turn speaker="spk1" startTime="262.743" endTime="263.478">
+<Sync time="262.743"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="263.478" endTime="267.012">
+<Sync time="263.478"/>
+et là elle a trouvé son aquarium 
+</Turn>
+<Turn speaker="spk1" startTime="267.012" endTime="270.422">
+<Sync time="267.012"/>
+hum hum ///
+</Turn>
+<Turn speaker="spk2" startTime="270.422" endTime="275.883">
+<Sync time="270.422"/>
+elle dit toi tu vois tu n'as pas tu n'as pas déménagé
+</Turn>
+<Turn speaker="spk1" startTime="275.883" endTime="282.775">
+<Sync time="275.883"/>
+hum hum ///
+</Turn>
+<Turn speaker="spk2" startTime="282.775" endTime="287.645">
+<Sync time="282.775"/>
+et là le papa 
+<Comment desc="Sarah montre les personnages du doigt"/>
+ +
+</Turn>
+<Turn speaker="spk1" startTime="287.645" endTime="289.904">
+<Sync time="287.645"/>
+Joséphine et Victoria
+</Turn>
+<Turn speaker="spk2" startTime="289.904" endTime="299.181">
+<Sync time="289.904"/>
+de Joséphine et Victoria est par- /a, à/ + acheter des jus de pommes
+</Turn>
+<Turn speaker="spk1" startTime="299.181" endTime="313.277">
+<Sync time="299.181"/>
+oui il est allé acheter des jus de fruits ///
+<Sync time="306.666"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ c'est tout ? 
+<Sync time="308.559"/>
+ça y est ? tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ fini ?
+<Sync time="309.478"/>
+c'est très bien Sarah 
+<Comment desc="L'adulte tape sur la table"/>
+ toc c'est 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="313.277" endTime="313.776">
+<Sync time="313.277"/>
+<Who nb="1"/>
+ouais
+<Who nb="2"/>
+fini
+</Turn>
+<Turn speaker="spk2" startTime="313.776" endTime="314.92">
+<Sync time="313.776"/>
+on écoute ?
+</Turn>
+<Turn speaker="spk1" startTime="314.92" endTime="316.351">
+<Sync time="314.92"/>
+tu veux écouter un petit peu 
+<Event desc="mic" type="noise" extent="previous"/>
+ $$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

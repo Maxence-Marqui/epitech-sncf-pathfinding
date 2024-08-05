@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+
+
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="dausque1u" audio_filename="confavc_dau_12.wav" version="8" version_date="140204">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" type="male" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="952.322">
+      <Turn startTime="0.0" endTime="41.79" speaker="spk1" mode="spontaneous">
+        <Sync time="0.0" />
+        alors pour évaluer un peu l'efficience de cette euh de cette euh de cette filière
+        <Sync time="6.184" />
+        on avait plusieurs critères j'en ai retenu qu'un c'est celui du nombre de patients trombolysés
+        <Sync time="11.484" />
+        vous avez en bleu ici le nombre de patients qui ont été thrombolysés avant la mise en place
+        <Sync time="16.835" />
+        de la filière lorraine et en rouge les euh nombre de thrombolyses après
+        <Sync time="22.069" />
+        euh donc la mise en place de cette filière on a multiplié par six le nombre de
+        <Sync time="27.257" />
+        patients thrombolysés environ par rapport euh à la situation avant la mise en place de cette filière
+        <Sync time="34.3" />
+        je vous remercie
+        <Event desc="applaudissements" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="41.79" endTime="113.416">
+        <Sync time="41.79" />
+        c'est vrai que dans la précipitation certains messages peuvent paraître un petit peu
+        <Sync time="46.035" />
+        euh anodins mais euh sont sont extrêmement importants vis-à-vis de la en terme de responsabilité
+        <Sync time="52.223" />
+        bien sûr il y a toujours une responsabilité morale en premier vis-à-vis du patient de lui offrir
+        <Sync time="56.342" />
+        de le prendre en charge selon les meilleures données de la science actuelle
+        <Sync time="61.495" />
+        et on a parlé un de la thrombolyse on y reviendra pas beaucoup euh elle a déjà été
+        <Sync time="68.277" />
+        située c'est vrai que c'est ce qui nous motive
+        <Sync time="70.441" />
+        le deuxième deuxième point qui va beaucoup bénéficier au patient même si l'intérêt
+        <Sync time="76.19" />
+        apparaît moins immédiat c'est celui de sa prise en charge dans une unité neurovasculaire
+        <Sync time="81.269" />
+        et là je vais donner la parole au Docteur ¤N1¤ qui est euh praticien hospitalier
+        <Sync time="88.298" />
+        chez nous en neurologie qui partage son temps en fait entre Bar-Le-Duc et euh et Nancy
+        <Sync time="94.151" />
+        ce qui lui a permis de mettre en place euh la télémédecine hein la télé-thrombolyse de façon
+        <Sync time="100.145" />
+        pour l'instant pas encore suffisamment habituelle mais on est vraiment en passe de développer
+        <Sync time="106.578" />
+        cette façon de prendre en charge le patient là encore pour faire au mieux pour lui ¤N1¤
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="113.416" endTime="952.322">
+        <Sync time="113.416" />
+        merci bonsoir + donc euh voilà donc le Docteur ¤N2¤ nous a amené donc euh ce patient
+        <Sync time="120.269" />
+        par ambulance parfois par hélicoptère euh voilà maintenant qu'est-ce qu'on va en faire
+        <Sync time="125.437" />
+        et comment ce patient va pouvoir bénéficier euh de soins surtout que parfois on les amène
+        <Sync time="132.1" />
+        et il n'y a pas d'indications de thrombolyse et pourtant ces patients vont bénéficier quand même de soins
+        <Sync time="136.611" />
+        euh l'unité neurovasculaire si on regarde les résultats les études qui sont faites elles sont
+        <Sync time="142.103" />
+        faites euh par rapport à des patients qui ont été mis dans des services de neurologie classique
+        <Sync time="147.636" />
+        c'est-à-dire que pour montrer que les U.N.V.
+        <Comment desc="sigle=Unité NeuroVasculaire" />
+        servaient à quelque chose
+        <Sync time="151.028" />
+        on mettait des patients en unité neurovasculaire on mettait des patients dans des services de
+        <Sync time="155.416" />
+        neurologie classique et on a regardé leur devenir euh c'est des publications qui au niveau méthodologique
+        <Sync time="162.276" />
+        sont bons euh sont bonnes pardon et qui ont été répétées plusieurs fois et qu'est-ce que ça montre
+        <Sync time="167.544" />
+        bah ça montre deux choses d'une part quand vous mettez un patient victime d'A.V.C
+        <Comment desc="sigle=Accident Vasculaire Cérébral" />
+        <Sync time="171.004" />
+        en U.N.V. vous avez vingt pour cent de mortalité en moins non mais je vous entends si c'est pour
+        <Sync time="175.795" />
+        en faire des hémiplégiques c'est pas la peine oui mais vous avez vingt pour cent de récupération en plus
+        <Sync time="180.059" />
+        donc vous améliorez d'une part la survie mais vous augm- mais vous améliorez la qualité de vie
+        <Sync time="184.586" />
+        et pourquoi tout ça bah on va essayer de le comprendre c'est un peu moi tout ce que j'ai appris pendant mon internat
+        <Sync time="189.739" />
+        et le but un peu de cet exposé ça a été d'aller rechercher dans la littérature si euh ce qu'on fait
+        <Sync time="194.708" />
+        c'est démontré si c'est prouvé donc euh on va pouvoir s'amuser un petit peu avec la littérature
+        <Sync time="199.42" />
+        déjà pour donner une définition à l'U.N.V. bah je fais comme vous je fais comme tout le monde je vais
+        <Sync time="203.548" />
+        sur Google et je tape U.N.V. voilà ce qui sort alors je vous propose pas qu'on lise tout ça euh
+        <Sync time="211.127" />
+        mais euh on pourrait on pourrait euh j'ai fait exprès hein de mettre tout petit pour voir un peu toute la
+        <Sync time="216.07" />
+        peine que j'ai eue euh mais ça c'est toutes les caractéristiques en gros légales et toutes les caractéristiques
+        <Sync time="220.97" />
+        que doit remplir une U.N.V. vous voyez c'est pas si facile que ça il y a parfois euh des hôpitaux
+        <Sync time="225.566" />
+        qui nous disent oh on a envie d'être U.N.V. on a envie d'être unité neurovasculaire croyez-moi au niveau du
+        <Sync time="229.878" />
+        cahier des charges c'est assez important pour avoir ce bénéfice
+        <Sync time="233.492" />
+        alors on va pas faire comme ça mais par contre vous pourrez aller lire hein c'est la circulaire
+        <Sync time="238.216" />
+        de deux mille neuf euh qui définit tout ce que doit remplir en fait une U.N.V. pour être U.N.V.
+        <Sync time="244.615" />
+        on va faire autrement on va prendre le cas d'une patiente
+        <Sync time="247.749" />
+        cette patiente elle est complétement à l'opposé de ce qu'on vous a décrit jusqu'ici
+        <Sync time="252.147" />
+        euh c'est une patiente en fait qui nous est adressée d'un centre euh hospitalier qui n'a pas
+        <Sync time="257.22" />
+        d'unité neurovasculaire une patiente qui a été prise dans un service
+        <Sync time="260.57" />
+        de quatre-vingt-deux ans et qui est à plus de quatre jours d'un accident vasculaire cérébral ischémique
+        <Sync time="265.644" />
+        elle se dégrade hein on nous appelle parce que ça va moins bien et en fait c'est même quelqu'un que je
+        <Sync time="269.548" />
+        connaissais qui me dit écoute euh ma grand-mère va moins bien est-ce que tu veux la
+        <Sync time="273.299" />
+        prendre en charge dans ton service on l'a prise cette dame elle a pas d'antécédents elle arrive
+        <Sync time="277.915" />
+        avec une hémiplégie gauche euh un score N.I.H.
+        <Comment desc="sigle= National Institute for Health" />
+        à quinze qui cote en fait
+        <Sync time="283.171" />
+        le déficit neurologique et euh des troubles de conscience avec un Glasgow à treize elle a manifestement
+        <Sync time="288.672" />
+        des signes d'infection elle a des crépitants de base gauche une température à trente-huit neuf
+        <Sync time="292.534" />
+        sur l'E.C.G.
+        <Comment desc="sigle= Electrocardiogramme" />
+        alors je me suis fait reprendre par monsieur ¤N3¤
+        <Sync time="295.63" />
+        la dernière fois elle est en fibrillo-flutter
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        et pas seulement en fibrillation c'est voilà
+        <Sync time="300.363" />
+        et euh on voit un scanner cérébral et sur l'accident sur le scanner cérébral on voit un accident vasculaire
+        <Sync time="306.504" />
+        cérébral ischémique et il y a même une petite suffusion hémorragique faites-moi confiance c'est pas si évident que ça
+        <Sync time="313.732" />
+        euh qu'est-ce qu'on va pouvoir faire à cette patiente
+        <Sync time="316.932" />
+        eh bien beaucoup de choses parce que ça c'est la patiente trois jours plus tard
+        <Sync time="320.794" />
+        voilà déjà elle tient en fauteuil donc le Glasgow est à quinze on voit le côté gauche fonctionne
+        <Sync time="325.399" />
+        pas très bien qu'elle a une sonde nasogastrique et dix jours plus tard vous la voyez avec le kiné
+        <Sync time="329.725" />
+        qui se dirige vers la sortie qu'est-ce qu'on lui a fait pour que ça aille aussi mieux que ça
+        <Sync time="335.411" />
+        alors voilà les médicaments stars euh qu'on utilise et qui ont bonne presse euh qui euh voilà
+        <Sync time="342.208" />
+        déjà le premier vous le voyez tout en haut c'est l'Actilyse on vous en a parlé jusqu'ici maintenant
+        <Sync time="347.197" />
+        on vous fait plein de choses sur l'Actilyse à votre avis cette patiente est-ce qu'on l'a thrombolysée +
+        <Sync time="350.976" />
+        oh non on était à quatre jours euh vous voyez euh on était à quatre jours en plus suffusion hémorragique
+        <Sync time="358.765" />
+        et tout ça on est vraiment hors des clous pour la thrombolyse
+        <Sync time="360.904" />
+        et pourtant voyez elle récupère quand même il n'y a pas que ceux qu'on thrombolyse qui récupèrent
+        <Sync time="364.729" />
+        tous les autres bénéficient des mesures unités neurovasculaire
+        <Sync time="368.588" />
+        la thrombolyse dans des bonnes U.N.V. comme à Nancy c'est dix pour cent à peu près des patients
+        <Sync time="373.828" />
+        vous en avez encore même quatre-vingt-dix pour cent autres qui nécessitent l'unité neuro vasculaire
+        <Sync time="378.468" />
+        même les hémorragiques un euh donc ça c'est important à dire
+        <Sync time="382.371" />
+        euh l'Héparine euh l'Héparine on aurait pu en discuter elle est en A.C.F.A.
+        <Comment desc="sigle=Arythmie Complète par Fibrillation Atriale" />
+        <Sync time="387.451" />
+        euh voilà cependant elle a quand même un gros A.V.C. il y a une transformation hémorragique
+        <Sync time="391.813" />
+        euh enfin une suffusion c'est pas l'option que j'ai prise quand elle est arrivée le vendredi soir
+        <Sync time="397.17" />
+        euh sachez que euh l'Héparine à la phase aiguë de l'accident vasculaire il y a un risque hémorragique
+        <Sync time="401.47" />
+        et que le risque de refaire un A.V.C. à la phase aiguë enfin le premier jour il est de zéro deux à zéro trois
+        <Sync time="406.833" />
+        pourcents donc des fois de mettre une belle seringue électrique à côté du patient c'est plus
+        <Sync time="410.852" />
+        pour rassurer le praticien que pour le patient lui-même
+        <Sync time="413.365" />
+        l'Aspirine moi j'ai opté pour cette euh option qui est discutable mais euh ça permettait
+        <Sync time="419.671" />
+        quand même de mettre un traitement même si c'était pas encore le plus adapté pour la prévention
+        <Sync time="424.219" />
+        cardioembolique et une injection de Lovenox quatre mille aussi enfin d'H.P.B.P.N.
+        <Comment desc="sigle=Héparine de Bas Poids Moléculaire" />
+        <Sync time="429.197" />
+        excusez-moi pour en prévention des complications thromboemboliques veineuses
+        <Sync time="433.899" />
+        pourquoi on fait attention à l'Héparine parce que tout simplement je compare toujours l'accident
+        <Sync time="438.166" />
+        vasculaire cérébral à un fruit talé et c'est à dire que quand vous prenez ce fruit au départ
+        <Sync time="442.771" />
+        vous l'avez laissé tomber et il est pas encore noir c'est certainement à ce moment-là
+        <Sync time="446.311" />
+        qu'il faut le thrombolyser le fruit parce que plus vous attendez plus la zone infarcie arrive
+        <Sync time="450.64" />
+        et plus le risque de transformation hémorragique est important et si vous vous mettez là le fruit
+        <Sync time="455.495" />
+        à l'état du scanner de notre patient si vous mettez un un traitement anticoagulant trop puissant
+        <Sync time="461.424" />
+        ou même un traitement anticoagulant à dose euh à dose honorable c'est-à-dire pour un T.C.A.
+        <Comment desc="sigle=Temps de Céphaline Activée" />
+        <Sync time="467.147" />
+        entre deux deux et demi voilà ce qui peut se passer c'est-à-dire
+        <Sync time="469.585" />
+        une transformation hémorragique importante et ça ça augmente avec l'âge du patient
+        <Sync time="474.434" />
+        alors voilà cette patiente à qui le premier jour on a donné de l'Aspirine
+        <Sync time="479.838" />
+        voilà ce qu'on a fait en unité neurovasculaire
+        <Sync time="482.072" />
+        deuxièmement que faire avec la tension artérielle à la phase aiguë de l'accident vasculaire
+        <Sync time="486.447" />
+        là vous avez un cas typique de patient qui a présenté
+        <Sync time="489.882" />
+        non pas un AVC celui-ci c'était un accident ischémique transitoire
+        <Sync time="493.39" />
+        la tension à la phase aiguë de l'accident vasculaire cérébral elle monte pratiquement
+        <Sync time="496.987" />
+        toujours c'est ce qu'on appelle l'effet Cushing peut-être pour contrer l'embole on sait pas bien
+        <Sync time="501.434" />
+        en tout cas quand on doute de la véracité d'un accident ischémique transitoire vous savez
+        <Sync time="506.511" />
+        des patients c'est toujours difficile de raconter les choses on tombe toujours sur des histoires
+        <Sync time="509.825" />
+        un peu compliquées le fait ça c'est le signe de la pancarte avec les premières tensions
+        <Sync time="514.435" />
+        qui étaient très élevées ça doit vous faire dire attention il s'est certainement
+        <Sync time="517.523" />
+        passé quelque chose et c'est ces patients là sur lesquels il faut faire attention
+        <Sync time="521.31" />
+        et puis euh donc ça c'était pour vous dire que on fait toujours attention à la tension artérielle de nos patients
+        <Sync time="528.405" />
+        ce patient il voulait sortir un matin je n'étais pas d'accord même malgré son ***
+        <Sync time="532.248" />
+        parce qu'il avait toujours dix-neuf de tension et que c'est
+        <Sync time="534.222" />
+        très important qu'on équilibre sa tension artérielle avant sa sortie
+        <Sync time="538.636" />
+        à la phase aiguë de l'accident vasculaire cérébral on la respecte la tension artérielle
+        <Sync time="542.517" />
+        pour pouvoir avoir cet effet en fait de reperméabilisation au niveau de la zone de pénombre
+        <Sync time="546.72" />
+        ce qu'on appelle la zone de pénombre eh bien vous avez cette zone noire du fruit qui est atteinte
+        <Sync time="551.026" />
+        et autour vous avez encore un débit sanguin cérébral qui est maintenu mais si on l'abaisse
+        <Sync time="556.225" />
+        eh bien vous allez avoir encore des dégâts supplémentaires
+        <Sync time="558.769" />
+        le rôle de l'U.N.V. c'est de protéger cette zone de pénombre et c'est pour ça que les patients
+        <Sync time="562.729" />
+        meurent moins et c'est pour ça que les patients récupèrent plus
+        <Sync time="565.814" />
+        à la phase aiguë de l'accident ischémique on récup- on respecte la tension artérielle jusque
+        <Sync time="572.05" />
+        vous voyez jusque deux cent vingt euh de systolique sinon on la fait baisser mais très progressivement
+        <Sync time="577.223" />
+        quinze à vingt-cinq pour cent sur vingt-quatre heures
+        <Sync time="579.335" />
+        euh ça ce sont toutes les recommandations vous voyez sur la tension artérielle et on reprend
+        <Sync time="584.463" />
+        les traitements antihypertenseurs per os pour commencer à faire baisser la tension
+        <Sync time="588.505" />
+        dans les vingt-quatre heures attention en prévention secondaire bien sûr que la tension
+        <Sync time="592.588" />
+        doit baisser c'est le premier facteur de risque de récidive
+        <Sync time="596.073" />
+        après qu'est-ce qu'on donne à notre patient avec l'Aspirine
+        <Sync time="598.815" />
+        eh bien ce patient allait beaucoup mieux sa famille me demande que je connaissais mais qu'est-ce que
+        <Sync time="602.643" />
+        tu as fait elle tient au fauteuil elle va mieux eh bien on lui a donné de l'eau et à manger
+        <Sync time="606.689" />
+        ça peut vous paraître euh bête mais un patient hémiplégique il peut pas s'alimenter tout seul
+        <Sync time="612.603" />
+        en plus il a des troubles de la déglutition c'est un patient sur deux les troubles de la déglutition
+        <Sync time="617.037" />
+        à la phase aiguë de l'A.V.C. il faut y penser et faut savoir lui apporter et de l'eau et une alimentation
+        <Sync time="622.805" />
+        tout ça avec une surveillance glycémique les cardiologues surtout qui nous ont appris ça normalement
+        <Sync time="627.777" />
+        on doit avoir une surveillance et une action dite agressive nos patients
+        <Sync time="631.944" />
+        doivent rester en dessous de un virgule quatre grammes par litre euh de glycémie
+        <Sync time="637.698" />
+        et puis traiter l'hyperthermie parce que cette patiente était infectée
+        <Sync time="641.316" />
+        les infections sont très fréquentes et aggravent encore le pronostic neurologique
+        <Sync time="645.782" />
+        tout ça c'est fait à une équipe euh médicale et surtout infirmière entraînée
+        <Sync time="651.217" />
+        qui permet vraiment de euh pouvoir monitorer tous ces euh tous ces éléments rapidement et d'agir surtout très rapidement
+        <Sync time="659.824" />
+        cette patiente elle a très vite arraché sa sonde nasogastrique vous voyez tout ça à côté
+        <Sync time="664.142" />
+        de son chapelet parce que elle avait faim et puis nous avons pu grâce à l'orthophoniste lui donner à manger
+        <Sync time="669.628" />
+        lui donner à manger c'est très important la plupart des patients quarante et un pour cent des patients
+        <Sync time="674.13" />
+        euh pratiquement cinquante pour cent pardon des patients à trois semaines présentent des signes de dénutrition
+        <Sync time="678.887" />
+        le catabolisme est très important il est vraiment recommandé
+        <Sync time="682.264" />
+        d'apporter des apports c- d'apporter des calories très rapidement
+        <Sync time="686.443" />
+        voyez cette patiente également il y avait quelque chose qui était très amusant
+        <Sync time="690.192" />
+        c'est que regardez l'assiette à votre avis qu'est-ce qu'il se passe
+        <Sync time="693.703" />
+        bien peut-être qu'elle n'aime pas les légumes verts ou qu'elle n'aime pas la compote
+        <Sync time="697.392" />
+        et qu'elle la voit couler comme ça sans euh que sans l'émouvoir
+        <Sync time="701.292" />
+        ce n'est pas ça c'est ce qu'on appelle l'héminégligence la base de l'héminégligence
+        <Sync time="704.624" />
+        la patiente n'avait pas conscience de ce qui se passait à gauche et ces signes du plateau
+        <Sync time="708.223" />
+        le patient prend tout ce qui se passe à droite mais rien à gauche
+        <Sync time="711.598" />
+        nos équipes infirmières et aides-soignantes entraînées savent leur redire allez chercher
+        <Sync time="716.221" />
+        ce qui se passe à gauche pour qu'elles puissent avoir droit à leur dessert et à leurs légumes verts
+        <Sync time="720.477" />
+        le fait de les lever c'est très important
+        <Sync time="723.535" />
+        ça fait partie également des recommandations
+        <Sync time="725.639" />
+        on les lève très rapidement très souvent même dès le premier jour et c'est dans même s'il n'y a pas
+        <Sync time="730.699" />
+        d'étude qui montre euh vraiment objectivement le bienfait dans toutes les recommandations c'est dit
+        <Sync time="735.678" />
+        il faut les mobiliser les mettre au fauteuil très rapidement
+        <Sync time="738.634" />
+        voilà avec kinésithérapie ergothérapie et puis le tr- tr- ce qui est très important c'est l'apport
+        <Sync time="745.148" />
+        des neurologues vasculaires qui vont passer tous les jours voir les patients
+        <Sync time="748.949" />
+        et qui vont pouvoir donner leur expertise
+        <Sync time="751.4" />
+        donc je ne reviens pas sur la thrombolyse enfin quoi que vous voyez la thrombolyse
+        <Sync time="755.866" />
+        on vous l'a dit c'est la star je dis juste une chose c'est que on l'a dit que la thrombolyse
+        <Sync time="759.832" />
+        intraveineuse c'était quatre heures trente je dirais autre chose
+        <Sync time="762.227" />
+        la thrombolyse intraveineuse c'est plus tôt possible
+        <Sync time="764.623" />
+        plus vous attendez pour thrombolyser moins votre patient va récupérer et plus le fruit talé va saigner
+        <Sync time="770.463" />
+        donc toujours aller plus vite
+        <Sync time="772.02" />
+        quelles solutions on a en Lorraine
+        <Sync time="773.409" />
+        eh bien on vous a parlé d'expériences de Bar-le-Duc c'est la télémédecine c'est-à-dire de
+        <Sync time="778.626" />
+        pouvoir thrombolyser les patients à distance car actuellement la loi nous dit que un médecin
+        <Sync time="784.598" />
+        qui n'est pas neurologue peut injecter le produit sous couvert
+        <Sync time="788.273" />
+        d'une expertise neurovasculaire qui peut se faire par télémédecine
+        <Sync time="792.366" />
+        deux éléments importants pour la télémédecine
+        <Sync time="794.46" />
+        on doit avoir accès à la clinique du patient et on doit
+        <Sync time="797.525" />
+        avoir accès également à l'imagerie pour pouvoir donner la décision
+        <Sync time="801.427" />
+        d- à Bar-le-Duc une liaison a été mise en place avec le C.H.U.
+        <Comment desc="sigle=Centre Hospitalier Universitaire" />
+        <Sync time="804.958" />
+        de Nancy avec cinquante-quatre patients évalués vingt et une thrombolyses effectuées
+        <Sync time="808.689" />
+        qui montrent deux choses d'une part vous augmentez le nombre de patients que vous avez
+        <Sync time="812.286" />
+        pu thrombolyser parce que si vous les aviez transférés à Nancy vous auriez dépassé
+        <Sync time="816.062" />
+        l'heure et vous améliorez le pronostic en injectant le produit le plus tôt possible
+        <Sync time="820.749" />
+        l'expertise elle est très importante croyez-moi on essaie d'enseigner la thrombolyse
+        <Sync time="826.121" />
+        de deux façons avec une plaquette indications une plaquette contre-indications
+        <Sync time="829.604" />
+        c'est plus compliqué que ça
+        <Sync time="830.939" />
+        euh très souvent vous avez des patients pour qui vous vous posez des questions
+        <Sync time="833.851" />
+        et c'est vraiment l'expertise d'un neurologue vasculaire entraîné qui va permettre de faire les choses
+        <Sync time="838.487" />
+        par exemple sur deux états importants l'A.V.C. du réveil quoi faire avec un A.V.C. à heure
+        <Sync time="845.838" />
+        à heure imprécise est-ce qu'il faut absolument les exclure
+        <Sync time="849.052" />
+        je ne le pense pas actuellement on a des données grâce à l'imagerie qui permet d'essayer
+        <Sync time="853.649" />
+        de capter ces patients et qui permet d'essayer de leur euh donner le traitement
+        <Sync time="859.519" />
+        il y a une étude qui a été faite sur les A.V.C. cardio-emboliques et qui montre que ces patients
+        <Sync time="863.259" />
+        euh quand ils arrivent à heure incertaine très souvent ils ont encore du territoire en pénombre
+        <Sync time="868.28" />
+        ce qui montre bien que en fait certainement l'acc- l'accident les a réveillés peut-être à cause d'une
+        <Sync time="874.115" />
+        céphalée on ne sait pas bien et que ces patients-là peuvent bénéficier tout de même du traitement
+        <Sync time="878.943" />
+        et puis je vous rappelle quand même que dans l'A.M.M.
+        <Comment desc="sigle= Autorisation de Mise sur le Marché" />
+        la
+        <Sync time="881.603" />
+        thrombolyse après quatre-vingts ans c'est contre-indiqué
+        <Sync time="884.595" />
+        mais on peut toujours euh on a dépassé ce stade et avec l'avis d'un expert neurovasculaire
+        <Sync time="890.368" />
+        suivant l'état du patient on peut le faire du moment qu'on prévienne le patient et la famille
+        <Sync time="895.24" />
+        des études qui ont été faites là-dessus pour moi sont inutiles c'est-à-dire qu'on a euh comparé
+        <Sync time="900.051" />
+        le devenir d'un patient qui était thrombolysé après quatre-vingt ans avec celui d'avant
+        <Sync time="904.607" />
+        quatre-vingts ans ça nous donne des méta-analyses sur lesquelles je suis d'accord mais on est tous d'accord
+        <Sync time="909.078" />
+        quand on est après quatre-vingt ans on récupère moins bien et on saigne plus qu'av- qu'avant quatre-vingt ans
+        <Sync time="914.173" />
+        c'est pas la question qu'on se pose quand on a ce type de patient la question qu'on se pose
+        <Sync time="918.003" />
+        c'est est-ce que si je le thrombolyse et je donne une complication importante
+        <Sync time="921.451" />
+        est-ce que je fais pire que l'évolution naturelle de ce type d'accident
+        <Sync time="924.834" />
+        je ne le pense pas c'est la question qu'on doit se poser envers sur laquelle on va essayer de répondre
+        <Sync time="929.762" />
+        ce euh petit cet exposé me permet en fait de rendre hommage à l'ensemble
+        <Sync time="934.291" />
+        des équipes paramédicales avec qui je travaille tous les jours-là c'est celle de Bar-le-Duc
+        <Sync time="938.366" />
+        je travaille également avec celle de Nancy grâce à la télémédecine avec l'ensemble
+        <Sync time="942.323" />
+        bientôt de toutes les équipes de Lorraine donc voilà je les remercie je vous remercie aussi pour
+        <Sync time="946.712" />
+        votre attention
+        <Event desc="applaudissements" type="noise" extent="instantaneous" />
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

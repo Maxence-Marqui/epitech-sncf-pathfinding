@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Popo" audio_filename="grandsparents_bar_13.wav" version="17" version_date="140305">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" type="male" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="708.408">
+      <Turn startTime="0.0" endTime="3.36" speaker="spk1">
+        <Sync time="0.0" />
+        qu'est-ce que vous avez fait de beau le week-end
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="3.36" endTime="4.528">
+        <Sync time="3.36" />
+        le week-end ci
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="4.528" endTime="5.296">
+        <Sync time="4.528" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="5.296" endTime="8.213">
+        <Sync time="5.296" />
+        euh le week-end ci qu'est-ce que j'ai fait
+        <Sync time="7.407" />
+        &lt; de beau
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="8.213" endTime="9.497">
+        <Sync time="8.213" />
+        tu as fait la fête hein &gt;
+        <Sync time="8.314" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="9.497" endTime="11.347">
+        <Sync time="9.497" />
+        ah ben j'ai refait la fête
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="11.347" endTime="12.171">
+        <Sync time="11.347" />
+        tu as refait la
+        <Sync time="11.935" />
+        &lt; fête
+      </Turn>
+      <Turn speaker="spk2" startTime="12.171" endTime="14.334">
+        <Sync time="12.171" />
+        ouais &gt;
+        <Sync time="12.382" />
+        un anniversaire d'un copain
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="14.334" endTime="14.602">
+        <Sync time="14.334" />
+        ah
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="14.602" endTime="15.46">
+        <Sync time="14.602" />
+        ouais
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="15.46" endTime="16.673">
+        <Sync time="15.46" />
+        toujours en bringue
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="16.673" endTime="20.098">
+        <Sync time="16.673" />
+        oh jamais moi
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="20.098" endTime="23.207">
+        <Sync time="20.098" />
+        ben c'est bien
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="23.207" endTime="24.633">
+        <Sync time="23.207" />
+        tu es content
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="24.633" endTime="25.264">
+        <Sync time="24.633" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="25.264" endTime="26.131">
+        <Sync time="25.264" />
+        tu as réussi ton
+        <Sync time="25.832" />
+        &lt; truc
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="26.131" endTime="36.509">
+        <Sync time="26.131" />
+        oh ben &gt;
+        <Sync time="26.455" />
+        oui hein + c'est très bien mais bon il y a le coup de la + du boitier là +
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="36.509" endTime="37.049">
+        <Sync time="36.509" />
+        ben on
+        <Sync time="36.813" />
+        &lt; voit pas dans le couloir il faut être en haut pour le *
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="37.049" endTime="40.803">
+        <Sync time="37.049" />
+        *** &gt;
+        <Sync time="39.747" />
+        *** quand on le met mais euh
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="40.803" endTime="41.329">
+        <Sync time="40.803" />
+        hein
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="41.329" endTime="43.297">
+        <Sync time="41.329" />
+        oui je voulais en fabriquer un
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="43.297" endTime="43.833">
+        <Sync time="43.297" />
+        fabriquer
+        <Sync time="43.763" />
+        &lt; quoi
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="43.833" endTime="45.603">
+        <Sync time="43.833" />
+        j'aurais pu &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="45.603" endTime="46.489">
+        <Sync time="45.603" />
+        oh il nous
+        <Sync time="46.221" />
+        &lt; mettra une boite de fromage si ça va pas
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="46.489" endTime="48.796">
+        <Sync time="46.489" />
+        *** &gt;
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="48.796" endTime="49.331">
+        <Sync time="48.796" />
+        ah
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="49.331" endTime="49.927">
+        <Sync time="49.331" />
+        hein
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="49.927" endTime="50.615">
+        <Sync time="49.927" />
+        hein
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="50.615" endTime="52.791">
+        <Sync time="50.615" />
+        on y mettra une boite de fromage si
+        <Sync time="52.497" />
+        &lt; ça va pas
+      </Turn>
+      <Turn speaker="spk3" startTime="52.791" endTime="53.793">
+        <Sync time="52.791" />
+        ouais ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="53.793" endTime="54.877">
+        <Sync time="53.793" />
+        qu'est-ce que tu as vu
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="54.877" endTime="64.407">
+        <Sync time="54.877" />
+        j'ai cru voir passer quelqu'un en vélo
+        <Sync time="57.312" />
+        c'est peut-être chez la * + je ne sais pas
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="64.407" endTime="66.326">
+        <Sync time="64.407" />
+        tu veux un café
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="66.326" endTime="68.821">
+        <Sync time="66.326" />
+        oh non
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="68.821" endTime="69.527">
+        <Sync time="68.821" />
+        non
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="69.527" endTime="70.973">
+        <Sync time="69.527" />
+        non
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="70.973" endTime="71.678">
+        <Sync time="70.973" />
+        oui non
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="71.678" endTime="81.232">
+        <Sync time="71.678" />
+        il a dit non
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        +
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="81.232" endTime="82.467">
+        <Sync time="81.232" />
+        ah la la voilà
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="82.467" endTime="82.475">
+        <Sync time="82.467" />
+        &lt; hum
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="82.475" endTime="84.713">
+        <Sync time="82.475" />
+        il est &gt;
+        <Sync time="82.719" />
+        en bas ton raisin pour lui donner
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="84.713" endTime="88.923">
+        <Sync time="84.713" />
+        ah ben j'ai pas touché moi le cagette que euh tu es comment tu es à pieds
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="88.923" endTime="90.097">
+        <Sync time="88.923" />
+        non je suis en voiture
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="90.097" endTime="90.697">
+        <Sync time="90.097" />
+        tu es en voiture
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="90.697" endTime="91.803">
+        <Sync time="90.697" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="91.803" endTime="94.242">
+        <Sync time="91.803" />
+        un petit peu de raisin oh
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="94.242" endTime="95.829">
+        <Sync time="94.242" />
+        oh ben pourquoi pas
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="95.829" endTime="98.579">
+        <Sync time="95.829" />
+        on l'a ramassé et mais il est temps de le manger
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="98.579" endTime="105.878">
+        <Sync time="98.579" />
+        ah on va manger ça ce soir
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        +
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="105.878" endTime="112.28">
+        <Sync time="105.878" />
+        ah oui on y serait bien retourné mais hi- hier euh pas hier dimanche il pleuvait
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="112.28" endTime="112.733">
+        <Sync time="112.28" />
+        ah oui
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="112.733" endTime="118.172">
+        <Sync time="112.733" />
+        alors c'était tout trempé c'était pas bon moi j'y serai bien retournée dans les vignes c'est agréable
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="118.172" endTime="119.37">
+        <Sync time="118.172" />
+        ah ouais
+        <Sync time="118.536" />
+        &lt; c'est beau hein
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="119.37" endTime="120.502">
+        <Sync time="119.37" />
+        avec les grappes par ci
+        <Sync time="120.404" />
+        &lt; par là
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="120.502" endTime="120.705">
+        <Sync time="120.502" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="120.705" endTime="122.684">
+        <Sync time="120.705" />
+        elles sont cachées par les feuilles
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="122.684" endTime="123.016">
+        <Sync time="122.684" />
+        ah oui
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="123.016" endTime="130.868">
+        <Sync time="123.016" />
+        tu les cherches c'est marrant on n'y était jamais allé au moment de + après les vendanges
+        <Sync time="129.106" />
+        &lt; comme ça
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="130.868" endTime="135.253">
+        <Sync time="130.868" />
+        hum &gt;
+        <Sync time="130.99" />
+        oui puis c'est les peut-être les grappes qui sont pas totalement bien quand ils les cueillent
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="135.253" endTime="135.54">
+        <Sync time="135.253" />
+        &lt; mais c'est
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="135.54" endTime="136.234">
+        <Sync time="135.54" />
+        quand ils repassent pas &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="136.234" endTime="137.064">
+        <Sync time="136.234" />
+        mais c'est une machine
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="137.064" endTime="138.259">
+        <Sync time="137.064" />
+        ah c'est une machine
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="138.259" endTime="138.885">
+        <Sync time="138.259" />
+        oui ils
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="138.885" endTime="140.707">
+        <Sync time="138.885" />
+        mais alors comment ça peut marcher ça
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="140.707" endTime="144.927">
+        <Sync time="140.707" />
+        ils ils cueillent à la machine ben je sais pas il faudrait voir
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="144.927" endTime="146.3">
+        <Sync time="144.927" />
+        ça doit être un truc de fou
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="146.3" endTime="150.075">
+        <Sync time="146.3" />
+        oh oui alors il y a des grappes qui sont cachées en dessous euh
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="150.075" endTime="151.321">
+        <Sync time="150.075" />
+        hein hein
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="151.321" endTime="158.19">
+        <Sync time="151.321" />
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        et il y a des comme des nids il y a des places tu trouves trois quatre grappes la machine
+        <Sync time="157.736" />
+        &lt; elle a pas passé
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="158.19" endTime="158.545">
+        <Sync time="158.19" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="158.545" endTime="161.843">
+        <Sync time="158.545" />
+        elle a passé mais elle a passé à côté quoi
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="161.843" endTime="165.732">
+        <Sync time="161.843" />
+        hein hein + ouais c'est le +
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="165.732" endTime="170.073">
+        <Sync time="165.732" />
+        ouais * elle a dit qu'ils * ouais qu'ils vendangeaient à la machine
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="170.073" endTime="172.835">
+        <Sync time="170.073" />
+        il faut trouver le truc hein pour inventer une machine pareille
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="172.835" endTime="179.6">
+        <Sync time="172.835" />
+        ouais + c'est vrai c'est qu'il faut trouver le truc hein
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="179.6" endTime="182.478">
+        <Sync time="179.6" />
+        moi j'aimerais bien savoir comment que c'est fait
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="182.478" endTime="184.041">
+        <Sync time="182.478" />
+        ouais il faudrait le voir marcher
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="184.041" endTime="184.7">
+        <Sync time="184.041" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="184.7" endTime="190.085">
+        <Sync time="184.7" />
+        hein c'est comme au début qu'on voyait euh les balles de foin rondes
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="190.085" endTime="190.365">
+        <Sync time="190.085" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="190.365" endTime="194.258">
+        <Sync time="190.365" />
+        et puis emballées hein oh hein on regardait ça euh
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="194.258" endTime="195.303">
+        <Sync time="194.258" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="195.303" endTime="196.831">
+        <Sync time="195.303" />
+        puis maintenant ça nous semble
+        <Sync time="196.642" />
+        &lt; euh
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="196.831" endTime="198.846">
+        <Sync time="196.831" />
+        oui &gt;
+        <Sync time="197.113" />
+        parce que tu as tu as vu faire et puis
+        <Sync time="198.575" />
+        &lt; euh
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="198.846" endTime="208.367">
+        <Sync time="198.846" />
+        ouais &gt;
+        <Sync time="199.308" />
+        +
+        <Event desc="coups sur table" type="noise" extent="instantaneous" />
+        chaque région a son truc quoi
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="208.367" endTime="211.326">
+        <Sync time="208.367" />
+        pourquoi les balles de foin elles sont pas rondes ailleurs +
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="211.326" endTime="214.361">
+        <Sync time="211.326" />
+        non je crois pas il y en a qui sont carrées hein
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="214.361" endTime="216.256">
+        <Sync time="214.361" />
+        dans les champs comme ça posées carrées
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="216.256" endTime="219.31">
+        <Sync time="216.256" />
+        oui des carrées euh ben avant euh elles étaient carrées
+        <Sync time="219.061" />
+        &lt; ici hein
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="219.31" endTime="219.984">
+        <Sync time="219.31" />
+        oui oui &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="219.984" endTime="220.354">
+        <Sync time="219.984" />
+        pas rectangulaires
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="220.354" endTime="225.009">
+        <Sync time="220.354" />
+        oui oui c'était vraiment de la taille de la paille empass- entaill- un deux trois
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="225.009" endTime="226.486">
+        <Sync time="225.009" />
+        en bottes tu
+        <Sync time="225.437" />
+        &lt; veux dire
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="226.486" endTime="227.151">
+        <Sync time="226.486" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="227.151" endTime="228.962">
+        <Sync time="227.151" />
+        ah non c'était coupé
+        <Sync time="227.963" />
+        &lt; euh
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="228.962" endTime="229.891">
+        <Sync time="228.962" />
+        ah oui oui
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="229.891" endTime="234.933">
+        <Sync time="229.891" />
+        ¤Pren1¤ son frère de ¤Pren2¤ il avait une euh une presse
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="234.933" endTime="236.07">
+        <Sync time="234.933" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="236.07" endTime="242.716">
+        <Sync time="236.07" />
+        pour les balles de de foin de paille ben il faisait des des bottes euh rectangulaires
+        <Sync time="242.316" />
+        &lt; et puis
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="242.716" endTime="242.905">
+        <Sync time="242.716" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="242.905" endTime="244.557">
+        <Sync time="242.905" />
+        des grandes euh au moins comme ça
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="244.557" endTime="244.823">
+        <Sync time="244.557" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="244.823" endTime="246.606">
+        <Sync time="244.823" />
+        larges comme ça
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="246.606" endTime="247.727">
+        <Sync time="246.606" />
+        &lt; oh oh oh
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="247.727" endTime="250.93">
+        <Sync time="247.727" />
+        oh &gt;
+        <Sync time="248.153" />
+        oh tu sais il faut faire vite hein
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="250.93" endTime="252.425">
+        <Sync time="250.93" />
+        vous en voulez plus vous
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="252.425" endTime="252.507">
+        <Sync time="252.425" />
+        &lt; non
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="252.507" endTime="252.781">
+        <Sync time="252.507" />
+        non &gt;
+        <Sync time="252.681" />
+        &lt; ***
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="252.781" endTime="252.834">
+        <Sync time="252.781" />
+        ***
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="252.834" endTime="254.569">
+        <Sync time="252.834" />
+        vous en avez encore &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="254.569" endTime="255.009">
+        <Sync time="254.569" />
+        on en a encore un peu
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="255.009" endTime="255.602">
+        <Sync time="255.009" />
+        O.K.
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="255.602" endTime="256.002">
+        <Sync time="255.602" />
+        prends en
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="256.002" endTime="256.417">
+        <Sync time="256.002" />
+        tu ramèneras ça
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="256.417" endTime="257.297">
+        <Sync time="256.417" />
+        oui ben
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="257.297" endTime="257.582">
+        <Sync time="257.297" />
+        &lt; puis il y en a encore du nôtre
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="257.582" endTime="261.478">
+        <Sync time="257.582" />
+        il y en a un bon paquet &gt;
+        <Sync time="258.062" />
+        qui se mange encore là-dessus + ben merci
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="261.478" endTime="265.379">
+        <Sync time="261.478" />
+        on en a encore un peu du nôtre mais tu vois de- depuis la route euh
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="265.379" endTime="266.354">
+        <Sync time="265.379" />
+        oui ben
+        <Sync time="265.927" />
+        &lt; forcément
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="266.354" endTime="267.805">
+        <Sync time="266.354" />
+        deux trois pommes de bon &gt;
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="267.805" endTime="270.641">
+        <Sync time="267.805" />
+        ouais + ben merci
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="270.641" endTime="273.262">
+        <Sync time="270.641" />
+        c'est pas du premier choix
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="273.262" endTime="274.577">
+        <Sync time="273.262" />
+        oh ben ça va être bon
+        <Sync time="274.115" />
+        &lt; quand même
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="274.577" endTime="288.895">
+        <Sync time="274.577" />
+        les pommes &gt;
+        <Sync time="274.889" />
+        là-bas euh c'est qu'on a achetées c'est celles là mais il faut les prendre vite
+        <Sync time="279.38" />
+        euh c'est des pommes qu'ils soldaient ils les vendaient euh moins chères
+        <Sync time="284.785" />
+        parce que elles ont été grêlées donc elles ont des marques
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="288.895" endTime="289.625">
+        <Sync time="288.895" />
+        ah oui oui
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="289.625" endTime="290.154">
+        <Sync time="289.625" />
+        tu vois
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="290.154" endTime="292.922">
+        <Sync time="290.154" />
+        j'ai vu une marque noire là +
+        <Sync time="292.148" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="292.922" endTime="295.059">
+        <Sync time="292.922" />
+        *** ça &gt;
+        <Sync time="293.042" />
+        mais elles sont bonnes
+        <Sync time="294.666" />
+        &lt; quand même
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="295.059" endTime="298.598">
+        <Sync time="295.059" />
+        oui ben oui &gt;
+        <Sync time="295.563" />
+        tu enlèves le morceau de
+        <Event desc="b" type="noise" extent="begin" />
+        *
+        <Event desc="b" type="noise" extent="end" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="298.598" endTime="299.883">
+        <Sync time="298.598" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="299.883" endTime="304.348">
+        <Sync time="299.883" />
+        ça n'empêche pas +
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="304.348" endTime="309.134">
+        <Sync time="304.348" />
+        oh je suis contente d'avoir été là-bas et puis euh on a fait un trajet facile
+        <Sync time="308.627" />
+        &lt; euh
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="309.134" endTime="309.174">
+        <Sync time="309.134" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="309.174" endTime="327.31">
+        <Sync time="309.174" />
+        on est parti on a pris la la nationale quatre-vingt six à droite du Rhône en descendant
+        <Sync time="316.778" />
+        ça on est passé déjà on a évité le contour de de Lyon on a été passé plus loin
+        <Sync time="323.295" />
+        près de l'aéroport puis on a tr- on a traversé Viennes et on a
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="327.31" endTime="327.717">
+        <Sync time="327.31" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="327.717" endTime="337.6">
+        <Sync time="327.717" />
+        on a pris la nationale quatre-vingt six puis en remontant euh on a repris
+        <Sync time="332.164" />
+        l'autoroute jusque euh Chalon-sur-Saône + on a
+        <Sync time="337.245" />
+        &lt; traversé
+      </Turn>
+      <Turn speaker="spk2" startTime="337.6" endTime="337.738">
+        <Sync time="337.6" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="337.738" endTime="340.863">
+        <Sync time="337.738" />
+        Lyon on a passé le tunnel de Fourvière +
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="340.863" endTime="341.407">
+        <Sync time="340.863" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="341.407" endTime="343.89">
+        <Sync time="341.407" />
+        le sacré tunnel dont on entend toujours parler
+        <Sync time="343.805" />
+        &lt; *** toi
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="343.89" endTime="345.984">
+        <Sync time="343.89" />
+        ouais je sais pas je je connais pas &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="345.984" endTime="348.783">
+        <Sync time="345.984" />
+        il y a des années on entendait toujours parler de ça
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="348.783" endTime="349.399">
+        <Sync time="348.783" />
+        mais il a quoi de
+        <Sync time="349.209" />
+        &lt; spécial
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="349.399" endTime="350.709">
+        <Sync time="349.399" />
+        que ça &gt;
+        <Sync time="349.867" />
+        bouchait sans arrêt
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="350.709" endTime="351.146">
+        <Sync time="350.709" />
+        &lt; ah bon
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="351.146" endTime="352.32">
+        <Sync time="351.146" />
+        que c'était &gt;
+        <Sync time="351.216" />
+        qu'il y avait des
+        <Sync time="352.254" />
+        &lt; gros problèmes
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="352.32" endTime="354.416">
+        <Sync time="352.32" />
+        ça devait être des &gt;
+        <Sync time="352.844" />
+        moments de pointe ça
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="354.416" endTime="354.804">
+        <Sync time="354.416" />
+        hein
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="354.804" endTime="356.304">
+        <Sync time="354.804" />
+        des moments de pointe
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="356.304" endTime="363.306">
+        <Sync time="356.304" />
+        oui il faut pas y passer aux heures de pointe comme à plein midi
+        <Sync time="359.963" />
+        ou à deux heure quand les gens retournent au boulot
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="363.306" endTime="364.146">
+        <Sync time="363.306" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="364.146" endTime="367.179">
+        <Sync time="364.146" />
+        mais là on a passé à quelle heure neuf heure et demi
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="367.179" endTime="369.075">
+        <Sync time="367.179" />
+        ouais ça passait comme une fleur
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="369.075" endTime="370.184">
+        <Sync time="369.075" />
+        ça passait bien
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="370.184" endTime="370.883">
+        <Sync time="370.184" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="370.883" endTime="375.221">
+        <Sync time="370.883" />
+        mais c'est vrai que bon tu as déjà passé le tunnel de Sainte-Marie
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="375.221" endTime="376.15">
+        <Sync time="375.221" />
+        pff je sais
+        <Sync time="376.097" />
+        &lt; plus
+      </Turn>
+      <Turn speaker="spk1" startTime="376.15" endTime="378.366">
+        <Sync time="376.15" />
+        pour &gt;
+        <Sync time="376.443" />
+        aller en Alsace + non
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="378.366" endTime="379.682">
+        <Sync time="378.366" />
+        euh ça me dit rien comme
+        <Sync time="379.643" />
+        &lt; ça mais je +
+      </Turn>
+      <Turn speaker="spk1" startTime="379.682" endTime="382.892">
+        <Sync time="379.682" />
+        non &gt;
+        <Sync time="380.13" />
+        c'est déjà il est déjà long
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="382.892" endTime="383.81">
+        <Sync time="382.892" />
+        &lt; oh ben oui
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="383.81" endTime="390.291">
+        <Sync time="383.81" />
+        je sais plus combien
+        <Sync time="384.357" />
+        qu'il fait de kilomètres hein j'aimais déjà pas quand on y allait
+        <Sync time="386.71" />
+        mais alors euh le tunnel de Fourvière ça fait un peu pareil hein
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="390.291" endTime="391.114">
+        <Sync time="390.291" />
+        oh oui
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="391.114" endTime="394.623">
+        <Sync time="391.114" />
+        mais il doit être moins long quand même que le tunnel de Sainte-Marie
+      </Turn>
+      <Turn speaker="spk3" startTime="394.623" endTime="395.292">
+        <Sync time="394.623" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="395.292" endTime="396.956">
+        <Sync time="395.292" />
+        c'est angoissant quand on est là dedans
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="396.956" endTime="397.39">
+        <Sync time="396.956" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="397.39" endTime="400.592">
+        <Sync time="397.39" />
+        et puis on pense à l'accident qu'il y avait eu au tunnel de +
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="400.592" endTime="401.161">
+        <Sync time="400.592" />
+        oh
+        <Sync time="401.014" />
+        &lt; ***
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="401.161" endTime="402.19">
+        <Sync time="401.161" />
+        du Mont Blanc
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="402.19" endTime="403.32">
+        <Sync time="402.19" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="403.32" endTime="407.114">
+        <Sync time="403.32" />
+        alors euh on se dit oh la la si on est pris là dedans où c'est qu'on se met on +
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="407.114" endTime="410.972">
+        <Sync time="407.114" />
+        ben tu vois pas du pas tu vois pas par où tu es arrivée tu vois pas où c'est que tu vas
+        <Sync time="410.669" />
+        &lt; ressortir
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="410.972" endTime="411.502">
+        <Sync time="410.972" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="411.502" endTime="412.619">
+        <Sync time="411.502" />
+        tu es un peu claustro là dedans
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="412.619" endTime="415.329">
+        <Sync time="412.619" />
+        et puis là là il est pas long c'est pas un tunnel
+        <Sync time="415.289" />
+        &lt; c'est pas un
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="415.329" endTime="417.023">
+        <Sync time="415.329" />
+        je sais pas combien &gt;
+        <Sync time="416.102" />
+        qu'il fait +
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="417.023" endTime="423.191">
+        <Sync time="417.023" />
+        oh il est long mais il est pas comme euh comme l'autre euh qui a eu des problèmes
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="423.191" endTime="425.099">
+        <Sync time="423.191" />
+        de de du Mont Blanc
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="425.099" endTime="425.575">
+        <Sync time="425.099" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="425.575" endTime="430.635">
+        <Sync time="425.575" />
+        oui je sais pas combien il fait celui du Mont Blanc mais celui de Sainte-Marie il est long hein
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="430.635" endTime="431.525">
+        <Sync time="430.635" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="431.525" endTime="437.421">
+        <Sync time="431.525" />
+        parce que moi je me souviens y avoir passé oh purée j'ai dit mais quand est ce qu'on sera au bout
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="437.421" endTime="439.481">
+        <Sync time="437.421" />
+        hum +
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="439.481" endTime="441.417">
+        <Sync time="439.481" />
+        et puis il a été fermé longtemps
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="441.417" endTime="444.899">
+        <Sync time="441.417" />
+        ouais
+        <Event desc="e" type="noise" extent="instantaneous" />
+        + voilà
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="444.899" endTime="452.144">
+        <Sync time="444.899" />
+        ils ont fait des des travaux ils ont fait un un couloir à coté hein
+        <Sync time="449.636" />
+        &lt; * celui là de Bussang
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="452.144" endTime="454.127">
+        <Sync time="452.144" />
+        oui hum &gt;
+        <Sync time="453.011" />
+        ben depuis que ouais
+        <Sync time="453.944" />
+        &lt; c'est euh un problème
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="454.127" endTime="460.087">
+        <Sync time="454.127" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="460.087" endTime="462.243">
+        <Sync time="460.087" />
+        vous êtes partis avec la voiture de ¤Pren3¤
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="462.243" endTime="462.857">
+        <Sync time="462.243" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="462.857" endTime="463.983">
+        <Sync time="462.857" />
+        c'est bien c'est confortable
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="463.983" endTime="464.393">
+        <Sync time="463.983" />
+        oui
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="464.393" endTime="466.156">
+        <Sync time="464.393" />
+        oh oui
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="466.156" endTime="467.25">
+        <Sync time="466.156" />
+        elle est contente
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="467.25" endTime="468.156">
+        <Sync time="467.25" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="468.156" endTime="469.237">
+        <Sync time="468.156" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="469.237" endTime="470.861">
+        <Sync time="469.237" />
+        ben elle voulait essayer hein
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="470.861" endTime="471.131">
+        <Sync time="470.861" />
+        &lt; ah ben ouais tout nouveau
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="471.131" endTime="474.984">
+        <Sync time="471.131" />
+        sur de la grande route ici c'etait &gt;
+        <Sync time="472.856" />
+        pas euh on voit pas trop
+      </Turn>
+      <Turn speaker="spk2" startTime="474.984" endTime="475.841">
+        <Sync time="474.984" />
+        oui ben oui
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="475.841" endTime="477.314">
+        <Sync time="475.841" />
+        elles roulent toutes les voitures
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="477.314" endTime="478.608">
+        <Sync time="477.314" />
+        oui c'est sur mais
+        <Sync time="478.389" />
+        &lt; après
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="478.608" endTime="479.3">
+        <Sync time="478.608" />
+        c'est bien &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="479.3" endTime="479.35">
+        <Sync time="479.3" />
+        &lt; oui
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="479.35" endTime="479.798">
+        <Sync time="479.35" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="479.798" endTime="481.582">
+        <Sync time="479.798" />
+        si elle est +
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="481.582" endTime="484.685">
+        <Sync time="481.582" />
+        des fois tu peux avoir des petits trucs qui te plaisent pas trop en
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="484.685" endTime="485.095">
+        <Sync time="484.685" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="485.095" endTime="486.225">
+        <Sync time="485.095" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="486.225" endTime="488.346">
+        <Sync time="486.225" />
+        en roulant
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="488.346" endTime="497.922">
+        <Sync time="488.346" />
+        bon avant de partir elle a eu du mal de gérer son son G.P.S elle trouvait pas
+        <Sync time="493.625" />
+        trop euh c'est assez compliqué il y en a pas deux des pareils hein c'est chiant ça
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="497.922" endTime="499.222">
+        <Sync time="497.922" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="499.222" endTime="508.351">
+        <Sync time="499.222" />
+        mais bon + elle disait oh j'arrive pas à programmer mon
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        truc puis finalement
+        <Sync time="505.064" />
+        euh ça a bien marché hein les données sur la route
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="508.351" endTime="508.641">
+        <Sync time="508.351" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="508.641" endTime="512.771">
+        <Sync time="508.641" />
+        mais comme tous il y a des fois euh il nous ammènerait dans les champs hein
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="512.771" endTime="513.643">
+        <Sync time="512.771" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="513.643" endTime="521.847">
+        <Sync time="513.643" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        + et puis encore * un raccourci euh si il avait une caravane au cul ce serait pas pareil
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="521.847" endTime="523.856">
+        <Sync time="521.847" />
+        hé ben oui
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="523.856" endTime="528.119">
+        <Sync time="523.856" />
+        parce que il s'engage des fois dans un truc euh tu peux pas en défaire
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="528.119" endTime="530.825">
+        <Sync time="528.119" />
+        ah ouais + les petits chemins euh
+      </Turn>
+      <Turn speaker="spk3" startTime="530.825" endTime="531.859">
+        <Sync time="530.825" />
+        ouais et on va te foutre
+        <Sync time="531.799" />
+        &lt; ***
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="531.859" endTime="541.358">
+        <Sync time="531.859" />
+        hum dans des petites &gt;
+        <Sync time="532.572" />
+        des fois dans des vignes il nous fait passer si jamais on lui demande le le trajet le plus court
+        <Sync time="537.996" />
+        tu peux être sûr il te fait passer dans des petites rues
+        <Sync time="540.574" />
+        &lt; des fois
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="541.358" endTime="542.965">
+        <Sync time="541.358" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        à vol d'oiseau &gt;
+        <Sync time="541.699" />
+        euh
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="542.965" endTime="543.085">
+        <Sync time="542.965" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="543.085" endTime="547.706">
+        <Sync time="543.085" />
+        hein il y a des fois on s'est enfilé dans des trucs euh on a dit mais c'est pas vrai on pourra pas ressortir
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="547.706" endTime="548.398">
+        <Sync time="547.706" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="548.398" endTime="554.782">
+        <Sync time="548.398" />
+        oh on a passé des fois moi tout seul c'est le pire c'est quand c'est en travaux
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="554.782" endTime="555.672">
+        <Sync time="554.782" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="555.672" endTime="555.928">
+        <Sync time="555.672" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="555.928" endTime="560.17">
+        <Sync time="555.928" />
+        pour faire marche arrière ***
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="560.17" endTime="562.896">
+        <Sync time="560.17" />
+        <Event desc="bruit de petite cuillère" type="noise" extent="instantaneous" />
+        et puis le machin qui te dit faites demi-tour faites demi-tour faites
+        <Sync time="561.815" />
+        &lt; demi-tour
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="562.896" endTime="566.68">
+        <Sync time="562.896" />
+        hé ben oui oh oui &gt;
+        <Sync time="563.114" />
+        et puis quand on suit pas son ce qu'elle nous dit
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="566.68" endTime="567.182">
+        <Sync time="566.68" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="567.182" endTime="567.752">
+        <Sync time="567.182" />
+        ce qu'il nous dit
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="567.752" endTime="568.265">
+        <Sync time="567.752" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="568.265" endTime="570.922">
+        <Sync time="568.265" />
+        hé ben il nous il nous n- dit toujours de faire demi-tour
+        <Sync time="570.715" />
+        &lt; tu as vu hier
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="570.922" endTime="571.62">
+        <Sync time="570.922" />
+        oh ben oui &gt;
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="571.62" endTime="571.94">
+        <Sync time="571.62" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="571.94" endTime="573.089">
+        <Sync time="571.94" />
+        il nous le disait encore
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="573.089" endTime="574.44">
+        <Sync time="573.089" />
+        mais ça c'est tous hein
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="574.44" endTime="574.703">
+        <Sync time="574.44" />
+        ouais
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="574.703" endTime="579.113">
+        <Sync time="574.703" />
+        mais ça c'est bien le G.P.S pour euh tu es paumé en ville
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="579.113" endTime="580.731">
+        <Sync time="579.113" />
+        ah oui en ville c'est vachement bien
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="580.731" endTime="581.32">
+        <Sync time="580.731" />
+        oui
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="581.32" endTime="581.911">
+        <Sync time="581.32" />
+        comme ça hein
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="581.911" endTime="584.981">
+        <Sync time="581.911" />
+        oh oui tu donnes tu vois elle a mis l'adresse de sa copine là
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="584.981" endTime="585.471">
+        <Sync time="584.981" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="585.471" endTime="594.102">
+        <Sync time="585.471" />
+        et ben c'est dans un bled perdu c'est comme si euh il fallait aller
+        <Sync time="589.803" />
+        euh au fin fond de ¤T1¤ oh ben
+        <Sync time="592.91" />
+        &lt; il te l'a emmené tout droit hein
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="594.102" endTime="594.615">
+        <Sync time="594.102" />
+        hum ouais ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="594.615" endTime="597.387">
+        <Sync time="594.615" />
+        elle a arrivé devant leur maison sans +
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="597.387" endTime="597.579">
+        <Sync time="597.387" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="597.579" endTime="598.042">
+        <Sync time="597.579" />
+        sans problème
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="598.042" endTime="610.156">
+        <Sync time="598.042" />
+        ouais oui + ben c'est sûr que ça euh bah pour euh pour te pour aller
+        <Sync time="606.06" />
+        jusqu'à une ville tu tu arrives facilement avec euh une
+        <Sync time="609.898" />
+        &lt; carte avec euh
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="610.156" endTime="610.664">
+        <Sync time="610.156" />
+        oui les panneaux oui &gt;
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="610.664" endTime="614.28">
+        <Sync time="610.664" />
+        les panneaux avec euh internet à faire ton itinéraire
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="614.28" endTime="614.749">
+        <Sync time="614.28" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="614.749" endTime="618.856">
+        <Sync time="614.749" />
+        mais une fois dans la ville des fois même si t'as regardé avant où c'était euh
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="618.856" endTime="619.445">
+        <Sync time="618.856" />
+        et puis il y a les sens
+        <Sync time="619.282" />
+        &lt; euh les sens interdits les sens uniques alors euh
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="619.445" endTime="623.918">
+        <Sync time="619.445" />
+        il faut tourner euh tourner en plus
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="623.918" endTime="627.266">
+        <Sync time="623.918" />
+        alors + ¤Pren2 café
+        <Sync time="626.743" />
+        &lt; non
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="627.266" endTime="634.19">
+        <Sync time="627.266" />
+        non &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="634.19" endTime="645.139">
+        <Sync time="634.19" />
+        bon et ben je vais pouvoir peut-être terminer mes +
+        <Sync time="639.929" />
+        mes chèques hein
+        <Event desc="bruit du café versé" type="noise" extent="instantaneous" />
+        tu m'a pris au dépourvu
+      </Turn>
+      <Turn speaker="spk2" startTime="645.139" endTime="646.191">
+        <Sync time="645.139" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="646.191" endTime="652.514">
+        <Sync time="646.191" />
+        hum + oh ben une fois que j'avais tout le bazar là + c'est aussi bien non
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" startTime="652.514" endTime="655.231">
+        <Sync time="652.514" />
+        ben oui mais moi mon bazar il est pas fait
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="655.231" endTime="656.288">
+        <Sync time="655.231" />
+        ben
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="656.288" endTime="661.194">
+        <Sync time="656.288" />
+        voilà maintenant c'est à toi d'aider pour faire les chèques +
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="661.194" endTime="662.7">
+        <Sync time="661.194" />
+        ça ira j'encaisse moi
+      </Turn>
+      <Turn speaker="spk2" startTime="662.7" endTime="672.765">
+        <Sync time="662.7" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        je prends je compte pas je prends
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        +
+        <Event desc="objets posés" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="672.765" endTime="674.687">
+        <Sync time="672.765" />
+        ah ouais
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="674.687" endTime="676.292">
+        <Sync time="674.687" />
+        il est bon ce raisin
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="676.292" endTime="679.277">
+        <Sync time="676.292" />
+        ben ouais il est pas mauvais mais c'est dans les talus tu vois
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="679.277" endTime="679.64">
+        <Sync time="679.277" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="679.64" endTime="681.024">
+        <Sync time="679.64" />
+        ils ramassent pas *
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="681.024" endTime="681.564">
+        <Sync time="681.024" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="681.564" endTime="686.912">
+        <Sync time="681.564" />
+        hein ils + quand ils nettoient les vignes ils balancent ça les dans les talus alors ça pousse
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="686.912" endTime="687.453">
+        <Sync time="686.912" />
+        ah ouais
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="687.453" endTime="691.585">
+        <Sync time="687.453" />
+        mais autrement ce qui reste dans les vignes * c'est pas grand chose hein
+        <Event desc="bruit de petite cuillère" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="691.585" endTime="692.025">
+        <Sync time="691.585" />
+        &lt; ah oui
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="692.025" endTime="698.795">
+        <Sync time="692.025" />
+        *** &gt;
+        <Sync time="692.288" />
+        tandis que là euh pour en trouver euh
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" startTime="698.795" endTime="701.838">
+        <Sync time="698.795" />
+        ouais ça fait déjà un
+        <Event desc="bruit de petite cuillère" type="noise" extent="instantaneous" />
+        un bon casse-croûte
+      </Turn>
+      <Turn speaker="spk3" mode="spontaneous" startTime="701.838" endTime="708.408">
+        <Sync time="701.838" />
+        ah ben on aurait pu en certainement en remonter de l'autre *** non plus
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Manon" audio_filename="mariage_elo_14.wav" version="8" version_date="151229">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="1328.975">
+      <Turn startTime="0.0" endTime="4.424" speaker="spk1">
+        <Sync time="0.0" />
+        est-ce que je pou- tu pourras me raconter un événement marquant de ta vie
+      </Turn>
+      <Turn speaker="spk2" startTime="4.424" endTime="12.345">
+        <Sync time="4.424" />
+        oh oui mais alors lequel euh oui je vais te oui bah écoute oui vas-y euh
+        <Sync time="8.248" />
+        qui tu voudrais un événement marquant alors attends je réfléchis
+      </Turn>
+      <Turn speaker="spk1" startTime="12.345" endTime="14.256">
+        <Sync time="12.345" />
+        d'accord vas-y
+      </Turn>
+      <Turn speaker="spk2" startTime="14.256" endTime="16.942">
+        <Sync time="14.256" />
+        un événement marquant euh
+      </Turn>
+      <Turn speaker="spk1" startTime="16.942" endTime="18.481">
+        <Sync time="16.942" />
+        merci en tout cas
+        <Sync time="17.868" />
+        &lt; pour ta confiance
+      </Turn>
+      <Turn speaker="spk2" startTime="18.481" endTime="27.269">
+        <Sync time="18.481" />
+        tu peux me donner &gt;
+        <Sync time="19.208" />
+        bah euh j'ai totalement confiance après en plus si ça peut faire avancer le +
+        <Sync time="24.065" />
+        alors euh tu veux savoir quoi +
+      </Turn>
+      <Turn speaker="spk1" startTime="27.269" endTime="36.89">
+        <Sync time="27.269" />
+        euh
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        + durant ta vie euh à quel moment + ferri- fais-tu référence à un événement marquant
+        <Sync time="35.032" />
+        à quel âge euh quel partie de ta vie
+      </Turn>
+      <Turn speaker="spk2" startTime="36.89" endTime="44.849">
+        <Sync time="36.89" />
+        alors à quel âge on s'est marié en 2012 donc j'avais euh + 29 ans et ça serait oui euh mon mariage
+      </Turn>
+      <Turn speaker="spk1" startTime="44.849" endTime="46.393">
+        <Sync time="44.849" />
+        ah quel bel événement
+      </Turn>
+      <Turn speaker="spk2" startTime="46.393" endTime="52.286">
+        <Sync time="46.393" />
+        mon mariage parce que c'est quelque chose euh
+        <Event desc="i" type="noise" extent="instantaneous" />
+        que j'ai attendu bah depuis que je suis petite fille
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="52.286" endTime="56.965">
+        <Sync time="52.286" />
+        d'accord d'accord euh pourquoi choisis-tu cet événement
+      </Turn>
+      <Turn speaker="spk2" startTime="56.965" endTime="64.733">
+        <Sync time="56.965" />
+        bah justement parce que c'était euh un rêve de petite fille euh une robe de princesse
+        <Sync time="61.603" />
+        euh mais bon surtout le prince charmant
+      </Turn>
+      <Turn speaker="spk1" startTime="64.733" endTime="65.751">
+        <Sync time="64.733" />
+        oh
+      </Turn>
+      <Turn speaker="spk2" startTime="65.751" endTime="81.042">
+        <Sync time="65.751" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        quand on
+        <Event desc="conv" type="noise" extent="instantaneous" />
+        est petite fille euh quand on est petite fille on on rêve au
+        <Sync time="70.807" />
+        prince charmant et les Walt Disney tout ça et euh
+        <Sync time="74.076" />
+        et quand je l'ai rencontré bah le fait de me marier c'était de me dire à la vie à la mort +
+        <Sync time="79.814" />
+        c'est c'est lui
+      </Turn>
+      <Turn speaker="spk1" startTime="81.042" endTime="87.507">
+        <Sync time="81.042" />
+        très beau très beau +
+        <Sync time="83.109" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        qu'as-tu ressenti de différent par rapport à d'autres événements de ta vie
+      </Turn>
+      <Turn speaker="spk2" startTime="87.507" endTime="98.368">
+        <Sync time="87.507" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        pour la première fois je crois que je savais que je prenais la enfin c'était la di- la bonne décision
+        <Sync time="93.355" />
+        c'était euh tellement évident c'était tellement euh + facile
+      </Turn>
+      <Turn speaker="spk1" startTime="98.368" endTime="99.217">
+        <Sync time="98.368" />
+        pourquoi
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="99.217" endTime="127.231">
+        <Sync time="99.217" />
+        + parce que + parce que j'avais pas besoin de me poser de question c'était c'est lui
+        <Sync time="105.269" />
+        et c'est personne d'autre et le fait de pouvoir euh bah partager ça avec la famille euh et de se dire euh hum
+        <Sync time="114.485" />
+        bah devant la le maire devant devant l'é- enfin dans l'église euh se dire euh
+        <Sync time="119.846" />
+        se déclarer voilà euh se promettre euh jusqu'à ce que la mort nous sépare quoi voilà c'était ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="127.231" endTime="128.07">
+        <Sync time="127.231" />
+        c'était un beau jour
+      </Turn>
+      <Turn speaker="spk2" startTime="128.07" endTime="132.244">
+        <Sync time="128.07" />
+        oui le plus beau + enfin un des plus beaux mais ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="132.244" endTime="137.458">
+        <Sync time="132.244" />
+        d'accord euh peux-tu m'expliquer plus en détail euh ton ressenti pour cet événement
+      </Turn>
+      <Turn speaker="spk2" startTime="137.458" endTime="145.483">
+        <Sync time="137.458" />
+        + alors plus en détail + il y a eu d'abord la veille
+        <Sync time="143.625" />
+        + on a on a
+        <Sync time="145.384" />
+        &lt; décoré
+      </Turn>
+      <Turn speaker="spk1" startTime="145.483" endTime="145.558">
+        <Sync time="145.483" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="145.558" endTime="152.054">
+        <Sync time="145.558" />
+        toute la salle et puis on a respecté les traditions on a chacun a dormi euh dans sa maison d'enfance
+      </Turn>
+      <Turn speaker="spk1" startTime="152.054" endTime="152.402">
+        <Sync time="152.054" />
+        ah bah oui
+      </Turn>
+      <Turn speaker="spk2" startTime="152.402" endTime="169.659">
+        <Sync time="152.402" />
+        chez ses parents respectifs et euh donc le matin je suis partie euh enfin j'étais
+        <Sync time="158.076" />
+        j'étais pas angoissée j'étais j'étais juste bien
+        <Sync time="161.021" />
+        je suis partie donc chez le coiffeur
+        <Event desc="tx" type="noise" extent="previous" />
+        <Sync time="163.531" />
+        l'esthéticienne je suis rentrée à midi donc il m'avait toujours pas vu euh pour euh donc chez maman pour enfiler ma robe
+      </Turn>
+      <Turn speaker="spk1" startTime="169.659" endTime="170.017">
+        <Sync time="169.659" />
+        &lt; hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="170.017" endTime="173.111">
+        <Sync time="170.017" />
+        et une &gt;
+        <Sync time="170.11" />
+        fois que j'ai passé ma robe j'attendais plus qu'une chose c'était euh
+      </Turn>
+      <Turn speaker="spk1" startTime="173.111" endTime="173.839">
+        <Sync time="173.111" />
+        c'était la surprise
+      </Turn>
+      <Turn speaker="spk2" startTime="173.839" endTime="186.629">
+        <Sync time="173.839" />
+        bah voilà qu'il m- découvrir son regard + autr- enfin autrement
+        <Sync time="178.855" />
+        de + de voir ce qu'il allait ressentir en me voyant habillée comme je l'étais
+        <Sync time="183.684" />
+        et puis moi pareil de le découvrir parce que finalement j'avais pas vu non plus euh
+      </Turn>
+      <Turn speaker="spk1" startTime="186.629" endTime="187.049">
+        <Sync time="186.629" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="187.049" endTime="201.15">
+        <Sync time="187.049" />
+        son costume +
+        <Sync time="188.303" />
+        et puis quand on ce que j'ai ressenti cette journée la c'est euh c'est une journée où on a reçu tout l'amour euh +
+        <Sync time="194.463" />
+        enfin u- +
+        <Event desc="tx" type="noise" extent="previous" />
+        tout l'amour du monde euh en en en une journée même pas c'est euh c'est vachement intense
+      </Turn>
+      <Turn speaker="spk1" startTime="201.15" endTime="211.106">
+        <Sync time="201.15" />
+        + d'accord et est-ce que tu peux me raconter euh l'événement en particulier euh
+        <Sync time="208.221" />
+        la soirée euh ce qu'il s'est passé
+      </Turn>
+      <Turn speaker="spk2" startTime="211.106" endTime="269.589">
+        <Sync time="211.106" />
+        bah euh ce qui m'a le plus marqué dans cet événement c'est de voir que la famille et les amis euh
+        <Sync time="216.904" />
+        étaient tous là et on partageait vraiment notre euh +
+        <Sync time="219.81" />
+        notre amour avec nous +
+        <Sync time="222.222" />
+        et que ça soit à la mairie euh que ça soit euh +
+        <Sync time="228.261" />
+        à l'église euh pendant le vin d'honneur euh +
+        <Sync time="232.914" />
+        c'était vraiment euh enfin tout le monde a participé de bon coeur on sentait
+        <Sync time="237.605" />
+        on sentait qu'il y avait pas que notre union qui comptait c'était un échange euh
+        <Sync time="241.654" />
+        un échange d'amour de preuve d'amitié en même temps euh
+        <Sync time="244.923" />
+        il y a il y a eu des discours de faits euh
+        <Sync time="248.16" />
+        i- mon beau père m'a dit euh des choses qu'il m'avait jamais dites
+        <Sync time="251.552" />
+        alors que il m'élève depuis que j'ai huit ans et j'en ai trente et un aujourd'hui j'en avait vingt neuf donc à l'époque +
+        <Sync time="257.978" />
+        et ça a changé euh beaucoup de choses +
+        <Sync time="261.352" />
+        dans mes relations avec eux avec mes amis
+        <Event desc="tx" type="noise" extent="previous" />
+        <Sync time="264.099" />
+        et puis euh ça euh avec mon mari ça n'a que consolidé les choses
+      </Turn>
+      <Turn speaker="spk1" startTime="269.589" endTime="272.267">
+        <Sync time="269.589" />
+        d'accord c'est vous qui avez tout préparé pour votre mariage
+      </Turn>
+      <Turn speaker="spk2" startTime="272.267" endTime="304.097">
+        <Sync time="272.267" />
+        oui tout tout de A à Z bon le traiteur il y avait un traiteur bien sûr
+        <Sync time="277.17" />
+        on a pas fait à manger hein enfin on a pas eu euh le courage
+        <Sync time="279.282" />
+        on a eu la chance que nos parents puissent justement euh bah nous offrir
+        <Sync time="283.019" />
+        le mariage qu'on voulait finalement +
+        <Sync time="285.382" />
+        et euh et la décoration euh +
+        <Sync time="289.633" />
+        la décoration donc oui on avait tout fait nous-mêmes +
+        <Sync time="292.24" />
+        et l'organisation de la soirée l'ouverture de bal avec des chansons
+        <Sync time="295.804" />
+        qui nous ressemblent bien à nous avec Max Boubil avec Premiers baisers +
+        <Sync time="300.537" />
+        avec euh la tecktonik euh enfin tout le monde a
+        <Sync time="304.039" />
+        &lt; été surpris
+      </Turn>
+      <Turn speaker="spk1" startTime="304.097" endTime="304.722">
+        <Sync time="304.097" />
+        un vrai show &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="304.722" endTime="320.481">
+        <Sync time="304.722" />
+        un vrai show ouais avec euh la Carioca des Nuls
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="309.401" />
+        non non c'était c'était fabuleux jusque jusqu'au moment
+        <Event desc="tx" type="noise" extent="previous" />
+        du dessert
+        <Sync time="312.883" />
+        et après on a fait un dénichage
+        <Sync time="314.855" />
+        et quand on est tous revenus à la salle des fêtes
+        <Sync time="317.039" />
+        on a eu donc la fameuse euh soupe aux aux oignons
+      </Turn>
+      <Turn speaker="spk1" startTime="320.481" endTime="321.454">
+        <Sync time="320.481" />
+        ah oui
+      </Turn>
+      <Turn speaker="spk2" startTime="321.454" endTime="325.584">
+        <Sync time="321.454" />
+        et tout le monde est parti se coucher vers neuf heures du matin donc
+        <Sync time="323.664" />
+        c'était vraiment une journée euh formidable
+      </Turn>
+      <Turn speaker="spk1" startTime="325.584" endTime="326.847">
+        <Sync time="325.584" />
+        ah oui ça a duré longtemps
+      </Turn>
+      <Turn speaker="spk2" startTime="326.847" endTime="327.071">
+        <Sync time="326.847" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="327.071" endTime="334.785">
+        <Sync time="327.071" />
+        +
+        <Event desc="i" type="noise" extent="instantaneous" />
+        euh si cela serait à revivre est-ce que vous le revivriez de la même manière +
+      </Turn>
+      <Turn speaker="spk2" startTime="334.785" endTime="364.517">
+        <Sync time="334.785" />
+        la seule chose que j'aimerais faire si je le pouvais
+        <Sync time="338.039" />
+        ça serait d'arrêter le temps +
+        <Sync time="341.222" />
+        et euh et il y aurait i- une chose que je ferais différemment enfin que je ferais différemment
+        <Sync time="346.861" />
+        + euh ce que je regrette c'est que on était bon on était quatre-vingt au repas +
+        <Sync time="352.229" />
+        et euh ce que j'aimerais ce que j'aurais voulu c'est pouvoir passer vraiment beaucoup beaucoup de temps avec euh
+        <Sync time="358.359" />
+        avec chaque invité j'ai eu l'impression de ne pas profiter de mes invités
+        <Sync time="361.013" />
+        en fait + j'étais essentiellement près de mon mari bien sûr
+      </Turn>
+      <Turn speaker="spk1" startTime="364.517" endTime="365.365">
+        <Sync time="364.517" />
+        hum c'est normal
+      </Turn>
+      <Turn speaker="spk2" startTime="365.365" endTime="379.539">
+        <Sync time="365.365" />
+        et même mes enfants même ma fille je veux dire ma fille à l'époque parce que mon fils
+        <Sync time="368.061" />
+        était pas né ma fille
+        <Sync time="369.365" />
+        euh j'ai pas eu l'impression d'en profiter énormement pendant le mariage
+        <Sync time="371.968" />
+        tout passe à une vitesse
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        pas possible
+        <Sync time="373.869" />
+        on est le centre du monde et en même temps euh +
+        <Sync time="376.228" />
+        bah on voit rien quoi on voit rien passer
+      </Turn>
+      <Turn speaker="spk1" startTime="379.539" endTime="381.637">
+        <Sync time="379.539" />
+        d'accord elle avait quel âge votre fille
+      </Turn>
+      <Turn speaker="spk2" startTime="381.637" endTime="385.499">
+        <Sync time="381.637" />
+        hum Emma avait euh donc elle est né en 2010 et elle avait deux ans
+      </Turn>
+      <Turn speaker="spk1" startTime="385.499" endTime="392.128">
+        <Sync time="385.499" />
+        d'accord
+        <Event desc="toux en fond" type="noise" extent="instantaneous" />
+        bon d'accord bah merci euh +
+      </Turn>
+      <Turn speaker="spk2" startTime="392.128" endTime="392.209">
+        <Sync time="392.128" />
+        &lt; de rien
+      </Turn>
+      <Turn speaker="spk1" startTime="392.209" endTime="393.624">
+        <Sync time="392.209" />
+        de &gt;
+        <Sync time="392.322" />
+        m'avoir raconté cet événement
+      </Turn>
+      <Turn speaker="spk2" startTime="393.624" endTime="394.262">
+        <Sync time="393.624" />
+        oh bah
+        <Sync time="393.884" />
+        &lt; de rien
+      </Turn>
+      <Turn speaker="spk1" startTime="394.262" endTime="394.307">
+        <Sync time="394.262" />
+        marquant
+      </Turn>
+      <Turn speaker="spk2" startTime="394.307" endTime="399.82">
+        <Sync time="394.307" />
+        ça fait &gt;
+        <Sync time="394.463" />
+        plaisir ça fait plaisir aussi de se replonger dans dans des beaux souvenirs comme ça
+      </Turn>
+      <Turn speaker="spk1" startTime="399.82" endTime="410.318">
+        <Sync time="399.82" />
+        oui c'est sûr c'est sûr
+        <Sync time="401.003" />
+        ///
+        <Comment desc="Arrivée de L3" />
+        <Sync time="409.478" />
+        salut
+      </Turn>
+      <Turn speaker="spk3" startTime="410.318" endTime="411.71">
+        <Sync time="410.318" />
+        salut
+      </Turn>
+      <Turn speaker="spk2" startTime="411.71" endTime="413.558">
+        <Sync time="411.71" />
+        salut
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="413.558" endTime="414.655">
+        <Sync time="413.558" />
+        ça va
+      </Turn>
+      <Turn speaker="spk3" startTime="414.655" endTime="415.957">
+        <Sync time="414.655" />
+        ça va bien oui
+      </Turn>
+      <Turn speaker="spk1" startTime="415.957" endTime="419.037">
+        <Sync time="415.957" />
+        alors euh je t'ai donné rendez-vous ici euh
+      </Turn>
+      <Turn speaker="spk3" startTime="419.037" endTime="419.931">
+        <Sync time="419.037" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="419.931" endTime="429.179">
+        <Sync time="419.931" />
+        euh comme je l'expliquais à Laetitia on a un projet euh pour ma licence en sciences du langage
+        <Sync time="424.65" />
+        et j'aimerais savoir si tu pourrais me raconter un événement marquant dans ta vie
+      </Turn>
+      <Turn speaker="spk3" startTime="429.179" endTime="431.103">
+        <Sync time="429.179" />
+        oui bah bien sur oui il y a pas de souci
+      </Turn>
+      <Turn speaker="spk1" startTime="431.103" endTime="440.358">
+        <Sync time="431.103" />
+        merci beaucoup
+        <Sync time="432.609" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        euh tout d'abord euh durant ta vie à quel moment fais-tu
+        <Sync time="437.081" />
+        réference à un événement marquant euh quel âge euh
+      </Turn>
+      <Turn speaker="spk3" startTime="440.358" endTime="446.959">
+        <Sync time="440.358" />
+        euh ben en fait moi l'é- l'événement marquant euh c'est un peu moins
+        <Sync time="444.42" />
+        gai que bah celui de euh de Laetitia
+      </Turn>
+      <Turn speaker="spk2" startTime="446.959" endTime="448.084">
+        <Sync time="446.959" />
+        tu en fais partie quand même de mon
+        <Sync time="448.068" />
+        &lt; événement
+      </Turn>
+      <Turn speaker="spk3" startTime="448.084" endTime="463.082">
+        <Sync time="448.084" />
+        oui &gt;
+        <Sync time="448.531" />
+        tout à fait tout à fait
+        <Sync time="449.704" />
+        c'est ben en fait euh c'est la dispute et euh
+        <Sync time="455.032" />
+        enfin le l'événement marquant
+        <Sync time="457.139" />
+        clairement c'est euh c'est hum
+        <Sync time="460.346" />
+        la la rencontre entre mes parents et ma femme
+      </Turn>
+      <Turn speaker="spk1" startTime="463.082" endTime="465.008">
+        <Sync time="463.082" />
+        ah d'accord pourquoi
+      </Turn>
+      <Turn speaker="spk3" startTime="465.008" endTime="469.248">
+        <Sync time="465.008" />
+        euh bah parce que bah parce que ils ont jamais accepté Laetitia
+        <Sync time="468.73" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="469.248" endTime="470.008">
+        <Sync time="469.248" />
+        ah &gt;
+        <Sync time="469.556" />
+        oui d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="470.008" endTime="472.065">
+        <Sync time="470.008" />
+        malheureusement +
+      </Turn>
+      <Turn speaker="spk1" startTime="472.065" endTime="476.023">
+        <Sync time="472.065" />
+        euh pourquoi choisis-tu cet événement du coup
+      </Turn>
+      <Turn speaker="spk3" startTime="476.023" endTime="481.955">
+        <Sync time="476.023" />
+        euh ben en fait je choisis cet événement marquant parce que euh ben ça a changé ça a changé beaucoup de choses
+      </Turn>
+      <Turn speaker="spk2" startTime="481.955" endTime="482.643">
+        <Sync time="481.955" />
+        en toi
+      </Turn>
+      <Turn speaker="spk3" startTime="482.643" endTime="489.963">
+        <Sync time="482.643" />
+        en moi et ben pour être franc moi je suis parti je suis parti tard de chez de chez très tard de chez mes parents
+      </Turn>
+      <Turn speaker="spk1" startTime="489.963" endTime="490.67">
+        <Sync time="489.963" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" startTime="490.67" endTime="502.248">
+        <Sync time="490.67" />
+        et en fait bah Laetitia m'a quelque euh m'a m'a liberé clairement
+        <Sync time="496.048" />
+        parce que je j'ai j'ai toujours été très proche de mes parents et et qu'au final euh
+      </Turn>
+      <Turn speaker="spk2" startTime="502.248" endTime="503.183">
+        <Sync time="502.248" />
+        c'était une forme d'emprise
+      </Turn>
+      <Turn speaker="spk3" startTime="503.183" endTime="512.195">
+        <Sync time="503.183" />
+        voilà c'était l'emprise et bah elle m'a ouvert les yeux sur certaines choses
+        <Sync time="507.746" />
+        et je me suis rendu compte que ben que enfin il y a un moment faut faire un choix
+      </Turn>
+      <Turn speaker="spk1" startTime="512.195" endTime="513.111">
+        <Sync time="512.195" />
+        ah oui d'accord tu es
+        <Sync time="512.994" />
+        &lt; part-
+      </Turn>
+      <Turn speaker="spk3" startTime="513.111" endTime="514.404">
+        <Sync time="513.111" />
+        mon &gt;
+        <Sync time="513.217" />
+        choix a été vite fait
+      </Turn>
+      <Turn speaker="spk1" startTime="514.404" endTime="516.415">
+        <Sync time="514.404" />
+        tu es parti à quel âge de chez tes parents
+      </Turn>
+      <Turn speaker="spk3" startTime="516.415" endTime="522.518">
+        <Sync time="516.415" />
+        euh moi je suis parti euh un peu comme Tanguy
+        <Sync time="520.033" />
+        Tanguy est parti à trente ans moi
+        <Sync time="521.243" />
+        je suis parti a vingt-sept ans
+      </Turn>
+      <Turn speaker="spk1" startTime="522.518" endTime="523.054">
+        <Sync time="522.518" />
+        ah oui d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="523.054" endTime="524.096">
+        <Sync time="523.054" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="524.096" endTime="525.24">
+        <Sync time="524.096" />
+        et il a été papa à vingt-huit
+      </Turn>
+      <Turn speaker="spk3" startTime="525.24" endTime="527.009">
+        <Sync time="525.24" />
+        j'ai été papa à vingt huit ans
+      </Turn>
+      <Turn speaker="spk1" startTime="527.009" endTime="534.18">
+        <Sync time="527.009" />
+        d'accord + euh qu'as-tu ressenti euh de différent par rapport à d'autres événements de ta vie +
+      </Turn>
+      <Turn speaker="spk3" startTime="534.18" endTime="561.033">
+        <Sync time="534.18" />
+        bah euh ce qui était différent c'est que bah il a clairement fallu que je fasse un choix +
+        <Sync time="540.172" />
+        et moi le choix était vite fait ma famille c'est donc Laetitia et puis ben mes deux enfants hein +
+        <Sync time="545.8" />
+        et euh bah par rapport à ça +
+        <Sync time="548.261" />
+        il y a eu beaucoup de choses de faites beaucoup de choses de dites +
+        <Sync time="552.752" />
+        et de toute façon le choix moi j'ai toujours dit le choix est fait est fait est rapide voilà
+        <Sync time="558.966" />
+        c'est ma femme et mes enfants
+      </Turn>
+      <Turn speaker="spk2" startTime="561.033" endTime="561.441">
+        <Sync time="561.033" />
+        &lt; explique euh
+      </Turn>
+      <Turn speaker="spk3" startTime="561.441" endTime="562.373">
+        <Sync time="561.441" />
+        malheureusement &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="562.373" endTime="564.696">
+        <Sync time="562.373" />
+        explique quand même que il y a eu plusieurs tentatives de no- de notre de notre
+        <Sync time="564.565" />
+        &lt; euh
+      </Turn>
+      <Turn speaker="spk3" startTime="564.696" endTime="565.305">
+        <Sync time="564.696" />
+        malheureusement
+      </Turn>
+      <Turn speaker="spk2" startTime="565.305" endTime="566.107">
+        <Sync time="565.305" />
+        de notre &gt;
+        <Sync time="565.31" />
+        part pour euh
+      </Turn>
+      <Turn speaker="spk3" startTime="566.107" endTime="569.624">
+        <Sync time="566.107" />
+        oui mais euh après euh après clairement euh moi on mais
+      </Turn>
+      <Turn speaker="spk2" startTime="569.624" endTime="570.176">
+        <Sync time="569.624" />
+        plus en détail
+      </Turn>
+      <Turn speaker="spk3" startTime="570.176" endTime="576.91">
+        <Sync time="570.176" />
+        on a beaucoup euh on a toujours été euh moi je pou- pour être franc j'appréhendais d'aller chez mes parents avec ma femme
+      </Turn>
+      <Turn speaker="spk1" startTime="576.91" endTime="577.332">
+        <Sync time="576.91" />
+        ah
+        <Sync time="577.088" />
+        &lt; bon
+      </Turn>
+      <Turn speaker="spk3" startTime="577.332" endTime="583.016">
+        <Sync time="577.332" />
+        je &gt;
+        <Sync time="577.477" />
+        savais très bien qu'il y aurait des réflexions mais bon réflexions
+        <Sync time="580.281" />
+        qui qui étaient dites à ma femme et pas à moi
+      </Turn>
+      <Turn speaker="spk1" startTime="583.016" endTime="583.948">
+        <Sync time="583.016" />
+        ah
+        <Sync time="583.158" />
+        &lt; oui d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="583.948" endTime="597.522">
+        <Sync time="583.948" />
+        quand j'é- quand &gt;
+        <Sync time="584.033" />
+        j'étais pas là donc euh ça bon après voilà il y a eu beaucoup de choses
+        <Sync time="587.959" />
+        beaucoup de choses de dites beaucoup de choses de un exemple
+        <Sync time="590.838" />
+        hein on a eu le le on avait fait le baptême de donc de ma fille euh
+        <Sync time="594.747" />
+        ma mère a été très très dure hein très
+        <Sync time="597.355" />
+        &lt; très dure
+      </Turn>
+      <Turn speaker="spk1" startTime="597.522" endTime="597.887">
+        <Sync time="597.522" />
+        ah bon &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="597.887" endTime="603.708">
+        <Sync time="597.887" />
+        en disant que euh clairement que que c'était qu'on s'était embêtés
+        <Sync time="601.811" />
+        avec un baptême je le je cite
+      </Turn>
+      <Turn speaker="spk2" startTime="603.708" endTime="604.605">
+        <Sync time="603.708" />
+        baptême de M E R
+        <Sync time="604.586" />
+        &lt; D E
+      </Turn>
+      <Turn speaker="spk3" startTime="604.605" endTime="607.989">
+        <Sync time="604.605" />
+        voilà &gt;
+        <Sync time="605.376" />
+        voilà tout à fait et que euh
+      </Turn>
+      <Turn speaker="spk2" startTime="607.989" endTime="608.465">
+        <Sync time="607.989" />
+        et que notre
+        <Sync time="608.332" />
+        &lt; mariage
+      </Turn>
+      <Turn speaker="spk3" startTime="608.465" endTime="608.982">
+        <Sync time="608.465" />
+        donc déjà &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="608.982" endTime="609.457">
+        <Sync time="608.982" />
+        c'était une date batarde
+      </Turn>
+      <Turn speaker="spk3" startTime="609.457" endTime="615.397">
+        <Sync time="609.457" />
+        voila donc euh donc euh ça plus ça il y a un moment où on a eu justement bah des une discussion
+      </Turn>
+      <Turn speaker="spk1" startTime="615.397" endTime="615.99">
+        <Sync time="615.397" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" startTime="615.99" endTime="626.241">
+        <Sync time="615.99" />
+        euh il y a eu beaucoup de choses de méchantes de dites de la part de ma mère
+        <Sync time="620.401" />
+        et bah quand voilà il fallait que je mette les points sur les i entre guillemets quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="626.241" endTime="627.23">
+        <Sync time="626.241" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="627.23" endTime="632.196">
+        <Sync time="627.23" />
+        c'est ce que j'ai fait euh et puis voilà quoi
+        <Event desc="bruit de bébé" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="632.196" endTime="640.481">
+        <Sync time="632.196" />
+        euh peux tu m'expliquer plus en détails ton ressenti pour cet événement euh
+        <Event desc="bruit de bébé" type="noise" extent="instantaneous" />
+        +
+      </Turn>
+      <Turn speaker="spk3" startTime="640.481" endTime="647.975">
+        <Sync time="640.481" />
+        bah plus en détails disons que euh déjà très très déçu que euh mes parents n'aient
+        <Sync time="646.631" />
+        jamais accepté Laetitia
+      </Turn>
+      <Turn speaker="spk1" startTime="647.975" endTime="648.337">
+        <Sync time="647.975" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk3" startTime="648.337" endTime="659.481">
+        <Sync time="648.337" />
+        euh hum le fait que euh
+        <Sync time="653.219" />
+        que j'y j'avais beau faire ce que je voulais et même Laetitia
+        <Sync time="656.216" />
+        de son côté à fait des efforts pour euh aller vers ma mère
+      </Turn>
+      <Turn speaker="spk1" startTime="659.481" endTime="659.767">
+        <Sync time="659.481" />
+        oui
+      </Turn>
+      <Turn speaker="spk3" startTime="659.767" endTime="667.931">
+        <Sync time="659.767" />
+        et que il y a jamais eu de retour
+        <Sync time="661.696" />
+        il y a jamais eu de retour donc au final
+        <Sync time="662.974" />
+        euh en tant que f- en tant ouais parce que j'étais un peu le chouchou hein
+        <Sync time="666.032" />
+        de la de la famille je suis le petit dernier et
+      </Turn>
+      <Turn speaker="spk1" startTime="667.931" endTime="668.771">
+        <Sync time="667.931" />
+        ah oui d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="668.771" endTime="687.421">
+        <Sync time="668.771" />
+        et qu'au final euh qu'au final euh mes parents n'ont jamais fait enfin s-
+        <Sync time="673.6" />
+        enfin je parle vraiment ma mère n'a jamais fait le moindre geste par rapport à ma femme et je pense que + pff
+        <Sync time="681.851" />
+        c'est donc il y a fallu que ouais il a fallu que
+        <Sync time="684.752" />
+        que moi je euh je mette les choses au clair
+      </Turn>
+      <Turn speaker="spk1" startTime="687.421" endTime="696.075">
+        <Sync time="687.421" />
+        d'accord + euh est-ce que est-ce que tu peux me raconter euh l'événement précis euh +
+      </Turn>
+      <Turn speaker="spk2" startTime="696.075" endTime="699.235">
+        <Sync time="696.075" />
+        la discussion je pense avant la à la naissance de Léo oui
+      </Turn>
+      <Turn speaker="spk3" startTime="699.235" endTime="716.752">
+        <Sync time="699.235" />
+        ah oui donc ah bah la naissance de Léo j'ai euh
+        <Sync time="702.718" />
+        j'ai mes parents qui euh bah qui sont venus
+        <Sync time="705.297" />
+        euh un peu avant la naissance
+        <Sync time="707.059" />
+        de mon fils mes parents sont venus et puis au final euh
+        <Sync time="710.307" />
+        <Event desc="bruit de bébé" type="noise" extent="instantaneous" />
+        il y a un sujet qui a été mis sur euh un sujet qui a été mis bah sur la sur la table et puis que
+      </Turn>
+      <Turn speaker="spk2" startTime="716.752" endTime="718.121">
+        <Sync time="716.752" />
+        ton anniversaire
+      </Turn>
+      <Turn speaker="spk3" startTime="718.121" endTime="720.06">
+        <Sync time="718.121" />
+        et puis oui clairement c'était mon anniversaire et
+      </Turn>
+      <Turn speaker="spk1" startTime="720.06" endTime="720.516">
+        <Sync time="720.06" />
+        ah
+        <Sync time="720.343" />
+        &lt; oui d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="720.516" endTime="754.611">
+        <Sync time="720.516" />
+        s- &gt;
+        <Sync time="720.83" />
+        voilà bah bon il y a aussi ma soeur qui a mis son nez là-dedans qui aurait pas dû et
+        <Sync time="728.014" />
+        et bah du coup ouais je pense que voilà un problème de famille tout le monde en a mais
+        <Sync time="732.296" />
+        là ça a pris la proportion euh
+        <Sync time="734.63" />
+        ça été très loin et du coup bah je leur ai dit puisque c'est comme ça bah
+        <Sync time="737.915" />
+        je dis moi j'ai pas de choix à faire c'est ma femme et mes enfants et
+        <Sync time="742.27" />
+        puis bah du coup ça bah ça ça a pété mon père euh mon père est parti euh
+        <Sync time="747.117" />
+        et sur ça du coup peu enfin p- si du temps a passé mais du coup mon père euh
+        <Sync time="752.607" />
+        a voulu absolument qu'on se voit
+        <Sync time="753.904" />
+        &lt; et
+      </Turn>
+      <Turn speaker="spk1" startTime="754.611" endTime="754.858">
+        <Sync time="754.611" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="754.858" endTime="781.212">
+        <Sync time="754.858" />
+        du coup j'ai été le voir et on a eu une bah clairement une conversation
+        <Sync time="758.855" />
+        et et pour lui euh pour lui euh c'est moi qui ai manqué de respect à ma mère
+        <Sync time="763.87" />
+        c'est moi qui c'est moi qui ai tout faux alors que ils ont jamais fait le moindre geste euh
+        <Sync time="770.049" />
+        envers en envers ma femme et quand je vois bah un exemple hein
+        <Sync time="773.895" />
+        mon père m'a toujours dit mes petits enfants c'est très important +
+        <Sync time="777.543" />
+        et bah mon fils va avoir huit mois et il a jamais fait le moindre geste pour euh
+      </Turn>
+      <Turn speaker="spk1" startTime="781.212" endTime="781.441">
+        <Sync time="781.212" />
+        ah oui
+      </Turn>
+      <Turn speaker="spk3" startTime="781.441" endTime="817.01">
+        <Sync time="781.441" />
+        pour essayer de voir ses petits enfants
+        <Sync time="783.57" />
+        donc euh donc voilà c'est euh c'est c'est c'est dur de savoir que bah s- ses propres parents ne
+        <Sync time="791.045" />
+        s- ne font aucun geste pour essayer de voir leurs petits enfants
+        <Sync time="794.078" />
+        ou essayer de re- de renouer enfin de de revenir vers leur leur fils
+        <Sync time="799.05" />
+        et moi je euh moi je enfin voilà c'est euh moi c'est quelque chose que j'ai des enfants et je pense que
+        <Sync time="806.33" />
+        c'est quelque chose que moi je serais je pense suffisamment intelligent
+        <Sync time="810.371" />
+        pour faire un effort pour euh accepter euh accepter par exemple le conjoint
+        <Sync time="816.768" />
+        &lt; conjoint des
+      </Turn>
+      <Turn speaker="spk2" startTime="817.01" endTime="817.546">
+        <Sync time="817.01" />
+        de l'un ou de l'autre &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="817.546" endTime="833.608">
+        <Sync time="817.546" />
+        le conjoint de mes enfants je pense être suffisamment euh
+        <Sync time="821.375" />
+        ouvert d'esprit et intelligent pour euh leur bonheur voilà leur bonheur c'est
+        <Sync time="826.844" />
+        eux ils sont tant qu'ils sont heureux je je pense euh voi- je ferais
+        <Sync time="829.914" />
+        un effort et ce que ce que mes parents ne ne
+      </Turn>
+      <Turn speaker="spk2" startTime="833.608" endTime="834.135">
+        <Sync time="833.608" />
+        n'ont pas su faire
+      </Turn>
+      <Turn speaker="spk3" startTime="834.135" endTime="835.086">
+        <Sync time="834.135" />
+        n'ont pas su faire
+      </Turn>
+      <Turn speaker="spk1" startTime="835.086" endTime="835.434">
+        <Sync time="835.086" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="835.434" endTime="836.037">
+        <Sync time="835.434" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="836.037" endTime="840.939">
+        <Sync time="836.037" />
+        du coup maintenant vous avez plus de contact euh avec vos parents et vot- votre soeur
+      </Turn>
+      <Turn speaker="spk3" startTime="840.939" endTime="841.622">
+        <Sync time="840.939" />
+        à l'heure actuelle non
+      </Turn>
+      <Turn speaker="spk1" startTime="841.622" endTime="841.957">
+        <Sync time="841.622" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="841.957" endTime="843.89">
+        <Sync time="841.957" />
+        je n'ai plus aucun contact du tout
+      </Turn>
+      <Turn speaker="spk1" startTime="843.89" endTime="851.368">
+        <Sync time="843.89" />
+        d'accord et euh si vous auriez
+        <Comment desc="sic" />
+        quelque chose à à changer dans cet événement euh +
+      </Turn>
+      <Turn speaker="spk3" startTime="851.368" endTime="851.984">
+        <Sync time="851.368" />
+        ben si j'avais quelque
+        <Sync time="851.961" />
+        &lt; chose
+      </Turn>
+      <Turn speaker="spk1" startTime="851.984" endTime="852.377">
+        <Sync time="851.984" />
+        de mieux &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="852.377" endTime="866.06">
+        <Sync time="852.377" />
+        à changer c'est que j'aimerais que mes parents justement euh
+        <Sync time="855.278" />
+        soient suffisamment euh intelligents pour euh
+        <Sync time="859.332" />
+        pour euh mon pour mon bonheur clairement pour mon bonheur faire un effort euh par rapport euh à plein de choses
+        <Sync time="864.846" />
+        notamment à ma femme
+      </Turn>
+      <Turn speaker="spk1" startTime="866.06" endTime="866.395">
+        <Sync time="866.06" />
+        oui
+      </Turn>
+      <Turn speaker="spk3" startTime="866.395" endTime="885.828">
+        <Sync time="866.395" />
+        faire un effort et alors que les efforts ont toujours été donnés et faits du d'un seul côté +
+        <Sync time="873.819" />
+        d'un seul côté et et je trouve ça je trouve ça triste et dommage que mes parents euh
+        <Sync time="879.332" />
+        que mes parents ne n'aient pas euh n'aient pas euh fait de de de de geste par rapport à nous quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="885.828" endTime="886.109">
+        <Sync time="885.828" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="886.109" endTime="887.895">
+        <Sync time="886.109" />
+        c'est ça le plus dur voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="887.895" endTime="892.618">
+        <Sync time="887.895" />
+        et du coup vos vos bah votre fille elle demande pas après euh
+        <Sync time="891.492" />
+        &lt; ses grands parents
+      </Turn>
+      <Turn speaker="spk3" startTime="892.618" endTime="900.788">
+        <Sync time="892.618" />
+        bah justement &gt;
+        <Sync time="893.048" />
+        le le la fois où mes parents étaient la dernière fois qu'ils sont venus à la maison
+        <Sync time="896.061" />
+        où ils justement il y a eu ça a monté très haut euh justement ma fille était là
+        <Sync time="900.525" />
+        &lt; et
+      </Turn>
+      <Turn speaker="spk1" startTime="900.788" endTime="902.743">
+        <Sync time="900.788" />
+        ah oui d'accord &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="902.743" endTime="906.94">
+        <Sync time="902.743" />
+        euh et en fait euh elle a eu très peur parce que ça ça criait d'un côté
+        <Sync time="906.776" />
+        &lt; comme
+      </Turn>
+      <Turn speaker="spk1" startTime="906.94" endTime="907.177">
+        <Sync time="906.94" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="907.177" endTime="923.257">
+        <Sync time="907.177" />
+        de l'autre et et pour elle voilà on s'est mamie s'est disputée avec son avec son papa et
+        <Sync time="914.984" />
+        et puis bah des fois ça arrive et puis bah voilà ils m'ont fait pour elle ils m'ont fait mal au coeur
+        <Sync time="919.516" />
+        et bah pour le moment on on se voit plus et c'est malheureux
+        <Sync time="922.901" />
+        &lt; mais
+      </Turn>
+      <Turn speaker="spk1" startTime="923.257" endTime="923.413">
+        <Sync time="923.257" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="923.413" endTime="928.949">
+        <Sync time="923.413" />
+        je n'ai jamais interdit à mes parents de euh de venir voir leurs petits enfants
+        <Sync time="926.304" />
+        et finalement ils sont jamais revenus +
+      </Turn>
+      <Turn speaker="spk1" startTime="928.949" endTime="929.498">
+        <Sync time="928.949" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="929.498" endTime="935.927">
+        <Sync time="929.498" />
+        voilà c'est c'est triste mais bah c'est la +
+        <Sync time="933.747" />
+        c'est la dure réalité quoi voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="935.927" endTime="940.271">
+        <Sync time="935.927" />
+        d'accord bah merci beaucoup pour euh m'avoir raconté cet événement
+        <Sync time="940.022" />
+        &lt; qui vous a touché
+      </Turn>
+      <Turn speaker="spk3" startTime="940.271" endTime="944.038">
+        <Sync time="940.271" />
+        ben euh &gt;
+        <Sync time="940.978" />
+        je te remercie euh à toi voilà voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="944.038" endTime="946.114">
+        <Sync time="944.038" />
+        c'est parti +
+      </Turn>
+      <Turn speaker="spk2" startTime="946.114" endTime="951.574">
+        <Sync time="946.114" />
+        alors maintenant qu'on a répondu à tes questions et toi euh bah et toi c'est quoi ton ton événement marquant
+      </Turn>
+      <Turn speaker="spk1" startTime="951.574" endTime="961.699">
+        <Sync time="951.574" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        alors euh mon événement marquant moi euh c'est l'organisation
+        <Sync time="957.664" />
+        et euh la soirée de de mes dix huit ans qui s'est
+        <Sync time="961.686" />
+        &lt; passée
+      </Turn>
+      <Turn speaker="spk2" startTime="961.699" endTime="963.061">
+        <Sync time="961.699" />
+        donc &gt;
+        <Sync time="962.199" />
+        c'était l'année dernière hein c'est ça
+      </Turn>
+      <Turn speaker="spk1" startTime="963.061" endTime="971.155">
+        <Sync time="963.061" />
+        oui c'est ça le mon anniversaire c'est le vingt-six mais euh
+        <Sync time="967.419" />
+        on l'a fait le vingt-sept décembre euh l'année dernière +
+      </Turn>
+      <Turn speaker="spk2" startTime="971.155" endTime="975.967">
+        <Sync time="971.155" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        d'accord et euh et pourquoi tu choisis cet événement en particulier
+      </Turn>
+      <Turn speaker="spk1" startTime="975.967" endTime="1018.88">
+        <Sync time="975.967" />
+        parce que euh on dit toujours que les dix-huit ans c'est la liberté l'indépendance euh
+        <Sync time="983.445" />
+        quand on a dix-huit ans on peut passer le permis déja +
+        <Sync time="987.586" />
+        on peut voter ce qui est +
+        <Sync time="990.611" />
+        un grand une grande euh
+        <Sync time="993.601" />
+        une grande euh chose on peut sortir euh
+        <Sync time="998.954" />
+        sans se préoccuper des pa- enfin sans se préoccuper euh
+        <Sync time="1002.461" />
+        si les parents pourront venir nous chercher euh
+        <Sync time="1005.175" />
+        quand on a le permis notamment +
+        <Sync time="1007.848" />
+        et voilà et donc euh c'est à
+        <Sync time="1011.16" />
+        d- oui dix-huit c'est un bel âge on va dire ///
+      </Turn>
+      <Turn speaker="spk2" startTime="1018.88" endTime="1029.93">
+        <Sync time="1018.88" />
+        et euh hum et qu'est ce que tu as ressentis de particulier par rapport à
+        <Sync time="1022.429" />
+        d'autres événements euh dans ta vie par euh +
+        <Sync time="1025.942" />
+        celui là en particulier qu'est ce qui a été différent
+        <Sync time="1027.864" />
+        par d'autre par rapport à d'autres événements dans ta vie
+      </Turn>
+      <Turn speaker="spk1" startTime="1029.93" endTime="1030.198">
+        <Sync time="1029.93" />
+        bah
+      </Turn>
+      <Turn speaker="spk2" startTime="1030.198" endTime="1032.572">
+        <Sync time="1030.198" />
+        cette soirée la cette organisation
+      </Turn>
+      <Turn speaker="spk1" startTime="1032.572" endTime="1072.004">
+        <Sync time="1032.572" />
+        bah la soirée des dix-huit ans euh
+        <Sync time="1036.294" />
+        c'est déja une des premières soirées que je faisais euh que j'organisais vraiment
+        <Sync time="1041.493" />
+        et euh avant je faisais toujours mon anniversaire chez moi et la de le faire avec toute ma fa-
+        <Sync time="1046.129" />
+        enfin pas toute ma si toute ma famille et et mes amis euh
+        <Sync time="1051.098" />
+        c'était vraiment beau et euh +
+        <Sync time="1055.62" />
+        grâce à cette soirée euh j'ai pu me rapprocher euh +
+        <Sync time="1060.522" />
+        j'ai pu me rapprocher de de certains membres de ma famille que je cotoyais
+        <Sync time="1066.5" />
+        je cotoyais mais pas souvent et donc du coup ça m'a rapproché euh ça m'a rapproché d'eux
+      </Turn>
+      <Turn speaker="spk2" startTime="1072.004" endTime="1076.201">
+        <Sync time="1072.004" />
+        comment ça t'a rapproché enfin qu'est ce qu'il s'est passé pourquoi ça t'a rapproché
+      </Turn>
+      <Turn speaker="spk1" startTime="1076.201" endTime="1118.214">
+        <Sync time="1076.201" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        bah notamment avec ma cousine ma cousine euh qui a vingt-cinq ans
+        <Sync time="1081.446" />
+        donc qui est plus agée que moi et donc euh
+        <Sync time="1085.308" />
+        elle fait partie d- elle faisait partie de ma famille mais euh +
+        <Sync time="1089.432" />
+        elle était plus grande que moi du coup on avait pas vraiment de relation
+        <Sync time="1092.92" />
+        et euh quand je lui ai parlé de cette euh de ma soirée d'anniversaire elle m'a tout de suite euh +
+        <Sync time="1101.151" />
+        proposé de euh de faire mon organisatrice
+        <Sync time="1105.004" />
+        et du coup bah on a tout organisé ensemble euh +
+        <Sync time="1109.214" />
+        on a fait des photos ensemble pour euh
+        <Sync time="1113.092" />
+        mon anniversaire pour mes des affiches de film
+        <Sync time="1117.036" />
+        &lt; pour mettre
+      </Turn>
+      <Turn speaker="spk2" startTime="1118.214" endTime="1119.415">
+        <Sync time="1118.214" />
+        il &gt;
+        <Sync time="1118.439" />
+        y avait quoi comme film
+      </Turn>
+      <Turn speaker="spk1" startTime="1119.415" endTime="1149.185">
+        <Sync time="1119.415" />
+        hum il y avait Blanche neige euh les Bronzés
+        <Sync time="1124.527" />
+        Chucky + euh la Petite sirène +
+        <Sync time="1132.331" />
+        Wonder woman et plein d'autres je m'en rappelle plus trop
+        <Sync time="1137.121" />
+        et donc euh du coup euh je j'ai passé deux jours avec elle à faire toutes ces photos euh
+        <Sync time="1142.732" />
+        c'était des bons moments on a bien pu rigoler euh
+        <Sync time="1146.056" />
+        puis de se déguiser c'est toujours euh rigolo
+      </Turn>
+      <Turn speaker="spk2" startTime="1149.185" endTime="1149.777">
+        <Sync time="1149.185" />
+        amusant
+      </Turn>
+      <Turn speaker="spk1" startTime="1149.777" endTime="1154.344">
+        <Sync time="1149.777" />
+        oui c'est toujours amusant pour quelqu'un de se rigoler
+      </Turn>
+      <Turn speaker="spk2" startTime="1154.344" endTime="1162.036">
+        <Sync time="1154.344" />
+        et euh est-ce que tu peux me raconter plus en détails euh +
+        <Sync time="1158.233" />
+        bah de tout ce qui s'est passé pendant cet événement marquant
+      </Turn>
+      <Turn speaker="spk1" startTime="1162.036" endTime="1213.382">
+        <Sync time="1162.036" />
+        bah déja euh comme je l'ai dit avant euh on a commencé l'organisation euh
+        <Sync time="1167.942" />
+        très tôt pour euh être sûr d'avoir fini on a fait les photos
+        <Sync time="1172.565" />
+        après on a fait euh la décoration de la salle euh
+        <Sync time="1176.804" />
+        les portes noms euh des mar- des euh
+        <Sync time="1180.178" />
+        des portes bougies
+        <Sync time="1182.086" />
+        et du coup ça nous a pris beaucoup de temps avec ma cousine +
+        <Sync time="1186.703" />
+        et euh après euh le jour J euh +
+        <Sync time="1189.636" />
+        enfin il y eu quelques jours avant on a commencé à
+        <Sync time="1193.703" />
+        à faire à manger avec ma mère euh ma soeur et mon frère parce qu'on a tout fait nous-mêmes on a pas voulu euh
+        <Sync time="1199.574" />
+        prendre de traiteur euh +
+        <Sync time="1202.435" />
+        et euh donc on a tout fait nous-mêmes et on a dû préparer beaucoup de choses a l'avance
+        <Sync time="1208.652" />
+        et euh +
+        <Sync time="1211.566" />
+        et donc euh voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="1213.382" endTime="1216.128">
+        <Sync time="1213.382" />
+        tu peux me raconter le déroulement de la soirée
+      </Turn>
+      <Turn speaker="spk1" startTime="1216.128" endTime="1275.152">
+        <Sync time="1216.128" />
+        alors le déroulement de la soirée bah d'abord euh
+        <Sync time="1219.539" />
+        tous les invités sont arrivés euh
+        <Sync time="1221.588" />
+        avant moi je suis arrivée la dernière euh +
+        <Sync time="1225.374" />
+        je suis arrivée la dernière dans une voiture euh un peu qui fait star
+        <Sync time="1230.745" />
+        et donc euh je suis arrivée tout le monde était là à m'accueillir euh au pied du tapis rouge +
+        <Sync time="1237.714" />
+        après euh hum j'ai eu une surprise de ma cousine euh
+        <Sync time="1243.276" />
+        elle avait acheté des pelicules pour mettre dans son Polaroid et on a fait des séances photos avec tout le monde euh donc
+        <Sync time="1248.384" />
+        du coup j'ai les photos souvenir euh de mon anniversaire de euh
+        <Sync time="1252.482" />
+        ils sont accrochés dans un cadre donc c'est touchant
+        <Sync time="1256.88" />
+        et puis après euh on a profité de la soirée et avec euh j'avais un D.J. euh +
+        <Sync time="1264.722" />
+        c'était bien euh tout le monde a dansé on a fait des jeux euh
+        <Sync time="1270.18" />
+        et tout tout le monde euh a bien apprécié cette soirée
+      </Turn>
+      <Turn speaker="spk2" startTime="1275.152" endTime="1283.476">
+        <Sync time="1275.152" />
+        ah super et si ça serait
+        <Comment desc="sic" />
+        à refaire tu aurais euh
+        <Sync time="1279.148" />
+        tu aurais envie de changer quelque chose tu modifierais quelque chose tu aurais un autre comportement tu
+      </Turn>
+      <Turn speaker="spk1" startTime="1283.476" endTime="1309.769">
+        <Sync time="1283.476" />
+        si j'avais quelque chose à refaire c'est se serait juste de profiter plus euh des gens euh
+        <Sync time="1289.126" />
+        des gens qui nous entourent parce que euh +
+        <Sync time="1292.264" />
+        ils sont pas éternels et du coup bah il faut profiter des gens et euh
+        <Sync time="1296.407" />
+        pendant cette soirée j'ai pas assez profité euh de tous les membres de ma famille ou de mes amis parce que
+        <Sync time="1302.36" />
+        on était tous à une table différente et du coup c'est dur de profiter de tout le monde euh en une soirée
+        <Sync time="1307.112" />
+        mais sinon euh c'était un beau jour
+        <Sync time="1308.761" />
+        &lt; un beau jour
+      </Turn>
+      <Turn speaker="spk2" startTime="1309.769" endTime="1310.583">
+        <Sync time="1309.769" />
+        tu changerais &gt;
+        <Sync time="1310.157" />
+        rien
+      </Turn>
+      <Turn speaker="spk1" startTime="1310.583" endTime="1313.283">
+        <Sync time="1310.583" />
+        non + voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="1313.283" endTime="1314.913">
+        <Sync time="1313.283" />
+        ah bah c'est super
+      </Turn>
+      <Turn speaker="spk1" startTime="1314.913" endTime="1327.257">
+        <Sync time="1314.913" />
+        voilà voilà bah merci euh pour vos témoignages et euh je vous tiendrai
+        <Sync time="1321.425" />
+        au courant euh du résultat du du résultat de cette étude
+      </Turn>
+      <Turn speaker="spk2" startTime="1327.257" endTime="1328.975">
+        <Sync time="1327.257" />
+        et ben merci à toi
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

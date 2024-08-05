@@ -1,0 +1,2198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Elise" audio_filename="cnrs_mar_08.wav" version="22" version_date="110329">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk4" name="L4" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk5" name="L5" check="no" type="female" dialect="nonnative" accent="" scope="local" />
+    <Speaker id="spk6" name="L6" check="no" type="male" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="911.124">
+      <Turn speaker="spk1" startTime="0.0" endTime="1.135">
+        <Sync time="0.0" />
+        tu as pas le fichier &lt; finalement
+      </Turn>
+      <Turn speaker="spk2" startTime="1.135" endTime="4.522">
+        <Sync time="1.135" />
+        je voulais &gt; le faire dans ce sens-là moi et j'ai plus de mal de le faire comme toi
+      </Turn>
+      <Turn speaker="spk3" startTime="4.522" endTime="5.482">
+        <Sync time="4.522" />
+        une entité
+      </Turn>
+      <Turn speaker="spk4" startTime="5.482" endTime="7.343">
+        <Sync time="5.482" />
+        ah oui tu t'en sortiras &lt; mieux /dans le sens là,***/
+      </Turn>
+      <Turn speaker="spk3" startTime="7.343" endTime="8.058">
+        <Sync time="7.343" />
+        responsable
+      </Turn>
+      <Turn speaker="spk2" startTime="8.058" endTime="9.954">
+        <Sync time="8.058" />
+        oui oui oui oui &gt; je voulais le &lt; faire dans le sens-là
+      </Turn>
+      <Turn speaker="spk3" startTime="9.954" endTime="12.777">
+        <Sync time="9.954" />
+        responsable &gt; du contenu de la ressource le créateur
+      </Turn>
+      <Turn speaker="spk4" startTime="12.777" endTime="14.313">
+        <Sync time="12.777" />
+        donc c'est bien
+      </Turn>
+      <Turn speaker="spk5" startTime="14.313" endTime="14.975">
+        <Sync time="14.313" />
+        ah oui
+      </Turn>
+      <Turn speaker="spk4" startTime="14.975" endTime="17.723">
+        <Sync time="14.975" />
+        ouais respons- responsable du contenu de &lt; la ressource
+      </Turn>
+      <Turn speaker="spk3" startTime="17.723" endTime="19.7">
+        <Sync time="17.723" />
+        ouais de la &gt; fabrication on va dire du contenu de la ressource
+      </Turn>
+      <Turn speaker="spk4" startTime="19.7" endTime="20.892">
+        <Sync time="19.7" />
+        moi je le dis
+      </Turn>
+      <Turn speaker="spk3" startTime="20.892" endTime="22.539">
+        <Sync time="20.892" />
+        on va dire ça veut dire globalement ça
+      </Turn>
+      <Turn speaker="spk4" startTime="22.539" endTime="26.679">
+        <Sync time="22.539" />
+        +
+        <Comment desc="cherche dans ses documents" />
+        fichier non
+      </Turn>
+      <Turn speaker="spk3" startTime="26.679" endTime="27.24">
+        <Sync time="26.679" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="27.24" endTime="27.722">
+        <Sync time="27.24" />
+        ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="27.722" endTime="28.748">
+        <Sync time="27.722" />
+        ouais ouais il y a pas de souci
+      </Turn>
+      <Turn speaker="spk2" startTime="28.748" endTime="30.154">
+        <Sync time="28.748" />
+        creator
+        <Event desc="anglais" type="language" extent="previous" />
+        c'est
+      </Turn>
+      <Turn speaker="spk4" startTime="30.154" endTime="31.323">
+        <Sync time="30.154" />
+        responsable du corpus
+      </Turn>
+      <Turn speaker="spk3" startTime="31.323" endTime="31.469">
+        <Sync time="31.323" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="31.469" endTime="32.781">
+        <Sync time="31.469" />
+        donc
+      </Turn>
+      <Turn speaker="spk4" startTime="32.781" endTime="34.269">
+        <Sync time="32.781" />
+        date
+      </Turn>
+      <Turn speaker="spk3" startTime="34.269" endTime="36.899">
+        <Sync time="34.269" />
+        + ben il y a date de l'enregistrement
+      </Turn>
+      <Turn speaker="spk5" startTime="36.899" endTime="37.476">
+        <Sync time="36.899" />
+        hum
+      </Turn>
+      <Turn speaker="spk4" startTime="37.476" endTime="38.522">
+        <Sync time="37.476" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="38.522" endTime="39.43">
+        <Sync time="38.522" />
+        ouais
+      </Turn>
+      <Turn speaker="spk4" startTime="39.43" endTime="40.626">
+        <Sync time="39.43" />
+        on n'a que ça comme date nous hein
+      </Turn>
+      <Turn speaker="spk3" startTime="40.626" endTime="43.35">
+        <Sync time="40.626" />
+        non il y a les dates de naissance et caetera mais il faut voir si on les met là ou pas
+      </Turn>
+      <Turn speaker="spk4" startTime="43.35" endTime="44.419">
+        <Sync time="43.35" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" startTime="44.419" endTime="44.56">
+        <Sync time="44.419" />
+        &lt; non
+      </Turn>
+      <Turn speaker="spk1" startTime="44.56" endTime="44.75">
+        <Sync time="44.56" />
+        non &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="44.75" endTime="45.059">
+        <Sync time="44.75" />
+        à priori &lt; non
+      </Turn>
+      <Turn speaker="spk1" startTime="45.059" endTime="46.747">
+        <Sync time="45.059" />
+        moi &gt; je pense que c'est date du corpus un peu hein
+      </Turn>
+      <Turn speaker="spk4" startTime="46.747" endTime="47.959">
+        <Sync time="46.747" />
+        date de &lt; l'enregistrement
+      </Turn>
+      <Turn speaker="spk1" startTime="47.959" endTime="49.831">
+        <Sync time="47.959" />
+        par contre &gt; il y a date des révisions et tout ça non
+      </Turn>
+      <Turn speaker="spk5" startTime="49.831" endTime="50.451">
+        <Sync time="49.831" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk4" startTime="50.451" endTime="51.832">
+        <Sync time="50.451" />
+        on (n') a pas nous ça
+      </Turn>
+      <Turn speaker="spk2" startTime="51.832" endTime="52.243">
+        <Sync time="51.832" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="52.243" endTime="52.986">
+        <Sync time="52.243" />
+        on (n') a pas ça
+      </Turn>
+      <Turn speaker="spk2" startTime="52.986" endTime="53.408">
+        <Sync time="52.986" />
+        non
+      </Turn>
+      <Turn speaker="spk3" startTime="53.408" endTime="53.768">
+        <Sync time="53.408" />
+        vous êtes sûres
+      </Turn>
+      <Turn speaker="spk2" startTime="53.768" endTime="55.877">
+        <Sync time="53.768" />
+        on a les noms des réviseurs mais on (n') a pas les dates
+      </Turn>
+      <Turn speaker="spk1" startTime="55.877" endTime="56.614">
+        <Sync time="55.877" />
+        bon d'accord
+      </Turn>
+      <Turn speaker="spk4" startTime="56.614" endTime="63.045">
+        <Sync time="56.614" />
+        hum + mais on pourrait aussi avoir euh par la suite date des annotations par exemple comme c'est le cas dans OLAC
+        <Comment desc="sigle=Open Language  Archive Community" />
+      </Turn>
+      <Turn speaker="spk1" startTime="63.045" endTime="65.051">
+        <Sync time="63.045" />
+        ben je sais pas
+      </Turn>
+      <Turn speaker="spk4" startTime="65.051" endTime="65.685">
+        <Sync time="65.051" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="65.685" endTime="66.935">
+        <Sync time="65.685" />
+        bon enfin en tout cas pour l'instant
+      </Turn>
+      <Turn speaker="spk4" startTime="66.935" endTime="67.882">
+        <Sync time="66.935" />
+        on a &lt; juste
+      </Turn>
+      <Turn speaker="spk1" startTime="67.882" endTime="68.208">
+        <Sync time="67.882" />
+        voilà &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="68.208" endTime="69.206">
+        <Sync time="68.208" />
+        date de l'enregistrement
+      </Turn>
+      <Turn speaker="spk1" startTime="69.206" endTime="73.834">
+        <Sync time="69.206" />
+        O.K. alors description description
+        <Comment desc="cherche dans ses documents" />
+      </Turn>
+      <Turn speaker="spk3" startTime="73.834" endTime="76.057">
+        <Sync time="73.834" />
+        moi j'imagine que c'est le texte libre ça description
+      </Turn>
+      <Turn speaker="spk5" startTime="76.057" endTime="78.435">
+        <Sync time="76.057" />
+        description oui description
+      </Turn>
+      <Turn speaker="spk1" startTime="78.435" endTime="79.852">
+        <Sync time="78.435" />
+        donc ce serait commentaire divers chez nous
+      </Turn>
+      <Turn speaker="spk4" startTime="79.852" endTime="81.446">
+        <Sync time="79.852" />
+        description
+      </Turn>
+      <Turn speaker="spk1" startTime="81.446" endTime="82.265">
+        <Sync time="81.446" />
+        &lt; par exemple
+      </Turn>
+      <Turn speaker="spk3" startTime="82.265" endTime="83.391">
+        <Sync time="82.265" />
+        euh &gt; description euh
+      </Turn>
+      <Turn speaker="spk5" startTime="83.391" endTime="83.945">
+        <Sync time="83.391" />
+        oui voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="83.945" endTime="87.952">
+        <Sync time="83.945" />
+        ah non on a description détaillée du lieu nous alors attends
+        <Event desc="L2 baille" type="noise" extent="instantaneous" />
+        je vais reprendre dans l'ordre
+      </Turn>
+      <Turn speaker="spk3" startTime="87.952" endTime="90.052">
+        <Sync time="87.952" />
+        là c'est le contenu de la ressource
+      </Turn>
+      <Turn speaker="spk2" startTime="90.052" endTime="91.161">
+        <Sync time="90.052" />
+        oui c'est ça
+      </Turn>
+      <Turn speaker="spk5" startTime="91.161" endTime="93.995">
+        <Sync time="91.161" />
+        c'est un texte un texte sur la ressource
+      </Turn>
+      <Turn speaker="spk4" startTime="93.995" endTime="95.799">
+        <Sync time="93.995" />
+        c'est quoi c'est celui qui est en rouge ou c'est celui qui est en bleu
+      </Turn>
+      <Turn speaker="spk5" startTime="95.799" endTime="97.053">
+        <Sync time="95.799" />
+        non c'est celui là là
+      </Turn>
+      <Turn speaker="spk2" startTime="97.053" endTime="97.645">
+        <Sync time="97.053" />
+        ah d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="97.645" endTime="98.618">
+        <Sync time="97.645" />
+        ouais c'est commentaire &lt; sur description ***
+      </Turn>
+      <Turn speaker="spk1" startTime="98.618" endTime="101.349">
+        <Sync time="98.618" />
+        en fait &gt; on on a des notes pour plein de trucs hein
+      </Turn>
+      <Turn speaker="spk3" startTime="101.349" endTime="101.658">
+        <Sync time="101.349" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="101.658" endTime="105.161">
+        <Sync time="101.658" />
+        on a note(s) sur l'enregistrement + euh
+      </Turn>
+      <Turn speaker="spk5" startTime="105.161" endTime="107.422">
+        <Sync time="105.161" />
+        donc tu l'as validée &lt; ***
+      </Turn>
+      <Turn speaker="spk1" startTime="107.422" endTime="118.979">
+        <Sync time="107.422" />
+        note(s) sur &gt; la version des conventions de transcription note(s) sur la validité juridique au sens peut-être on s'en fout
+        <Sync time="113.221" />
+        note(s) sur l'anonymisation description détaillée du lieu cadre situationnel
+        <Comment desc="lit sur son document" />
+      </Turn>
+      <Turn speaker="spk3" startTime="118.979" endTime="119.698">
+        <Sync time="118.979" />
+        ¤T1¤
+      </Turn>
+      <Turn speaker="spk1" startTime="119.698" endTime="121.072">
+        <Sync time="119.698" />
+        situation d'énonciation
+      </Turn>
+      <Turn speaker="spk3" startTime="121.072" endTime="121.751">
+        <Sync time="121.072" />
+        c'est pareil
+      </Turn>
+      <Turn speaker="spk1" startTime="121.751" endTime="123.041">
+        <Sync time="121.751" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk5" startTime="123.041" endTime="125.799">
+        <Sync time="123.041" />
+        c'est pas note(s) sur l'enregistrement le lieu &lt; ***
+      </Turn>
+      <Turn speaker="spk1" startTime="125.799" endTime="128.066">
+        <Sync time="125.799" />
+        et commentaires &gt; divers
+      </Turn>
+      <Turn speaker="spk5" startTime="128.066" endTime="129.573">
+        <Sync time="128.066" />
+        ah non peut-être pas
+      </Turn>
+      <Turn speaker="spk2" startTime="129.573" endTime="134.219">
+        <Sync time="129.573" />
+        c'est c'est c'est vague c'est c'est sur le contenu de la ressource &lt; c'est tout
+      </Turn>
+      <Turn speaker="spk4" startTime="134.219" endTime="134.384">
+        <Sync time="134.219" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="134.384" endTime="138.515">
+        <Sync time="134.384" />
+        hum mais on (n') a pas un champ spécifique pour ça + il faudrait &lt; qu'on ait un champ
+        <Event desc="bruit indéterminé" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="138.515" endTime="140.203">
+        <Sync time="138.515" />
+        en fait &gt; il faudrait *** un résumé &lt; de la chose
+      </Turn>
+      <Turn speaker="spk3" startTime="140.203" endTime="140.536">
+        <Sync time="140.203" />
+        ouais un résumé ouais &gt;
+      </Turn>
+      <Turn speaker="spk5" startTime="140.536" endTime="141.193">
+        <Sync time="140.536" />
+        voilà
+      </Turn>
+      <Turn speaker="spk3" startTime="141.193" endTime="141.709">
+        <Sync time="141.193" />
+        &lt; ***
+      </Turn>
+      <Turn speaker="spk1" startTime="141.709" endTime="143.405">
+        <Sync time="141.709" />
+        /justement,***/ &gt; pourquoi tu veux qu'on rajoute un champ
+      </Turn>
+      <Turn speaker="spk3" startTime="143.405" endTime="149.546">
+        <Sync time="143.405" />
+        parce que ça peut être utile d'avoir un un résumé de du contenu + de l'an- de la de la de &lt; l'enregistrement
+      </Turn>
+      <Turn speaker="spk1" startTime="149.546" endTime="150.227">
+        <Sync time="149.546" />
+        mais &gt; on l'a pas &lt; quelque part ça
+      </Turn>
+      <Turn speaker="spk2" startTime="150.227" endTime="150.577">
+        <Sync time="150.227" />
+        mais si on a ça
+      </Turn>
+      <Turn speaker="spk4" startTime="150.577" endTime="151.095">
+        <Sync time="150.577" />
+        mais si on a ça &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="151.095" endTime="151.383">
+        <Sync time="151.095" />
+        &lt; ça dépend
+      </Turn>
+      <Turn speaker="spk3" startTime="151.383" endTime="151.507">
+        <Sync time="151.383" />
+        ben c'est quoi
+      </Turn>
+      <Turn speaker="spk4" startTime="151.507" endTime="152.37">
+        <Sync time="151.507" />
+        ce &gt; que tu appelles par contenu
+      </Turn>
+      <Turn speaker="spk1" startTime="152.37" endTime="153.17">
+        <Sync time="152.37" />
+        oui &lt; qu'est-ce que tu entends
+      </Turn>
+      <Turn speaker="spk4" startTime="153.17" endTime="153.562">
+        <Sync time="153.17" />
+        ce que tu appelles &gt; ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="153.562" endTime="154.543">
+        <Sync time="153.562" />
+        mais non un résumé de
+      </Turn>
+      <Turn speaker="spk1" startTime="154.543" endTime="157.459">
+        <Sync time="154.543" />
+        bah si il y a thème il y a thème du corpus
+      </Turn>
+      <Turn speaker="spk3" startTime="157.459" endTime="158.645">
+        <Sync time="157.459" />
+        il y a thème abordé résumé ouais
+        <Event desc="conversation en parallèle" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="158.645" endTime="159.581">
+        <Sync time="158.645" />
+        thème abordé résumé
+      </Turn>
+      <Turn speaker="spk3" startTime="159.581" endTime="160.195">
+        <Sync time="159.581" />
+        &lt; ouais ben voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="160.195" endTime="160.525">
+        <Sync time="160.195" />
+        c'est pas mal ça
+      </Turn>
+      <Turn speaker="spk5" startTime="160.525" endTime="161.548">
+        <Sync time="160.525" />
+        c'est ça &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="161.548" endTime="161.858">
+        <Sync time="161.548" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="161.858" endTime="162.62">
+        <Sync time="161.858" />
+        allez vas-y
+      </Turn>
+      <Turn speaker="spk2" startTime="162.62" endTime="163.648">
+        <Sync time="162.62" />
+        c'est celui-à tu crois que c'est ça
+      </Turn>
+      <Turn speaker="spk5" startTime="163.648" endTime="163.995">
+        <Sync time="163.648" />
+        oui sûr
+      </Turn>
+      <Turn speaker="spk2" startTime="163.995" endTime="165.249">
+        <Sync time="163.995" />
+        ah ouais
+      </Turn>
+      <Turn speaker="spk5" startTime="165.249" endTime="168.068">
+        <Sync time="165.249" />
+        sûr c'est un résumé de &lt; du succint du
+      </Turn>
+      <Turn speaker="spk4" startTime="168.068" endTime="168.539">
+        <Sync time="168.068" />
+        du contenu &gt;
+      </Turn>
+      <Turn speaker="spk5" startTime="168.539" endTime="168.909">
+        <Sync time="168.539" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="168.909" endTime="170.654">
+        <Sync time="168.909" />
+        ah d'accord donc ça c'est le
+      </Turn>
+      <Turn speaker="spk1" startTime="170.654" endTime="171.338">
+        <Sync time="170.654" />
+        O.K.
+      </Turn>
+      <Turn speaker="spk2" startTime="171.338" endTime="171.992">
+        <Sync time="171.338" />
+        description
+      </Turn>
+      <Turn speaker="spk1" startTime="171.992" endTime="172.588">
+        <Sync time="171.992" />
+        c'est euh
+      </Turn>
+      <Turn speaker="spk3" startTime="172.588" endTime="172.816">
+        <Sync time="172.588" />
+        &lt; description
+      </Turn>
+      <Turn speaker="spk1" startTime="172.816" endTime="173.637">
+        <Sync time="172.816" />
+        description &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="173.637" endTime="174.153">
+        <Sync time="173.637" />
+        O.K.
+      </Turn>
+      <Turn speaker="spk4" startTime="174.153" endTime="174.935">
+        <Sync time="174.153" />
+        format
+      </Turn>
+      <Turn speaker="spk1" startTime="174.935" endTime="176.444">
+        <Sync time="174.935" />
+        alors
+      </Turn>
+      <Turn speaker="spk6" startTime="176.444" endTime="177.441">
+        <Sync time="176.444" />
+        ***
+      </Turn>
+      <Turn speaker="spk2" startTime="177.441" endTime="178.705">
+        <Sync time="177.441" />
+        mais euh
+      </Turn>
+      <Turn speaker="spk1" startTime="178.705" endTime="180.956">
+        <Sync time="178.705" />
+        alors c'est c'est quoi C.P.U.
+        <Comment desc="sigle=Central Processing Unit" />
+        c'est la taille
+        <Event desc="conversation annexe L2-L4" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="180.956" endTime="188.398">
+        <Sync time="180.956" />
+        non c'est la + c'est le + c'est le C.P.U. le + utilisé &lt; c'est la
+      </Turn>
+      <Turn speaker="spk1" startTime="188.398" endTime="189.616">
+        <Sync time="188.398" />
+        donc &gt; c'est la taille du corpus c'est ça
+      </Turn>
+      <Turn speaker="spk5" startTime="189.616" endTime="190.676">
+        <Sync time="189.616" />
+        non non non &lt; c'est
+      </Turn>
+      <Turn speaker="spk3" startTime="190.676" endTime="191.307">
+        <Sync time="190.676" />
+        C.P.U. &gt; c'est pas le
+      </Turn>
+      <Turn speaker="spk5" startTime="191.307" endTime="194.539">
+        <Sync time="191.307" />
+        c'est la- pff on est pour la mémoire
+      </Turn>
+      <Turn speaker="spk3" startTime="194.539" endTime="195.137">
+        <Sync time="194.539" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk5" startTime="195.137" endTime="196.613">
+        <Sync time="195.137" />
+        ordinateur &gt; utilisé pour euh
+      </Turn>
+      <Turn speaker="spk3" startTime="196.613" endTime="197.54">
+        <Sync time="196.613" />
+        C.P.U. c'est le &lt; processeur
+      </Turn>
+      <Turn speaker="spk5" startTime="197.54" endTime="198.337">
+        <Sync time="197.54" />
+        travailler &gt; ta ressource
+      </Turn>
+      <Turn speaker="spk1" startTime="198.337" endTime="199.98">
+        <Sync time="198.337" />
+        oui c'est tant de megaoctets c'est ça
+      </Turn>
+      <Turn speaker="spk3" startTime="199.98" endTime="201.215">
+        <Sync time="199.98" />
+        non c'est microprocesseur C.P.U
+      </Turn>
+      <Turn speaker="spk5" startTime="201.215" endTime="202.173">
+        <Sync time="201.215" />
+        voilà c'est-à-dire
+      </Turn>
+      <Turn speaker="spk3" startTime="202.173" endTime="204.988">
+        <Sync time="202.173" />
+        c'est quel ordinateur tu as utilisé quoi en gros + je pense
+      </Turn>
+      <Turn speaker="spk5" startTime="204.988" endTime="206.581">
+        <Sync time="204.988" />
+        /parce que là c'est, alors ça c'est,***/
+      </Turn>
+      <Turn speaker="spk1" startTime="206.581" endTime="207.85">
+        <Sync time="206.581" />
+        non &lt; tu dois utiliser
+      </Turn>
+      <Turn speaker="spk5" startTime="207.85" endTime="212.385">
+        <Sync time="207.85" />
+        c'est quel &gt; ordinateur tu dois utiliser pour travailler avec ces ressources cette ressource
+        <Event desc="conversation annexe" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="212.385" endTime="212.751">
+        <Sync time="212.385" />
+        &lt; * /ça c'est certain ouais,***/
+      </Turn>
+      <Turn speaker="spk5" startTime="212.751" endTime="214.86">
+        <Sync time="212.751" />
+        si tu as besoin de *** machine ***
+      </Turn>
+      <Turn speaker="spk1" startTime="214.86" endTime="215.134">
+        <Sync time="214.86" />
+        *** ça on (n') a pas ça
+      </Turn>
+      <Turn speaker="spk3" startTime="215.134" endTime="215.554">
+        <Sync time="215.134" />
+        *** ça on (n') a pas ça /ouais,***/
+      </Turn>
+      <Turn speaker="spk2" startTime="215.554" endTime="217.066">
+        <Sync time="215.554" />
+        ça c'est sûr &gt; qu'on (n') a pas nous hein
+      </Turn>
+      <Turn speaker="spk5" startTime="217.066" endTime="218.773">
+        <Sync time="217.066" />
+        c'est ce que j'allais dire /toutes,tout/ ces choses- &lt; là c'était ***
+      </Turn>
+      <Turn speaker="spk2" startTime="218.773" endTime="219.082">
+        <Sync time="218.773" />
+        voilà &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="219.082" endTime="219.495">
+        <Sync time="219.082" />
+        encoding
+        <Event desc="anglais" type="language" extent="previous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="219.495" endTime="223.979">
+        <Sync time="219.495" />
+        à part le l'encoding ou le le makap là mak-
+      </Turn>
+      <Turn speaker="spk1" startTime="223.979" endTime="225.102">
+        <Sync time="223.979" />
+        markup
+        <Event desc="anglais" type="language" extent="previous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="225.102" endTime="225.607">
+        <Sync time="225.102" />
+        voilà markup
+      </Turn>
+      <Turn speaker="spk3" startTime="225.607" endTime="229.833">
+        <Sync time="225.607" />
+        format encoding il faut qu'on le rajoute + ou on l'a pas encore + &lt; encodage
+      </Turn>
+      <Turn speaker="spk5" startTime="229.833" endTime="230.692">
+        <Sync time="229.833" />
+        mais est-ce que c'est &gt; nécessaire
+      </Turn>
+      <Turn speaker="spk3" startTime="230.692" endTime="232.908">
+        <Sync time="230.692" />
+        oui et U.T.F. huit
+        <Comment desc="sigle=UCS Transformation Format 8 bits" />
+        et caetera je pense qu'il faudra le &lt; rajouter
+      </Turn>
+      <Turn speaker="spk1" startTime="232.908" endTime="233.198">
+        <Sync time="232.908" />
+        ouais ouais
+      </Turn>
+      <Turn speaker="spk5" startTime="233.198" endTime="233.691">
+        <Sync time="233.198" />
+        ah d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="233.691" endTime="234.231">
+        <Sync time="233.691" />
+        ça c'est sûr qu'on en aura besoin
+      </Turn>
+      <Turn speaker="spk3" startTime="234.231" endTime="235.011">
+        <Sync time="234.231" />
+        mais celui-là on l'a pas encore &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="235.011" endTime="235.703">
+        <Sync time="235.011" />
+        ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="235.703" endTime="236.834">
+        <Sync time="235.703" />
+        il faut qu'on rajoute un champ
+      </Turn>
+      <Turn speaker="spk1" startTime="236.834" endTime="239.123">
+        <Sync time="236.834" />
+        on le met dans transcription +
+        <Event desc="conversation annexe L4-L6" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="239.123" endTime="244.784">
+        <Sync time="239.123" />
+        de quoi + eh ben attends encodage on l'a pas
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="244.784" endTime="247.657">
+        <Sync time="244.784" />
+        on on le met dans euh dans transcription
+      </Turn>
+      <Turn speaker="spk3" startTime="247.657" endTime="248.685">
+        <Sync time="247.657" />
+        &lt; mais /attends,***/
+      </Turn>
+      <Turn speaker="spk1" startTime="248.685" endTime="249.877">
+        <Sync time="248.685" />
+        l'encodage &gt;
+        <Event desc="bruit de froissement de feuilles" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="249.877" endTime="251.683">
+        <Sync time="249.877" />
+        c'est où ça
+      </Turn>
+      <Turn speaker="spk1" startTime="251.683" endTime="252.174">
+        <Sync time="251.683" />
+        là
+      </Turn>
+      <Turn speaker="spk4" startTime="252.174" endTime="253.487">
+        <Sync time="252.174" />
+        quand est-ce qu'on pourra mettre T.E.I.
+        <Comment desc="sigle=Texte Encoding Initiative" />
+      </Turn>
+      <Turn speaker="spk3" startTime="253.487" endTime="255.237">
+        <Sync time="253.487" />
+        format de la transcription
+      </Turn>
+      <Turn speaker="spk4" startTime="255.237" endTime="255.987">
+        <Sync time="255.237" />
+        hein ¤P1¤
+      </Turn>
+      <Turn speaker="spk3" startTime="255.987" endTime="258.839">
+        <Sync time="255.987" />
+        et votre format de la transcription c'est T.R.S.
+        <Event desc="format du logiciel Transcriber" type="lexical" extent="previous" />
+        et caetera
+      </Turn>
+      <Turn speaker="spk1" startTime="258.839" endTime="266.08">
+        <Sync time="258.839" />
+        <Event desc="conversation L5-L4-L2" type="noise" extent="next" />
+        oui mais dans le format tu peux avoir T.R.S. et puis non mais rajoutez un champ euh encodage
+      </Turn>
+      <Turn speaker="spk3" startTime="266.08" endTime="267.696">
+        <Sync time="266.08" />
+        oui moi je pensais rajouter &lt; un champ encodage
+      </Turn>
+      <Turn speaker="spk1" startTime="267.696" endTime="269.504">
+        <Sync time="267.696" />
+        non mais &gt; dans ce coin-là
+        <Event desc="L2 tousse" type="noise" extent="instantaneous" />
+        quoi je veux dire
+      </Turn>
+      <Turn speaker="spk3" startTime="269.504" endTime="270.142">
+        <Sync time="269.504" />
+        oui tout à fait
+      </Turn>
+      <Turn speaker="spk5" startTime="270.142" endTime="273.811">
+        <Sync time="270.142" />
+        tu auras le le type d'ordinateur le type de mémoire d'ordinateur &lt; qui
+        <Comment desc="toujours dans sa conversation annexe " />
+      </Turn>
+      <Turn speaker="spk3" startTime="273.811" endTime="274.508">
+        <Sync time="273.811" />
+        on aura juste un champ
+      </Turn>
+      <Turn speaker="spk5" startTime="274.508" endTime="275.468">
+        <Sync time="274.508" />
+        aura été utilisé pour travailler avec ***
+        <Comment desc="toujours dans sa conversation annexe" />
+      </Turn>
+      <Turn speaker="spk1" startTime="275.468" endTime="276.722">
+        <Sync time="275.468" />
+        voilà entre convention et note par exemple
+      </Turn>
+      <Turn speaker="spk5" startTime="276.722" endTime="278.378">
+        <Sync time="276.722" />
+        normalement on met pas
+        <Event desc="L2 tousse" type="noise" extent="instantaneous" />
+        on met pas
+        <Event desc="L2 tousse" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="278.378" endTime="279.534">
+        <Sync time="278.378" />
+        et encoding alors
+      </Turn>
+      <Turn speaker="spk1" startTime="279.534" endTime="280.541">
+        <Sync time="279.534" />
+        donc encodage des caractères
+      </Turn>
+      <Turn speaker="spk3" startTime="280.541" endTime="282.572">
+        <Sync time="280.541" />
+        on rajoute pas encodage &gt; des caractères ouais
+      </Turn>
+      <Turn speaker="spk4" startTime="282.572" endTime="283.417">
+        <Sync time="282.572" />
+        oui mais c'est-à-dire c'est ça
+      </Turn>
+      <Turn speaker="spk5" startTime="283.417" endTime="284.562">
+        <Sync time="283.417" />
+        et le format tout &lt; court
+      </Turn>
+      <Turn speaker="spk1" startTime="284.562" endTime="285.967">
+        <Sync time="284.562" />
+        U.T.F. huit &gt; ISO latin &lt; ansi euh
+      </Turn>
+      <Turn speaker="spk3" startTime="285.967" endTime="288.213">
+        <Sync time="285.967" />
+        c'est plus &gt; voilà c'est &lt; encodage format d'encodage c'est pas T.E.I.
+      </Turn>
+      <Turn speaker="spk1" startTime="288.213" endTime="292.107">
+        <Sync time="288.213" />
+        tu sais les trucs qui font que quand tu ouvres un fichier texte chez toi &gt; tu vois euh des trucs bizarres
+      </Turn>
+      <Turn speaker="spk2" startTime="292.107" endTime="293.488">
+        <Sync time="292.107" />
+        oui mais on le rajoute dans notre fiche &lt; signalétique
+      </Turn>
+      <Turn speaker="spk3" startTime="293.488" endTime="293.832">
+        <Sync time="293.488" />
+        voilà &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="293.832" endTime="294.55">
+        <Sync time="293.832" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="294.55" endTime="294.772">
+        <Sync time="294.55" />
+        il faut qu'on le &gt; rajoute ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="294.772" endTime="296.594">
+        <Sync time="294.772" />
+        et on et ça ça correspond à euh
+      </Turn>
+      <Turn speaker="spk4" startTime="296.594" endTime="297.397">
+        <Sync time="296.594" />
+        format
+      </Turn>
+      <Turn speaker="spk2" startTime="297.397" endTime="297.79">
+        <Sync time="297.397" />
+        format encoding
+      </Turn>
+      <Turn speaker="spk3" startTime="297.79" endTime="298.12">
+        <Sync time="297.79" />
+        &lt; format encoding
+      </Turn>
+      <Turn speaker="spk5" startTime="298.12" endTime="298.823">
+        <Sync time="298.12" />
+        format encoding &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="298.823" endTime="299.357">
+        <Sync time="298.823" />
+        O.K.
+      </Turn>
+      <Turn speaker="spk3" startTime="299.357" endTime="301.759">
+        <Sync time="299.357" />
+        format markup pour les cent vingts &lt; /pages,***/
+      </Turn>
+      <Turn speaker="spk1" startTime="301.759" endTime="303.344">
+        <Sync time="301.759" />
+        donc &gt; c'est format
+        <Comment desc="écrit ce que dit L3" />
+      </Turn>
+      <Turn speaker="spk2" startTime="303.344" endTime="304.367">
+        <Sync time="303.344" />
+        format markup c'est quoi ça
+      </Turn>
+      <Turn speaker="spk3" startTime="304.367" endTime="306.094">
+        <Sync time="304.367" />
+        c'est euh le système de balisage
+      </Turn>
+      <Turn speaker="spk2" startTime="306.094" endTime="307.311">
+        <Sync time="306.094" />
+        hum hum &lt; d'accord
+      </Turn>
+      <Turn speaker="spk5" startTime="307.311" endTime="307.803">
+        <Sync time="307.311" />
+        ben c'est T.E.I.
+      </Turn>
+      <Turn speaker="spk1" startTime="307.803" endTime="309.177">
+        <Sync time="307.803" />
+        ben &gt; on a le T.R.S. quand même
+      </Turn>
+      <Turn speaker="spk3" startTime="309.177" endTime="309.83">
+        <Sync time="309.177" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="309.83" endTime="310.632">
+        <Sync time="309.83" />
+        et &lt; alors
+      </Turn>
+      <Turn speaker="spk1" startTime="310.632" endTime="311.104">
+        <Sync time="310.632" />
+        le balisage &gt;
+      </Turn>
+      <Turn speaker="spk5" startTime="311.104" endTime="315.107">
+        <Sync time="311.104" />
+        non le markup skin
+        <Event desc="anglais" type="language" extent="previous" />
+        donc en fait la la le schéma
+      </Turn>
+      <Turn speaker="spk3" startTime="315.107" endTime="316.754">
+        <Sync time="315.107" />
+        c'est donc c'est format de la transcription
+      </Turn>
+      <Turn speaker="spk1" startTime="316.754" endTime="318.519">
+        <Sync time="316.754" />
+        le markup c'est la D.T.D.
+        <Comment desc="sigle = Document Type Definition" />
+        tu veux dire
+      </Turn>
+      <Turn speaker="spk5" startTime="318.519" endTime="320.556">
+        <Sync time="318.519" />
+        &lt; c'est le
+      </Turn>
+      <Turn speaker="spk4" startTime="320.556" endTime="322.536">
+        <Sync time="320.556" />
+        le format de la &gt; transcription ça rentre dans (le) markup
+      </Turn>
+      <Turn speaker="spk3" startTime="322.536" endTime="323.566">
+        <Sync time="322.536" />
+        &lt; je pense
+      </Turn>
+      <Turn speaker="spk1" startTime="323.566" endTime="323.891">
+        <Sync time="323.566" />
+        non &gt; je sais pas je sais pas &lt; ou T.R.S.
+      </Turn>
+      <Turn speaker="spk5" startTime="323.891" endTime="326.213">
+        <Sync time="323.891" />
+        non non non non &gt; pour moi c'est le schéma +
+      </Turn>
+      <Turn speaker="spk6" startTime="326.213" endTime="328.506">
+        <Sync time="326.213" />
+        le schéma d'annotation
+      </Turn>
+      <Turn speaker="spk5" startTime="328.506" endTime="329.888">
+        <Sync time="328.506" />
+        voilà le schéma d' &lt; annotation
+      </Turn>
+      <Turn speaker="spk3" startTime="329.888" endTime="330.359">
+        <Sync time="329.888" />
+        tu crois &gt;
+      </Turn>
+      <Turn speaker="spk5" startTime="330.359" endTime="331.732">
+        <Sync time="330.359" />
+        oui c'est ça markup skin
+      </Turn>
+      <Turn speaker="spk1" startTime="331.732" endTime="333.611">
+        <Sync time="331.732" />
+        oui donc ça on (n') en a pas pour l'instant &lt; tant
+      </Turn>
+      <Turn speaker="spk2" startTime="333.611" endTime="333.796">
+        <Sync time="333.611" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="333.796" endTime="334.558">
+        <Sync time="333.796" />
+        qu'on &gt; (n') est pas en T.E.I. on (n') en &lt; a pas
+      </Turn>
+      <Turn speaker="spk6" startTime="334.558" endTime="335.169">
+        <Sync time="334.558" />
+        si &gt; pour l'instant &lt; c'est T.R.S
+      </Turn>
+      <Turn speaker="spk5" startTime="335.169" endTime="336.016">
+        <Sync time="335.169" />
+        si c'est &gt; la &lt; T.E.I.
+      </Turn>
+      <Turn speaker="spk3" startTime="336.016" endTime="336.432">
+        <Sync time="336.016" />
+        c'est &gt; T.R.S.
+      </Turn>
+      <Turn speaker="spk5" startTime="336.432" endTime="336.776">
+        <Sync time="336.432" />
+        c'est la &lt; T.R.S
+      </Turn>
+      <Turn speaker="spk2" startTime="336.776" endTime="336.967">
+        <Sync time="336.776" />
+        oui c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="336.967" endTime="337.479">
+        <Sync time="336.967" />
+        c'est T.R.S &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="337.479" endTime="339.765">
+        <Sync time="337.479" />
+        donc on met quoi le format &lt; de transcription
+      </Turn>
+      <Turn speaker="spk3" startTime="339.765" endTime="340.681">
+        <Sync time="339.765" />
+        pour l'instant &gt; c'est le format de la transcription ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="340.681" endTime="341.467">
+        <Sync time="340.681" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="341.467" endTime="341.962">
+        <Sync time="341.467" />
+        format de transcription
+      </Turn>
+      <Turn speaker="spk3" startTime="341.962" endTime="344.923">
+        <Sync time="341.962" />
+        + et entre parenthèses on peut mettre D.T.D.
+      </Turn>
+      <Turn speaker="spk6" startTime="344.923" endTime="348.111">
+        <Sync time="344.923" />
+        je pense que tu mets carrémment la D.T.D. de toute façon attends tu peux pas mettre un schéma &lt; directement
+      </Turn>
+      <Turn speaker="spk5" startTime="348.111" endTime="350.229">
+        <Sync time="348.111" />
+        si &gt; si si mais c'est que c'est même marqué schéma +
+      </Turn>
+      <Turn speaker="spk6" startTime="350.229" endTime="351.958">
+        <Sync time="350.229" />
+        ou trans-
+      </Turn>
+      <Turn speaker="spk3" startTime="351.958" endTime="353.005">
+        <Sync time="351.958" />
+        donc la D.T.D. de
+      </Turn>
+      <Turn speaker="spk6" startTime="353.005" endTime="353.552">
+        <Sync time="353.005" />
+        machin machin
+      </Turn>
+      <Turn speaker="spk1" startTime="353.552" endTime="354.25">
+        <Sync time="353.552" />
+        de euh &lt; ***
+      </Turn>
+      <Turn speaker="spk3" startTime="354.25" endTime="356.516">
+        <Sync time="354.25" />
+        mais ça on l'a pas on l'a &gt; pas dans l'autre sens là pour le coup
+      </Turn>
+      <Turn speaker="spk5" startTime="356.516" endTime="357.311">
+        <Sync time="356.516" />
+        &lt; bah si ***
+      </Turn>
+      <Turn speaker="spk3" startTime="357.311" endTime="366.133">
+        <Sync time="357.311" />
+        on l'a on l'a le format &gt; de la transcription D.T.D. mais on (n') a pas la la D.T.D. de transcriber + qui est prévue + on a juste le format à le signaler &lt; que c'est
+      </Turn>
+      <Turn speaker="spk4" startTime="366.133" endTime="366.244">
+        <Sync time="366.133" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="366.244" endTime="367.272">
+        <Sync time="366.244" />
+        du T.R.S. et pas autre chose
+      </Turn>
+      <Turn speaker="spk4" startTime="367.272" endTime="371.254">
+        <Sync time="367.272" />
+        <Event desc="L2 tousse" type="noise" extent="instantaneous" />
+        + d'accord
+      </Turn>
+      <Turn speaker="spk5" startTime="371.254" endTime="371.604">
+        <Sync time="371.254" />
+        O.S.
+        <Comment desc="sigle=Opération de Système" />
+      </Turn>
+      <Turn speaker="spk4" startTime="371.604" endTime="372.135">
+        <Sync time="371.604" />
+        alors
+      </Turn>
+      <Turn speaker="spk5" startTime="372.135" endTime="377.799">
+        <Sync time="372.135" />
+        ça donc ça on le rajoute ou pas
+        <Event desc="conversation annexe" type="noise" extent="previous" />
+        ou ça correspond à quoi le mark- le markup là
+      </Turn>
+      <Turn speaker="spk2" startTime="377.799" endTime="378.559">
+        <Sync time="377.799" />
+        ah hum
+      </Turn>
+      <Turn speaker="spk1" startTime="378.559" endTime="379.374">
+        <Sync time="378.559" />
+        c'est format de &lt; transcription
+      </Turn>
+      <Turn speaker="spk2" startTime="379.374" endTime="379.89">
+        <Sync time="379.374" />
+        format &gt; de transcription
+      </Turn>
+      <Turn speaker="spk5" startTime="379.89" endTime="380.769">
+        <Sync time="379.89" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="380.769" endTime="383.403">
+        <Sync time="380.769" />
+        puis on mettra D.T.D. sous &lt; ol- la D.T.D. sous OLAC
+      </Turn>
+      <Turn speaker="spk3" startTime="383.403" endTime="384.566">
+        <Sync time="383.403" />
+        ouais sous OLAC &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="384.566" endTime="385.378">
+        <Sync time="384.566" />
+        et T.R.S.
+      </Turn>
+      <Turn speaker="spk3" startTime="385.378" endTime="387.948">
+        <Sync time="385.378" />
+        + O.S. on s'en &lt; cogne
+      </Turn>
+      <Turn speaker="spk2" startTime="387.948" endTime="388.004">
+        <Sync time="387.948" />
+        non attends c'est
+      </Turn>
+      <Turn speaker="spk4" startTime="388.004" endTime="389.214">
+        <Sync time="388.004" />
+        c'est quoi O.S.
+      </Turn>
+      <Turn speaker="spk5" startTime="389.214" endTime="389.89">
+        <Sync time="389.214" />
+        O.S c'est
+      </Turn>
+      <Turn speaker="spk3" startTime="389.89" endTime="391.494">
+        <Sync time="389.89" />
+        c'est Operating System
+      </Turn>
+      <Turn speaker="spk5" startTime="391.494" endTime="391.848">
+        <Sync time="391.494" />
+        voilà c'est ça
+      </Turn>
+      <Turn speaker="spk3" startTime="391.848" endTime="392.161">
+        <Sync time="391.848" />
+        c'est &gt; le windows
+        <Event desc="anglais" type="language" extent="previous" />
+        et caetera
+      </Turn>
+      <Turn speaker="spk2" startTime="392.161" endTime="392.875">
+        <Sync time="392.161" />
+        et alors
+      </Turn>
+      <Turn speaker="spk5" startTime="392.875" endTime="393.688">
+        <Sync time="392.875" />
+        tout pour le
+      </Turn>
+      <Turn speaker="spk3" startTime="393.688" endTime="394.097">
+        <Sync time="393.688" />
+        &lt; on s'en fout
+      </Turn>
+      <Turn speaker="spk4" startTime="394.097" endTime="394.527">
+        <Sync time="394.097" />
+        on &gt; met pas
+      </Turn>
+      <Turn speaker="spk5" startTime="394.527" endTime="395.676">
+        <Sync time="394.527" />
+        ou on le met pas on (n') a pas
+      </Turn>
+      <Turn speaker="spk1" startTime="395.676" endTime="396.503">
+        <Sync time="395.676" />
+        mais on (n') a pas ça
+      </Turn>
+      <Turn speaker="spk3" startTime="396.503" endTime="397.607">
+        <Sync time="396.503" />
+        &lt; ouais ***
+      </Turn>
+      <Turn speaker="spk2" startTime="397.607" endTime="398.534">
+        <Sync time="397.607" />
+        O.K. &gt; d'accord ça marche
+      </Turn>
+      <Turn speaker="spk5" startTime="398.534" endTime="403.419">
+        <Sync time="398.534" />
+        et so- source code c'est le la le langage de programmation pareil donc pour &lt; la /ressource,source/
+      </Turn>
+      <Turn speaker="spk3" startTime="403.419" endTime="405.494">
+        <Sync time="403.419" />
+        python
+        <Event desc="langage de programmation " type="lexical" extent="instantaneous" />
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="405.494" endTime="405.725">
+        <Sync time="405.494" />
+        &lt; ***
+      </Turn>
+      <Turn speaker="spk2" startTime="405.725" endTime="407.287">
+        <Sync time="405.725" />
+        c'est un langage de programmation &gt; ça python
+      </Turn>
+      <Turn speaker="spk3" startTime="407.287" endTime="407.828">
+        <Sync time="407.287" />
+        &lt; oui
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="407.828" endTime="408.073">
+        <Sync time="407.828" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="408.073" endTime="408.478">
+        <Sync time="408.073" />
+        c'est vrai
+      </Turn>
+      <Turn speaker="spk3" startTime="408.478" endTime="409.324">
+        <Sync time="408.478" />
+        oui &lt; ***
+      </Turn>
+      <Turn speaker="spk6" startTime="409.324" endTime="409.445">
+        <Sync time="409.324" />
+        python
+        <Event desc="anglaise" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="409.445" endTime="410.039">
+        <Sync time="409.445" />
+        bah ça va être refait &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="410.039" endTime="410.918">
+        <Sync time="410.039" />
+        python
+        <Event desc="anglaise" type="pronounce" extent="previous" />
+        pardon
+      </Turn>
+      <Turn speaker="spk6" startTime="410.918" endTime="411.977">
+        <Sync time="410.918" />
+        python
+        <Event desc="anglaise" type="pronounce" extent="previous" />
+        comme dans les &lt; Monty
+      </Turn>
+      <Turn speaker="spk2" startTime="411.977" endTime="412.728">
+        <Sync time="411.977" />
+        py- python &gt;
+      </Turn>
+      <Turn speaker="spk6" startTime="412.728" endTime="414.488">
+        <Sync time="412.728" />
+        c'est comme dans les Monty python
+        <Event desc="anglais" type="language" extent="previous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="414.488" endTime="414.81">
+        <Sync time="414.488" />
+        ouais &lt; ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="414.81" endTime="415.565">
+        <Sync time="414.81" />
+        hum hum d'accord &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="415.565" endTime="416.154">
+        <Sync time="415.565" />
+        &lt; ça va hein
+      </Turn>
+      <Turn speaker="spk4" startTime="416.154" endTime="416.175">
+        <Sync time="416.154" />
+        c'est plus joli python
+        <Event desc="anglaise" type="pronounce" extent="previous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk5" startTime="416.175" endTime="416.772">
+        <Sync time="416.175" />
+        &lt; python
+        <Event desc="anglais" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="416.772" endTime="420.561">
+        <Sync time="416.772" />
+        je vois pas &gt; ce que ça à avoir à faire à un langage de programmation dans une ressource
+      </Turn>
+      <Turn speaker="spk6" startTime="420.561" endTime="423.649">
+        <Sync time="420.561" />
+        ça dépend si la ressource est un outil ou si c'est du
+      </Turn>
+      <Turn speaker="spk1" startTime="423.649" endTime="425.631">
+        <Sync time="423.649" />
+        ah d'accord
+        <Event desc="a:KoR" type="pronounce" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="425.631" endTime="426.78">
+        <Sync time="425.631" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="426.78" endTime="428.319">
+        <Sync time="426.78" />
+        ben moi pas accord &lt; mais
+      </Turn>
+      <Turn speaker="spk5" startTime="428.319" endTime="430.001">
+        <Sync time="428.319" />
+        mais nous on l'a pas
+        <Event desc="rires L2" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="430.001" endTime="431.486">
+        <Sync time="430.001" />
+        aqu- aque a que que a que que que
+      </Turn>
+      <Turn speaker="spk5" startTime="431.486" endTime="432.828">
+        <Sync time="431.486" />
+        nous on /l',n'/ a pas en tout cas
+        <Event desc="rires L2" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="432.828" endTime="433.338">
+        <Sync time="432.828" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="433.338" endTime="434.114">
+        <Sync time="433.338" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="434.114" endTime="436.803">
+        <Sync time="434.114" />
+        *** de l'année d'avant ils ont rien compris
+        <Event desc="rires L2 et L1" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="436.803" endTime="441.278">
+        <Sync time="436.803" />
+        identifieur(s) euh je pense que c'est le nom du dossier contenant le corpus
+      </Turn>
+      <Turn speaker="spk2" startTime="441.278" endTime="441.711">
+        <Sync time="441.278" />
+        &lt; alors oui
+      </Turn>
+      <Turn speaker="spk3" startTime="441.711" endTime="441.878">
+        <Sync time="441.711" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="441.878" endTime="443.17">
+        <Sync time="441.878" />
+        ben &gt; on en a plusieurs en fait
+      </Turn>
+      <Turn speaker="spk3" startTime="443.17" endTime="444.204">
+        <Sync time="443.17" />
+        mais &lt; (le) nom du dossier c'est premier
+      </Turn>
+      <Turn speaker="spk5" startTime="444.204" endTime="444.843">
+        <Sync time="444.204" />
+        ben non c'est pas possible &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="444.843" endTime="446.776">
+        <Sync time="444.843" />
+        ben si attends attends -tends -tends -tends -tends
+      </Turn>
+      <Turn speaker="spk5" startTime="446.776" endTime="447.086">
+        <Sync time="446.776" />
+        un champ &lt; juste
+      </Turn>
+      <Turn speaker="spk1" startTime="447.086" endTime="448.388">
+        <Sync time="447.086" />
+        j'ai j'ai &gt; vu une autre fois
+        <Comment desc="cherche dans ses documents" />
+      </Turn>
+      <Turn speaker="spk5" startTime="448.388" endTime="448.798">
+        <Sync time="448.388" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="448.798" endTime="450.039">
+        <Sync time="448.798" />
+        référencement &gt; du corpus
+      </Turn>
+      <Turn speaker="spk5" startTime="450.039" endTime="452.925">
+        <Sync time="450.039" />
+        non non pour ma base il faut que c'est
+        <Comment desc="sic" />
+        soit
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="452.925" endTime="456.463">
+        <Sync time="452.925" />
+        non mais attends ¤P2¤ je te dis que c'est dans la fiche signalétique
+        <Event desc="paroles superposées de L3 et L4" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="456.463" endTime="457.121">
+        <Sync time="456.463" />
+        oui
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk4" startTime="457.121" endTime="458.803">
+        <Sync time="457.121" />
+        donc ça correspond à ton premier champ &lt; en fait
+      </Turn>
+      <Turn speaker="spk1" startTime="458.803" endTime="459.629">
+        <Sync time="458.803" />
+        on &gt; a nom du dossier
+      </Turn>
+      <Turn speaker="spk4" startTime="459.629" endTime="460.06">
+        <Sync time="459.629" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="460.06" endTime="462.668">
+        <Sync time="460.06" />
+        ici et là on a nom du corpus
+        <Comment desc="montre son document" />
+      </Turn>
+      <Turn speaker="spk3" startTime="462.668" endTime="463.96">
+        <Sync time="462.668" />
+        identifiant c'est &lt; le même
+      </Turn>
+      <Turn speaker="spk4" startTime="463.96" endTime="464.677">
+        <Sync time="463.96" />
+        mais &gt; c'est le même
+      </Turn>
+      <Turn speaker="spk1" startTime="464.677" endTime="465.029">
+        <Sync time="464.677" />
+        &lt; d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="465.029" endTime="465.174">
+        <Sync time="465.029" />
+        voilà
+      </Turn>
+      <Turn speaker="spk4" startTime="465.174" endTime="465.305">
+        <Sync time="465.174" />
+        voilà &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="465.305" endTime="468.047">
+        <Sync time="465.305" />
+        donc on a deux instances de du même &lt; /truc,*/
+      </Turn>
+      <Turn speaker="spk3" startTime="468.047" endTime="473.321">
+        <Sync time="468.047" />
+        ouais &gt; parce que là c'est pour les citations en fait on a on a étiqueté le truc parce que là c'est uniquement un champ de citation
+        <Event desc="conversation entre L4 et L2" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="473.321" endTime="474.72">
+        <Sync time="473.321" />
+        d'où le troisième nom du &lt; corpus
+      </Turn>
+      <Turn speaker="spk3" startTime="474.72" endTime="475.229">
+        <Sync time="474.72" />
+        voilà &gt; hum
+      </Turn>
+      <Turn speaker="spk2" startTime="475.229" endTime="475.975">
+        <Sync time="475.229" />
+        il y en a &lt; pas
+      </Turn>
+      <Turn speaker="spk4" startTime="475.975" endTime="476.672">
+        <Sync time="475.975" />
+        parce &gt; que il y en a un autre
+      </Turn>
+      <Turn speaker="spk2" startTime="476.672" endTime="477.348">
+        <Sync time="476.672" />
+        ah bon
+      </Turn>
+      <Turn speaker="spk1" startTime="477.348" endTime="478.975">
+        <Sync time="477.348" />
+        donc c'est &lt; i- ***
+      </Turn>
+      <Turn speaker="spk3" startTime="478.975" endTime="479.797">
+        <Sync time="478.975" />
+        à la fin pour le citer
+      </Turn>
+      <Turn speaker="spk4" startTime="479.797" endTime="482.148">
+        <Sync time="479.797" />
+        à la fin &gt; tu sais quand tu pour citer le &lt; le truc là
+      </Turn>
+      <Turn speaker="spk2" startTime="482.148" endTime="482.989">
+        <Sync time="482.148" />
+        ah oui &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="482.989" endTime="484.02">
+        <Sync time="482.989" />
+        mais c'est des &lt; champs bloqués à la fin
+      </Turn>
+      <Turn speaker="spk2" startTime="484.02" endTime="484.432">
+        <Sync time="484.02" />
+        oui d'accord &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="484.432" endTime="488.473">
+        <Sync time="484.432" />
+        donc ça c'est identifieur d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="488.473" endTime="490.596">
+        <Sync time="488.473" />
+        hum on a fait presque une page
+      </Turn>
+      <Turn speaker="spk2" startTime="490.596" endTime="491.088">
+        <Sync time="490.596" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="491.088" endTime="492.753">
+        <Sync time="491.088" />
+        en language
+        <Event desc="anglais" type="language" extent="previous" />
+        ca va être vite fait
+      </Turn>
+      <Turn speaker="spk2" startTime="492.753" endTime="493.899">
+        <Sync time="492.753" />
+        &lt; language
+        <Event desc="anglais" type="language" extent="previous" />
+        euh c'est
+      </Turn>
+      <Turn speaker="spk5" startTime="493.899" endTime="495.796">
+        <Sync time="493.899" />
+        ***
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        &gt; ***
+      </Turn>
+      <Turn speaker="spk3" startTime="495.796" endTime="496.349">
+        <Sync time="495.796" />
+        &lt; mais est-ce qu'on l'a le champ
+      </Turn>
+      <Turn speaker="spk4" startTime="496.349" endTime="496.971">
+        <Sync time="496.349" />
+        *** corpus ouais &gt;
+        <Event desc="L5 parle en fond" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="496.971" endTime="499.163">
+        <Sync time="496.971" />
+        mais on a la réponse mais est-ce qu'on a le champ
+      </Turn>
+      <Turn speaker="spk2" startTime="499.163" endTime="500.181">
+        <Sync time="499.163" />
+        &lt; non on (n') a pas le champ
+      </Turn>
+      <Turn speaker="spk5" startTime="500.181" endTime="500.529">
+        <Sync time="500.181" />
+        non on (n') a pas le champ &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="500.529" endTime="501.53">
+        <Sync time="500.529" />
+        si si on a le champ
+      </Turn>
+      <Turn speaker="spk5" startTime="501.53" endTime="502.244">
+        <Sync time="501.53" />
+        où
+      </Turn>
+      <Turn speaker="spk3" startTime="502.244" endTime="504.428">
+        <Sync time="502.244" />
+        on a langue première et caetera &lt; mais
+      </Turn>
+      <Turn speaker="spk4" startTime="504.428" endTime="506.272">
+        <Sync time="504.428" />
+        on a &gt; le champ dans les locuteurs
+      </Turn>
+      <Turn speaker="spk5" startTime="506.272" endTime="507.071">
+        <Sync time="506.272" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" startTime="507.071" endTime="508.951">
+        <Sync time="507.071" />
+        dans les locuteurs +
+      </Turn>
+      <Turn speaker="spk4" startTime="508.951" endTime="512.685">
+        <Sync time="508.951" />
+        ah tu veux dire &lt; on (n') a pas on (n') a rien qui nous dit
+      </Turn>
+      <Turn speaker="spk3" startTime="512.685" endTime="513.235">
+        <Sync time="512.685" />
+        on a statut français par défaut vu qu'on a fait que du français &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="513.235" endTime="514.29">
+        <Sync time="513.235" />
+        se passe en français
+      </Turn>
+      <Turn speaker="spk3" startTime="514.29" endTime="514.74">
+        <Sync time="514.29" />
+        eh oui
+      </Turn>
+      <Turn speaker="spk2" startTime="514.74" endTime="516.807">
+        <Sync time="514.74" />
+        non on (n') a rien nous dit que &lt; le corpus il est en français
+      </Turn>
+      <Turn speaker="spk3" startTime="516.807" endTime="517.645">
+        <Sync time="516.807" />
+        eh ben il faut rajouter le champ &gt; langue
+      </Turn>
+      <Turn speaker="spk2" startTime="517.645" endTime="518.094">
+        <Sync time="517.645" />
+        ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="518.094" endTime="520.072">
+        <Sync time="518.094" />
+        langue du corpus
+      </Turn>
+      <Turn speaker="spk2" startTime="520.072" endTime="521.032">
+        <Sync time="520.072" />
+        ouais oui oui
+      </Turn>
+      <Turn speaker="spk5" startTime="521.032" endTime="523.417">
+        <Sync time="521.032" />
+        donc ça c'est à rajouter
+      </Turn>
+      <Turn speaker="spk3" startTime="523.417" endTime="523.839">
+        <Sync time="523.417" />
+        si c'est à &lt; rajouter
+      </Turn>
+      <Turn speaker="spk6" startTime="523.839" endTime="525.884">
+        <Sync time="523.839" />
+        si &gt; si c'est pour dire toujours français ça sert à rien
+      </Turn>
+      <Turn speaker="spk3" startTime="525.884" endTime="527.872">
+        <Sync time="525.884" />
+        oui mais po- potentiellement on pourrait en avoir d'autres
+      </Turn>
+      <Turn speaker="spk4" startTime="527.872" endTime="529.739">
+        <Sync time="527.872" />
+        oui c'est pour ça qu'on l'avait pas mis de toute &lt; façon
+      </Turn>
+      <Turn speaker="spk3" startTime="529.739" endTime="529.876">
+        <Sync time="529.739" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="529.876" endTime="530.936">
+        <Sync time="529.876" />
+        on l'avait pas mis parce qu' &lt; on
+      </Turn>
+      <Turn speaker="spk3" startTime="530.936" endTime="534.154">
+        <Sync time="530.936" />
+        c'est qu'au départ &gt; par défaut on pensait qu'on faisait que du français mais on sait jamais + on fera autre chose
+      </Turn>
+      <Turn speaker="spk5" startTime="534.154" endTime="535.122">
+        <Sync time="534.154" />
+        ben ¤P3¤ peut-être il &lt; /en a d'avant,***/
+      </Turn>
+      <Turn speaker="spk3" startTime="535.122" endTime="535.923">
+        <Sync time="535.122" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="535.923" endTime="536.375">
+        <Sync time="535.923" />
+        ben oui ben oui c'est &lt; ça
+      </Turn>
+      <Turn speaker="spk4" startTime="536.375" endTime="540.47">
+        <Sync time="536.375" />
+        non &gt; mais non ses corpus sont en français de toute façon c'est la langue maternelle qui va &lt; /primer,***/
+      </Turn>
+      <Turn speaker="spk2" startTime="540.47" endTime="541.843">
+        <Sync time="540.47" />
+        oui &gt; mais rien nous dit que &lt; on peut absorber
+      </Turn>
+      <Turn speaker="spk3" startTime="541.843" endTime="542.564">
+        <Sync time="541.843" />
+        bah oui mais écoutez voir &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="542.564" endTime="547.596">
+        <Sync time="542.564" />
+        d'autres corpus qui ne sont pas du français enfin c'est moins sachant qu'on travaille sur le français parlé c'est plus difficile oui
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="547.596" endTime="548.604">
+        <Sync time="547.596" />
+        sait-on jamais
+      </Turn>
+      <Turn speaker="spk2" startTime="548.604" endTime="553.566">
+        <Sync time="548.604" />
+        mais avant av-
+        <Event desc="toux et rires" type="noise" extent="instantaneous" />
+        on peut faire de l'analyse contrastive je ne sais pas moi
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk4" startTime="553.566" endTime="557.214">
+        <Sync time="553.566" />
+        mouais + ça ça coûte rien de rajouter le champ sinon
+      </Turn>
+      <Turn speaker="spk1" startTime="557.214" endTime="575.565">
+        <Sync time="557.214" />
+        mais euh + attendez voir + à quoi ça nous sert de rajouter le champ dans la fiche signalétique si de toute façon pour ¤P2¤
+        <Sync time="564.538" />
+        concernant nos corpus ça correspondra systématiquement quand elle fera le passage d'une autre fiche à un truc OLAC
+        <Sync time="571.743" />
+        à affecter la valeur français &lt; à language
+        <Event desc="anglais" type="language" extent="previous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="575.565" endTime="577.18">
+        <Sync time="575.565" />
+        ah oui &gt; si vous me dîtes &lt; si si
+      </Turn>
+      <Turn speaker="spk4" startTime="577.18" endTime="578.627">
+        <Sync time="577.18" />
+        bah &gt; si un jour on a autre chose
+      </Turn>
+      <Turn speaker="spk5" startTime="578.627" endTime="579.59">
+        <Sync time="578.627" />
+        voilà &lt; c'est du
+      </Turn>
+      <Turn speaker="spk6" startTime="579.59" endTime="580.183">
+        <Sync time="579.59" />
+        en tout cas &gt; pour l'instant on (n') a pas
+      </Turn>
+      <Turn speaker="spk5" startTime="580.183" endTime="580.509">
+        <Sync time="580.183" />
+        tout à fait
+      </Turn>
+      <Turn speaker="spk4" startTime="580.509" endTime="583.496">
+        <Sync time="580.509" />
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        tu fais ta mauvaise tête &lt; aujourd'hui
+      </Turn>
+      <Turn speaker="spk6" startTime="583.496" endTime="584.09">
+        <Sync time="583.496" />
+        mais &gt; non mais
+      </Turn>
+      <Turn speaker="spk2" startTime="584.09" endTime="586.255">
+        <Sync time="584.09" />
+        toi tu le *** tu tu tu tu le mettrais pas
+        <Event desc="rires L5" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk6" startTime="586.255" endTime="588.679">
+        <Sync time="586.255" />
+        tant qu'il (n') y en a pas besoin je le mettrais pas je veux dire &lt; il y a pas de raison
+      </Turn>
+      <Turn speaker="spk4" startTime="588.679" endTime="594.435">
+        <Sync time="588.679" />
+        mais alors à &gt; ce moment-là tout ce qu'on fait ça sert à rien puisque notre fiche elle a été créée sur nos besoins + donc euh &lt; à quoi ça sert de
+      </Turn>
+      <Turn speaker="spk6" startTime="594.435" endTime="598.525">
+        <Sync time="594.435" />
+        c'est un peu ce que je pense &gt; je pense que la seul intérêt
+        <Comment desc="sic" />
+        c'est de projeter sur euh sur OLAC ce qui se projette bien et pour
+      </Turn>
+      <Turn speaker="spk4" startTime="598.525" endTime="599.633">
+        <Sync time="598.525" />
+        et laisser tomber le reste
+      </Turn>
+      <Turn speaker="spk3" startTime="599.633" endTime="601.378">
+        <Sync time="599.633" />
+        d'accord on oublie le français
+      </Turn>
+      <Turn speaker="spk6" startTime="601.378" endTime="602.232">
+        <Sync time="601.378" />
+        moi c'est ce que je ferais hein &lt; mais
+      </Turn>
+      <Turn speaker="spk3" startTime="602.232" endTime="602.685">
+        <Sync time="602.232" />
+        O.K. &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="602.685" endTime="605.914">
+        <Sync time="602.685" />
+        d'accord donc on laisse tomber le le la case de
+      </Turn>
+      <Turn speaker="spk1" startTime="605.914" endTime="606.836">
+        <Sync time="605.914" />
+        ben on le rajoute pas euh
+      </Turn>
+      <Turn speaker="spk6" startTime="606.836" endTime="607.226">
+        <Sync time="606.836" />
+        ta fiche
+      </Turn>
+      <Turn speaker="spk5" startTime="607.226" endTime="607.577">
+        <Sync time="607.226" />
+        oui &lt; dans la fiche ***
+      </Turn>
+      <Turn speaker="spk6" startTime="607.577" endTime="613.392">
+        <Sync time="607.577" />
+        c'est c'est exactement &gt; ce qu'a fait ¤P2¤ c'est euh que ça soit dans ta fiche ou pas quand tu traduis en en en OLAC language
+        <Event desc="anglais" type="language" extent="previous" />
+        &lt; français
+      </Turn>
+      <Turn speaker="spk2" startTime="613.392" endTime="614.298">
+        <Sync time="613.392" />
+        d'accord &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="614.298" endTime="615.027">
+        <Sync time="614.298" />
+        hum
+      </Turn>
+      <Turn speaker="spk5" startTime="615.027" endTime="616.998">
+        <Sync time="615.027" />
+        mais si vous me dîtes ça moi je mets ça et euh
+      </Turn>
+      <Turn speaker="spk2" startTime="616.998" endTime="618.233">
+        <Sync time="616.998" />
+        non non non non c'est &lt; bon
+      </Turn>
+      <Turn speaker="spk5" startTime="618.233" endTime="619.561">
+        <Sync time="618.233" />
+        on &gt; change pas la fiche + c'est c'est
+      </Turn>
+      <Turn speaker="spk2" startTime="619.561" endTime="620.014">
+        <Sync time="619.561" />
+        change pas
+      </Turn>
+      <Turn speaker="spk4" startTime="620.014" endTime="620.641">
+        <Sync time="620.014" />
+        donc on &lt; change pas
+      </Turn>
+      <Turn speaker="spk6" startTime="620.641" endTime="620.923">
+        <Sync time="620.641" />
+        *** &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="620.923" endTime="624.464">
+        <Sync time="620.923" />
+        autant l'encodage des caractères on est sûr que ça on en aura besoin
+      </Turn>
+      <Turn speaker="spk6" startTime="624.464" endTime="626.593">
+        <Sync time="624.464" />
+        j'ai numéroté les lignes vous avez pas le droit de rajouter &lt; ***
+      </Turn>
+      <Turn speaker="spk5" startTime="626.593" endTime="629.077">
+        <Sync time="626.593" />
+        c'est ça &gt; qu'il veut pas qu'on change les lignes parce que
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="629.077" endTime="631.372">
+        <Sync time="629.077" />
+        hé on en rajoute une déjà hein ¤P1¤ de ligne hein
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="631.372" endTime="633.594">
+        <Sync time="631.372" />
+        eh mais là il a rien dit parce que l'encodage des caractères &lt; ***
+      </Turn>
+      <Turn speaker="spk2" startTime="633.594" endTime="633.95">
+        <Sync time="633.594" />
+        c'est important
+      </Turn>
+      <Turn speaker="spk1" startTime="633.95" endTime="634.508">
+        <Sync time="633.95" />
+        alors là &gt;
+        <Event desc="rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="634.508" endTime="639.599">
+        <Sync time="634.508" />
+        d'accord on a rajouté l'encodage des caractères
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        oui
+        <Sync time="637.554" />
+        là tu vas /te,tout/ faire &lt; /***,rater/
+      </Turn>
+      <Turn speaker="spk1" startTime="639.599" endTime="640.021">
+        <Sync time="639.599" />
+        en &gt; tout cas euh
+      </Turn>
+      <Turn speaker="spk6" startTime="640.021" endTime="643.356">
+        <Sync time="640.021" />
+        mais on s'en fout c'est du X.M.L. on l'a en tête du fichier X.M.L. ça sert à rien
+      </Turn>
+      <Turn speaker="spk2" startTime="643.356" endTime="646.164">
+        <Sync time="643.356" />
+        d'accord donc voilà donc très bien on l'a met quand même ou pas
+      </Turn>
+      <Turn speaker="spk6" startTime="646.164" endTime="648.246">
+        <Sync time="646.164" />
+        + si ça rajoute une ligne non
+      </Turn>
+      <Turn speaker="spk1" startTime="648.246" endTime="653.248">
+        <Sync time="648.246" />
+        ouais mais dans combien de temps on aura les fichiers en X.M.L.
+        <Event desc="L4 parle en même temps mais cela est incompréhensible" type="noise" extent="instantaneous" />
+        + dans combien de temps on aura les &lt; fichiers en X.M.L.
+      </Turn>
+      <Turn speaker="spk3" startTime="653.248" endTime="653.885">
+        <Sync time="653.248" />
+        il est en train là
+      </Turn>
+      <Turn speaker="spk6" startTime="653.885" endTime="655.483">
+        <Sync time="653.885" />
+        ils y sont déjà &gt; T.R.S. c'est du X.M.L.
+      </Turn>
+      <Turn speaker="spk1" startTime="655.483" endTime="658.96">
+        <Sync time="655.483" />
+        oui + mais et il y a l'encodage des caractères dans le X.M.L.
+      </Turn>
+      <Turn speaker="spk5" startTime="658.96" endTime="659.768">
+        <Sync time="658.96" />
+        oui
+      </Turn>
+      <Turn speaker="spk6" startTime="659.768" endTime="660.322">
+        <Sync time="659.768" />
+        si c'est &lt; pas marqué
+      </Turn>
+      <Turn speaker="spk1" startTime="660.322" endTime="660.565">
+        <Sync time="660.322" />
+        ou T.R.S. &gt;
+      </Turn>
+      <Turn speaker="spk5" startTime="660.565" endTime="661.2">
+        <Sync time="660.565" />
+        on *
+      </Turn>
+      <Turn speaker="spk6" startTime="661.2" endTime="662.452">
+        <Sync time="661.2" />
+        si c'est pas marqué c'est &lt; que oui sinon c'est marqué ce que c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="662.452" endTime="664.921">
+        <Sync time="662.452" />
+        ah oui donc on a mais oui &gt; bien sûr bah donc c'est bon alors on l'a
+      </Turn>
+      <Turn speaker="spk2" startTime="664.921" endTime="666.148">
+        <Sync time="664.921" />
+        donc on (n') a pas besoin de le mettre
+      </Turn>
+      <Turn speaker="spk1" startTime="666.148" endTime="667.549">
+        <Sync time="666.148" />
+        ben (plus) besoin de le mettre dans la fiche
+      </Turn>
+      <Turn speaker="spk2" startTime="667.549" endTime="668.415">
+        <Sync time="667.549" />
+        &lt; bon voilà allez
+      </Turn>
+      <Turn speaker="spk1" startTime="668.415" endTime="673.745">
+        <Sync time="668.415" />
+        on l'a &gt; il suffit d'aller le chercher dans la transcription de + dans le fichier de transcription
+      </Turn>
+      <Turn speaker="spk2" startTime="673.745" endTime="675.073">
+        <Sync time="673.745" />
+        donc on rajoute &lt; pas avant
+      </Turn>
+      <Turn speaker="spk1" startTime="675.073" endTime="675.491">
+        <Sync time="675.073" />
+        il y est d'office &gt;
+      </Turn>
+      <Turn speaker="spk5" startTime="675.491" endTime="677.286">
+        <Sync time="675.491" />
+        <Comment desc="L2 tousse" />
+        /***,il faut le/ chercher euh &lt; dans en comment
+      </Turn>
+      <Turn speaker="spk6" startTime="677.286" endTime="678.623">
+        <Sync time="677.286" />
+        j'ai pas dit que c'était nul &gt; mais c'est pas
+      </Turn>
+      <Turn speaker="spk5" startTime="678.623" endTime="684.74">
+        <Sync time="678.623" />
+        non mais c'est difficile
+        <Event desc="L2 tousse" type="noise" extent="instantaneous" />
+        ¤P1¤ c'est difficile de
+        <Event desc="L2 tousse" type="noise" extent="instantaneous" />
+        après de faire la
+        <Comment desc="sic" />
+        automatique &lt; s'il faut le chercher ailleurs dans une
+      </Turn>
+      <Turn speaker="spk1" startTime="684.74" endTime="689.914">
+        <Sync time="684.74" />
+        oh ben non &gt; ouais mais ça c'est pas dur
+        <Event desc="L6 parle en même temps mais c'est incompréhensible" type="noise" extent="previous" />
+        dans le dans le début du du fichier X.M.L. + &lt; T.R.S.
+      </Turn>
+      <Turn speaker="spk6" startTime="689.914" endTime="693.154">
+        <Sync time="689.914" />
+        on peut &gt; s'arranger pour que ce soit toujours la même chose en U.T.F. huit on (n') /est,ait/ pas *
+      </Turn>
+      <Turn speaker="spk5" startTime="693.154" endTime="695.55">
+        <Sync time="693.154" />
+        oui si on met la même chose &lt; ça ça c'est autre chose
+        <Event desc="conversation de fond" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="695.55" endTime="696.718">
+        <Sync time="695.55" />
+        oui mais ça c'est pas sûr &gt;
+        <Event desc="rires L2" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="696.718" endTime="704.536">
+        <Sync time="696.718" />
+        + si on met si on fixe le champ ça c'est p- c'est c'est c'est simple mais il faut chercher dans un autre fichier &lt; /ou,où/ pour ***
+      </Turn>
+      <Turn speaker="spk1" startTime="704.536" endTime="707.642">
+        <Sync time="704.536" />
+        bon toujours le même &gt; + fichier T.R.S ça va quoi
+      </Turn>
+      <Turn speaker="spk5" startTime="707.642" endTime="713.788">
+        <Sync time="707.642" />
+        d'accord mais euh là en l'occurence ce que je vais faire donc je prends ce fichier là &lt; et je ***
+        <Event desc="chuchotements + rires" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="713.788" endTime="718.495">
+        <Sync time="713.788" />
+        tu cherches le c'est le début là &gt; c'est la première ligne c'est euh
+      </Turn>
+      <Turn speaker="spk5" startTime="718.495" endTime="723.292">
+        <Sync time="718.495" />
+        oui mais tandis que là il faut chercher dans un autre fichier voir euh le machin juste pour un champ
+      </Turn>
+      <Turn speaker="spk1" startTime="723.292" endTime="729.745">
+        <Sync time="723.292" />
+        ouais mais tu sais si on le fait sur la fiche signalétique /ben,bon/ d'abord en plus les fiches signalétiques ***
+        <Event desc="etER" type="pronounce" extent="previous" />
+        elles sont censées être remplies automatiquement
+      </Turn>
+      <Turn speaker="spk5" startTime="729.745" endTime="730.605">
+        <Sync time="729.745" />
+        oui oui
+      </Turn>
+      <Turn speaker="spk1" startTime="730.605" endTime="731.222">
+        <Sync time="730.605" />
+        &lt; deuxièmement
+      </Turn>
+      <Turn speaker="spk5" startTime="731.222" endTime="731.387">
+        <Sync time="731.222" />
+        ben justement &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="731.387" endTime="732.679">
+        <Sync time="731.387" />
+        automatiquement
+      </Turn>
+      <Turn speaker="spk5" startTime="732.679" endTime="735.617">
+        <Sync time="732.679" />
+        oui sur euh sur Internet enfin sur euh sur euh &lt; /***,ordinateur/
+      </Turn>
+      <Turn speaker="spk1" startTime="735.617" endTime="742.787">
+        <Sync time="735.617" />
+        bon alors &gt; l'individu lambda
+        <Event desc="rires L4" type="noise" extent="instantaneous" />
+        + mettons moi il y a cinq ans je vois le champ encodage de caractères +
+      </Turn>
+      <Turn speaker="spk5" startTime="742.787" endTime="744.719">
+        <Sync time="742.787" />
+        tu sais &lt; pas hein
+      </Turn>
+      <Turn speaker="spk1" startTime="744.719" endTime="745.36">
+        <Sync time="744.719" />
+        je reste &gt; bloquée
+      </Turn>
+      <Turn speaker="spk5" startTime="745.36" endTime="746.223">
+        <Sync time="745.36" />
+        je veux bien /oh,ah/ oui
+      </Turn>
+      <Turn speaker="spk1" startTime="746.223" endTime="749.736">
+        <Sync time="746.223" />
+        je reste &gt; bloquée devant + et je sais pas quoi mettre +
+      </Turn>
+      <Turn speaker="spk5" startTime="749.736" endTime="750.467">
+        <Sync time="749.736" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="750.467" endTime="754.047">
+        <Sync time="750.467" />
+        je sais pas ce que c'est + moi il y a cinq ans je sais pas ce que c'est l'encodage des &lt; caractères
+      </Turn>
+      <Turn speaker="spk2" startTime="754.047" endTime="759.178">
+        <Sync time="754.047" />
+        non mais moi &gt; il y a cinq ans et cinq ans encore encore en plus je sais toujours pas
+        <Event desc="rires L2-L4" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk5" startTime="759.178" endTime="761.866">
+        <Sync time="759.178" />
+        ah oui d'accord très bien très bien &lt; donc il faut
+      </Turn>
+      <Turn speaker="spk1" startTime="761.866" endTime="773.865">
+        <Sync time="761.866" />
+        je pense &gt; que ça en fait il vaut mieux le laisser étiqueté par euh
+        <Event desc="conversation + rires annexes" type="noise" extent="instantaneous" />
+        c- /enfin,en fait/ en fait en fonction de l'ordinateur
+        <Sync time="768.051" />
+        sur lequel tu vas lancer transcriber je pense que ça va se mettre ou en U.T.F. huit ou en ISO et caetera
+      </Turn>
+      <Turn speaker="spk5" startTime="773.865" endTime="776.122">
+        <Sync time="773.865" />
+        ah bon + c'est comme ça ¤P1¤
+      </Turn>
+      <Turn speaker="spk1" startTime="776.122" endTime="777.102">
+        <Sync time="776.122" />
+        <Event desc="bruit de microphone" type="noise" extent="instantaneous" />
+        mais non mais
+      </Turn>
+      <Turn speaker="spk5" startTime="777.102" endTime="777.918">
+        <Sync time="777.102" />
+        &lt; tu imagines le bordel
+      </Turn>
+      <Turn speaker="spk1" startTime="777.918" endTime="779.438">
+        <Sync time="777.918" />
+        c'est pas systématique &gt; mais ça peut varier selon la machine
+      </Turn>
+      <Turn speaker="spk3" startTime="779.438" endTime="780.595">
+        <Sync time="779.438" />
+        mais même quand
+      </Turn>
+      <Turn speaker="spk1" startTime="780.595" endTime="787.39">
+        <Sync time="780.595" />
+        comment elle est paramétrée ta machine sur laquelle tu es tu vois par défaut tu as un encodage + dans chaque application
+      </Turn>
+      <Turn speaker="spk3" startTime="787.39" endTime="790.655">
+        <Sync time="787.39" />
+        c'est quoi /la,là/ la question j'ai pas suivi le le débat de départ
+      </Turn>
+      <Turn speaker="spk5" startTime="790.655" endTime="791.595">
+        <Sync time="790.655" />
+        <Event desc="hésitation, bafouillage" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="791.595" endTime="792.047">
+        <Sync time="791.595" />
+        &lt; l'encodage
+      </Turn>
+      <Turn speaker="spk5" startTime="792.047" endTime="792.643">
+        <Sync time="792.047" />
+        ***
+      </Turn>
+      <Turn speaker="spk2" startTime="792.643" endTime="794.998">
+        <Sync time="792.643" />
+        encodage &gt; des caractères par exemple &lt; voilà ¤P4¤
+      </Turn>
+      <Turn speaker="spk2" startTime="794.998" endTime="796.18">
+        <Sync time="794.998" />
+        moi je sais pas je sais pas rentrer ce truc-là
+      </Turn>
+      <Turn speaker="spk1" startTime="796.18" endTime="796.934">
+        <Sync time="796.18" />
+        je vais vous donner un exemple
+      </Turn>
+      <Turn speaker="spk3" startTime="796.934" endTime="799.248">
+        <Sync time="796.934" />
+        oui ben on on &gt; mettra on mettra trois quatre euh
+      </Turn>
+      <Turn speaker="spk4" startTime="799.248" endTime="799.81">
+        <Sync time="799.248" />
+        propositions
+      </Turn>
+      <Turn speaker="spk3" startTime="799.81" endTime="800.661">
+        <Sync time="799.81" />
+        propositions
+      </Turn>
+      <Turn speaker="spk2" startTime="800.661" endTime="801.771">
+        <Sync time="800.661" />
+        oui mais &lt; quand on sait pas
+      </Turn>
+      <Turn speaker="spk1" startTime="801.771" endTime="802.423">
+        <Sync time="801.771" />
+        oui mais tu &gt; sais pas
+      </Turn>
+      <Turn speaker="spk3" startTime="802.423" endTime="804.163">
+        <Sync time="802.423" />
+        mais tu en mets une par défaut et après tu en sélectionnes une autre
+      </Turn>
+      <Turn speaker="spk1" startTime="804.163" endTime="806.596">
+        <Sync time="804.163" />
+        mais non mais tu sais tu sais pas &lt; laquelle est la bonne
+      </Turn>
+      <Turn speaker="spk2" startTime="806.596" endTime="807.293">
+        <Sync time="806.596" />
+        tu sais pas &gt; les remplir du tout
+      </Turn>
+      <Turn speaker="spk2" startTime="807.293" endTime="809.139">
+        <Sync time="807.293" />
+        moi je sais pas hein &lt; remplir un truc comme ça
+      </Turn>
+      <Turn speaker="spk1" startTime="809.139" endTime="817.921">
+        <Sync time="809.139" />
+        *** je te &gt; donne un exemple j'ouvre mon fichier mettons euh je veux faire ma fiche signalétique euh tout ça euh
+        <Sync time="814.675" />
+        j'ai mon ma transcription qui est faite mon corpus il est prêt et tout je veux le rentrer &lt; je fais la
+      </Turn>
+      <Turn speaker="spk3" startTime="817.921" endTime="818.186">
+        <Sync time="817.921" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="818.186" endTime="819.269">
+        <Sync time="818.186" />
+        fiche signalétique sur &lt; Internet
+      </Turn>
+      <Turn speaker="spk5" startTime="819.269" endTime="819.635">
+        <Sync time="819.269" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="819.635" endTime="852.615">
+        <Sync time="819.635" />
+        d'accord j'ai fait mon corpus sous mac
+        <Event desc="apocope de Macintosh" type="lexical" extent="instantaneous" />
+        mon éditeur s- de texte sous mac il m'ouvre par défaut en en- en encodage macroman
+        <Sync time="827.902" />
+        par défaut je le sais maintenant parce que j'ai regardé mais avant je savais pas + donc par défaut c'est macroman
+        <Sync time="833.566" />
+        moi je le sais pas je vais sur Internet pour moi le formulaire il avait toujours la même tête tout ça je mets U.T.F. huit
+        <Sync time="839.069" />
+        + /mettons,admettons/ parce que j'ai retenu U.T.F. huit + ¤P2¤ elle reprend le truc elle le fait automatiquement et sur euh le moissonneur
+        <Sync time="846.515" />
+        on va afficher le corpus est en U.T.F. huit en fait il est en macroman ça veut dire que
+        <Event desc="inspiration de la locutrice" type="noise" extent="instantaneous" />
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        + très dur à exploiter +
+      </Turn>
+      <Turn speaker="spk5" startTime="852.615" endTime="853.95">
+        <Sync time="852.615" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="853.95" endTime="862.849">
+        <Sync time="853.95" />
+        alors que si euh ¤P2¤ elle prend mon fichier de transcription + qui est en X.M.L. + là ce sera écrit que c'est pas U.T.F. huit ce sera écrit /mettons,admettons/ macroman
+      </Turn>
+      <Turn speaker="spk5" startTime="862.849" endTime="863.823">
+        <Sync time="862.849" />
+        mais ça c'est &lt; autre chose
+      </Turn>
+      <Turn speaker="spk1" startTime="863.823" endTime="870.491">
+        <Sync time="863.823" />
+        et elle &gt; peut l'extraire et elle est sûre d'avoir la bonne information + si c'est moi qui l'a met soit je sais pas la mettre soit je me gourre
+      </Turn>
+      <Turn speaker="spk4" startTime="870.491" endTime="871.001">
+        <Sync time="870.491" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="871.001" endTime="880.877">
+        <Sync time="871.001" />
+        + et comme c'est quand même un un truc d'identification des corpus euh + enfin loin de nous euh loin de quelqu'un qui pourrait nous dire au fait j'arrive pas à ouvrir le fichier machin
+      </Turn>
+      <Turn speaker="spk3" startTime="880.877" endTime="881.468">
+        <Sync time="880.877" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="881.468" endTime="887.853">
+        <Sync time="881.468" />
+        je pense ça vaut le coup de pas f- de pas écrire de connerie parce que là ça enduit
+        <Comment desc="sic" />
+        vraiment d'erreurs hein si tu mets un mauvais encodage
+      </Turn>
+      <Turn speaker="spk2" startTime="887.853" endTime="890.191">
+        <Sync time="887.853" />
+        + ben moi de toute manière je saurais pas mettre
+      </Turn>
+      <Turn speaker="spk3" startTime="890.191" endTime="898.72">
+        <Sync time="890.191" />
+        ça on est d'accord mais en général dans les les balises on te demande justement notamment quand tu encodes en T.E.I.
+        <Sync time="894.999" />
+        on te demande le format de codage que tu utilises + directement &lt; en X.M.L. tiens ISO ***
+        <Event desc="JaJaJa" type="pronounce" extent="instantaneous" />
+        et
+      </Turn>
+      <Turn speaker="spk1" startTime="898.72" endTime="903.222">
+        <Sync time="898.72" />
+        oui oui quand tu encodes &gt; quand tu encodes en T.E.I. oui mais si tu fais ta transcription sous T.R.S.
+      </Turn>
+      <Turn speaker="spk3" startTime="903.222" endTime="903.818">
+        <Sync time="903.222" />
+        oui mais à terme
+      </Turn>
+      <Turn speaker="spk1" startTime="903.818" endTime="904.107">
+        <Sync time="903.818" />
+        sous euh
+      </Turn>
+      <Turn speaker="spk3" startTime="904.107" endTime="904.782">
+        <Sync time="904.107" />
+        à terme il faut espérer
+      </Turn>
+      <Turn speaker="spk1" startTime="904.782" endTime="905.19">
+        <Sync time="904.782" />
+        oui mais
+      </Turn>
+      <Turn speaker="spk3" startTime="905.19" endTime="905.785">
+        <Sync time="905.19" />
+        qu'on ait standardisé tout ça
+      </Turn>
+      <Turn speaker="spk1" startTime="905.785" endTime="911.124">
+        <Sync time="905.785" />
+        je suis d'accord mais à terme de toute façon ce sera automatique euh +
+        <Event desc="bruits de microphone" type="noise" extent="next" />
+        enfin je pense on (n') a pas besoin de le mettre dans la fiche
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

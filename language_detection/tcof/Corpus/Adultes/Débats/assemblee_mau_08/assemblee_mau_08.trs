@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="" audio_filename="assemblee_mau_08.wav" version="8" version_date="140603">
+<Speakers>
+<Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="L3" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="Personnes_dans_assemblee" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="L5" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="L6" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk7" name="L7" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk8" name="L8" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="388.546">
+<Turn startTime="0" endTime="5.937" speaker="spk1">
+<Sync time="0"/>
+donc c'est à euh *P1* et *P2* *P3* ouais
+<Sync time="4.562"/>
+c'est ça
+</Turn>
+<Turn speaker="spk2" startTime="5.937" endTime="6.797">
+<Sync time="5.937"/>
+*P2*
+</Turn>
+<Turn speaker="spk1" startTime="6.797" endTime="9.672">
+<Sync time="6.797"/>
+*P2* se prépare
+</Turn>
+<Turn speaker="spk3" startTime="9.672" endTime="74.752">
+<Sync time="9.672"/>
+bon bah bonjour *P1* toujours en L un 
+<Comment desc="Licence première année"/>
+ de philo euh toujours euh
+<Sync time="14.86"/>
+indépendant après 
+<Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+ euh
+<Sync time="17.532"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ donc euh je voulais revenir un peu sur euh le vote d'hier
+<Sync time="22.235"/>
+il y a eu une chose qui m'a frappé quand j'ai reçu l'email
+<Event desc="en" type="language" extent="previous"/>
+ de *N1*
+<Sync time="27.829"/>
+/et que je me dis,
+<Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+/ à dix-neuf heures cinquante
+<Sync time="29.344"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ la première réaction que j'ai eu c'était 
+<Sync time="32.563"/>
+mais de quoi je me mêle 
+<Sync time="33.563"/>
+si *N1* était dans les comités de grève
+<Sync time="37.094"/>
+si *N1* était un syndicaliste étudiant
+<Sync time="39.969"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ pourquoi pas
+<Sync time="41.859"/>
+entre nous euh 
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ je le vois pas ici
+<Sync time="45.563"/>
+on l'a jamais vu je pense qu'on ne le verra jamais
+<Sync time="48.595"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ donc d'un autre côté ça permet de remettre en cause son vote
+<Sync time="52.861"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ après son vote en plus il a un but assez clair
+<Sync time="56.752"/>
+c'était de réunir ce matin 
+<Sync time="58.409"/>
+tous les anti-bloqueurs devant les portes de la fac
+<Sync time="60.534"/>
+pour qu'ils fassent un magnifique pressing et qu'ils nous forcent à débloquer
+<Sync time="64.252"/>
+ça ne c'est pas fait tant pis pour lui
+<Sync time="66.627"/>
+le truc c'est que les anti-bloqueurs
+<Sync time="69.799"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ où est-ce qu'ils sont là ils sont rentrés chez eux
+</Turn>
+<Turn speaker="spk4" startTime="74.752" endTime="76.627">
+<Sync time="74.752"/>
+ non non et oh on &lt; est là on est là 
+</Turn>
+<Turn speaker="spk3" startTime="76.627" endTime="84.595">
+<Sync time="76.627"/>
+excusez-moi &gt;
+<Sync time="77.846"/>
+il y avait quand même il y avait quand même beaucoup plus de gens dans la cour de la fac ce matin
+<Sync time="81.033"/>
+qu'à cette heure-ci
+<Sync time="82.877"/>
+
+<Event desc="bruit de voix confus émanant de l'assemblée" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk7" startTime="84.595" endTime="87.22">
+<Sync time="84.595"/>
+il y en a qui sont assis il y en a qui restent debout hein
+</Turn>
+<Turn speaker="spk8" startTime="87.22" endTime="92.252">
+<Sync time="87.22"/>
+j'en ai ras le bol
+<Sync time="88.252"/>
+
+<Event desc="bruit de voix confus émanant de l'assemblée" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="92.252" endTime="94.783">
+<Sync time="92.252"/>
+vas-y continue 
+<Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="94.783" endTime="95.674">
+<Sync time="94.783"/>
+ouais
+</Turn>
+<Turn speaker="spk3" startTime="95.674" endTime="119.002">
+<Sync time="95.674"/>
+il y en a d'autres qui bossent d'accord
+<Sync time="97.236"/>
+euh vous êtes étudiants vous vous battez pour aller en cours
+<Sync time="100.173"/>
+vous (ne) voulez pas venir /aux,en/ A.G. 
+<Comment desc="sigle=Assemblées Générales"/>
+ mais
+<Sync time="101.923"/>
+dans la semaine vous pouvez venir aux cours
+<Sync time="103.954"/>
+dans la semaine vous avez des endroits pour dormir quand vous venez en cours
+<Sync time="106.486"/>
+vous avez des endroits pour manger quand vous venez en cours
+<Sync time="108.299"/>
+vous pouvez venir en cours vous pouvez venir aux A.G.
+<Sync time="110.315"/>
+c'est tout
+<Sync time="111.721"/>
+
+<Event desc="applaudissements de l'assemblée" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="119.002" endTime="123.627">
+<Sync time="119.002"/>
+tu veux prendre la parole tu 
+<Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/>
+ tu t'inscris d'accord
+<Sync time="122.283"/>
+
+<Event desc="des cris et huées émanent de l'assemblée" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="123.627" endTime="132.096">
+<Sync time="123.627"/>
+le fait d'hurler ça énerve tout le monde
+<Sync time="125.565"/>
+c'est un principe de 
+<Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/>
+ merci
+<Event desc="bruit de voix confus émanant de l'assemblée" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="132.096" endTime="134.376">
+<Sync time="132.096"/>
+vas-y vas-y
+<Event desc="bruit de voix confus émanant de l'assemblée" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="134.376" endTime="158.094">
+<Sync time="134.376"/>
+s'il vous plaît s'il vous plaît on se calme
+<Sync time="136.329"/>
+euh je pense que la demoiselle veut intervenir
+<Sync time="138.485"/>
+donne ton prénom il y a pas de soucis
+<Sync time="140.704"/>
+mais dans l'esprit de tout le monde 
+<Event desc="bruit de voix confus émanant de l'assemblée" type="noise" extent="instantaneous"/>
+
+<Sync time="147.392"/>
+mais dans l'esprit de tout le monde on on essaie de s'expliquer donc pas de
+<Sync time="151.188"/>
+pas d'intervention intempestive parce qu'en plus c'est c'est super énervant
+<Sync time="155.861"/>
+
+<Event desc="bruit de voix confus émanant de l'assemblée" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="158.094" endTime="199.781">
+<Sync time="158.094"/>
+euh ouais donc
+<Sync time="159.469"/>
+euh le truc qu'on voit c'est que 
+<Sync time="162.25"/>
+quand =t= euh quand =t= le pouvoir en place arrive à ces extrémités là
+<Sync time="165.906"/>
+premièrement ça veut dire qu'il a peur
+<Sync time="169.281"/>
+et deuxièmement ça veut dire que à partir du premier janvier ou
+<Sync time="172.516"/>
+ou de la mise en place de la loi qu'est-ce qui va se passer
+<Sync time="174.453"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ vous avez vu ce qu'on a là
+<Sync time="176.953"/>
+quand vous donnez les pleins pouvoirs à un type comme ça
+<Sync time="180.422"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ moi ça me fait un petit peu peur quand même
+<Sync time="183.734"/>
+
+<Event desc="pause" type="noise" extent="instantaneous"/>
+ là-dessus ben je vais finir 
+<Sync time="186.016"/>
+je vais laisser la parole à mes détracteurs si ils ont le courage
+<Sync time="191.094"/>
+merci quand même
+<Sync time="192.828"/>
+
+<Event desc="applaudissements de l'assemblée" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="199.781" endTime="215.625">
+<Sync time="199.781"/>
+donc la parole est à *P2* et *P4* se prépare
+<Event desc="bruit de voix confus émanant de l'assemblée" type="noise" extent="previous"/>
+
+<Sync time="205.781"/>
+hé s'il vous plaît s'il vous plaît
+<Sync time="207.687"/>
+hé /oh 
+<Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/>
+,aussi/ ce qui était bien dans les A.G. c'est que c'est ça a toujours été avec respect
+<Sync time="211.593"/>
+donc on va continuer comme ça
+<Sync time="213.406"/>
+
+<Event desc="bruit de voix confus émanant de l'assemblée" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="215.625" endTime="305.31">
+<Sync time="215.625"/>
+bonjour à toutes bonjour à tous
+<Sync time="217.641"/>
+alors euh bon ben je m'affiche tout de suite je suis complètement anti-bloqueurs
+<Event desc="quelques applaudissements émanent de l'assemblée" type="noise" extent="previous"/>
+
+<Sync time="221.579"/>
+je ne suis pas syndiqué
+<Sync time="223.486"/>
+je ne suis pour aucun parti politique dans cette discussion
+<Sync time="226.689"/>
+alors je vais vous parler de la situation actuelle évidemment
+<Sync time="229.642"/>
+la situation actuelle qu'est-ce que c'est
+<Sync time="232.064"/>
+c'est euh
+<Sync time="233.158"/>
+une A.G. encore qui risque d'être un petit peu stérile et puis euh
+<Sync time="237.001"/>
+qui risque de ne servir a rien
+<Sync time="238.751"/>
+euh suite à un vote qui a été organisé
+<Event desc="applaudissements émanant de l'assemblée" type="noise" extent="previous"/>
+
+<Sync time="243.439"/>
+suite à un vote qui a été organisé alors par la présidence certes
+<Sync time="247.501"/>
+s'il vous plaît laissez moi parler
+<Sync time="249.235"/>
+hein vous nous demandez de venir parler donc ne me coupez pas merci
+<Sync time="252.391"/>
+donc suite à un vote qui est organisé par la présidence alors ça à l'air tous de vous euh
+<Sync time="257.453"/>
+enfin pour les bloqueurs ça à l'air de vous choquer
+<Sync time="259.796"/>
+euh vous estimez ça pas légitime
+<Sync time="262.249"/>
+pourquoi pourquoi c'est pas légitime parce que ça a pas été euh
+<Sync time="265.874"/>
+soumis /en,à l'/ A.G.
+<Sync time="267.171"/>
+j'aimerais quand même faire remarquer que Madame *N2* a dit que les 
+<Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/>
+ les assemblées générales étaient légitimes mais pas souveraines
+<Sync time="273.077"/>
+elle a pas dit ça elle a pas dit qu'ils avaient le droit de décision
+<Sync time="276.202"/>
+pour tous les étudiants de la fac d'accord
+<Sync time="278.327"/>
+hier avec le vote les étudiants à cinquante-deux pour cent à peu près ont décidé qu'il fallait reprendre les cours
+<Sync time="285.53"/>
+euh personnellement je me suis éxprimé aussi pour cela
+<Sync time="288.874"/>
+euh je ne peux pas m'exprimer par rapport à la loi
+<Sync time="291.967"/>
+mais j'estime que je peux m'exprimer uniquement par rapport au bloc- au blocage pardon
+<Sync time="295.811"/>
+et dire non au blocage
+<Sync time="297.561"/>
+maintenant
+<Sync time="298.967"/>
+euh
+<Sync time="300.279"/>
+maintenant donc il va visiblement encore y a voir un vote ici
+<Sync time="303.748"/>
+un vote euh oui bon &lt; euh 
+</Turn>
+<Turn speaker="spk8" startTime="305.31" endTime="306.528">
+<Sync time="305.31"/>
+je &gt; peux prendre &lt; 
+<Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="306.528" endTime="307.044">
+<Sync time="306.528"/>
+non &gt;
+</Turn>
+<Turn speaker="spk2" startTime="307.044" endTime="307.825">
+<Sync time="307.044"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="307.825" endTime="311.372">
+<Sync time="307.825"/>
+non *P5* non non *P5* *P5* non *P5* &lt; non *P5* *P5* *P5* *P5*
+</Turn>
+<Turn speaker="spk2" startTime="311.372" endTime="330.637">
+<Sync time="311.372"/>
+non non non *P5* &gt;
+<Sync time="313.325"/>
+non tu t'étais inscrit *P5* 
+<Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/>
+ je te promets tu es inscrit
+<Sync time="317.888"/>
+
+<Event desc="des personnes dans l'assemblée huent" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="330.637" endTime="350.891">
+<Sync time="330.637"/>
+donc oui vous allez encore soumettre euh 
+<Sync time="332.325"/>
+un vote à cette assemblée générale
+<Sync time="334.2"/>
+cette assemblée générale va certainement décider le blocage
+<Sync time="337.169"/>
+maintenant comme euh 
+<Sync time="338.778"/>
+je me re- je me redis je suis comme les étudiants qui ont décidé en majorité de vouloir reprendre les cours
+<Sync time="344.122"/>
+si monsieur *N1* décide de prendre des mesures un peu plus radicales
+<Sync time="348.059"/>
+je ne suis pas pour la violence mais il faudra pas vous plaindre parce que à force ben &lt; pareil 
+</Turn>
+<Turn speaker="spk8" startTime="350.891" endTime="354.403">
+<Sync time="350.891"/>
+s'il vous plaît &gt; 
+<Event desc="bruit de voix confus émanant de l'assemblée" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="354.403" endTime="356.168">
+<Sync time="354.403"/>
+laissez un petit peu parler merci
+</Turn>
+<Turn speaker="spk1" startTime="356.168" endTime="357.48">
+<Sync time="356.168"/>
+non sérieux &lt; sérieux
+</Turn>
+<Turn speaker="spk6" startTime="357.48" endTime="359.449">
+<Sync time="357.48"/>
+vous &gt; croyez que c'est intelligent comme ça de couper les gens
+</Turn>
+<Turn speaker="spk1" startTime="359.449" endTime="364.651">
+<Sync time="359.449"/>
+il faut conclure
+<Sync time="360.339"/>
+
+<Event desc="bruit de voix confus émanant de l'assemblée" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="364.651" endTime="384.01">
+<Sync time="364.651"/>
+s'il vous plaît s'il vous plaît s'il vous plaît 
+<Sync time="366.229"/>
+un minimum de respect
+<Sync time="367.604"/>
+premièrement c'est pas facile de venir inter- euh intervenir surtout quand on voit qu'il y a plein de détracteurs dans la salle euh donc et en plus on leur demande d'intervenir
+<Sync time="375.229"/>
+donc c'est pas non plus la peine de les mettre mal à l'aise
+<Sync time="377.276"/>
+donc il(s) parle(nt)
+<Sync time="378.838"/>
+si ça si vous êtes pas d'accord vous en faîtes un non événement et
+<Sync time="382.619"/>
+pas de réaction c'est tout
+</Turn>
+<Turn speaker="spk7" startTime="384.01" endTime="386.916">
+<Sync time="384.01"/>
+est-ce que tu pourrais me la préparer pour le 
+<Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk6" startTime="386.916" endTime="388.546">
+<Sync time="386.916"/>
+comment
+</Turn>
+</Section>
+</Episode>
+</Trans>

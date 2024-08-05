@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="client" audio_filename="adrien3_bia.wav" version="10" version_date="140424">
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Adrien" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="MS10/2012-ECFev2014"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="631.676" topic="to1">
+<Turn startTime="0" endTime="1.142" speaker="spk1">
+<Sync time="0"/>
+bon on s'intéresse à ce livre
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1.142" endTime="3.596">
+<Sync time="1.142"/>
+<Who nb="1"/>
+ben ben oui ***
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="3.596" endTime="4.417">
+<Sync time="3.596"/>
+alors
+</Turn>
+<Turn speaker="spk2" startTime="4.417" endTime="5.69">
+<Sync time="4.417"/>
+Tchoupi /0, il/ fait quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="5.69" endTime="11.949">
+<Sync time="5.69"/>
+ben je sais pas on va voir
+<Sync time="7.182"/>
+++ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ voila on va laisser ça là
+</Turn>
+<Turn speaker="spk2" startTime="11.949" endTime="12.841">
+<Sync time="11.949"/>
+Tchoupi
+</Turn>
+<Turn speaker="spk1" startTime="12.841" endTime="17.708">
+<Sync time="12.841"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ alors le titre c'est Tchoupi a peur de l'orage
+</Turn>
+<Turn speaker="spk2" startTime="17.708" endTime="20.722">
+<Sync time="17.708"/>
+
+<Event desc="ch" type="pronounce" extent="next"/>
+ Tchoupi a peur de l'orage
+</Turn>
+<Turn speaker="spk1" startTime="20.722" endTime="24.297">
+<Sync time="20.722"/>
+ouais on fait comme la dernière fois on lit le livre tous les deux et après tu me le 
+<Event desc="ml2" type="pronounce" extent="previous"/>
+ racontes
+</Turn>
+<Turn speaker="spk2" startTime="24.297" endTime="25.208">
+<Sync time="24.297"/>
+mm
+</Turn>
+<Turn speaker="spk1" startTime="25.208" endTime="41.392">
+<Sync time="25.208"/>
+
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ alors
+<Sync time="26.24"/>
+Tchoupi a peur de l'orage
+<Sync time="28.853"/>
+
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ ce soir Tchoupi est très énervé
+<Sync time="33.059"/>
+maman en a assez ça suffit Tchoupi reste tranquille et finis ton assiette
+<Sync time="38.808"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu regarde
+</Turn>
+<Turn speaker="spk2" startTime="41.392" endTime="41.963">
+<Sync time="41.392"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="41.963" endTime="47.621">
+<Sync time="41.963"/>
+là il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ Tchoupi qui /0, est/ debout sur son siège pendant qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ mange
+<Sync time="45.598"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut être assis normalement ?
+</Turn>
+<Turn speaker="spk2" startTime="47.621" endTime="49.494">
+<Sync time="47.621"/>
+oh oui il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut pas être debout
+</Turn>
+<Turn speaker="spk1" startTime="49.494" endTime="53.89">
+<Sync time="49.494"/>
+ben non 
+<Event desc="na~ " type="pronounce" extent="previous"/>
+ et là il fait plein de bêtises apparement
+<Sync time="52.098"/>
+regarde il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ même à manger à coté sur la table
+</Turn>
+<Turn speaker="spk2" startTime="53.89" endTime="54.991">
+<Sync time="53.89"/>
+mm
+</Turn>
+<Turn speaker="spk1" startTime="54.991" endTime="56.513">
+<Sync time="54.991"/>
+et tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu c'est comment dehors ?
+</Turn>
+<Turn speaker="spk2" startTime="56.513" endTime="59.026">
+<Sync time="56.513"/>
+il pleut
+</Turn>
+<Turn speaker="spk1" startTime="59.026" endTime="118.428">
+<Sync time="59.026"/>
+oui
+<Sync time="59.596"/>
+allez Tchoupi c'est l'heure de dormir calme toi un peu sinon demain tu seras fatigué
+<Sync time="66.746"/>
++ mais Tchoupi râle 
+<Sync time="71.443"/>
+j'ai pas envie d'aller dormir
+<Sync time="73.115"/>
+et puis d'abord j'ai pas sommeil
+<Sync time="75.128"/>
+allez Tchoupi je laisse la petite lumière
+<Sync time="78.373"/>
+bonne nuit
+<Sync time="79.224"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ flic flac floc
+<Sync time="83.169"/>
+Tchoupi entend la pluie tomber
+<Sync time="84.781"/>
+et il n'est pas très rassuré
+<Sync time="86.463"/>
++ ta ta ta ta tac badaboum
+<Sync time="91.258"/>
+le tonnerre commence à gronder
+<Sync time="92.761"/>
+Tchoupi se bouche les oreilles
+<Sync time="94.924"/>
+qu'est ce que c'est que ce 
+<Event desc="ks9" type="pronounce" extent="previous"/>
+ bruit ?
+<Sync time="96.647"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ papa maman j'ai peur
+<Sync time="100.924"/>
+appelle Tchoupi 
+<Sync time="103.046"/>
+je ne veux pas rester tout seul
+<Sync time="104.718"/>
+et puis il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ pleure
+<Sync time="106.21"/>
+il a peur
+<Sync time="107.572"/>
++ 
+<Event desc="pap" type="noise" extent="next"/>
+ papa vient rassurer Tchoupi
+<Sync time="112.47"/>
+voyons Tchoupi ce n'est rien
+<Sync time="114.482"/>
+c'est juste un petit orage
+<Sync time="116.385"/>
+c'est le bruit du tonnerre qu'on entend
+</Turn>
+<Turn speaker="spk2" startTime="118.428" endTime="119.449">
+<Sync time="118.428"/>
+mm
+</Turn>
+<Turn speaker="spk1" startTime="119.449" endTime="158.415">
+<Sync time="119.449"/>
++ 
+<Event desc="pap" type="noise" extent="next"/>
+ regarde Tchoupi ce sont les éclairs qui brillent dans le ciel
+<Sync time="127.731"/>
+c'est beau dit Tchoupi 
+<Sync time="129.543"/>
+allez Tchoupi retourne dans ton lit
+<Sync time="131.696"/>
++ 
+<Event desc="pap" type="noise" extent="next"/>
+ tu vois Tchoupi
+<Sync time="136.533"/>
+tu n'as pas de raison d'avoir peur
+<Sync time="138.396"/>
+
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ dors bien maintenant
+<Sync time="139.918"/>
+
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ badaboum badaboum
+<Sync time="142.932"/>
+Tchoupi sert fort Doudou dans ses bras
+<Sync time="145.476"/>
+n'aies pas peur Doudou c'est juste le tonnerre
+<Sync time="148.471"/>
++ et voilà
+<Sync time="151.676"/>
+on refait tu me racontes 
+<Event desc="mRako~t" type="pronounce" extent="previous"/>
+ l'histoire
+<Sync time="154.039"/>
+alors
+<Sync time="155.612"/>
+ça parle de quoi ?
+<Sync time="157.434"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ parle de quoi le livre ?
+</Turn>
+<Turn speaker="spk2" startTime="158.415" endTime="164.794">
+<Sync time="158.415"/>
+euh + Tchoupi a peur de l'orage
+</Turn>
+<Turn speaker="spk1" startTime="164.794" endTime="171.253">
+<Sync time="164.794"/>
+oui
+<Sync time="165.645"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ alors qu'est ce qu'il se passe ?
+</Turn>
+<Turn speaker="spk2" startTime="171.253" endTime="175.96">
+<Sync time="171.253"/>
+alors alors il est il est debout sur son siège
+</Turn>
+<Turn speaker="spk1" startTime="175.96" endTime="179.064">
+<Sync time="175.96"/>
+oui il est debout sur son siège
+<Sync time="178.233"/>
+mais qu'est ce qu'il fait ?
+</Turn>
+<Turn speaker="spk2" startTime="179.064" endTime="185.604">
+<Sync time="179.064"/>
+et et et et et il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ plein de miettes sur la table
+</Turn>
+<Turn speaker="spk1" startTime="185.604" endTime="186.615">
+<Sync time="185.604"/>
+plein de miettes
+</Turn>
+<Turn speaker="spk2" startTime="186.615" endTime="187.526">
+<Sync time="186.615"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="187.526" endTime="188.547">
+<Sync time="187.526"/>
+oui c'est vrai
+</Turn>
+<Turn speaker="spk2" startTime="188.547" endTime="192.592">
+<Sync time="188.547"/>
+là là il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ de l'orage
+</Turn>
+<Turn speaker="spk1" startTime="192.592" endTime="197.981">
+<Sync time="192.592"/>
+oui ça commence
+<Sync time="193.835"/>
+regarde c'est tout noir et il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ du vent qui souffle
+</Turn>
+<Turn speaker="spk2" startTime="197.981" endTime="198.782">
+<Sync time="197.981"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="198.782" endTime="201.837">
+<Sync time="198.782"/>
+comment on voit qu'il y a du vent qui souffle ?
+</Turn>
+<Turn speaker="spk2" startTime="201.837" endTime="204.361">
+<Sync time="201.837"/>
+ben il souffle pfff 
+<Comment desc="Adrien imite le bruit du vent"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="204.361" endTime="207.555">
+<Sync time="204.361"/>
+ah oui 
+<Event desc="rire" type="noise" extent="previous"/>
+
+<Sync time="205.512"/>
+et regarde les arbres ils sont penchés 
+<Comment desc="Adrien chantonne"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="207.555" endTime="209.157">
+<Sync time="207.555"/>
+mm
+</Turn>
+<Turn speaker="spk1" startTime="209.157" endTime="214.725">
+<Sync time="209.157"/>
++ 
+<Event desc="pap" type="noise" extent="next"/>
+ après qu'est ce qu'il 
+<Event desc="keski" type="pronounce" extent="previous"/>
+ se passe ?
+</Turn>
+<Turn speaker="spk2" startTime="214.725" endTime="223.108">
+<Sync time="214.725"/>
+après après il v- il veut pas 
+<Event desc="pask" type="pronounce" extent="previous"/>
+
+<Sync time="218.04"/>
+il veut p- il veut pas arrêter s'énerver
+</Turn>
+<Turn speaker="spk1" startTime="223.108" endTime="224.61">
+<Sync time="223.108"/>
+il veut pas arrêter de s'énerver
+</Turn>
+<Turn speaker="spk2" startTime="224.61" endTime="225.231">
+<Sync time="224.61"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="225.231" endTime="226.793">
+<Sync time="225.231"/>
+et il veut pas aller
+</Turn>
+<Turn speaker="spk2" startTime="226.793" endTime="228.455">
+<Sync time="226.793"/>
+se coucher
+</Turn>
+<Turn speaker="spk1" startTime="228.455" endTime="237.768">
+<Sync time="228.455"/>
+oui exactement
+<Sync time="229.446"/>
+il veut pas aller se coucher
+<Sync time="231.599"/>
++ 
+<Event desc="pap" type="noise" extent="next"/>
+ et là alors
+</Turn>
+<Turn speaker="spk2" startTime="237.768" endTime="246.551">
+<Sync time="237.768"/>
+alors alors il a envie qu'on l- *
+<Sync time="242.555"/>
+utiliser la petite 
+<Event desc="ptit" type="pronounce" extent="previous"/>
+ lumière
+</Turn>
+<Turn speaker="spk1" startTime="246.551" endTime="252.044">
+<Sync time="246.551"/>
+maman va laisser la petite lumière
+<Sync time="249.445"/>
+et lui il a envie de de dormir ?
+</Turn>
+<Turn speaker="spk2" startTime="252.044" endTime="252.78">
+<Sync time="252.044"/>
+non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="252.78" endTime="253.651">
+<Sync time="252.78"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="253.651" endTime="254.923">
+<Sync time="253.651"/>
+j'ai pas sommeil
+</Turn>
+<Turn speaker="spk1" startTime="254.923" endTime="260.191">
+<Sync time="254.923"/>
+il a pas sommeil 
+<Event desc="b" type="noise" extent="previous"/>
+ oui
+<Sync time="257.176"/>
+et là qu'est ce qu'il se passe dehors ?
+</Turn>
+<Turn speaker="spk2" startTime="260.191" endTime="263.646">
+<Sync time="260.191"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il pleut il a peur
+</Turn>
+<Turn speaker="spk1" startTime="263.646" endTime="265.208">
+<Sync time="263.646"/>
+et pourquoi il a peur ?
+</Turn>
+<Turn speaker="spk2" startTime="265.208" endTime="270.796">
+<Sync time="265.208"/>
+parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ euh bon parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ il a peur de l'orage
+</Turn>
+<Turn speaker="spk1" startTime="270.796" endTime="275.162">
+<Sync time="270.796"/>
+oui
+<Sync time="271.587"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ et là
+</Turn>
+<Turn speaker="spk2" startTime="275.162" endTime="285.878">
+<Sync time="275.162"/>
+et là et là il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ l- il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+
+<Sync time="281.702"/>
++ il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ l'éclair
+</Turn>
+<Turn speaker="spk1" startTime="285.878" endTime="287.81">
+<Sync time="285.878"/>
+oui très bien il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ l'éclair
+</Turn>
+<Turn speaker="spk2" startTime="287.81" endTime="291.466">
+<Sync time="287.81"/>
+et et et Tchoupi il veut pas entendre
+</Turn>
+<Turn speaker="spk1" startTime="291.466" endTime="293.749">
+<Sync time="291.466"/>
+il veut pas entendre parce qu'il 
+<Event desc="paskil" type="pronounce" extent="previous"/>
+ a peur
+</Turn>
+<Turn speaker="spk2" startTime="293.749" endTime="294.72">
+<Sync time="293.749"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="294.72" endTime="298.095">
+<Sync time="294.72"/>
+donc qu'est ce qu'il 
+<Event desc="keski" type="pronounce" extent="previous"/>
+ fait pour ne pas entendre ?
+</Turn>
+<Turn speaker="spk2" startTime="298.095" endTime="305.126">
+<Sync time="298.095"/>
+il cache il cache sur coussin av- avec ses mains
+</Turn>
+<Turn speaker="spk1" startTime="305.126" endTime="310.243">
+<Sync time="305.126"/>
+oui il cache ses oreilles avec ses mains sous son coussin 
+</Turn>
+<Turn speaker="spk2" startTime="310.243" endTime="311.585">
+<Sync time="310.243"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="311.585" endTime="312.977">
+<Sync time="311.585"/>
+et là alors ?
+</Turn>
+<Turn speaker="spk2" startTime="312.977" endTime="320.848">
+<Sync time="312.977"/>
+et et là et là il il a peur de l'or- il appelle papa maman j'ai peur du noir
+</Turn>
+<Turn speaker="spk1" startTime="320.848" endTime="323.74">
+<Sync time="320.848"/>
+oui il a peur du noir
+<Sync time="322.411"/>
+et de l'orage
+</Turn>
+<Turn speaker="spk2" startTime="323.74" endTime="335.15">
+<Sync time="323.74"/>
+oui
+<Sync time="324.414"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ papa et et papa et après et et et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il console
+</Turn>
+<Turn speaker="spk1" startTime="335.15" endTime="339.447">
+<Sync time="335.15"/>
+oui il le console papa 
+<Event desc="pap" type="noise" extent="previous"/>
+
+<Sync time="336.723"/>
+
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ et qu'est ce qu'il lui montre alors ?
+</Turn>
+<Turn speaker="spk2" startTime="339.447" endTime="345.225">
+<Sync time="339.447"/>
+il montre ça fait pas peur le et il dit qu- que c'est beau
+</Turn>
+<Turn speaker="spk1" startTime="345.225" endTime="353.376">
+<Sync time="345.225"/>
+il dit que les éclairs sont beaux
+<Sync time="348.139"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ouh tu tombes Adrien tu remontes
+<Sync time="350.142"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ allez allez 
+<Comment desc="rires d'Adrien"/>
+
+<Sync time="352.383"/>
+viens pour finir
+</Turn>
+<Turn speaker="spk2" startTime="353.376" endTime="354.838">
+<Sync time="353.376"/>
+d'accord
+</Turn>
+<Turn speaker="spk1" startTime="354.838" endTime="359.705">
+<Sync time="354.838"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ donc il montre que l'orage c'est beau que il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ des jolis éclairs
+</Turn>
+<Turn speaker="spk2" startTime="359.705" endTime="374.847">
+<Sync time="359.705"/>
++ euh euh euh euh euh euh fff
+<Sync time="368.368"/>
+fff euh euh euh et ça fait pas peur l'orage
+</Turn>
+<Turn speaker="spk2 spk1" startTime="374.847" endTime="375.989">
+<Sync time="374.847"/>
+<Who nb="1"/>
+et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sert
+<Who nb="2"/>
+non
+</Turn>
+<Turn speaker="spk2" startTime="375.989" endTime="377.561">
+<Sync time="375.989"/>
+fort fort Doudou
+</Turn>
+<Turn speaker="spk1" startTime="377.561" endTime="381.557">
+<Sync time="377.561"/>
+il sert fort son doudou
+<Sync time="379.694"/>
+et il a plus peur
+</Turn>
+<Turn speaker="spk2" startTime="381.557" endTime="382.559">
+<Sync time="381.557"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ mm
+</Turn>
+<Turn speaker="spk1" startTime="382.559" endTime="385.824">
+<Sync time="382.559"/>
+et qu'est ce qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ raconte à son doudou alors ?
+</Turn>
+<Turn speaker="spk2" startTime="385.824" endTime="390.681">
+<Sync time="385.824"/>
+il sert fort dans ses bras et j'ai plus peur de l'orage
+</Turn>
+<Turn speaker="spk1" startTime="390.681" endTime="394.887">
+<Sync time="390.681"/>
+voila il sert fort dans ses bras et il dit qu'il a plus peur de l'orage
+</Turn>
+<Turn speaker="spk2" startTime="394.887" endTime="396.709">
+<Sync time="394.887"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ et voilà
+</Turn>
+<Turn speaker="spk1" startTime="396.709" endTime="398.893">
+<Sync time="396.709"/>
+et voilà et toi tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ peur de l'orage ou pas ?
+</Turn>
+<Turn speaker="spk2" startTime="398.893" endTime="399.604">
+<Sync time="398.893"/>
+/hum, non/
+</Turn>
+<Turn speaker="spk1" startTime="399.604" endTime="400.456">
+<Sync time="399.604"/>
+jamais ?
+</Turn>
+<Turn speaker="spk2" startTime="400.456" endTime="401.167">
+<Sync time="400.456"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="401.167" endTime="402.78">
+<Sync time="401.167"/>
+même quand ça fait beaucoup de bruit dehors ?
+</Turn>
+<Turn speaker="spk2" startTime="402.78" endTime="406.405">
+<Sync time="402.78"/>
+ouais il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait mais il fait pas beau
+</Turn>
+<Turn speaker="spk1" startTime="406.405" endTime="408.088">
+<Sync time="406.405"/>
+oui il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait pas beau mais il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ pleut pas
+</Turn>
+<Turn speaker="spk2" startTime="408.088" endTime="408.669">
+<Sync time="408.088"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="408.669" endTime="414.306">
+<Sync time="408.669"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+non
+<Sync time="409.149"/>
++ on va la reraconter d'accord
+</Turn>
+<Turn speaker="spk2" startTime="414.306" endTime="417.12">
+<Sync time="414.306"/>
+et c'est moi qui la raconte
+</Turn>
+<Turn speaker="spk1" startTime="417.12" endTime="422.107">
+<Sync time="417.12"/>
+ouais tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu regarde il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ pleut
+<Sync time="420.134"/>
+comme dans le livre
+</Turn>
+<Turn speaker="spk2" startTime="422.107" endTime="422.878">
+<Sync time="422.107"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="422.878" endTime="424.961">
+<Sync time="422.878"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ alors vas-y raconte
+</Turn>
+<Turn speaker="spk2" startTime="424.961" endTime="429.478">
+<Sync time="424.961"/>
+alors alors il est très énervé ce soir
+</Turn>
+<Turn speaker="spk1" startTime="429.478" endTime="433.173">
+<Sync time="429.478"/>
+il est très énervé ce soir oui
+<Sync time="431.581"/>
+et qu'est ce qu'il 
+<Event desc="keski" type="pronounce" extent="previous"/>
+ fait ?
+</Turn>
+<Turn speaker="spk2" startTime="433.173" endTime="440.654">
+<Sync time="433.173"/>
+et et et et l- et et et la maman elle dit finis ton assiette Tchoupi
+</Turn>
+<Turn speaker="spk1" startTime="440.654" endTime="445.922">
+<Sync time="440.654"/>
+donc on est le soir et il mange
+<Sync time="443.598"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ finisse son assiette
+</Turn>
+<Turn speaker="spk2" startTime="445.922" endTime="460.713">
+<Sync time="445.922"/>
+et après il veut pas après la maman elle dit que si tu dors pas euh
+<Sync time="455.035"/>
+euh euh euh elle dit que que s- tu vas être fatigué
+</Turn>
+<Turn speaker="spk1" startTime="460.713" endTime="467.382">
+<Sync time="460.713"/>
+demain il sera fatigué si il ne dort pas tu as raison
+<Sync time="464.188"/>
+mais est ce que Tchoupi il a envie d'aller se coucher ?
+</Turn>
+<Turn speaker="spk2" startTime="467.382" endTime="469.56">
+<Sync time="467.382"/>
+non i- j'ai pas sommeil
+</Turn>
+<Turn speaker="spk1" startTime="469.56" endTime="473.051">
+<Sync time="469.56"/>
+il dit j'ai pas sommeil
+<Sync time="470.888"/>
+et là qu'est ce qu'il fait ?
+</Turn>
+<Turn speaker="spk2" startTime="473.051" endTime="480.682">
+<Sync time="473.051"/>
+et et je j'ai il dit que que /je vais, tu vas/ pas dormir
+<Sync time="477.538"/>
+euh je j'ai pas sommeil
+</Turn>
+<Turn speaker="spk1" startTime="480.682" endTime="482.186">
+<Sync time="480.682"/>
+et il saute sur son lit
+</Turn>
+<Turn speaker="spk2" startTime="482.186" endTime="490.656">
+<Sync time="482.186"/>
+et la maman elle dit que que que j'- j'ai laissé la petite 
+<Event desc="ptit" type="pronounce" extent="previous"/>
+ lumière
+<Sync time="488.172"/>
+ et au revoir Tchoupi dors bien
+</Turn>
+<Turn speaker="spk1" startTime="490.656" endTime="492.118">
+<Sync time="490.656"/>
+oui c'est vrai
+</Turn>
+<Turn speaker="spk2" startTime="492.118" endTime="497.456">
+<Sync time="492.118"/>
+et Tchoupi il est 
+<Event desc="lile" type="pronounce" extent="previous"/>
+
+<Sync time="495.643"/>
+flic flac flac 
+<Event desc="ch" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="497.456" endTime="500.0">
+<Sync time="497.456"/>
+et c'est quoi qui fait flic flac floc ?
+</Turn>
+<Turn speaker="spk2" startTime="500.0" endTime="501.843">
+<Sync time="500.0"/>
+et c'est l'orage
+</Turn>
+<Turn speaker="spk1" startTime="501.843" endTime="503.365">
+<Sync time="501.843"/>
+c'est l'orage c'est la pluie
+</Turn>
+<Turn speaker="spk2" startTime="503.365" endTime="510.055">
+<Sync time="503.365"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ et et et et il appelle oh papa maman
+</Turn>
+<Turn speaker="spk1" startTime="510.055" endTime="517.305">
+<Sync time="510.055"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ il appelle papa et maman
+<Sync time="514.261"/>
+mais avant d'appeler regarde qu'est ce qu'il y a 
+<Event desc="keskia" type="pronounce" extent="previous"/>
+ dehors ?
+</Turn>
+<Turn speaker="spk2" startTime="517.305" endTime="520.209">
+<Sync time="517.305"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ y a de l'orage 
+<Event desc="dlORaZ" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="520.209" endTime="524.064">
+<Sync time="520.209"/>
++ et comment ça s'appelle ça ?
+</Turn>
+<Turn speaker="spk2" startTime="524.064" endTime="526.487">
+<Sync time="524.064"/>
+et et l'orage elle 
+<Event desc="b" type="noise" extent="next"/>
+ gronde 
+<Comment desc="sic"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="526.487" endTime="530.673">
+<Sync time="526.487"/>
+l'orage il gronde oui
+<Sync time="528.55"/>
+et il y a des éclairs
+</Turn>
+<Turn speaker="spk2" startTime="530.673" endTime="531.894">
+<Sync time="530.673"/>
+mm mm
+</Turn>
+<Turn speaker="spk1" startTime="531.894" endTime="534.483">
+<Sync time="531.894"/>
+et il a peur Tchoupi 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="534.483" endTime="535.429">
+<Sync time="534.483"/>
+<Who nb="1"/>
+alors qu'est ce qu'il fait ?
+<Who nb="2"/>
+mm
+</Turn>
+<Turn speaker="spk2" startTime="535.429" endTime="538.223">
+<Sync time="535.429"/>
+alors il se cache dans le *
+</Turn>
+<Turn speaker="spk1" startTime="538.223" endTime="539.615">
+<Sync time="538.223"/>
+il se cache sous l'oreiller
+</Turn>
+<Turn speaker="spk2" startTime="539.615" endTime="540.716">
+<Sync time="539.615"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="540.716" endTime="543.4">
+<Sync time="540.716"/>
+comme ça il n'entend plus le bruit
+</Turn>
+<Turn speaker="spk2" startTime="543.4" endTime="545.053">
+<Sync time="543.4"/>
+mm
+</Turn>
+<Turn speaker="spk1" startTime="545.053" endTime="545.804">
+<Sync time="545.053"/>
+et là alors ?
+</Turn>
+<Turn speaker="spk2" startTime="545.804" endTime="548.528">
+<Sync time="545.804"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il pleure
+</Turn>
+<Turn speaker="spk1" startTime="548.528" endTime="550.501">
+<Sync time="548.528"/>
+pourquoi il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ pleure ?
+</Turn>
+<Turn speaker="spk2" startTime="550.501" endTime="557.17">
+<Sync time="550.501"/>
+parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ il appelle papa maman 
+<Sync time="554.476"/>
+j'ai peur du noir
+</Turn>
+<Turn speaker="spk1" startTime="557.17" endTime="559.433">
+<Sync time="557.17"/>
+donc il pleure parce qu'il 
+<Event desc="paskil" type="pronounce" extent="previous"/>
+ a peur
+</Turn>
+<Turn speaker="spk2" startTime="559.433" endTime="560.935">
+<Sync time="559.433"/>
+mm
+</Turn>
+<Turn speaker="spk1" startTime="560.935" endTime="563.238">
+<Sync time="560.935"/>
+et il appelle papa et maman tu as raison
+</Turn>
+<Turn speaker="spk2" startTime="563.238" endTime="569.938">
+<Sync time="563.238"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ et là et là le papa 
+<Event desc="lpapa" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vient
+<Sync time="567.995"/>
+le consoler
+</Turn>
+<Turn speaker="spk1" startTime="569.938" endTime="571.841">
+<Sync time="569.938"/>
+il vient le consoler oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="571.841" endTime="575.558">
+<Sync time="571.841"/>
+<Who nb="1"/>
++ 
+<Event desc="pap" type="noise" extent="next"/>
+ et
+<Who nb="2"/>
+et qu'est-ce qu'il 
+<Event desc="keski" type="pronounce" extent="previous"/>
+ lui dit?
+</Turn>
+<Turn speaker="spk2" startTime="575.558" endTime="581.545">
+<Sync time="575.558"/>
+il dit oh 
+<Event desc="ch" type="pronounce" extent="previous"/>
+ oh c'est beau l'éclair Tchoupi
+</Turn>
+<Turn speaker="spk1" startTime="581.545" endTime="584.309">
+<Sync time="581.545"/>
+et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ lui montre qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ faut pas qu'il aie peur
+</Turn>
+<Turn speaker="spk2" startTime="584.309" endTime="585.18">
+<Sync time="584.309"/>
+non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="585.18" endTime="586.151">
+<Sync time="585.18"/>
+parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ c'est joli
+</Turn>
+<Turn speaker="spk2" startTime="586.151" endTime="587.119">
+<Sync time="586.151"/>
+bah oui
+</Turn>
+<Turn speaker="spk1" startTime="587.119" endTime="590.898">
+<Sync time="587.119"/>
++ et après ?
+</Turn>
+<Turn speaker="spk2" startTime="590.898" endTime="607.802">
+<Sync time="590.898"/>
+et après elle dit 
+<Event desc="b" type="noise" extent="next"/>
+ * Tchoupi un peu *** peur
+<Sync time="597.517"/>
+/// 
+<Event desc="b" type="noise" extent="next"/>
+ Tchoupi et et il sert très fort son doudou dans ses bras
+</Turn>
+<Turn speaker="spk1" startTime="607.802" endTime="612.188">
+<Sync time="607.802"/>
+oui il sert très fort son doudou dans ses bras
+<Sync time="610.055"/>
+pour le rassurer
+</Turn>
+<Turn speaker="spk2" startTime="612.188" endTime="612.839">
+<Sync time="612.188"/>
+mh
+</Turn>
+<Turn speaker="spk1" startTime="612.839" endTime="614.471">
+<Sync time="612.839"/>
+et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ lui dit quoi à Doudou ?
+</Turn>
+<Turn speaker="spk2" startTime="614.471" endTime="619.508">
+<Sync time="614.471"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ Doudou j'ai plus peur de l'éclair
+</Turn>
+<Turn speaker="spk1" startTime="619.508" endTime="622.953">
+<Sync time="619.508"/>
+oui c'est vrai
+<Sync time="620.88"/>
+il a plus peur de l'éclair
+</Turn>
+<Turn speaker="spk2" startTime="622.953" endTime="623.564">
+<Sync time="622.953"/>
+et voilà
+</Turn>
+<Turn speaker="spk1" startTime="623.564" endTime="626.488">
+<Sync time="623.564"/>
+et c'est fini
+<Sync time="624.966"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ tu as bien aimé ce livre ?
+</Turn>
+<Turn speaker="spk2" startTime="626.488" endTime="627.119">
+<Sync time="626.488"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="627.119" endTime="628.21">
+<Sync time="627.119"/>
+pourquoi tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ bien aimé ?
+</Turn>
+<Turn speaker="spk2" startTime="628.21" endTime="631.676">
+<Sync time="628.21"/>
+parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ je j'ai bien aimé
+</Turn>
+</Section>
+</Episode>
+</Trans>

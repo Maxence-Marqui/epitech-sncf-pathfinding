@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="jonathan" audio_filename="lucille3_cha.wav" version="16" version_date="140729">
+  <Topics>
+    <Topic id="to1" desc="MS10/2012-ECFev2014" />
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="Lucille" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="439.047" topic="to1">
+      <Turn startTime="0.0" endTime="12.637" speaker="spk1">
+        <Sync time="0.0" />
+        voilà donc l'été
+        <Event desc="pap" type="noise" extent="instantaneous" />
+        <Sync time="2.368" />
+        <Event desc="pap" type="noise" extent="next" />
+        lorsque le soleil brille très fort
+        <Sync time="7.61" />
+        + lorsque la campagne est de toutes les couleurs
+      </Turn>
+      <Turn speaker="spk2" startTime="12.637" endTime="15.629">
+        <Sync time="12.637" />
+        *** un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        chien ici
+      </Turn>
+      <Turn speaker="spk1" startTime="15.629" endTime="38.672">
+        <Sync time="15.629" />
+        ouais
+        <Sync time="16.299" />
+        lorsque les fruits sont trop mûrs
+        <Sync time="19.147" />
+        et que les boutiques ferment
+        <Sync time="22.577" />
+        quand tout le monde part en voyage
+        <Sync time="26.921" />
+        que les blés sont dorés
+        <Sync time="30.458" />
+        <Event desc="pap" type="noise" extent="next" />
+        et que le soir le soleil devient plus rouge
+        <Sync time="34.671" />
+        <Event desc="pap" type="noise" extent="next" />
+        quand les enfants vont à la plage
+      </Turn>
+      <Turn speaker="spk2" startTime="38.672" endTime="40.806">
+        <Sync time="38.672" />
+        je préfère
+        <Event desc="ZpRefER" type="pronounce" extent="previous" />
+        la piscine
+      </Turn>
+      <Turn speaker="spk1" startTime="40.806" endTime="54.475">
+        <Sync time="40.806" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        et les bateaux sur la mer
+        <Sync time="43.795" />
+        lorsque l'on a très soif
+        <Sync time="47.381" />
+        et que l'on a très chaud
+        <Sync time="50.23" />
+        <Event desc="pap" type="noise" extent="next" />
+        c'est l'été
+        <Sync time="52.683" />
+        à toi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="54.475" endTime="55.298">
+        <Sync time="54.475" />
+        ah /oui, mais/ oui
+      </Turn>
+      <Turn speaker="spk1" startTime="55.298" endTime="58.163">
+        <Sync time="55.298" />
+        alors tu prends le livre et puis tu tournes les pages toute seule
+      </Turn>
+      <Turn speaker="spk2" startTime="58.163" endTime="63.31">
+        <Sync time="58.163" />
+        ///
+        <Event desc="pap" type="noise" extent="instantaneous" />
+        l'été
+      </Turn>
+      <Turn speaker="spk1" startTime="63.31" endTime="64.041">
+        <Sync time="63.31" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="64.041" endTime="74.222">
+        <Sync time="64.041" />
+        <Event desc="pap" type="noise" extent="next" />
+        lorsque le soleil brille
+        <Sync time="68.378" />
+        ///
+        <Event desc="pap" type="noise" extent="instantaneous" />
+        je me
+        <Event desc="Zm@" type="pronounce" extent="previous" />
+        rappelle plus très bien ici
+        <Comment desc="rire de l'adulte" />
+      </Turn>
+      <Turn speaker="spk1" startTime="74.222" endTime="77.811">
+        <Sync time="74.222" />
+        c'est pas grave tu me racontes ce que
+        <Event desc="sk@" type="pronounce" extent="previous" />
+        tu vois sur les images
+        <Sync time="76.201" />
+        qu'est ce qu'il
+        <Event desc="keski" type="pronounce" extent="previous" />
+        se passe
+        <Event desc="spas" type="pronounce" extent="previous" />
+        sur cette image-là ?
+      </Turn>
+      <Turn speaker="spk2" startTime="77.811" endTime="80.215">
+        <Sync time="77.811" />
+        euh ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont en train de courir
+        <Event desc="dkuRiR" type="pronounce" extent="previous" />
+        dans les champs
+      </Turn>
+      <Turn speaker="spk1" startTime="80.215" endTime="81.166">
+        <Sync time="80.215" />
+        ouais exactement
+      </Turn>
+      <Turn speaker="spk2" startTime="81.166" endTime="82.778">
+        <Sync time="81.166" />
+        et il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        le beau soleil
+      </Turn>
+      <Turn speaker="spk1" startTime="82.778" endTime="88.657">
+        <Sync time="82.778" />
+        et le soleil est toujours aussi jaune
+        <Sync time="84.761" />
+        + et qui est-ce qui court là sur l'image?
+      </Turn>
+      <Turn speaker="spk2" startTime="88.657" endTime="89.808">
+        <Sync time="88.657" />
+        les enfants
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="89.808" endTime="91.175">
+        <Sync time="89.808" />
+        <Who nb="1" />
+        ouais et ils ont
+        <Event desc="izo~ " type="pronounce" extent="previous" />
+        <Who nb="2" />
+        et le chien
+      </Turn>
+      <Turn speaker="spk1" startTime="91.175" endTime="97.023">
+        <Sync time="91.175" />
+        hum exactement
+        <Sync time="93.46" />
+        <Event desc="b" type="noise" extent="next" />
+        et tu as vu il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        plein plein plein de couleurs
+        <Event desc="dkul9R" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="97.023" endTime="100.558">
+        <Sync time="97.023" />
+        il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        des fruits ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont en train de cueillir
+        <Event desc="dk9jiR" type="pronounce" extent="previous" />
+        des fruits dans les arbres
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="100.558" endTime="101.2">
+        <Sync time="100.558" />
+        <Who nb="1" />
+        hum hum
+        <Who nb="2" />
+        avec
+      </Turn>
+      <Turn speaker="spk2" startTime="101.2" endTime="109.156">
+        <Sync time="101.2" />
+        un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        panier *** qui les attend à coté de l'arbre
+        <Event desc="dlab" type="pronounce" extent="previous" />
+        <Sync time="104.425" />
+        et le beau soleil qui est en train de
+        <Sync time="106.503" />
+        et le ciel de- vient un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu rouge
+      </Turn>
+      <Turn speaker="spk1" startTime="109.156" endTime="112.365">
+        <Sync time="109.156" />
+        ouais alors tu sais pourquoi ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        cueillent les fruits en été ?
+      </Turn>
+      <Turn speaker="spk2" startTime="112.365" endTime="114.902">
+        <Sync time="112.365" />
+        oui parce qu'ils
+        <Event desc="paski" type="pronounce" extent="previous" />
+        sont vraiment mûrs
+      </Turn>
+      <Turn speaker="spk1" startTime="114.902" endTime="119.919">
+        <Sync time="114.902" />
+        exactement c'est parce qu'ils sont vraiment mûrs
+        <Sync time="117.183" />
+        tu peux tourner
+        <Comment desc="Lucille tourne la page" />
+      </Turn>
+      <Turn speaker="spk2" startTime="119.919" endTime="129.679">
+        <Sync time="119.919" />
+        + euh parce que
+        <Event desc="pask9" type="pronounce" extent="previous" />
+        <Sync time="123.542" />
+        les marchés ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont fermés alors ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu euh
+        <Sync time="127.53" />
+        un peu tristes
+      </Turn>
+      <Turn speaker="spk1" startTime="129.679" endTime="135.055">
+        <Sync time="129.679" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu embêtés que les
+        <Event desc="kle" type="pronounce" extent="previous" />
+        boutiques soient toutes fermées
+        <Sync time="133.603" />
+        c'est vrai que c'est
+        <Event desc="kse" type="pronounce" extent="previous" />
+        un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu embêtant ça
+      </Turn>
+      <Turn speaker="spk2" startTime="135.055" endTime="136.682">
+        <Sync time="135.055" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="136.682" endTime="139.57">
+        <Sync time="136.682" />
+        et oui et en été qu'est ce qu'il
+        <Event desc="keski" type="pronounce" extent="previous" />
+        se passe
+        <Event desc="spas" type="pronounce" extent="previous" />
+        aussi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="139.57" endTime="147.294">
+        <Sync time="139.57" />
+        lorsque et ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        vont en vacances alors il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        des avions il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        des trains
+        <Sync time="144.272" />
+        un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        un camion et des voitures il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        des bouchons
+      </Turn>
+      <Turn speaker="spk1" startTime="147.294" endTime="150.123">
+        <Sync time="147.294" />
+        ouais
+        <Sync time="148.293" />
+        donc là tout le monde
+        <Event desc="lmo~ d" type="pronounce" extent="previous" />
+        part en voyage
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="150.123" endTime="151.418">
+        <Sync time="150.123" />
+        <Who nb="1" />
+        sur cette image
+        <Who nb="2" />
+        un bateau et une
+      </Turn>
+      <Turn speaker="spk2" startTime="151.418" endTime="152.997">
+        <Sync time="151.418" />
+        moto et
+      </Turn>
+      <Turn speaker="spk1" startTime="152.997" endTime="156.952">
+        <Sync time="152.997" />
+        + tu pars comment toi quand tu pars en vacances ?
+      </Turn>
+      <Turn speaker="spk2" startTime="156.952" endTime="164.219">
+        <Sync time="156.952" />
+        euh des euh je suis allée que u- une fois
+        <Sync time="160.747" />
+        en avion mais je suis déjà plein de fois
+        <Event desc="dfwa" type="pronounce" extent="previous" />
+        en voiture
+      </Turn>
+      <Turn speaker="spk1" startTime="164.219" endTime="171.183">
+        <Sync time="164.219" />
+        d'accord moi aussi je vais souvent en voiture
+        <Sync time="166.208" />
+        parfois en train aussi
+        <Sync time="167.639" />
+        alors dans cette image
+        <Sync time="169.669" />
+        elle est grande et belle celle-là hein ?
+      </Turn>
+      <Turn speaker="spk2" startTime="171.183" endTime="174.232">
+        <Sync time="171.183" />
+        hum ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        v- ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        vont ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        vont dans le pré
+        <Event desc="lpRe" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="174.232" endTime="178.732">
+        <Sync time="174.232" />
+        et alors est-ce que tu sais ce que
+        <Event desc="sk@" type="pronounce" extent="previous" />
+        c'est ?
+        <Sync time="176.248" />
+        tout ça là tout ce qui est jaune comme ça
+      </Turn>
+      <Turn speaker="spk2" startTime="178.732" endTime="181.844">
+        <Sync time="178.732" />
+        ah je me
+        <Event desc="Zm@" type="pronounce" extent="previous" />
+        rappelle plus
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="181.844" endTime="186.947">
+        <Sync time="181.844" />
+        ce sont des céréales c'est des b- c'est du blé
+        <Sync time="184.62" />
+        et donc quand les blés sont dorés
+      </Turn>
+      <Turn speaker="spk2" startTime="186.947" endTime="187.462">
+        <Sync time="186.947" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="187.462" endTime="188.135">
+        <Sync time="187.462" />
+        c'est l'été
+      </Turn>
+      <Turn speaker="spk2" startTime="188.135" endTime="189.679">
+        <Sync time="188.135" />
+        il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        aussi des petites fleurs
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="189.679" endTime="190.956">
+        <Sync time="189.679" />
+        <Who nb="1" />
+        hum hum
+        <Who nb="2" />
+        ici
+      </Turn>
+      <Turn speaker="spk1" startTime="190.956" endTime="192.609">
+        <Sync time="190.956" />
+        et il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        toujours ce beau soleil
+      </Turn>
+      <Turn speaker="spk2" startTime="192.609" endTime="194.911">
+        <Sync time="192.609" />
+        et et et un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        papillon
+      </Turn>
+      <Turn speaker="spk1" startTime="194.911" endTime="196.651">
+        <Sync time="194.911" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="196.651" endTime="198.039">
+        <Sync time="196.651" />
+        il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        toujours son chien
+      </Turn>
+      <Turn speaker="spk1" startTime="198.039" endTime="201.187">
+        <Sync time="198.039" />
+        et
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        toujours le chien et les d- et les deux enfants
+      </Turn>
+      <Turn speaker="spk2" startTime="201.187" endTime="206.043">
+        <Sync time="201.187" />
+        ah le le soleil il
+        <Event desc="i" type="pronounce" extent="previous" />
+        devient un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu plus rouge avec des oiseaux
+      </Turn>
+      <Turn speaker="spk1" startTime="206.043" endTime="209.948">
+        <Sync time="206.043" />
+        hum hum donc effectivement donc ça c'est le phare le soleil il
+        <Event desc="i" type="pronounce" extent="previous" />
+        devient tout rouge
+      </Turn>
+      <Turn speaker="spk2" startTime="209.948" endTime="211.48">
+        <Sync time="209.948" />
+        il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        lapin
+      </Turn>
+      <Turn speaker="spk1" startTime="211.48" endTime="213.937">
+        <Sync time="211.48" />
+        ouais et là le soleil il
+        <Event desc="i" type="pronounce" extent="previous" />
+        se couche
+      </Turn>
+      <Turn speaker="spk2" startTime="213.937" endTime="214.921">
+        <Sync time="213.937" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="214.921" endTime="218.23">
+        <Sync time="214.921" />
+        dans la mer
+        <Sync time="215.737" />
+        et la mer elle devient aussi rouge
+      </Turn>
+      <Turn speaker="spk2" startTime="218.23" endTime="218.949">
+        <Sync time="218.23" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="218.949" endTime="220.969">
+        <Sync time="218.949" />
+        <Event desc="b" type="noise" extent="next" />
+        alors
+      </Turn>
+      <Turn speaker="spk2" startTime="220.969" endTime="227.439">
+        <Sync time="220.969" />
+        euh là ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont en train d'aller à la piscine avec des enfants qui se baignent
+        <Event desc="sbEJ" type="pronounce" extent="previous" />
+        <Sync time="225.752" />
+        et des châteaux de *
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="227.439" endTime="228.759">
+        <Sync time="227.439" />
+        <Who nb="1" />
+        et est ce que
+        <Who nb="2" />
+        ***
+      </Turn>
+      <Turn speaker="spk1" startTime="228.759" endTime="230.757">
+        <Sync time="228.759" />
+        tu penses que c'est la piscine ?
+      </Turn>
+      <Turn speaker="spk2" startTime="230.757" endTime="232.692">
+        <Sync time="230.757" />
+        <Event desc="rire" type="noise" extent="next" />
+        je me
+        <Event desc="Zm@" type="pronounce" extent="previous" />
+        suis trompée
+      </Turn>
+      <Turn speaker="spk1" startTime="232.692" endTime="234.228">
+        <Sync time="232.692" />
+        ouais c'est plutôt la
+      </Turn>
+      <Turn speaker="spk2" startTime="234.228" endTime="234.708">
+        <Sync time="234.228" />
+        mer
+      </Turn>
+      <Turn speaker="spk1" startTime="234.708" endTime="238.257">
+        <Sync time="234.708" />
+        hum c'est plutôt la mer
+        <Sync time="236.13" />
+        pourquoi est-ce que ce serait plutôt la mer ?
+      </Turn>
+      <Turn speaker="spk2" startTime="238.257" endTime="239.763">
+        <Sync time="238.257" />
+        parce qu'il y a
+        <Event desc="paskia" type="pronounce" extent="previous" />
+        du sable
+      </Turn>
+      <Turn speaker="spk1" startTime="239.763" endTime="241.509">
+        <Sync time="239.763" />
+        ouais parce qu'il y a
+        <Event desc="paskia" type="pronounce" extent="previous" />
+        du sable
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="241.509" endTime="242.959">
+        <Sync time="241.509" />
+        <Who nb="1" />
+        et ça est-ce que tu sais à quoi ça s-
+        <Who nb="2" />
+        et des cabines
+      </Turn>
+      <Turn speaker="spk1" startTime="242.959" endTime="244.107">
+        <Sync time="242.959" />
+        c'est quoi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="244.107" endTime="249.058">
+        <Sync time="244.107" />
+        ça sert à se à se déshabiller
+        <Event desc="sdezabije" type="pronounce" extent="previous" />
+        à mettre son maillot de bain et à se rhabiller
+        <Event desc="sRabije" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="249.058" endTime="251.261">
+        <Sync time="249.058" />
+        exactement ce ça s'appelle des cabines
+      </Turn>
+      <Turn speaker="spk2" startTime="251.261" endTime="254.799">
+        <Sync time="251.261" />
+        pour les grandes personnes si ils ont
+        <Event desc="izo~ " type="pronounce" extent="previous" />
+        pas trop envie qu'on la voie
+        <Comment desc="sic" />
+      </Turn>
+      <Turn speaker="spk2" startTime="254.799" endTime="260.584">
+        <Sync time="254.799" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        oui c'est plutôt pour les grandes personnes c'est vrai
+        <Sync time="257.469" />
+        et là le petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        garçon il a une
+        <Sync time="259.353" />
+        tu sais comment ça s'appelle ça ?
+      </Turn>
+      <Turn speaker="spk1" startTime="260.584" endTime="261.458">
+        <Sync time="260.584" />
+        oui une bouée
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="261.458" endTime="262.279">
+        <Sync time="261.458" />
+        <Who nb="1" />
+        rouge
+        <Who nb="2" />
+        une bouée
+      </Turn>
+      <Turn speaker="spk1" startTime="262.279" endTime="264.246">
+        <Sync time="262.279" />
+        et ça sert à quoi une bouée ?
+      </Turn>
+      <Turn speaker="spk2" startTime="264.246" endTime="266.767">
+        <Sync time="264.246" />
+        ça sert à flotter si on ne sait
+        <Event desc="nsE" type="pronounce" extent="previous" />
+        pas nager
+      </Turn>
+      <Turn speaker="spk2" startTime="266.767" endTime="268.408">
+        <Sync time="266.767" />
+        et toi est ce tu sais nager ?
+      </Turn>
+      <Turn speaker="spk2" startTime="268.408" endTime="269.131">
+        <Sync time="268.408" />
+        oui un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="269.131" endTime="270.901">
+        <Sync time="269.131" />
+        <Who nb="1" />
+        peu
+        <Who nb="2" />
+        ah
+      </Turn>
+      <Turn speaker="spk2" startTime="270.901" endTime="276.425">
+        <Sync time="270.901" />
+        je sais des gestes
+        <Event desc="ZEZt" type="pronounce" extent="previous" />
+        je fais les gestes mais
+        <Sync time="274.012" />
+        je m'en
+        <Event desc="Zma~" type="pronounce" extent="previous" />
+        rappelle plus très bien des fois
+      </Turn>
+      <Turn speaker="spk1" startTime="276.425" endTime="280.304">
+        <Sync time="276.425" />
+        bah ça va revenir
+        <Sync time="277.694" />
+        alors dans cette image
+      </Turn>
+      <Turn speaker="spk2" startTime="280.304" endTime="286.665">
+        <Sync time="280.304" />
+        euh euh il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        des gens qui va
+        <Comment desc="sic" />
+        sur la mer à la plage
+        <Sync time="283.932" />
+        et des enfants qui les regardent avec le petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        ***
+      </Turn>
+      <Turn speaker="spk1" startTime="286.665" endTime="291.396">
+        <Sync time="286.665" />
+        d'accord donc il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        des gens qui vont + en bateau sur la mer
+      </Turn>
+      <Turn speaker="spk2" startTime="291.396" endTime="292.53">
+        <Sync time="291.396" />
+        il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        le gros bateau
+      </Turn>
+      <Turn speaker="spk1" startTime="292.53" endTime="295.858">
+        <Sync time="292.53" />
+        hum hum
+        <Sync time="293.764" />
+        et là est-ce que tu sais ce que
+        <Event desc="sk@" type="pronounce" extent="previous" />
+        c'est ces oiseaux ?
+      </Turn>
+      <Turn speaker="spk2" startTime="295.858" endTime="296.609">
+        <Sync time="295.858" />
+        c'est des mouettes
+      </Turn>
+      <Turn speaker="spk1" startTime="296.609" endTime="299.219">
+        <Sync time="296.609" />
+        des mouettes
+        <Sync time="297.522" />
+        c'est beau les mouettes hein ?
+      </Turn>
+      <Turn speaker="spk2" startTime="299.219" endTime="304.391">
+        <Sync time="299.219" />
+        hum
+        <Sync time="299.732" />
+        moi j'en ai déjà vu quelque part mais j'étais un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu trop loin de la mer
+      </Turn>
+      <Turn speaker="spk1" startTime="304.391" endTime="310.983">
+        <Sync time="304.391" />
+        ah
+        <Sync time="305.47" />
+        moi j'en ai vu de
+        <Event desc="d" type="pronounce" extent="previous" />
+        très près sur la plage
+        <Sync time="307.599" />
+        c'est très très beau
+        <Event desc="b" type="noise" extent="previous" />
+        <Sync time="309.568" />
+        alors
+      </Turn>
+      <Turn speaker="spk2" startTime="310.983" endTime="312.881">
+        <Sync time="310.983" />
+        lorqu'on a
+        <Event desc="pap" type="noise" extent="next" />
+        très soif
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="312.881" endTime="313.353">
+        <Sync time="312.881" />
+        <Who nb="1" />
+        hum hum
+        <Who nb="2" />
+        ils ont
+        <Event desc="izo~ " type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="313.353" endTime="316.892">
+        <Sync time="313.353" />
+        très soif *** il
+        <Event desc="i" type="pronounce" extent="previous" />
+        boit pas comme les autres
+      </Turn>
+      <Turn speaker="spk1" startTime="316.892" endTime="321.805">
+        <Sync time="316.892" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Event desc="na~ " type="pronounce" extent="previous" />
+        non il boit pas comme les humains
+        <Sync time="319.293" />
+        alors les petits enfants ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont obligés de boire
+        <Event desc="dbwaR" type="pronounce" extent="previous" />
+        comment ?
+      </Turn>
+      <Turn speaker="spk2" startTime="321.805" endTime="324.783">
+        <Sync time="321.805" />
+        de prendre de l'eau dans leurs mains et il
+        <Event desc="i" type="pronounce" extent="previous" />
+        boit
+        <Comment desc="sic" />
+      </Turn>
+      <Turn speaker="spk1" startTime="324.783" endTime="327.449">
+        <Sync time="324.783" />
+        c'est moins facile que le chien le chien c'est pratique
+      </Turn>
+      <Turn speaker="spk2" startTime="327.449" endTime="329.4">
+        <Sync time="327.449" />
+        ah oui
+        <Sync time="327.906" />
+        c'est plus pratique quand même
+      </Turn>
+      <Turn speaker="spk2" startTime="329.4" endTime="336.773">
+        <Sync time="329.4" />
+        hum + alors qu'ils ont
+        <Event desc="kizo~ " type="pronounce" extent="previous" />
+        très chaud ils ont
+        <Event desc="izo~ " type="pronounce" extent="previous" />
+        très chaud lui euh
+        <Sync time="334.96" />
+        il a mis de l'eau je pense
+        <Event desc="Zpa~s" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="336.773" endTime="337.601">
+        <Sync time="336.773" />
+        <Who nb="1" />
+        hum hum
+        <Who nb="2" />
+        ***
+      </Turn>
+      <Turn speaker="spk2" startTime="337.601" endTime="339.337">
+        <Sync time="337.601" />
+        il
+        <Event desc="i" type="pronounce" extent="previous" />
+        se trempe
+        <Event desc="stRa~ p" type="pronounce" extent="previous" />
+        le
+        <Event desc="rires de l'adulte" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="339.337" endTime="340.469">
+        <Sync time="339.337" />
+        il
+        <Event desc="i" type="pronounce" extent="previous" />
+        se trempe le
+      </Turn>
+      <Turn speaker="spk2" startTime="340.469" endTime="341.083">
+        <Sync time="340.469" />
+        visage
+      </Turn>
+      <Turn speaker="spk1" startTime="341.083" endTime="342.124">
+        <Sync time="341.083" />
+        ouais le museau
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="342.124" endTime="342.451">
+        <Sync time="342.124" />
+        <Who nb="1" />
+        oui
+        <Who nb="2" />
+        il
+      </Turn>
+      <Turn speaker="spk1" startTime="342.451" endTime="345.704">
+        <Sync time="342.451" />
+        se trempe
+        <Event desc="stRa~ p" type="pronounce" extent="previous" />
+        le museau dans le seau
+        <Sync time="343.613" />
+        et eux qu'est-ce qu'ils
+        <Event desc="keski" type="pronounce" extent="previous" />
+        font ?
+        <Sync time="344.561" />
+        tu sais ce que
+        <Event desc="sk@" type="pronounce" extent="previous" />
+        c'est ça ?
+      </Turn>
+      <Turn speaker="spk2" startTime="345.704" endTime="348.095">
+        <Sync time="345.704" />
+        euh non
+        <Sync time="346.705" />
+        c'est un éventail
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="348.095" endTime="349.432">
+        <Sync time="348.095" />
+        <Who nb="1" />
+        il est rigolo hein
+        <Who nb="2" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="349.432" endTime="351.603">
+        <Sync time="349.432" />
+        j'en ai jamais vu comme ça
+      </Turn>
+      <Turn speaker="spk1" startTime="351.603" endTime="354.938">
+        <Sync time="351.603" />
+        c'est un éventail et tu le mets comme ça
+        <Sync time="353.304" />
+        près de
+        <Event desc="d" type="pronounce" extent="previous" />
+        ton visage et ça fait du vent
+      </Turn>
+      <Turn speaker="spk2" startTime="354.938" endTime="357.566">
+        <Sync time="354.938" />
+        j'en ai déjà vu mais euh j'en ai pas vu comme ça
+      </Turn>
+      <Turn speaker="spk1" startTime="357.566" endTime="358.813">
+        <Sync time="357.566" />
+        il est beau celui-là hein ?
+      </Turn>
+      <Turn speaker="spk2" startTime="358.813" endTime="359.614">
+        <Sync time="358.813" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="359.614" endTime="361.032">
+        <Sync time="359.614" />
+        et et elle elle fait quoi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="361.032" endTime="362.906">
+        <Sync time="361.032" />
+        avec un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        mouchoir
+      </Turn>
+      <Turn speaker="spk1" startTime="362.906" endTime="364.459">
+        <Sync time="362.906" />
+        elle fait quoi avec son petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        mouchoir ?
+      </Turn>
+      <Turn speaker="spk2" startTime="364.459" endTime="365.761">
+        <Sync time="364.459" />
+        elle s'essuie un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu
+      </Turn>
+      <Turn speaker="spk1" startTime="365.761" endTime="366.292">
+        <Sync time="365.761" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="366.292" endTime="369.406">
+        <Sync time="366.292" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        oui mais quand même avant il faisait très chaud
+      </Turn>
+      <Turn speaker="spk1" startTime="369.406" endTime="370.926">
+        <Sync time="369.406" />
+        c'est parce qu'il
+        <Event desc="paRski" type="pronounce" extent="previous" />
+        fait très chaud
+      </Turn>
+      <Turn speaker="spk2" startTime="370.926" endTime="380.818">
+        <Sync time="370.926" />
+        <Event desc="b" type="noise" extent="begin" />
+        et /?, lui/ aussi euh à à l'école /j'ai vu, j'avais eu/ très chaud /que, parce que/ j'avais
+        <Sync time="375.168" />
+        que j'avais pris que j'allais pr-
+        <Event desc="b" type="noise" extent="end" />
+        <Sync time="377.66" />
+        euh j'avais un tee-shirt presque co- comme un maillot de corps
+      </Turn>
+      <Turn speaker="spk1" startTime="380.818" endTime="381.419">
+        <Sync time="380.818" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="381.419" endTime="382.656">
+        <Sync time="381.419" />
+        <Who nb="1" />
+        je suis
+        <Event desc="Syi" type="pronounce" extent="previous" />
+        allée comme
+        <Who nb="2" />
+        avec des manches courtes
+      </Turn>
+      <Turn speaker="spk2" startTime="382.656" endTime="385.097">
+        <Sync time="382.656" />
+        ça avec et j'allais comme ça dans la cour
+      </Turn>
+      <Turn speaker="spk1" startTime="385.097" endTime="386.63">
+        <Sync time="385.097" />
+        ah bah oui il faisait trop chaud
+      </Turn>
+      <Turn speaker="spk2" startTime="386.63" endTime="388.866">
+        <Sync time="386.63" />
+        je transpirais
+        <Event desc="ZtRa~spiRE" type="pronounce" extent="previous" />
+        quand même
+      </Turn>
+      <Turn speaker="spk1" startTime="388.866" endTime="390.025">
+        <Sync time="388.866" />
+        et là c'est quoi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="390.025" endTime="395.759">
+        <Sync time="390.025" />
+        + ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        courent dans les champs et ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        s'amusent beaucoup avec leur chien
+      </Turn>
+      <Turn speaker="spk1" startTime="395.759" endTime="396.21">
+        <Sync time="395.759" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="396.21" endTime="397.842">
+        <Sync time="396.21" />
+        avec les papillons
+      </Turn>
+      <Turn speaker="spk1" startTime="397.842" endTime="407.441">
+        <Sync time="397.842" />
+        et donc en fait sur cette image il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        marqué c'est l'été
+        <Sync time="400.1" />
+        et voilà donc ça re- ça regroupe un peu tout ce qui
+        <Event desc="ski" type="pronounce" extent="previous" />
+        s'est passé dans les
+        <Event desc="lE:" type="pronounce" extent="previous" />
+        pages précédentes
+        <Sync time="405.059" />
+        tu vois donc là ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        courent dans la campagne
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="407.441" endTime="408.222">
+        <Sync time="407.441" />
+        <Who nb="1" />
+        oui
+        <Who nb="2" />
+        dans
+      </Turn>
+      <Turn speaker="spk1" startTime="408.222" endTime="410.933">
+        <Sync time="408.222" />
+        entre les blés
+        <Sync time="409.1" />
+        tu vois la mer
+      </Turn>
+      <Turn speaker="spk2" startTime="410.933" endTime="411.196">
+        <Sync time="410.933" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="411.196" endTime="415.003">
+        <Sync time="411.196" />
+        le soleil qui brille les mouettes le bateau
+      </Turn>
+      <Turn speaker="spk2" startTime="415.003" endTime="415.303">
+        <Sync time="415.003" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="415.303" endTime="416.854">
+        <Sync time="415.303" />
+        la personne qui part en ?
+      </Turn>
+      <Turn speaker="spk2" startTime="416.854" endTime="417.975">
+        <Sync time="416.854" />
+        vacances
+      </Turn>
+      <Turn speaker="spk1" startTime="417.975" endTime="418.912">
+        <Sync time="417.975" />
+        elle part en vacances
+      </Turn>
+      <Turn speaker="spk2" startTime="418.912" endTime="422.02">
+        <Sync time="418.912" />
+        peut être
+        <Event desc="p@tEt" type="pronounce" extent="previous" />
+        qu'elle y ait pas y allée avant alors elle part
+      </Turn>
+      <Turn speaker="spk1" startTime="422.02" endTime="422.991">
+        <Sync time="422.02" />
+        voilà
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="422.991" endTime="423.821">
+        <Sync time="422.991" />
+        <Who nb="1" />
+        elle part peut être
+        <Who nb="2" />
+        et là le
+      </Turn>
+      <Turn speaker="spk2" startTime="423.821" endTime="425.76">
+        <Sync time="423.821" />
+        soleil on le voit un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu plus petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="425.76" endTime="430.249">
+        <Sync time="425.76" />
+        un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu plus petit parce que
+        <Event desc="pask9" type="pronounce" extent="previous" />
+        l'image
+        <Sync time="427.714" />
+        elle est plus grande et on voit plus de choses
+      </Turn>
+      <Turn speaker="spk2" startTime="430.249" endTime="430.906">
+        <Sync time="430.249" />
+        est-ce qu'on peut
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="430.906" endTime="431.689">
+        <Sync time="430.906" />
+        <Who nb="1" />
+        prendre un
+        <Who nb="2" />
+        parce qu'elle est plus grande
+      </Turn>
+      <Turn speaker="spk2" startTime="431.689" endTime="432.675">
+        <Sync time="431.689" />
+        autre livre
+      </Turn>
+      <Turn speaker="spk1" startTime="432.675" endTime="436.801">
+        <Sync time="432.675" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        oui si tu veux
+        <Sync time="433.784" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        bon ben c'était une belle histoire hein ?
+      </Turn>
+      <Turn speaker="spk2" startTime="436.801" endTime="439.047">
+        <Sync time="436.801" />
+        oui
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

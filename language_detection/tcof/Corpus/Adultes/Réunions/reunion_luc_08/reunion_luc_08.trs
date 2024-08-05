@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="moi" audio_filename="reunion_luc_08.wav" version="17" version_date="110329">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" type="male" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="906.942">
+      <Turn speaker="spk1" startTime="0.0" endTime="8.992">
+        <Sync time="0.0" />
+        O.K. /// tu as eu euh donc euh des nouvelles de l'Allemagne
+        <Sync time="4.992" />
+        concernant euh +
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        le client qu'on va voir là euh
+      </Turn>
+      <Turn speaker="spk2" startTime="8.992" endTime="12.476">
+        <Sync time="8.992" />
+        donc concernant hum ¤S1¤
+      </Turn>
+      <Turn speaker="spk1" startTime="12.476" endTime="13.242">
+        <Sync time="12.476" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" startTime="13.242" endTime="21.585">
+        <Sync time="13.242" />
+        donc ¤S1¤ j'ai pas réussi à joindre euh l'Allemagne
+        <Sync time="16.523" />
+        la personne qui s'occupe du + département euh automatisme
+      </Turn>
+      <Turn speaker="spk1" startTime="21.585" endTime="22.272">
+        <Sync time="21.585" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="22.272" endTime="25.21">
+        <Sync time="22.272" />
+        instrumentation chez nous S.A.V.
+        <Comment desc="sigle=Service Après Vente" />
+        donc était absent
+        <Comment desc="sic" />
+        hier
+      </Turn>
+      <Turn speaker="spk1" startTime="25.21" endTime="25.867">
+        <Sync time="25.21" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="25.867" endTime="27.867">
+        <Sync time="25.867" />
+        euh je comptais euh l'appeller ce matin
+      </Turn>
+      <Turn speaker="spk1" startTime="27.867" endTime="28.695">
+        <Sync time="27.867" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="28.695" endTime="31.679">
+        <Sync time="28.695" />
+        euh soit avant que tu avant d'aller chez le client soit euh
+      </Turn>
+      <Turn speaker="spk1" startTime="31.679" endTime="32.193">
+        <Sync time="31.679" />
+        chez &lt; le client
+      </Turn>
+      <Turn speaker="spk2" startTime="32.193" endTime="32.57">
+        <Sync time="32.193" />
+        chez le client &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="32.57" endTime="33.289">
+        <Sync time="32.57" />
+        directement
+      </Turn>
+      <Turn speaker="spk2" startTime="33.289" endTime="34.336">
+        <Sync time="33.289" />
+        à voir
+      </Turn>
+      <Turn speaker="spk1" startTime="34.336" endTime="38.399">
+        <Sync time="34.336" />
+        mais apparemment c'est un
+        <Event desc="inspirtion du locuteur" type="noise" extent="instantaneous" />
+        un problème euh récurrent
+      </Turn>
+      <Turn speaker="spk2" startTime="38.399" endTime="50.82">
+        <Sync time="38.399" />
+        non à priori moi je hum d'après mon analyse
+        <Sync time="43.274" />
+        ce serait plutôt un problème lié à + une mauvaise programmation du logiciel
+        <Sync time="47.789" />
+        ce qui fait que la vanne en fait elle a une fonction inverse
+      </Turn>
+      <Turn speaker="spk1" startTime="50.82" endTime="51.382">
+        <Sync time="50.82" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="51.382" endTime="63.366">
+        <Sync time="51.382" />
+        elle devrait être en position normalement fermée par manque d'air
+        <Sync time="55.069" />
+        et avec un signal croissant la vanne devrait donc se euh s'ouv- se fermer
+        <Sync time="61.413" />
+        en manque d'air en manque d'air donc se fermer
+      </Turn>
+      <Turn speaker="spk1" startTime="63.366" endTime="63.851">
+        <Sync time="63.366" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="63.851" endTime="71.648">
+        <Sync time="63.851" />
+        et là ce qu'elle fait en fait dès qu'il y a un signal d'air
+        <Sync time="66.132" />
+        + et un signal éléctrique donc la vanne se ferme
+        <Sync time="69.32" />
+        et c'est le signal inverse en fait qui
+      </Turn>
+      <Turn speaker="spk1" startTime="71.648" endTime="72.569">
+        <Sync time="71.648" />
+        hum hum &lt; hum
+      </Turn>
+      <Turn speaker="spk2" startTime="72.569" endTime="77.945">
+        <Sync time="72.569" />
+        qui &gt; la fait s'ouvrir ou se fermer
+        <Sync time="73.898" />
+        donc ça pose problème effectivement pour la mise en route de son automatisme
+      </Turn>
+      <Turn speaker="spk1" startTime="77.945" endTime="78.523">
+        <Sync time="77.945" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="78.523" endTime="79.992">
+        <Sync time="78.523" />
+        et euh
+      </Turn>
+      <Turn speaker="spk1" startTime="79.992" endTime="88.601">
+        <Sync time="79.992" />
+        mais c'est uniquement un problème
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        de vanne
+        <Sync time="82.867" />
+        de matériel euh + je veux dire monté en usine ou euh un problème de branchement aussi
+      </Turn>
+      <Turn speaker="spk2" startTime="88.601" endTime="99.18">
+        <Sync time="88.601" />
+        non moi je pense plutôt à priori problème problème d'usine
+        <Sync time="91.773" />
+        là c'est un problème euh
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        soit une personne à mani- on va dire a
+        <Sync time="96.727" />
+        a dû travailler un petit peu trop vite et puis a
+      </Turn>
+      <Turn speaker="spk1" startTime="99.18" endTime="99.68">
+        <Sync time="99.18" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="99.68" endTime="106.524">
+        <Sync time="99.68" />
+        a cliqué à en fait à l'endroit où il faut en fait c'est tout simplement un logiciel
+        <Sync time="102.477" />
+        et sur ce logiciel on a des cases s- qu'il faut valider
+      </Turn>
+      <Turn speaker="spk1" startTime="106.524" endTime="107.04">
+        <Sync time="106.524" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="107.04" endTime="116.353">
+        <Sync time="107.04" />
+        ou invalider et en fonction de ça ben on a la la caractéristique de la vanne
+        <Sync time="112.118" />
+        et la référence de de la vanne euh telle que le souhaite ben le client
+      </Turn>
+      <Turn speaker="spk1" startTime="116.353" endTime="116.974">
+        <Sync time="116.353" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="116.974" endTime="119.619">
+        <Sync time="116.974" />
+        donc à priori ben il y a peut-être eu un petit couac à l'usine
+      </Turn>
+      <Turn speaker="spk1" startTime="119.619" endTime="120.791">
+        <Sync time="119.619" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="120.791" endTime="122.572">
+        <Sync time="120.791" />
+        bon ça c'est c'est mon avis
+        <Event desc="raclement de gorge du locuteur" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="122.572" endTime="129.274">
+        <Sync time="122.572" />
+        mais sinon donc euh si euh tu arrives pas à dépanner tu les tu les récupères et tu montes euh
+      </Turn>
+      <Turn speaker="spk2" startTime="129.274" endTime="133.713">
+        <Sync time="129.274" />
+        alors oui dans le pire des cas si j'arrive pas à dépanner sur site euh j'emporterai la vanne
+      </Turn>
+      <Turn speaker="spk1" startTime="133.713" endTime="134.448">
+        <Sync time="133.713" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="134.448" endTime="134.855">
+        <Sync time="134.448" />
+        tout à fait
+      </Turn>
+      <Turn speaker="spk1" startTime="134.855" endTime="135.762">
+        <Sync time="134.855" />
+        il y en a qu'une ou deux
+      </Turn>
+      <Turn speaker="spk2" startTime="135.762" endTime="139.902">
+        <Sync time="135.762" />
+        hum ben en fait je l'ai appelé hier après-midi +
+        <Sync time="138.309" />
+        je sais pas si il te l'a dit
+      </Turn>
+      <Turn speaker="spk1" startTime="139.902" endTime="140.449">
+        <Sync time="139.902" />
+        non
+      </Turn>
+      <Turn speaker="spk2" startTime="140.449" endTime="147.949">
+        <Sync time="140.449" />
+        non j'ai modifié donc je l'ai eu hier après-midi
+        <Sync time="143.621" />
+        et je lui ai demandé si elle avait essayé la seconde vanne
+        <Sync time="146.215" />
+        donc la seconde vanne il n'y a pas de problème
+      </Turn>
+      <Turn speaker="spk1" startTime="147.949" endTime="148.265">
+        <Sync time="147.949" />
+        &lt; hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="148.265" endTime="154.417">
+        <Sync time="148.265" />
+        donc ça vient &gt; effectivement certainement un problème lié à un manque d'at- d'attention
+        <Sync time="153.23" />
+        d'un des monteurs chez nous euh
+      </Turn>
+      <Turn speaker="spk1" startTime="154.417" endTime="154.604">
+        <Sync time="154.417" />
+        &lt; hum
+      </Turn>
+      <Turn speaker="spk2" startTime="154.604" endTime="156.881">
+        <Sync time="154.604" />
+        <Event desc="bruits de talons" type="noise" extent="begin" />
+        qui a du euh &gt; valider euh
+      </Turn>
+      <Turn speaker="spk1" startTime="156.881" endTime="157.277">
+        <Sync time="156.881" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="157.277" endTime="158.074">
+        <Sync time="157.277" />
+        la mauvaise case
+        <Event desc="bruits de talons" type="noise" extent="end" />
+      </Turn>
+      <Turn speaker="spk1" startTime="158.074" endTime="161.621">
+        <Sync time="158.074" />
+        + O.K. ben + O.K.
+      </Turn>
+      <Turn speaker="spk2" startTime="161.621" endTime="162.386">
+        <Sync time="161.621" />
+        <Event desc="bruit indéterminé du locuteur" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="162.386" endTime="179.152">
+        <Sync time="162.386" />
+        très bien sinon euh pour ¤S2¤ donc euh là c'est pareil
+        <Sync time="170.324" />
+        donc on a euh
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        un S.A.V. euh si euh bon on (n') arrive pas à dépanner sur place
+        <Sync time="177.324" />
+        tu récupères le matériel pareil
+      </Turn>
+      <Turn speaker="spk2" startTime="179.152" endTime="194.621">
+        <Sync time="179.152" />
+        ouais là pareil donc là à priori
+        <Event desc="bruit de gorge du locuteur" type="noise" extent="instantaneous" />
+        pour euh ¤S2¤ ce serait plutôt
+        <Sync time="184.387" />
+        euh bon là j'ai des doutes je sais pas je sais pas ce que c'est euh
+        <Sync time="188.09" />
+        si c'est la vanne qu'on a déjà remplacée euh + il y a un ou deux ans
+      </Turn>
+      <Turn speaker="spk1" startTime="194.621" endTime="195.261">
+        <Sync time="194.621" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="195.261" endTime="199.683">
+        <Sync time="195.261" />
+        euh bon soit=t= c'est effectivement un problème lié à à l'usure
+      </Turn>
+      <Turn speaker="spk1" startTime="199.683" endTime="200.151">
+        <Sync time="199.683" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="200.151" endTime="205.776">
+        <Sync time="200.151" />
+        soit c'est un problème euh lié à une surtention
+        <Sync time="202.964" />
+        soit c'est une défaillance d'un mécanique ou une défaillance éléctrique
+      </Turn>
+      <Turn speaker="spk1" startTime="205.776" endTime="207.979">
+        <Sync time="205.776" />
+        <Event desc="bruit de bouche du locuteur" type="noise" extent="instantaneous" />
+        apparemment c'est uniquement éléctrique hein
+      </Turn>
+      <Turn speaker="spk2" startTime="207.979" endTime="216.729">
+        <Sync time="207.979" />
+        donc défaillance éléctrique
+        <Sync time="209.822" />
+        + euh bon si défaillance éléctrique on pourra peut-être pas faire sur place
+        <Sync time="214.526" />
+        donc effectivement il faudra peut-être remplacer le moteur
+      </Turn>
+      <Turn speaker="spk1" startTime="216.729" endTime="218.963">
+        <Sync time="216.729" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="218.963" endTime="238.12">
+        <Sync time="218.963" />
+        donc là pareil si j'ai limite euh j'avais eu le contact avec le client directement
+        <Sync time="223.338" />
+        et que s'il avait pu me diagnostiquer son problème
+        <Sync time="225.604" />
+        on aurait peut-être pu envoyer uniquement le moteur seul
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        <Sync time="228.604" />
+        euh pour le dépanner rapidement
+        <Sync time="230.792" />
+        euh sur ce type d'appareil c'est assez facile d'envoyer un moteur seul
+        <Sync time="234.386" />
+        et nous retourner le moteur euh sur site en usine
+      </Turn>
+      <Turn speaker="spk1" startTime="238.12" endTime="238.729">
+        <Sync time="238.12" />
+        hum hum hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="238.729" endTime="248.072">
+        <Sync time="238.729" />
+        euh ça c'était une solution
+        <Sync time="240.822" />
+        maintenant s'il n'est pas trop embêté
+        <Sync time="242.15" />
+        on peut éventuellement emmener la vanne complète à l'usine
+        <Sync time="245.291" />
+        et euh bon ben ça
+      </Turn>
+      <Turn speaker="spk1" startTime="248.072" endTime="248.807">
+        <Sync time="248.072" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="248.807" endTime="250.12">
+        <Sync time="248.807" />
+        il sera sans vanne pendant un certain temps
+      </Turn>
+      <Turn speaker="spk1" startTime="250.12" endTime="260.62">
+        <Sync time="250.12" />
+        bon ben apparement ça a pas l'air de le gêner
+        <Sync time="252.198" />
+        puisqu'il peut bipasser euh l'installation
+        <Sync time="254.308" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        et euh actuellement on est en période de froid et euh pff il se plaint pas
+        <Sync time="260.152" />
+        donc &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="260.62" endTime="261.26">
+        <Sync time="260.62" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="261.26" endTime="264.026">
+        <Sync time="261.26" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        on se demande d'ailleurs pourquoi il a une vanne puisque
+      </Turn>
+      <Turn speaker="spk2" startTime="264.026" endTime="265.463">
+        <Sync time="264.026" />
+        ouais exactement ouais
+        <Event desc="rire du locuteur" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="265.463" endTime="272.884">
+        <Sync time="265.463" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        ben sinon j'ai récupéré la vanne ¤S3¤
+        <Sync time="269.65" />
+        euh pour euh pff la papeterie ¤S4¤
+      </Turn>
+      <Turn speaker="spk2" startTime="272.884" endTime="273.947">
+        <Sync time="272.884" />
+        ah
+      </Turn>
+      <Turn speaker="spk1" startTime="273.947" endTime="284.775">
+        <Sync time="273.947" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        euh ceci dit euh + le dernier client qu'on a vu il y a il y a deux deux mois là
+        <Sync time="281.806" />
+        euh la ¤S5¤ euh
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        ¤S5¤
+      </Turn>
+      <Turn speaker="spk2" startTime="284.775" endTime="285.712">
+        <Sync time="284.775" />
+        ¤S5¤ ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="285.712" endTime="305.464">
+        <Sync time="285.712" />
+        ¤T1¤
+        <Sync time="286.525" />
+        et euh donc je l'ai appelé euh + cette semaine lundi exactement
+        <Sync time="292.197" />
+        <Event desc="reniflement du locuteur" type="noise" extent="instantaneous" />
+        et euh donc je lui ai fait part euh
+        <Event desc="bruit de gorge du locuteur" type="noise" extent="instantaneous" />
+        <Sync time="297.463" />
+        du de ce que tu m'as dit au niveau du bureau de l'étude
+        <Sync time="300.823" />
+        donc qu'on renonçait à
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        à faire une offre sur ce type de matériel
+        <Sync time="304.698" />
+        vu euh
+      </Turn>
+      <Turn speaker="spk2" startTime="305.464" endTime="306.499">
+        <Sync time="305.464" />
+        les conditions de &lt; services
+      </Turn>
+      <Turn speaker="spk1" startTime="306.499" endTime="328.996">
+        <Sync time="306.499" />
+        les &gt; conditions de services qui étaient quand même assez élevées
+        <Sync time="308.761" />
+        et euh + ce qui est quand même assez bizarre beaucoup de monde est sur cette affaire
+        <Sync time="314.089" />
+        <Event desc="inspiration du locueur" type="noise" extent="instantaneous" />
+        et apparaît en fait que
+        <Sync time="317.448" />
+        il a demandé un prix euh au matériel existant celui qui aurait lieu et places actuellement
+        <Sync time="323.167" />
+        et euh il s'avère qu'en fait il est à peu près à + à huit mille euros neuf mille euros
+      </Turn>
+      <Turn speaker="spk2" startTime="328.996" endTime="329.494">
+        <Sync time="328.996" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="329.494" endTime="349.683">
+        <Sync time="329.494" />
+        donc euh alors que la concurrence a des a des problèmes de dimensionnement
+        <Sync time="336.448" />
+        puisqu'ils seront obligés de passer en diamètre cent cinquante ou deux cents
+        <Sync time="338.917" />
+        ce qui fait que il faudrait également euh qu'on bouge la tuyauterie
+        <Sync time="342.292" />
+        ce qui ne demande pas euh vraiment euh
+        <Sync time="346.042" />
+        + lors d'un dépannage c'est d'avoir une action rapide
+      </Turn>
+      <Turn speaker="spk2" startTime="349.683" endTime="350.886">
+        <Sync time="349.683" />
+        oui ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="350.886" endTime="356.151">
+        <Sync time="350.886" />
+        de ce fait bon à huit mille euros neuf mille euros
+        <Sync time="353.698" />
+        je pense qu'il va prendre une vanne un peu près identique
+      </Turn>
+      <Turn speaker="spk2" startTime="356.151" endTime="356.808">
+        <Sync time="356.151" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="356.808" endTime="363.933">
+        <Sync time="356.808" />
+        et il me semble euh que vu ces conditions euh
+        <Sync time="360.745" />
+        si on a décoté euh je pense pas qu'on soit dans les mêmes prix
+      </Turn>
+      <Turn speaker="spk2" startTime="363.933" endTime="372.167">
+        <Sync time="363.933" />
+        + huit mille euros hum + si moi je pense qu'on aurait été dans les mêmes prix
+      </Turn>
+      <Turn speaker="spk1" startTime="372.167" endTime="372.481">
+        <Sync time="372.167" />
+        si
+      </Turn>
+      <Turn speaker="spk2" startTime="372.481" endTime="375.495">
+        <Sync time="372.481" />
+        certainement même inférieurs + certainement inférieurs
+      </Turn>
+      <Turn speaker="spk1" startTime="375.495" endTime="376.261">
+        <Sync time="375.495" />
+        parce que &lt; là
+      </Turn>
+      <Turn speaker="spk2" startTime="376.261" endTime="385.354">
+        <Sync time="376.261" />
+        mais &gt; le le problème en fait c'est pas
+        <Sync time="377.916" />
+        le problème c'est qu'on est à l- effectivement à la limite des
+        <Sync time="380.9" />
+        des tenues mécaniques liées à la température et à la pression
+      </Turn>
+      <Turn speaker="spk1" startTime="385.354" endTime="385.963">
+        <Sync time="385.354" />
+        hum hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="385.963" endTime="403.792">
+        <Sync time="385.963" />
+        et + donc à ces + pressions-là à ces températures-là
+        <Sync time="392.557" />
+        on est bon on est tout simplement à la limite de notre de notre matériel
+        <Sync time="395.807" />
+        euh on a préféré ben décliner
+        <Sync time="398.745" />
+        ça se jouait à peu
+        <Sync time="399.745" />
+        ça se jouait à hum à à cinq bars près ou on va dire &lt; à
+      </Turn>
+      <Turn speaker="spk1" startTime="403.792" endTime="404.682">
+        <Sync time="403.792" />
+        oui &gt; oui oui
+      </Turn>
+      <Turn speaker="spk2" startTime="404.682" endTime="409.198">
+        <Sync time="404.682" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        ou a trente neuf degrès de température pr- près hein ou à cinquante degrès près hein c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="409.198" endTime="417.839">
+        <Sync time="409.198" />
+        oui mais à savoir que à cette dimension le D.N.
+        <Comment desc="Diamètre Nominal" />
+        quatre-vingts euh
+        <Sync time="412.995" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        il apparaît qu'on passe à peu près à mach deux pas à mach trois
+      </Turn>
+      <Turn speaker="spk2" startTime="417.839" endTime="419.402">
+        <Sync time="417.839" />
+        oui la vitesse est très élevée hein
+      </Turn>
+      <Turn speaker="spk1" startTime="419.402" endTime="420.089">
+        <Sync time="419.402" />
+        c'est énorme
+      </Turn>
+      <Turn speaker="spk2" startTime="420.089" endTime="427.578">
+        <Sync time="420.089" />
+        oui vitesse est très élevée
+        <Sync time="421.323" />
+        au niveau de la vanne bon ça poserait pas de problème
+        <Sync time="423.948" />
+        + puis au niveau de la tuyauterie je crois qu'il a grandi derrière donc il est &lt; /tant,temps,en/
+      </Turn>
+      <Turn speaker="spk1" startTime="427.578" endTime="428.558">
+        <Sync time="427.578" />
+        D.N. &gt; quatre cents ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="428.558" endTime="428.679">
+        <Sync time="428.558" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="428.679" endTime="429.047">
+        <Sync time="428.679" />
+        hum &gt; hum
+      </Turn>
+      <Turn speaker="spk2" startTime="429.047" endTime="432.62">
+        <Sync time="429.047" />
+        donc bon là ça + ça ça ça lui va aussi tout &lt; à fait
+      </Turn>
+      <Turn speaker="spk1" startTime="432.62" endTime="433.683">
+        <Sync time="432.62" />
+        hum &gt; hum
+      </Turn>
+      <Turn speaker="spk2" startTime="433.683" endTime="445.542">
+        <Sync time="433.683" />
+        ce qui est effectivement assez surprenant c'est que la vanne
+        <Sync time="436.37" />
+        d'origine est une vanne quatre-vingts qui y est
+        <Sync time="438.417" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        bon à priori ce qui a pu se passer c'est qu'ils ont certainement augmenté le débit
+        <Sync time="443.104" />
+        en cours d'évolution de leur entreprise
+      </Turn>
+      <Turn speaker="spk1" startTime="445.542" endTime="446.245">
+        <Sync time="445.542" />
+        hum hum hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="446.245" endTime="451.652">
+        <Sync time="446.245" />
+        moi c'est ce que je crois
+        <Sync time="447.48" />
+        + si ce n'est même même dans le temps en fait contre une D.N. quatre-vingts
+      </Turn>
+      <Turn speaker="spk1" startTime="451.652" endTime="453.043">
+        <Sync time="451.652" />
+        oui c'est un peu bizarre
+      </Turn>
+      <Turn speaker="spk2" startTime="453.043" endTime="453.511">
+        <Sync time="453.043" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="453.511" endTime="458.121">
+        <Sync time="453.511" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        mais bon euh monter à trois cents + quatre cent soixante degrés
+      </Turn>
+      <Turn speaker="spk2" startTime="458.121" endTime="458.746">
+        <Sync time="458.121" />
+        hum ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="458.746" endTime="461.48">
+        <Sync time="458.746" />
+        à soixante-huit bars euh
+      </Turn>
+      <Turn speaker="spk2" startTime="461.48" endTime="464.247">
+        <Sync time="461.48" />
+        ouais ça il y a pas beaucoup de personnes effectivement &lt; qui qui réparent
+      </Turn>
+      <Turn speaker="spk1" startTime="464.247" endTime="468.262">
+        <Sync time="464.247" />
+        euh une chaudière &gt; à D.N. quatre-vingts euh c'est quand même assez rare ça
+      </Turn>
+      <Turn speaker="spk2" startTime="468.262" endTime="468.728">
+        <Sync time="468.262" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="468.728" endTime="485.043">
+        <Sync time="468.728" />
+        non mais à part se chauffer euh
+        <Event desc="inspiration et bruit de bouche du locuteur" type="noise" extent="instantaneous" />
+        +
+        <Sync time="471.98" />
+        donc euh la France et la Navarre à côté c'est euh c'est le type de matériel
+        <Sync time="477.558" />
+        bon et puis euh bon
+        <Sync time="480.027" />
+        ben je pense que les les prix tournent entre vingt-sept et et soixante milles euros
+      </Turn>
+      <Turn speaker="spk2" startTime="485.043" endTime="486.011">
+        <Sync time="485.043" />
+        ah ouais quand même
+      </Turn>
+      <Turn speaker="spk1" startTime="486.011" endTime="488.121">
+        <Sync time="486.011" />
+        oui oui hum hum suivant les fabricants
+      </Turn>
+      <Turn speaker="spk2" startTime="488.121" endTime="491.387">
+        <Sync time="488.121" />
+        ouais le * il a plutôt intérêt à utiliser &lt; le
+      </Turn>
+      <Turn speaker="spk1" startTime="491.387" endTime="498.059">
+        <Sync time="491.387" />
+        oui &gt; parce que tu as des gens comme euh
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        <Sync time="493.793" />
+        euh à ¤T2¤ comment il(s) s'appelle(nt) euh ¤S6¤
+        <Sync time="497.012" />
+        non c'est pas ¤S6¤ &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="498.059" endTime="498.778">
+        <Sync time="498.059" />
+        si ¤S6¤ &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="498.778" endTime="499.747">
+        <Sync time="498.778" />
+        euh em- donc &lt; ¤S7¤
+      </Turn>
+      <Turn speaker="spk2" startTime="499.747" endTime="500.357">
+        <Sync time="499.747" />
+        ¤S7¤ ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="500.357" endTime="500.81">
+        <Sync time="500.357" />
+        ¤S7¤
+      </Turn>
+      <Turn speaker="spk2" startTime="500.81" endTime="501.326">
+        <Sync time="500.81" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="501.326" endTime="506.357">
+        <Sync time="501.326" />
+        eux ils sont à plus de cinquante mille euros
+        <Sync time="503.373" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        les gens comme ¤S8¤ sont à plus de vingt mille euros
+      </Turn>
+      <Turn speaker="spk2" startTime="506.357" endTime="509.896">
+        <Sync time="506.357" />
+        <Event desc="bruit de bouche du locuteur" type="noise" extent="instantaneous" />
+        ah ben ¤S8¤ je savais pas qu'ils avaient un matériel euh
+      </Turn>
+      <Turn speaker="spk1" startTime="509.896" endTime="510.189">
+        <Sync time="509.896" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="510.189" endTime="511.545">
+        <Sync time="510.189" />
+        ah je l'ai reproposé pour ***
+      </Turn>
+      <Turn speaker="spk1" startTime="511.545" endTime="516.653">
+        <Sync time="511.545" />
+        oui oui je
+        <Event desc="inspiation du locuteur" type="noise" extent="instantaneous" />
+        ouais
+        <Sync time="512.356" />
+        + donc euh par rapport à huit mille euros il y a pas grand chose à faire
+      </Turn>
+      <Turn speaker="spk2" startTime="516.653" endTime="518.747">
+        <Sync time="516.653" />
+        ouais exactement ouais ouais ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="518.747" endTime="519.216">
+        <Sync time="518.747" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="519.216" endTime="525.934">
+        <Sync time="519.216" />
+        non parce que la vanne en D.N. deux cents qu'on a livrée euh cet été
+        <Sync time="521.981" />
+        elle tournait autour de de ces montants-là
+      </Turn>
+      <Turn speaker="spk1" startTime="525.934" endTime="530.278">
+        <Sync time="525.934" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        on était à quatre mille je crois
+      </Turn>
+      <Turn speaker="spk2" startTime="530.278" endTime="533.798">
+        <Sync time="530.278" />
+        ben oui prix euh prix d'achat pour vous ouais prix &lt; d'achat
+      </Turn>
+      <Turn speaker="spk1" startTime="533.798" endTime="534.716">
+        <Sync time="533.798" />
+        hum &gt; hum hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="534.716" endTime="538.122">
+        <Sync time="534.716" />
+        prix de vente euh c'était autour de sept euh huit mille euros
+      </Turn>
+      <Turn speaker="spk1" startTime="538.122" endTime="538.981">
+        <Sync time="538.122" />
+        hum hum hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="538.981" endTime="540.437">
+        <Sync time="538.981" />
+        vanne en D.N. deux cents acier
+      </Turn>
+      <Turn speaker="spk1" startTime="540.437" endTime="542.481">
+        <Sync time="540.437" />
+        hum hum
+        <Sync time="541.043" />
+        tu veux &lt; pas te prendre
+      </Turn>
+      <Turn speaker="spk2" startTime="542.481" endTime="542.722">
+        <Sync time="542.481" />
+        non &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="542.722" endTime="544.263">
+        <Sync time="542.722" />
+        de
+        <Event desc="bruit de froissement de papiers" type="noise" extent="next" />
+        morceau de +
+      </Turn>
+      <Turn speaker="spk2" startTime="544.263" endTime="547.794">
+        <Sync time="544.263" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        voilà allez je vais lui piquer une tête
+        <Comment desc="L2 parle d'un bonhome en chocolat qu'il va manger" />
+      </Turn>
+      <Turn speaker="spk1" startTime="547.794" endTime="554.543">
+        <Sync time="547.794" />
+        hum ah +
+        <Sync time="550.059" />
+        sinon euh là tu es arrivé hier soir à ¤T3¤ c'est ça
+      </Turn>
+      <Turn speaker="spk2" startTime="554.543" endTime="555.684">
+        <Sync time="554.543" />
+        ouais bon &lt; hier soir
+      </Turn>
+      <Turn speaker="spk1" startTime="555.684" endTime="556.715">
+        <Sync time="555.684" />
+        et là &lt; ce matin il neigeait
+      </Turn>
+      <Turn speaker="spk2" startTime="556.715" endTime="562.73">
+        <Sync time="556.715" />
+        oui ouais ouais donc euh ben oui j'avais prévu large hein
+        <Sync time="561.308" />
+        j'avais prévu une heure pour la route
+      </Turn>
+      <Turn speaker="spk1" startTime="562.73" endTime="563.589">
+        <Sync time="562.73" />
+        hum hum hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="563.589" endTime="566.37">
+        <Sync time="563.589" />
+        euh ben pff pratiquement c'est ce que j'ai dû mettre ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="566.37" endTime="567.464">
+        <Sync time="566.37" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="567.464" endTime="571.839">
+        <Sync time="567.464" />
+        j'ai dû mettre ça oui
+        <Sync time="568.151" />
+        bon j'ai eu le chasse-neige pendant un certain nombre de kilomètres
+      </Turn>
+      <Turn speaker="spk1" startTime="571.839" endTime="572.395">
+        <Sync time="571.839" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="572.395" endTime="575.292">
+        <Sync time="572.395" />
+        et puis euh et puis ensuite ben ça allait &lt; c'était assez dégagé
+      </Turn>
+      <Turn speaker="spk1" startTime="575.292" endTime="579.651">
+        <Sync time="575.292" />
+        hum hum &gt; et ton ton chiffre cette année c'est + tu as rétabli la balance
+      </Turn>
+      <Turn speaker="spk2" startTime="579.651" endTime="584.714">
+        <Sync time="579.651" />
+        euh non quand même pas c'est dans les +
+        <Sync time="583.433" />
+        on va dire le chiffre était assez
+      </Turn>
+      <Turn speaker="spk1" startTime="584.714" endTime="585.433">
+        <Sync time="584.714" />
+        &lt; élevé
+      </Turn>
+      <Turn speaker="spk2" startTime="585.433" endTime="585.995">
+        <Sync time="585.433" />
+        ambitieux &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="585.995" endTime="586.433">
+        <Sync time="585.995" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="586.433" endTime="590.792">
+        <Sync time="586.433" />
+        assez ambitieux du fait que hum j'avais deux années + très très bonnes
+      </Turn>
+      <Turn speaker="spk1" startTime="590.792" endTime="591.054">
+        <Sync time="590.792" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="591.054" endTime="591.667">
+        <Sync time="591.054" />
+        moins qui a &lt; suivi
+      </Turn>
+      <Turn speaker="spk1" startTime="591.667" endTime="591.71">
+        <Sync time="591.667" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="591.71" endTime="596.12">
+        <Sync time="591.71" />
+        bon tant qu'à faire on va on va les valider
+        <Sync time="594.511" />
+        et puis et puis voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="596.12" endTime="597.073">
+        <Sync time="596.12" />
+        hum hum hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="597.073" endTime="600.745">
+        <Sync time="597.073" />
+        donc cette année je voudrais être à moins moins dix moins douze pourcents
+      </Turn>
+      <Turn speaker="spk1" startTime="600.745" endTime="602.041">
+        <Sync time="600.745" />
+        c'est encore pas énorme
+      </Turn>
+      <Turn speaker="spk2" startTime="602.041" endTime="603.01">
+        <Sync time="602.041" />
+        ouais c'est encore
+      </Turn>
+      <Turn speaker="spk1" startTime="603.01" endTime="604.12">
+        <Sync time="603.01" />
+        et puis la conjoncture euh
+      </Turn>
+      <Turn speaker="spk2" startTime="604.12" endTime="605.639">
+        <Sync time="604.12" />
+        ouais ouais ouais il faut qu'on &lt; paie
+      </Turn>
+      <Turn speaker="spk1" startTime="605.639" endTime="606.745">
+        <Sync time="605.639" />
+        hum hum &gt; hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="606.745" endTime="611.964">
+        <Sync time="606.745" />
+        bon il y a un point quand même qui est intéréssant
+        <Sync time="608.776" />
+        c'est que je suis deuxième filiale + après les Etats-Unis
+      </Turn>
+      <Turn speaker="spk1" startTime="611.964" endTime="612.699">
+        <Sync time="611.964" />
+        ah bon
+      </Turn>
+      <Turn speaker="spk2" startTime="612.699" endTime="613.23">
+        <Sync time="612.699" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="613.23" endTime="614.87">
+        <Sync time="613.23" />
+        ben alors c'est bien comme ça *
+      </Turn>
+      <Turn speaker="spk2" startTime="614.87" endTime="616.136">
+        <Sync time="614.87" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="616.136" endTime="617.886">
+        <Sync time="616.136" />
+        et l'Italie
+      </Turn>
+      <Turn speaker="spk2" startTime="617.886" endTime="626.87">
+        <Sync time="617.886" />
+        <Event desc="le locuteur mange quelque chose " type="noise" extent="begin" />
+        et l'Italie c'est /pris, le prix d'/ une filiale propre
+        <Sync time="620.464" />
+        +
+        <Event desc="le locuteur mange quelque chose" type="noise" extent="end" />
+        donc on est passé sur euh + un importateur
+      </Turn>
+      <Turn speaker="spk1" startTime="626.87" endTime="627.588">
+        <Sync time="626.87" />
+        hum hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="627.588" endTime="629.76">
+        <Sync time="627.588" />
+        comme euh certains la plupart des &lt; autres pays
+      </Turn>
+      <Turn speaker="spk1" startTime="629.76" endTime="630.135">
+        <Sync time="629.76" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="630.135" endTime="631.572">
+        <Sync time="630.135" />
+        avec qui avec qui on travaille
+      </Turn>
+      <Turn speaker="spk1" startTime="631.572" endTime="632.604">
+        <Sync time="631.572" />
+        l'Espagne également
+      </Turn>
+      <Turn speaker="spk2" startTime="632.604" endTime="648.698">
+        <Sync time="632.604" />
+        alors l'Espagne c'est plus compliqué l'Espagne c'est une euh
+        <Sync time="636.151" />
+        <Event desc="bruit de bouche du locuteur" type="noise" extent="instantaneous" />
+        ça ça a démarré d'abord avec une euh
+        <Sync time="639.558" />
+        joint-ven- joint-venture
+        <Event desc="anglais" type="lexical" extent="previous" />
+        <Sync time="641.073" />
+        euh l'accord de participation où ¤S9¤ avait pris euh
+        <Sync time="645.932" />
+        dans le capital de la société euh un certain pourcentage de parts
+      </Turn>
+      <Turn speaker="spk1" startTime="648.698" endTime="649.166">
+        <Sync time="648.698" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="649.166" endTime="657.525">
+        <Sync time="649.166" />
+        et hum il y a quelques années euh je pense assez récemment quand même
+        <Sync time="654.025" />
+        ils se sont désengagés et puis la société a racheté les parts de &lt; ¤S9¤
+      </Turn>
+      <Turn speaker="spk1" startTime="657.525" endTime="663.197">
+        <Sync time="657.525" />
+        hum hum &gt; hum + donc c'est pas mal si tu es deuxième
+      </Turn>
+      <Turn speaker="spk2" startTime="663.197" endTime="667.371">
+        <Sync time="663.197" />
+        ah ouais ça c'est que j'ai appris
+        <Sync time="664.478" />
+        c'est ce qu'ils vont certainement nous confirmer là euh lors de la prochaine &lt; journée
+      </Turn>
+      <Turn speaker="spk1" startTime="667.371" endTime="668.244">
+        <Sync time="667.371" />
+        on &gt; aura une médaille
+      </Turn>
+      <Turn speaker="spk2" startTime="668.244" endTime="671.76">
+        <Sync time="668.244" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        non
+        <Event desc="rire du locuteur" type="noise" extent="instantaneous" />
+        certainement &lt; pas
+      </Turn>
+      <Turn speaker="spk1" startTime="671.76" endTime="672.416">
+        <Sync time="671.76" />
+        un &gt; billet
+      </Turn>
+      <Turn speaker="spk2" startTime="672.416" endTime="673.963">
+        <Sync time="672.416" />
+        ah euh peut-être &lt; un
+      </Turn>
+      <Turn speaker="spk1" startTime="673.963" endTime="674.307">
+        <Sync time="673.963" />
+        <Event desc="toux du locuteur" type="noise" extent="instantaneous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="674.307" endTime="675.51">
+        <Sync time="674.307" />
+        non peut-être pas
+      </Turn>
+      <Turn speaker="spk1" startTime="675.51" endTime="679.213">
+        <Sync time="675.51" />
+        non mais c'est bien c'est déjà euh
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+        flatteur
+      </Turn>
+      <Turn speaker="spk2" startTime="679.213" endTime="680.823">
+        <Sync time="679.213" />
+        oui oui c'est assez flatteur oui
+      </Turn>
+      <Turn speaker="spk1" startTime="680.823" endTime="684.589">
+        <Sync time="680.823" />
+        mais là euh actuellement tu as combien de distributeurs en France
+      </Turn>
+      <Turn speaker="spk2" startTime="684.589" endTime="691.651">
+        <Sync time="684.589" />
+        alors là ça augmente un petit peu
+        <Sync time="687.073" />
+        je dois être à hum allez dix-sept avec les filliales de distributeurs
+      </Turn>
+      <Turn speaker="spk1" startTime="691.651" endTime="692.213">
+        <Sync time="691.651" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="692.213" endTime="696.462">
+        <Sync time="692.213" />
+        ouais dix-sept
+        <Sync time="694.181" />
+        ah je le sais par ce que j'ai envoyé en fait les courriers pour *
+      </Turn>
+      <Turn speaker="spk1" startTime="696.462" endTime="710.166">
+        <Sync time="696.462" />
+        ouais en aparté tu sais que
+        <Sync time="698.368" />
+        la la vanne qu'on a vendue euh
+        <Event desc="inpiration du locuteur" type="noise" extent="instantaneous" />
+        au mois d'août
+        <Sync time="702.946" />
+        chez euh ¤S5¤ c'est en fait euh l'installateur ¤S10¤
+        <Sync time="707.603" />
+        qui était mon revendeur qui a monté ce matériel
+      </Turn>
+      <Turn speaker="spk2" startTime="710.166" endTime="710.853">
+        <Sync time="710.166" />
+        ben oui ben je sais
+      </Turn>
+      <Turn speaker="spk1" startTime="710.853" endTime="711.494">
+        <Sync time="710.853" />
+        ah tu le sais
+      </Turn>
+      <Turn speaker="spk2" startTime="711.494" endTime="715.372">
+        <Sync time="711.494" />
+        ben oui puisque ils m'ont appelé je l'ai dépanné
+        <Sync time="713.197" />
+        mais je crois que je l'ai je l'ai dit euh mais il me semble que je &lt; t'en avais parlé
+      </Turn>
+      <Turn speaker="spk1" startTime="715.372" endTime="717.494">
+        <Sync time="715.372" />
+        non non &gt; non mais &lt; c'est euh
+      </Turn>
+      <Turn speaker="spk2" startTime="717.494" endTime="717.791">
+        <Sync time="717.494" />
+        *** &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="717.791" endTime="719.463">
+        <Sync time="717.791" />
+        monsieur ¤N1¤ qui m'en a parlé &lt; il m'a dit
+      </Turn>
+      <Turn speaker="spk2" startTime="719.463" endTime="719.793">
+        <Sync time="719.463" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="719.793" endTime="723.305">
+        <Sync time="719.793" />
+        euh
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        que c'était euh ¤S10¤
+        <Sync time="721.838" />
+        ah bon
+        <Sync time="722.384" />
+        je n'ai
+      </Turn>
+      <Turn speaker="spk2" startTime="723.305" endTime="723.539">
+        <Sync time="723.305" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="723.539" endTime="726.914">
+        <Sync time="723.539" />
+        rien &gt; dit mais euh je me suis quand même euh un peu marré
+      </Turn>
+      <Turn speaker="spk2" startTime="726.914" endTime="730.258">
+        <Sync time="726.914" />
+        mais oui par ce qu'ils ont en fait un département euh installation
+      </Turn>
+      <Turn speaker="spk1" startTime="730.258" endTime="732.632">
+        <Sync time="730.258" />
+        hum hum
+        <Sync time="730.929" />
+        qui souffre actuellement
+      </Turn>
+      <Turn speaker="spk2" startTime="732.632" endTime="734.788">
+        <Sync time="732.632" />
+        ah certainement ouais
+        <Sync time="733.507" />
+        parce qu'ils sont avec beaucoup euh &lt; ils travaillent beaucoup *
+      </Turn>
+      <Turn speaker="spk1" startTime="734.788" endTime="757.21">
+        <Sync time="734.788" />
+        oui euh je crois que dans &gt; euh ¤S11¤
+        <Sync time="737.46" />
+        il y avait une annonce euh concernant euh ¤S10¤
+        <Sync time="741.617" />
+        et euh + non non c'est pas ¤S11¤
+        <Sync time="746.835" />
+        je crois que j'ai vu un mail passer certainement un mail qui allait euh
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        chez ¤N2¤
+        <Sync time="751.554" />
+        et euh où euh ¤S10¤ se plaignait euh en fait euh du problème d' ¤S12¤
+      </Turn>
+      <Turn speaker="spk2" startTime="757.21" endTime="758.117">
+        <Sync time="757.21" />
+        ouais exactement
+      </Turn>
+      <Turn speaker="spk1" startTime="758.117" endTime="764.883">
+        <Sync time="758.117" />
+        et euh donc euh il y a une baisse d'activité
+        <Sync time="761.195" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        et il fallait qu'il trouve euh des nouveaux débouchés &lt; quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="764.883" endTime="765.195">
+        <Sync time="764.883" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="765.195" endTime="771.508">
+        <Sync time="765.195" />
+        c'est pour ça il est peut-être même prévu
+        <Sync time="767.961" />
+        + qu'il(s) mette(nt) euh les pieds sur le quatre-vingt-huit
+      </Turn>
+      <Turn speaker="spk2" startTime="771.508" endTime="774.461">
+        <Sync time="771.508" />
+        ouais mais il me semble qu'il a déjà une personne sur le quatre-vingt-huit
+      </Turn>
+      <Turn speaker="spk1" startTime="774.461" endTime="775.702">
+        <Sync time="774.461" />
+        ouais non &lt; mais bien sûr à mon avis
+      </Turn>
+      <Turn speaker="spk2" startTime="775.702" endTime="776.007">
+        <Sync time="775.702" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="776.007" endTime="779.648">
+        <Sync time="776.007" />
+        il est pourchassé
+        <Sync time="776.57" />
+        de toute façon on voit leur ca- leurs classeurs à peu près partout mais bon
+      </Turn>
+      <Turn speaker="spk2" startTime="779.648" endTime="779.976">
+        <Sync time="779.648" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="779.976" endTime="782.07">
+        <Sync time="779.976" />
+        jusqu'à présent où ils étaient pas trop présents
+      </Turn>
+      <Turn speaker="spk2" startTime="782.07" endTime="791.209">
+        <Sync time="782.07" />
+        ouais c'est ça ouais
+        <Sync time="783.163" />
+        pas trop présents
+        <Sync time="783.897" />
+        bon là c'est vrai qu'ils ont différents départements
+        <Sync time="786.053" />
+        ils ont les départements plastiques euh hum euh vêtement de sécurité et caetera donc &lt; là
+      </Turn>
+      <Turn speaker="spk1" startTime="791.209" endTime="792.475">
+        <Sync time="791.209" />
+        oui &gt; de la fourniture industrielle
+      </Turn>
+      <Turn speaker="spk2" startTime="792.475" endTime="792.949">
+        <Sync time="792.475" />
+        fourniture industrielle &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="792.949" endTime="793.49">
+        <Sync time="792.949" />
+        hum &gt; hum
+      </Turn>
+      <Turn speaker="spk2" startTime="793.49" endTime="797.943">
+        <Sync time="793.49" />
+        donc ça effectivement c'est pas de la robinetterie donc ça ça nous ennuie moins
+      </Turn>
+      <Turn speaker="spk1" startTime="797.943" endTime="798.474">
+        <Sync time="797.943" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="798.474" endTime="803.834">
+        <Sync time="798.474" />
+        par contre euh
+        <Sync time="800.021" />
+        ouais peut-être si s'ils mettent une personne ou ou deux ou je sais &lt; pas
+      </Turn>
+      <Turn speaker="spk1" startTime="803.834" endTime="804.599">
+        <Sync time="803.834" />
+        hum &gt; hum hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="804.599" endTime="812.302">
+        <Sync time="804.599" />
+        ou s'ils s- s'intéressent plus on va dire plus activement à ce département
+        <Sync time="808.802" />
+        ouais là ça va être problématique ouais
+        <Sync time="810.209" />
+        enfin ça risque de poser problème
+      </Turn>
+      <Turn speaker="spk1" startTime="812.302" endTime="813.35">
+        <Sync time="812.302" />
+        hum hum hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="813.35" endTime="815.381">
+        <Sync time="813.35" />
+        enfin
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="815.381" endTime="816.411">
+        <Sync time="815.381" />
+        donc c'est bien
+      </Turn>
+      <Turn speaker="spk2" startTime="816.411" endTime="819.099">
+        <Sync time="816.411" />
+        mais pour la société ¤T1¤ vous avez fait une proposition
+      </Turn>
+      <Turn speaker="spk1" startTime="819.099" endTime="822.318">
+        <Sync time="819.099" />
+        non
+        <Sync time="819.552" />
+        non non non non je m'en fichais pas mal que la ***
+      </Turn>
+      <Turn speaker="spk2" startTime="822.318" endTime="823.553">
+        <Sync time="822.318" />
+        attendez ***
+      </Turn>
+      <Turn speaker="spk1" startTime="823.553" endTime="831.021">
+        <Sync time="823.553" />
+        j'ai dit euh
+        <Event desc="bruit d'une personne tapant dans ses mains" type="noise" extent="instantaneous" />
+        <Sync time="825.318" />
+        voilà non mais de toute façon euh +
+        <Sync time="828.036" />
+        tu tu fais pas c'est pas le but je veux dire qu'on &lt; fasse euh
+      </Turn>
+      <Turn speaker="spk2" startTime="831.021" endTime="831.286">
+        <Sync time="831.021" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="831.286" endTime="843.52">
+        <Sync time="831.286" />
+        on travaille très bien
+        <Sync time="833.505" />
+        enfin on a commencé à travailler avec eux
+        <Sync time="835.02" />
+        ils nous consultent sur notre produit et euh euh
+        <Sync time="838.801" />
+        comme tu l'as vu euh la dernière fois euh on avait une étiquette quand même euh
+      </Turn>
+      <Turn speaker="spk2" startTime="843.52" endTime="843.817">
+        <Sync time="843.52" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="843.817" endTime="845.004">
+        <Sync time="843.817" />
+        assez &gt; euh encourageante
+      </Turn>
+      <Turn speaker="spk2" startTime="845.004" endTime="845.942">
+        <Sync time="845.004" />
+        ouais ouais ouais ouais ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="845.942" endTime="854.691">
+        <Sync time="845.942" />
+        donc on va pas semer la zizanie avec d'autres fournisseurs et euh
+        <Sync time="850.098" />
+        bref voilà moi je préfére décliner et lui dire euh ben je ne peux pas faire plutôt
+      </Turn>
+      <Turn speaker="spk2" startTime="854.691" endTime="858.363">
+        <Sync time="854.691" />
+        et hum par hasard tu avais questionné ¤S13¤ + ou ou &lt; d'autres
+      </Turn>
+      <Turn speaker="spk1" startTime="858.363" endTime="859.159">
+        <Sync time="858.363" />
+        ¤S13¤ &gt; ne le faisait pas
+      </Turn>
+      <Turn speaker="spk2" startTime="859.159" endTime="860.393">
+        <Sync time="859.159" />
+        hum bon ben &lt; je vais
+      </Turn>
+      <Turn speaker="spk1" startTime="860.393" endTime="881.851">
+        <Sync time="860.393" />
+        j'avais déjà &gt; questionné ¤S13¤ mais ¤S13¤ ne faisait pas euh
+        <Sync time="863.081" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        une société suédoise euh pouvait faire hein
+        <Sync time="866.003" />
+        une société qui faisait partie avant de ¤S13¤
+        <Sync time="868.394" />
+        ou euh + qui était dans le giron de ¤S13¤ mais qui s'est séparée
+        <Sync time="873.066" />
+        euh + mais j'ai pas eu de réponse
+        <Sync time="875.816" />
+        il m'a dit je le consulterai certainement parce que je monte en Suède
+        <Sync time="878.566" />
+        mais + ça fait plus d'un mois et demi que j- j'ai pas &lt; eu de
+      </Turn>
+      <Turn speaker="spk2" startTime="881.851" endTime="882.054">
+        <Sync time="881.851" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="882.054" endTime="886.177">
+        <Sync time="882.054" />
+        réponse donc euh
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        j'ai préféré euh appeler le client et puis lui dire &lt; que
+      </Turn>
+      <Turn speaker="spk2" startTime="886.177" endTime="886.583">
+        <Sync time="886.177" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="886.583" endTime="889.583">
+        <Sync time="886.583" />
+        on déclinait plutôt qu'il attende une autre réponse euh
+      </Turn>
+      <Turn speaker="spk2" startTime="889.583" endTime="889.973">
+        <Sync time="889.583" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="889.973" endTime="892.365">
+        <Sync time="889.973" />
+        puisque en fait il doit budgétiser &lt; pour euh deux mille
+      </Turn>
+      <Turn speaker="spk2" startTime="892.365" endTime="893.204">
+        <Sync time="892.365" />
+        ah oui projet &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="893.204" endTime="898.255">
+        <Sync time="893.204" />
+        neuf + donc euh + autant dire ce qu'il en est
+      </Turn>
+      <Turn speaker="spk2" startTime="898.255" endTime="899.442">
+        <Sync time="898.255" />
+        ouais
+        <Sync time="898.88" />
+        ouais ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="899.442" endTime="906.942">
+        <Sync time="899.442" />
+        <Event desc="bruit de bouche du locuteur" type="noise" extent="instantaneous" />
+        <Event desc="inspiration du locuteur" type="noise" extent="instantaneous" />
+        voilà bon donc ***
+        <Event desc="bruit de chaises" type="noise" extent="instantaneous" />
+        <Event desc="bruit de porte" type="noise" extent="instantaneous" />
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

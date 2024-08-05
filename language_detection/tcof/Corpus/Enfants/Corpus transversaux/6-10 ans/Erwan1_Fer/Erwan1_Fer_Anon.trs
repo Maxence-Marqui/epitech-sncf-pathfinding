@@ -1,0 +1,2291 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="tomaszek1u" audio_filename="enregistrement erwan" version="15" version_date="170730">
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Erwan" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="Erwan_Fer_Ferry_2012 - CB 07/16 - EC 28/7/2017"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="745.599" topic="to1">
+<Turn startTime="0" endTime="4.436" speaker="spk2">
+<Sync time="0"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ *** 
+<Sync time="2.334"/>
+comment tu commences peut-être 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4.436" endTime="7.37">
+<Sync time="4.436"/>
+vas-y commence
+<Sync time="5.286"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ +
+<Sync time="6.698"/>
+ça fait combien ?
+</Turn>
+<Turn speaker="spk2" startTime="7.37" endTime="8.992">
+<Sync time="7.37"/>
+euh sept
+</Turn>
+<Turn speaker="spk1" startTime="8.992" endTime="9.994">
+<Sync time="8.992"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ à moi
+</Turn>
+<Turn speaker="spk2" startTime="9.994" endTime="11.597">
+<Sync time="9.994"/>
+euh 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="11.597" endTime="12.989">
+<Sync time="11.597"/>
+ça fait combien ?
+</Turn>
+<Turn speaker="spk2" startTime="12.989" endTime="19.853">
+<Sync time="12.989"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ six
+<Sync time="13.852"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="14.568"/>
+je commence je commence
+<Sync time="17.196"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="18.322"/>
+ça ça fait trois
+</Turn>
+<Turn speaker="spk1" startTime="19.853" endTime="25.052">
+<Sync time="19.853"/>
+alors non 
+<Sync time="20.473"/>
+ça fait un deux 
+<Event desc="b" type="noise" extent="previous"/>
+ et un un 
+<Sync time="21.975"/>
+donc il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut que 
+<Event desc="fok" type="pronounce" extent="previous"/>
+ tu mettes sur le deux et le un
+</Turn>
+<Turn speaker="spk2" startTime="25.052" endTime="27.757">
+<Sync time="25.052"/>
+ah 
+<Comment desc="longue pronconciation"/>
+
+<Sync time="25.868"/>
+moi j'ai mal compris moi
+</Turn>
+<Turn speaker="spk1" startTime="27.757" endTime="29.336">
+<Sync time="27.757"/>
+bah oui dis voir
+</Turn>
+<Turn speaker="spk2" startTime="29.336" endTime="32.512">
+<Sync time="29.336"/>
+mal compris
+<Sync time="30.962"/>
+tant pis 
+<Event desc="tOpe" type="pronounce" extent="previous"/>
+ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="32.512" endTime="33.276">
+<Sync time="32.512"/>
+ça fait combien ?
+</Turn>
+<Turn speaker="spk2" startTime="33.276" endTime="37.726">
+<Sync time="33.276"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="33.877"/>
+alors 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="35.313"/>
+sept huit + 
+</Turn>
+<Turn speaker="spk1" startTime="37.726" endTime="41.494">
+<Sync time="37.726"/>
+alors six 
+<Event desc="b" type="noise" extent="previous"/>
+ et deux 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.494" endTime="44.053">
+<Sync time="41.494"/>
+wouah 
+<Comment desc="longue prononciation"/>
+
+<Sync time="42.687"/>
+ah oui *** 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="44.053" endTime="45.687">
+<Sync time="44.053"/>
+ah tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu ça un peu
+<Sync time="44.824"/>
+j'avance vite hein
+</Turn>
+<Turn speaker="spk2" startTime="45.687" endTime="54.172">
+<Sync time="45.687"/>
+six et quatre
+<Sync time="46.526"/>
+oh oh oh oh oh 
+<Comment desc="chantonné"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+<Sync time="49.254"/>
+hop + et hop 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.172" endTime="55.011">
+<Sync time="54.172"/>
+là ça fait quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="55.011" endTime="61.419">
+<Sync time="55.011"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ sept 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="55.803"/>
++ quatre trois + 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ 
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="61.419" endTime="61.904">
+<Sync time="61.419"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="61.904" endTime="64.999">
+<Sync time="61.904"/>
+c'est six
+<Sync time="63.11"/>
+je 
+<Event desc="Z" type="pronounce" extent="previous"/>
+ peux pas le six
+</Turn>
+<Turn speaker="spk1" startTime="64.999" endTime="65.838">
+<Sync time="64.999"/>
+hein bah non
+</Turn>
+<Turn speaker="spk2" startTime="65.838" endTime="68.533">
+<Sync time="65.838"/>
+c'est un cinq 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk1" startTime="68.533" endTime="69.678">
+<Sync time="68.533"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu ça devient dur 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="69.678" endTime="70.899">
+<Sync time="69.678"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="70.899" endTime="72.239">
+<Sync time="70.899"/>
+alors un deux et un trois 
+</Turn>
+<Turn speaker="spk2" startTime="72.239" endTime="74.219">
+<Sync time="72.239"/>
+quand 
+<Event desc="ko" type="pronounce" extent="previous"/>
+ on a rien du tout 
+<Sync time="73.145"/>
+bah c'est facile
+</Turn>
+<Turn speaker="spk1" startTime="74.219" endTime="75.702">
+<Sync time="74.219"/>
+ah bah ça c'est sûr
+</Turn>
+<Turn speaker="spk2" startTime="75.702" endTime="80.958">
+<Sync time="75.702"/>
+ça refait cinq ça 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="77.877"/>
+et ça ça fait sept 
+<Comment desc="longue prononciation"/>
+
+<Sync time="79.499"/>
+trois quatre
+</Turn>
+<Turn speaker="spk1" startTime="80.958" endTime="82.966">
+<Sync time="80.958"/>
+bah dis donc tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ en train de gagner toi
+</Turn>
+<Turn speaker="spk2" startTime="82.966" endTime="85.737">
+<Sync time="82.966"/>
+quatre 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk1" startTime="85.737" endTime="89.49">
+<Sync time="85.737"/>
+un cinq et un un
+<Sync time="86.743"/>
+ah bah tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu je peux mettre les deux + 
+</Turn>
+<Turn speaker="spk2" startTime="89.49" endTime="90.225">
+<Sync time="89.49"/>
+roh 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="90.225" endTime="90.563">
+<Sync time="90.225"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="90.563" endTime="94.021">
+<Sync time="90.563"/>
+il m'en manque quatre
+<Sync time="92.59"/>
+et toi deux 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="94.021" endTime="96.12">
+<Sync time="94.021"/>
+non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ m'en manque trois regarde +
+</Turn>
+<Turn speaker="spk2" startTime="96.12" endTime="98.033">
+<Sync time="96.12"/>
+oh bah tu en 
+<Event desc="ta~" type="pronounce" extent="previous"/>
+ as perdu un
+</Turn>
+<Turn speaker="spk1" startTime="98.033" endTime="98.849">
+<Sync time="98.033"/>
+bah non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="98.849" endTime="100.189">
+<Sync time="98.849"/>
+<Who nb="1"/>
+si
+<Who nb="2"/>
+ah si
+</Turn>
+<Turn speaker="spk1" startTime="100.189" endTime="102.765">
+<Sync time="100.189"/>
+ah j'en ai perdu un
+<Sync time="101.429"/>
+du coup je 
+<Event desc="Z" type="pronounce" extent="previous"/>
+ prends un rose 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="102.765" endTime="107.334">
+<Sync time="102.765"/>
+* 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+<Sync time="105.107"/>
+/un, hein/ 
+<Event desc="sif" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="107.334" endTime="109.322">
+<Sync time="107.334"/>
+eh il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ t'en manque plus que deux eh 
+</Turn>
+<Turn speaker="spk2" startTime="109.322" endTime="111.383">
+<Sync time="109.322"/>
+deux cinq 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="109.804"/>
+faut que je fasse 
+</Turn>
+<Turn speaker="spk1" startTime="111.383" endTime="112.652">
+<Sync time="111.383"/>
+bah tu vois /je t'en prends, je pense à/ aucun 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="112.652" endTime="117.383">
+<Sync time="112.652"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ + 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="117.383" endTime="120.273">
+<Sync time="117.383"/>
+ah tu peux faire le cinq +
+</Turn>
+<Turn speaker="spk2" startTime="120.273" endTime="123.722">
+<Sync time="120.273"/>
+wouhou 
+<Sync time="121.585"/>
+moi j'en perds 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ aucun
+</Turn>
+<Turn speaker="spk1" startTime="123.722" endTime="125.587">
+<Sync time="123.722"/>
+ah beh je peux faire le cinq
+</Turn>
+<Turn speaker="spk2 spk1" startTime="125.587" endTime="126.283">
+<Sync time="125.587"/>
+<Who nb="1"/>
+eh
+<Who nb="2"/>
+eh bien
+</Turn>
+<Turn speaker="spk1" startTime="126.283" endTime="127.81">
+<Sync time="126.283"/>
+
+<Event desc="bruit de chaise" type="noise" extent="instantaneous"/>
+ ah tu vois il m'en reste un aussi
+</Turn>
+<Turn speaker="spk2" startTime="127.81" endTime="128.506">
+<Sync time="127.81"/>
+
+<Event desc="bg" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="128.506" endTime="132.198">
+<Sync time="128.506"/>
+alors c'est qui qui va gagner ? 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk2" startTime="132.198" endTime="134.206">
+<Sync time="132.198"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="134.206" endTime="135.57">
+<Sync time="134.206"/>
+c'est quel chiffre qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ te faut ?
+</Turn>
+<Turn speaker="spk2" startTime="135.57" endTime="140.345">
+<Sync time="135.57"/>
+moi c'est deux puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ toi c'est quatre 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="137.669"/>
+oh oh ça fait le 
+<Event desc="b" type="noise" extent="previous"/>
+ double +
+</Turn>
+<Turn speaker="spk1 spk2" startTime="140.345" endTime="141.089">
+<Sync time="140.345"/>
+<Who nb="1"/>
+oh dommage ça fait un quatre
+<Who nb="2"/>
+oh oh
+</Turn>
+<Turn speaker="spk1" startTime="141.089" endTime="141.494">
+<Sync time="141.089"/>
+quatre
+</Turn>
+<Turn speaker="spk2 spk1" startTime="141.494" endTime="142.071">
+<Sync time="141.494"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="142.071" endTime="147.89">
+<Sync time="142.071"/>
+je l'avais dans le petit doigt +
+<Sync time="146.578"/>
+trois trois
+</Turn>
+<Turn speaker="spk1" startTime="147.89" endTime="148.396">
+<Sync time="147.89"/>
+bah non 
+</Turn>
+<Turn speaker="spk2" startTime="148.396" endTime="149.622">
+<Sync time="148.396"/>
+ça fait six 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="149.622" endTime="151.034">
+<Sync time="149.622"/>
+bien
+</Turn>
+<Turn speaker="spk2" startTime="151.034" endTime="158.198">
+<Sync time="151.034"/>
+deux euh
+<Sync time="153.285"/>
+/si, c'est/ 
+<Comment desc="longue prononciation"/>
+
+<Sync time="154.692"/>
+attends +
+<Sync time="157.196"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ dix sept 
+</Turn>
+<Turn speaker="spk1" startTime="158.198" endTime="158.89">
+<Sync time="158.198"/>
+ah non 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="158.89" endTime="159.348">
+<Sync time="158.89"/>
+si
+</Turn>
+<Turn speaker="spk1" startTime="159.348" endTime="161.976">
+<Sync time="159.348"/>
+ah bah non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+<Sync time="160.354"/>
+cinq et six ça fait pas dix sept 
+</Turn>
+<Turn speaker="spk2" startTime="161.976" endTime="162.386">
+<Sync time="161.976"/>
+ah ah
+</Turn>
+<Turn speaker="spk1" startTime="162.386" endTime="163.269">
+<Sync time="162.386"/>
+ah ça fait combien ?
+</Turn>
+<Turn speaker="spk2" startTime="163.269" endTime="165.563">
+<Sync time="163.269"/>
+euh 
+<Sync time="164.442"/>
+cinq et six
+</Turn>
+<Turn speaker="spk1" startTime="165.563" endTime="166.65">
+<Sync time="165.563"/>
+eh bah
+<Sync time="166.04"/>
+cinq et six
+</Turn>
+<Turn speaker="spk2" startTime="166.65" endTime="168.477">
+<Sync time="166.65"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="167.781"/>
+onze
+</Turn>
+<Turn speaker="spk1" startTime="168.477" endTime="172.069">
+<Sync time="168.477"/>
+bien
+<Sync time="169.217"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="170.753"/>
+ah j'ai gagné
+</Turn>
+<Turn speaker="spk2" startTime="172.069" endTime="174.263">
+<Sync time="172.069"/>
+non 
+<Comment desc="longue prononciation"/>
+
+<Sync time="173.309"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="174.263" endTime="176.672">
+<Sync time="174.263"/>
+à moi de choisir 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="176.004"/>
+alors 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="176.672" endTime="179.085">
+<Sync time="176.672"/>
+<Who nb="1"/>
+pourvu que ce soit 
+<Who nb="2"/>
+ça fait combien
+</Turn>
+<Turn speaker="spk2" startTime="179.085" endTime="181.952">
+<Sync time="179.085"/>
+euh 
+<Comment desc="longue prononciation"/>
+
+<Sync time="180.063"/>
+six +
+</Turn>
+<Turn speaker="spk1" startTime="181.952" endTime="188.729">
+<Sync time="181.952"/>
+ça fait six
+<Sync time="182.696"/>
+alors voyons voir ce que j'ai gagné + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="186.416"/>
+j'ai gagné quoi tu crois ?
+<Sync time="187.99"/>
+un cerf
+</Turn>
+<Turn speaker="spk2" startTime="188.729" endTime="190.804">
+<Sync time="188.729"/>
+un lynx 
+<Event desc="liks" type="pronounce" extent="previous"/>
+ +
+</Turn>
+<Turn speaker="spk1" startTime="190.804" endTime="194.115">
+<Sync time="190.804"/>
+tu crois
+<Sync time="191.31"/>
+un 
+<Comment desc="longue prononciation"/>
+ j'ai un
+<Sync time="192.727"/>
+non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+ c'est quoi ? 
+</Turn>
+<Turn speaker="spk2" startTime="194.115" endTime="194.978">
+<Sync time="194.115"/>
+un loup
+</Turn>
+<Turn speaker="spk1" startTime="194.978" endTime="196.958">
+<Sync time="194.978"/>
+eh tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu ça un peu 
+</Turn>
+<Turn speaker="spk2" startTime="196.958" endTime="198.203">
+<Sync time="196.958"/>
+non 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="198.203" endTime="199.305">
+<Sync time="198.203"/>
+bah oui 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="199.305" endTime="200.431">
+<Sync time="199.305"/>
+<Who nb="1"/>
+ah faut que tu continues
+<Who nb="2"/>
+et au fait
+</Turn>
+<Turn speaker="spk2" startTime="200.431" endTime="201.08">
+<Sync time="200.431"/>
+ah non
+</Turn>
+<Turn speaker="spk1" startTime="201.08" endTime="202.516">
+<Sync time="201.08"/>
+faut que tu fasses un deux
+</Turn>
+<Turn speaker="spk2" startTime="202.516" endTime="205.773">
+<Sync time="202.516"/>
+ah 
+<Comment desc="longue prononciation"/>
+
+<Sync time="203.594"/>
+* bah j'en ai plus
+</Turn>
+<Turn speaker="spk1" startTime="205.773" endTime="207.657">
+<Sync time="205.773"/>
+bah tiens prends un bleu toi 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="207.657" endTime="211.096">
+<Sync time="207.657"/>
+bah j'en ai perdu un eh
+<Sync time="209.112"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="210.519"/>
+oh ah 
+</Turn>
+<Turn speaker="spk1" startTime="211.096" endTime="213.056">
+<Sync time="211.096"/>
+toujours pas 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="213.056" endTime="213.963">
+<Sync time="213.056"/>
+ça c'est facile
+</Turn>
+<Turn speaker="spk1" startTime="213.963" endTime="217.373">
+<Sync time="213.963"/>
+bah oui c'est facile au début 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="217.373" endTime="219.286">
+<Sync time="217.373"/>
+*** 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="219.286" endTime="221.055">
+<Sync time="219.286"/>
+et bah alors 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="220.149"/>
+tu y 
+<Event desc="ti" type="pronounce" extent="previous"/>
+ arrives pas
+</Turn>
+<Turn speaker="spk2" startTime="221.055" endTime="221.823">
+<Sync time="221.055"/>
+non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="221.823" endTime="222.829">
+<Sync time="221.823"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="222.829" endTime="227.766">
+<Sync time="222.829"/>
+c'est trop dur 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="224.403"/>
+ouais 
+<Comment desc="longue prononciation"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="227.766" endTime="231.091">
+<Sync time="227.766"/>
+alors vas-y 
+<Sync time="229.512"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="231.091" endTime="231.811">
+<Sync time="231.091"/>
+deux points 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="231.811" endTime="234.32">
+<Sync time="231.811"/>
+oh bah dis donc tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ pas fait beaucoup eh
+</Turn>
+<Turn speaker="spk2 spk1" startTime="234.32" endTime="234.945">
+<Sync time="234.32"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+tiens
+</Turn>
+<Turn speaker="spk1" startTime="234.945" endTime="235.451">
+<Sync time="234.945"/>
+c'est quoi ? 
+</Turn>
+<Turn speaker="spk2" startTime="235.451" endTime="236.29">
+<Sync time="235.451"/>
+un lynx 
+<Event desc="liks" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="236.29" endTime="236.72">
+<Sync time="236.29"/>
+<Who nb="1"/>
+non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+euh un
+</Turn>
+<Turn speaker="spk2" startTime="236.72" endTime="238.007">
+<Sync time="236.72"/>
+chat sauvage
+</Turn>
+<Turn speaker="spk1" startTime="238.007" endTime="238.842">
+<Sync time="238.007"/>
+voilà
+</Turn>
+<Turn speaker="spk2" startTime="238.842" endTime="240.464">
+<Sync time="238.842"/>
+bah dis donc 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="240.464" endTime="245.868">
+<Sync time="240.464"/>
+allez à moi
+<Sync time="241.542"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ + 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="245.291"/>
+* pas avec tes pions
+</Turn>
+<Turn speaker="spk2" startTime="245.868" endTime="253.39">
+<Sync time="245.868"/>
+quatre deux
+<Sync time="246.512"/>
+ah oui
+<Sync time="248.138"/>
+quatre fois deux quatre fois deux
+<Sync time="249.402"/>
+quatre fois 
+<Event desc="tRoi" type="pronounce" extent="previous"/>
+ deux deux deux
+<Sync time="250.714"/>
++ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="253.39" endTime="261.083">
+<Sync time="253.39"/>
+alors 
+<Sync time="254.587"/>
+un un et un deux
+<Sync time="255.283"/>
+ça va c'est facile au début
+<Sync time="256.094"/>
+ah bah non je peux pas mettre le un 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="259.409"/>
+et ouais 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="261.083" endTime="262.156">
+<Sync time="261.083"/>
+wouh 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="262.156" endTime="263.897">
+<Sync time="262.156"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="263.897" endTime="266.043">
+<Sync time="263.897"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ me reste plus 
+<Event desc="py" type="pronounce" extent="previous"/>
+ que des *
+</Turn>
+<Turn speaker="spk1" startTime="266.043" endTime="266.353">
+<Sync time="266.043"/>
+bah oui
+</Turn>
+<Turn speaker="spk2" startTime="266.353" endTime="268.576">
+<Sync time="266.353"/>
+oh je vise mal 
+<Sync time="268.309"/>
+/la, là/
+</Turn>
+<Turn speaker="spk1" startTime="268.576" endTime="271.036">
+<Sync time="268.576"/>
+alors tu sais p- 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="269.728"/>
+tu sais pas mettre sur une case
+</Turn>
+<Turn speaker="spk2" startTime="271.036" endTime="275.112">
+<Sync time="271.036"/>
+bah si
+<Sync time="273.157"/>
+si on en met que sur un quatre
+</Turn>
+<Turn speaker="spk1" startTime="275.112" endTime="277.456">
+<Sync time="275.112"/>
+ah faut mettre sur le bon chiffre hein 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="276.496"/>
+faut pas tricher hein
+</Turn>
+<Turn speaker="spk2" startTime="277.456" endTime="278.684">
+<Sync time="277.456"/>
+cinq 
+<Event desc="i" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="278.684" endTime="280.344">
+<Sync time="278.684"/>
+<Who nb="1"/>
+là c'est mieux
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="280.344" endTime="283.625">
+<Sync time="280.344"/>
+et le deux aussi tu peux le mettre regarde + 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="283.625" endTime="285.804">
+<Sync time="283.625"/>
+oh j'ai plus de deux c'est bizarre 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="285.804" endTime="289.3">
+<Sync time="285.804"/>
+ah bah une fois que tu as 
+<Event desc="kta" type="pronounce" extent="previous"/>
+ mis tous les deux
+<Sync time="286.965"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ plus de deux
+<Sync time="287.447"/>
+regarde moi j'ai plus de quatre et j'ai plus de six
+</Turn>
+<Turn speaker="spk2" startTime="289.3" endTime="294.171">
+<Sync time="289.3"/>
+ah ah ah
+<Sync time="290.653"/>
+trois et quatre 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="292.519"/>
+trois quatre
+</Turn>
+<Turn speaker="spk1" startTime="294.171" endTime="295.97">
+<Sync time="294.171"/>
+ouais tu peux mettre les deux
+</Turn>
+<Turn speaker="spk2" startTime="295.97" endTime="302.435">
+<Sync time="295.97"/>
+trois
+<Sync time="297.153"/>
+quatre
+<Sync time="298.783"/>
+reste encore trois chiffres
+<Sync time="300.381"/>
+han 
+<Event desc="i" type="noise" extent="previous"/>
+ ***
+</Turn>
+<Turn speaker="spk1" startTime="302.435" endTime="303.498">
+<Sync time="302.435"/>
+ah regarde moi 
+</Turn>
+<Turn speaker="spk2" startTime="303.498" endTime="310.73">
+<Sync time="303.498"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ oh non 
+<Comment desc="longue prononciation"/>
+
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="306.525"/>
+un deux
+<Sync time="307.568"/>
+un
+<Sync time="309.31"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="310.73" endTime="311.748">
+<Sync time="310.73"/>
+oh mince
+</Turn>
+<Turn speaker="spk2" startTime="311.748" endTime="312.409">
+<Sync time="311.748"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="312.409" endTime="313.248">
+<Sync time="312.409"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="313.248" endTime="314.869">
+<Sync time="313.248"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="314.869" endTime="316.646">
+<Sync time="314.869"/>
+ah oui c'est dur quand il t'en 
+<Event desc="ita~" type="pronounce" extent="previous"/>
+ reste plus beaucoup
+</Turn>
+<Turn speaker="spk2" startTime="316.646" endTime="322.187">
+<Sync time="316.646"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ ouais
+<Sync time="319.517"/>
+oh 
+<Comment desc="longue prononciation"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="322.187" endTime="322.781">
+<Sync time="322.187"/>
+bah alors
+</Turn>
+<Turn speaker="spk2" startTime="322.781" endTime="323.866">
+<Sync time="322.781"/>
+quatre deux
+</Turn>
+<Turn speaker="spk1" startTime="323.866" endTime="325.219">
+<Sync time="323.866"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="325.219" endTime="326.295">
+<Sync time="325.219"/>
+ah ouais
+<Sync time="325.902"/>
+quand on a
+</Turn>
+<Turn speaker="spk1" startTime="326.295" endTime="327.38">
+<Sync time="326.295"/>
+ah non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+ bah toujours pas
+</Turn>
+<Turn speaker="spk2" startTime="327.38" endTime="330.675">
+<Sync time="327.38"/>
+samedi on va les laminer 
+<Event desc="dés sur la table" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="330.675" endTime="331.246">
+<Sync time="330.675"/>
+de quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="331.246" endTime="334.251">
+<Sync time="331.246"/>
+ouais 
+<Comment desc="longue prononciation"/>
+
+<Sync time="332.385"/>
+on va les laminer Thaon samedi 
+</Turn>
+<Turn speaker="spk1" startTime="334.251" endTime="336.376">
+<Sync time="334.251"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="336.018"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="336.376" endTime="338.197">
+<Sync time="336.376"/>
+merde
+</Turn>
+<Turn speaker="spk1" startTime="338.197" endTime="339.974">
+<Sync time="338.197"/>
+bah non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="338.778"/>
+eh tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu le même chiffre 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="339.974" endTime="342.613">
+<Sync time="339.974"/>
+oh oh oh 
+<Sync time="340.925"/>
+et la même place en plus
+</Turn>
+<Turn speaker="spk1" startTime="342.613" endTime="347.729">
+<Sync time="342.613"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ ah oui c'est vrai
+<Sync time="345.461"/>
+alors qui va
+<Sync time="346.131"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ qui va arriver à le faire le premier
+</Turn>
+<Turn speaker="spk2" startTime="347.729" endTime="350.274">
+<Sync time="347.729"/>
+
+<Event desc="n" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="349.76"/>
+han 
+<Event desc="i" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="350.274" endTime="352.162">
+<Sync time="350.274"/>
+ah ça fait combien ?
+</Turn>
+<Turn speaker="spk2" startTime="352.162" endTime="352.832">
+<Sync time="352.162"/>
+euh douze
+</Turn>
+<Turn speaker="spk1" startTime="352.832" endTime="356.247">
+<Sync time="352.832"/>
+ouais 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ + 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="356.247" endTime="361.194">
+<Sync time="356.247"/>
+
+<Event desc="bg" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="358.569"/>
+oh 
+<Comment desc="longue prononciation"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="361.194" endTime="362.087">
+<Sync time="361.194"/>
+bah alors
+</Turn>
+<Turn speaker="spk2" startTime="362.087" endTime="363.841">
+<Sync time="362.087"/>
+ça fait mal 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="363.841" endTime="364.43">
+<Sync time="363.841"/>
+ça fait mal
+</Turn>
+<Turn speaker="spk2" startTime="364.43" endTime="366.05">
+<Sync time="364.43"/>
+oui 
+<Comment desc="longue prononciation"/>
+ hi hi 
+</Turn>
+<Turn speaker="spk1" startTime="366.05" endTime="369.157">
+<Sync time="366.05"/>
+bravo 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="367.499"/>
+allez vas-y relance les dés
+</Turn>
+<Turn speaker="spk2" startTime="369.157" endTime="372.008">
+<Sync time="369.157"/>
+*** peut-être
+<Sync time="371.13"/>
+toi tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ combien de points ?
+</Turn>
+<Turn speaker="spk1" startTime="372.008" endTime="375.887">
+<Sync time="372.008"/>
+bah moi j'en ai que six
+<Sync time="373.814"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk2" startTime="375.887" endTime="380.766">
+<Sync time="375.887"/>
+woh 
+<Comment desc="longue prononciation"/>
+
+<Sync time="377.108"/>
+ça fait /et, j'ai/ un problème 
+</Turn>
+<Turn speaker="spk1" startTime="380.766" endTime="381.793">
+<Sync time="380.766"/>
+ah c'est dur hein de compter comme ça
+</Turn>
+<Turn speaker="spk2" startTime="381.793" endTime="382.823">
+<Sync time="381.793"/>
+ça fait dix
+</Turn>
+<Turn speaker="spk1" startTime="382.823" endTime="383.47">
+<Sync time="382.823"/>
+tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ sûr ? 
+</Turn>
+<Turn speaker="spk2" startTime="383.47" endTime="384.006">
+<Sync time="383.47"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="384.006" endTime="386.367">
+<Sync time="384.006"/>
+bon
+<Sync time="385.242"/>
+c'est quoi ? 
+</Turn>
+<Turn speaker="spk2" startTime="386.367" endTime="387.546">
+<Sync time="386.367"/>
+un bouquetin
+</Turn>
+<Turn speaker="spk1" startTime="387.546" endTime="388.269">
+<Sync time="387.546"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="388.269" endTime="389.851">
+<Sync time="388.269"/>
+wouah 
+<Comment desc="longue prononciation"/>
+ ça fait douze points
+</Turn>
+<Turn speaker="spk1" startTime="389.851" endTime="392.54">
+<Sync time="389.851"/>
+non non faut que j'essaye de faire mon cinq
+<Sync time="391.072"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ ça fait douze points ? 
+</Turn>
+<Turn speaker="spk2" startTime="392.54" endTime="392.867">
+<Sync time="392.54"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="392.867" endTime="393.783">
+<Sync time="392.867"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ autant que ça
+</Turn>
+<Turn speaker="spk2" startTime="393.783" endTime="394.373">
+<Sync time="393.783"/>
+bah oui 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="394.373" endTime="395.841">
+<Sync time="394.373"/>
+bah dis donc
+</Turn>
+<Turn speaker="spk2" startTime="395.841" endTime="399.461">
+<Sync time="395.841"/>
+tu vois 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="397.499"/>
+j'en ai que six 
+<Sync time="398.453"/>
+ah bah dis moi 
+</Turn>
+<Turn speaker="spk1" startTime="399.461" endTime="400.796">
+<Sync time="399.461"/>
+ça devient plus facile pour toi là comme ça
+</Turn>
+<Turn speaker="spk2" startTime="400.796" endTime="406.72">
+<Sync time="400.796"/>
+bah oui +
+<Sync time="402.815"/>
+quatre +
+<Sync time="404.013"/>
+et trois 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="406.72" endTime="407.652">
+<Sync time="406.72"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="407.652" endTime="408.317">
+<Sync time="407.652"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="408.317" endTime="408.964">
+<Sync time="408.317"/>
+si
+</Turn>
+<Turn speaker="spk2" startTime="408.964" endTime="409.785">
+<Sync time="408.964"/>
+non 
+</Turn>
+<Turn speaker="spk1" startTime="409.785" endTime="413.664">
+<Sync time="409.785"/>
+bah si j'ai fait mon cinq
+<Sync time="411.42"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ +
+<Sync time="413.074"/>
+alors
+</Turn>
+<Turn speaker="spk2" startTime="413.664" endTime="416.391">
+<Sync time="413.664"/>
+huit
+<Sync time="415.208"/>
+non 
+<Comment desc="longue prononciation"/>
+
+<Comment desc="en criant"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="416.391" endTime="417.516">
+<Sync time="416.391"/>
+si
+</Turn>
+<Turn speaker="spk2" startTime="417.516" endTime="418.6">
+<Sync time="417.516"/>
+non c'est à moi
+</Turn>
+<Turn speaker="spk1" startTime="418.6" endTime="419.075">
+<Sync time="418.6"/>
+bah oui 
+</Turn>
+<Turn speaker="spk2" startTime="419.075" endTime="420.71">
+<Sync time="419.075"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ***
+</Turn>
+<Turn speaker="spk1" startTime="420.71" endTime="421.664">
+<Sync time="420.71"/>
+eh
+</Turn>
+<Turn speaker="spk2" startTime="421.664" endTime="423.132">
+<Sync time="421.664"/>
+ça fait combien de points ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="423.132" endTime="423.915">
+<Sync time="423.132"/>
+ça fait combien de points ? 
+</Turn>
+<Turn speaker="spk2" startTime="423.915" endTime="426.695">
+<Sync time="423.915"/>
+six
+<Sync time="424.543"/>
+sept
+<Sync time="425.554"/>
+quatorze
+</Turn>
+<Turn speaker="spk1" startTime="426.695" endTime="427.322">
+<Sync time="426.695"/>
+tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ sûr ? 
+</Turn>
+<Turn speaker="spk2" startTime="427.322" endTime="427.855">
+<Sync time="427.322"/>
+bah oui
+</Turn>
+<Turn speaker="spk1" startTime="427.855" endTime="431.52">
+<Sync time="427.855"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="429.95"/>
+
+<Event desc="n" type="noise" extent="instantaneous"/>
+ du coup c'est qui qui gagne ?
+</Turn>
+<Turn speaker="spk2" startTime="431.52" endTime="431.999">
+<Sync time="431.52"/>
+toi
+</Turn>
+<Turn speaker="spk1" startTime="431.999" endTime="434.018">
+<Sync time="431.999"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ bah voilà + 
+</Turn>
+<Turn speaker="spk2" startTime="434.018" endTime="435.957">
+<Sync time="434.018"/>
+oh 
+<Comment desc="longue prononciation"/>
+ déjà 
+<Event desc="b" type="noise" extent="previous"/>
+ un six 
+<Event desc="si" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="435.957" endTime="437.463">
+<Sync time="435.957"/>
+bah oui 
+<Sync time="436.547"/>
+toujours 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="437.463" endTime="454.497">
+<Sync time="437.463"/>
+bah Loic une fois tu sais quoi 
+<Sync time="439.384"/>
+on a joué euh 
+<Event desc="n" type="noise" extent="instantaneous"/>
+ au euh 
+<Sync time="442.182"/>
+au Mikado là et pis euh 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="445.795"/>
+il a il a déjà 
+<Event desc="dZa" type="pronounce" extent="previous"/>
+ pris le bleu euh
+<Sync time="449.27"/>
+le + 
+<Sync time="451.398"/>
+celui 
+<Event desc="sHi" type="pronounce" extent="previous"/>
+ qui était 
+<Event desc="kEtE" type="pronounce" extent="previous"/>
+
+<Sync time="453.052"/>
+différent que les autres 
+</Turn>
+<Turn speaker="spk1" startTime="454.497" endTime="457.714">
+<Sync time="454.497"/>
+ah ouais 
+<Sync time="455.128"/>
+et regarde le quatre tu peux le mettre aussi 
+</Turn>
+<Turn speaker="spk2" startTime="457.714" endTime="459.467">
+<Sync time="457.714"/>
+j'ai plus de quatre 
+</Turn>
+<Turn speaker="spk1" startTime="459.467" endTime="460.432">
+<Sync time="459.467"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ déjà 
+<Event desc="dZa" type="pronounce" extent="previous"/>
+ plus de quatre 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="460.432" endTime="460.662">
+<Sync time="460.432"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="460.662" endTime="476.87">
+<Sync time="460.662"/>
+bah alors
+<Sync time="462.257"/>
+bah regarde moi j'ai plus de six eh +
+<Sync time="464.9"/>
+à toi /// 
+<Event desc="conv" type="noise" extent="previous"/>
+
+<Sync time="470.079"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ /// 
+<Sync time="474.794"/>
+bah les deux là tu peux les faire
+</Turn>
+<Turn speaker="spk2" startTime="476.87" endTime="481.631">
+<Sync time="476.87"/>
+ça ça fait onze 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="480.296"/>
+oh ah ah 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="481.631" endTime="483.27">
+<Sync time="481.631"/>
+c'est celui que tu as 
+<Event desc="kta" type="pronounce" extent="previous"/>
+ eu du mal à compter tout à l'heure
+</Turn>
+<Turn speaker="spk2" startTime="483.27" endTime="488.389">
+<Sync time="483.27"/>
+mmh mmh 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="486.791"/>
+han ***
+</Turn>
+<Turn speaker="spk1" startTime="488.389" endTime="489.492">
+<Sync time="488.389"/>
+bah oui attends
+</Turn>
+<Turn speaker="spk2" startTime="489.492" endTime="498.397">
+<Sync time="489.492"/>
+ah oui quand tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ triché 
+<Event desc="tiSe" type="pronounce" extent="previous"/>
+
+<Sync time="491.203"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="492.268"/>
+wouah ah 
+<Comment desc="longue prononciation"/>
+ + 
+<Sync time="494.458"/>
+je peux en mettre aucun + 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="498.397" endTime="499.237">
+<Sync time="498.397"/>
+tu peux pas en mettre
+</Turn>
+<Turn speaker="spk2" startTime="499.237" endTime="499.694">
+<Sync time="499.237"/>
+non 
+</Turn>
+<Turn speaker="spk1" startTime="499.694" endTime="506.124">
+<Sync time="499.694"/>
+bah alors 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="502.15"/>
+ah moi je 
+<Event desc="Z" type="pronounce" extent="previous"/>
+ peux mettre le deux
+<Sync time="503.918"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk2" startTime="506.124" endTime="513.018">
+<Sync time="506.124"/>
+quatre 
+<Event desc="kat" type="pronounce" extent="previous"/>
+ quatre 
+<Event desc="kat" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="507.896"/>
+quatre 
+<Event desc="kat" type="pronounce" extent="previous"/>
+ quatre 
+<Event desc="kat" type="pronounce" extent="previous"/>
+
+<Sync time="509.668"/>
+oh une clé +
+</Turn>
+<Turn speaker="spk1" startTime="513.018" endTime="514.828">
+<Sync time="513.018"/>
+un micro
+</Turn>
+<Turn speaker="spk2" startTime="514.828" endTime="515.858">
+<Sync time="514.828"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="515.858" endTime="522.684">
+<Sync time="515.858"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ bah ouais exactement
+<Sync time="517.341"/>
+les micros pour chanter + 
+<Sync time="520.364"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ + 
+</Turn>
+<Turn speaker="spk2" startTime="522.684" endTime="524.019">
+<Sync time="522.684"/>
+non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="524.019" endTime="524.84">
+<Sync time="524.019"/>
+tu peux toujours pas 
+</Turn>
+<Turn speaker="spk2" startTime="524.84" endTime="525.24">
+<Sync time="524.84"/>
+non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="525.24" endTime="528.97">
+<Sync time="525.24"/>
+bah alors 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="527.791"/>
+tu sais plus jouer
+</Turn>
+<Turn speaker="spk2" startTime="528.97" endTime="531.955">
+<Sync time="528.97"/>
+bah si 
+<Sync time="530.624"/>
+et j'arrive pas 
+</Turn>
+<Turn speaker="spk1" startTime="531.955" endTime="532.805">
+<Sync time="531.955"/>
+tu arrives 
+<Event desc="taRiv" type="pronounce" extent="previous"/>
+ pas 
+</Turn>
+<Turn startTime="532.805" endTime="535.742" speaker="spk2">
+<Sync time="532.805"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ peux faire un cinq un un un deux un deux un un
+</Turn>
+<Turn speaker="spk1" startTime="535.742" endTime="537.015">
+<Sync time="535.742"/>
+un cinq regarde
+</Turn>
+<Turn speaker="spk2" startTime="537.015" endTime="540.667">
+<Sync time="537.015"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="dés sur la table " type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="540.667" endTime="541.261">
+<Sync time="540.667"/>
+alors 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="541.261" endTime="542.614">
+<Sync time="541.261"/>
+<Who nb="1"/>
+un quatre 
+<Who nb="2"/>
+un deux
+</Turn>
+<Turn speaker="spk2" startTime="542.614" endTime="543.476">
+<Sync time="542.614"/>
+tu peux pas 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="543.476" endTime="544.338">
+<Sync time="543.476"/>
+à le un je peux le mettre tout /facile, de suite/
+</Turn>
+<Turn speaker="spk2" startTime="544.338" endTime="545.088">
+<Sync time="544.338"/>
+ah si
+</Turn>
+<Turn speaker="spk1 spk2" startTime="545.088" endTime="546.249">
+<Sync time="545.088"/>
+<Who nb="1"/>
+et regarde moi c'est k-
+<Who nb="2"/>
+oh non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="546.249" endTime="555.121">
+<Sync time="546.249"/>
+ouais 
+<Event desc="dés sur la table " type="noise" extent="instantaneous"/>
+
+<Sync time="547.87"/>
+wouah 
+<Comment desc="longue prononciation"/>
+
+<Sync time="548.799"/>
+deux trois deux trois
+<Sync time="550.799"/>
+je peux en mettre que deux deux 
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="555.121" endTime="557.166">
+<Sync time="555.121"/>
+ah bah regarde ça fait trois hein 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="557.166" endTime="560.148">
+<Sync time="557.166"/>
+<Who nb="1"/>
+et allez elle ***
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="560.148" endTime="562.014">
+<Sync time="560.148"/>
+
+<Event desc="dés sur la table " type="noise" extent="instantaneous"/>
+
+<Sync time="560.496"/>
+comment ça j'ai triché hein
+</Turn>
+<Turn speaker="spk2" startTime="562.014" endTime="562.84">
+<Sync time="562.014"/>
+un un
+</Turn>
+<Turn speaker="spk1" startTime="562.84" endTime="563.635">
+<Sync time="562.84"/>
+oh 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="563.635" endTime="565.479">
+<Sync time="563.635"/>
+wouh 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="565.479" endTime="570.194">
+<Sync time="565.479"/>
+allez plus qu'un
+<Sync time="566.675"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="568.216"/>
+qui va le faire en premier ?
+</Turn>
+<Turn speaker="spk2" startTime="570.194" endTime="578.391">
+<Sync time="570.194"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ donc moi 
+<Sync time="571.725"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ 
+<Event desc="mouche qui vole" type="noise" extent="instantaneous"/>
+
+<Sync time="573.69"/>
+oui hi hi hi 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="576.873"/>
+hein hein 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="578.391" endTime="581.164">
+<Sync time="578.391"/>
+alors vas-y 
+<Sync time="579.186"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="581.164" endTime="582.874">
+<Sync time="581.164"/>
+ça fait cinq 
+</Turn>
+<Turn speaker="spk1" startTime="582.874" endTime="584.137">
+<Sync time="582.874"/>
+cinq alors attends faut que je trouve un cinq 
+</Turn>
+<Turn speaker="spk2" startTime="584.137" endTime="587.633">
+<Sync time="584.137"/>
+ça fera dix-sept
+<Sync time="585.544"/>
+han 
+<Event desc="i" type="noise" extent="previous"/>
+ on aura égalité
+</Turn>
+<Turn speaker="spk1" startTime="587.633" endTime="588.459">
+<Sync time="587.633"/>
+ah bon ?
+</Turn>
+<Turn speaker="spk2" startTime="588.459" endTime="589.821">
+<Sync time="588.459"/>
+euh non 
+</Turn>
+<Turn speaker="spk1" startTime="589.821" endTime="591.442">
+<Sync time="589.821"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ dit que ça faisait combien ?
+</Turn>
+<Turn speaker="spk2" startTime="591.442" endTime="593.598">
+<Sync time="591.442"/>
+euh 
+<Comment desc="longue prononciation"/>
+ cinq
+</Turn>
+<Turn speaker="spk1" startTime="593.598" endTime="595.822">
+<Sync time="593.598"/>
+attends j'en trouve pas 
+<Sync time="594.536"/>
+ah si ça y est j'en ai un 
+</Turn>
+<Turn speaker="spk2" startTime="595.822" endTime="598.179">
+<Sync time="595.822"/>
+c'est un blaireau 
+</Turn>
+<Turn speaker="spk1" startTime="598.179" endTime="598.849">
+<Sync time="598.179"/>
+ah ouais
+</Turn>
+<Turn speaker="spk2" startTime="598.849" endTime="602.545">
+<Sync time="598.849"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="600.09"/>
+je le connais par coeur 
+<Sync time="601.005"/>
+parce qu'on 
+<Event desc="b" type="noise" extent="previous"/>
+ a joué aussi avec Loïc
+</Turn>
+<Turn speaker="spk1" startTime="602.545" endTime="603.952">
+<Sync time="602.545"/>
+allez un dernier ?
+</Turn>
+<Turn speaker="spk2" startTime="603.952" endTime="604.367">
+<Sync time="603.952"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="604.367" endTime="605.818">
+<Sync time="604.367"/>
+ah bah attends 
+<Event desc="b" type="noise" extent="begin"/>
+ faut que je gagne moi 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="605.818" endTime="606.934">
+<Sync time="605.818"/>
+ah trois
+</Turn>
+<Turn speaker="spk2 spk1" startTime="606.934" endTime="608.041">
+<Sync time="606.934"/>
+<Who nb="1"/>
+oh non 
+<Comment desc="longue prononciation"/>
+
+<Who nb="2"/>
+faut pas tricher hein
+</Turn>
+<Turn speaker="spk2" startTime="608.041" endTime="609.916">
+<Sync time="608.041"/>
+oh oh oh 
+</Turn>
+<Turn speaker="spk1" startTime="609.916" endTime="610.764">
+<Sync time="609.916"/>
+attends faut que je
+</Turn>
+<Turn speaker="spk2" startTime="610.764" endTime="611.501">
+<Sync time="610.764"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ c'est moi qui cherche 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="611.501" endTime="613.479">
+<Sync time="611.501"/>
+allez vas-y c'est toi qui cherche 
+</Turn>
+<Turn speaker="spk2" startTime="613.479" endTime="616.394">
+<Sync time="613.479"/>
+euh 
+<Sync time="614.519"/>
+ça fait combien six
+</Turn>
+<Turn speaker="spk1" startTime="616.394" endTime="617.153">
+<Sync time="616.394"/>
+tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ sûr hein
+</Turn>
+<Turn speaker="spk2" startTime="617.153" endTime="617.443">
+<Sync time="617.153"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="617.443" endTime="617.756">
+<Sync time="617.443"/>
+attention 
+<Event desc="ta~sio~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="617.756" endTime="618.506">
+<Sync time="617.756"/>
+oh bah euh 
+<Event desc="bg" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="618.506" endTime="619.278">
+<Sync time="618.506"/>
+alors c'est quoi ? 
+</Turn>
+<Turn speaker="spk2" startTime="619.278" endTime="619.738">
+<Sync time="619.278"/>
+un loup 
+</Turn>
+<Turn speaker="spk1" startTime="619.738" endTime="625.046">
+<Sync time="619.738"/>
+encore 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="620.689"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ que des loups ouais
+<Sync time="622.823"/>
+ça fait combien ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="625.046" endTime="634.881">
+<Sync time="625.046"/>
+euh 
+<Comment desc="longue prononciation"/>
+ +
+<Sync time="629.667"/>
+attends 
+<Sync time="630.863"/>
+six et six douze
+<Sync time="632.113"/>
+plus huit 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="634.256"/>
+vingt
+</Turn>
+<Turn speaker="spk1" startTime="634.881" endTime="635.417">
+<Sync time="634.881"/>
+ouais
+</Turn>
+<Turn speaker="spk2" startTime="635.417" endTime="635.997">
+<Sync time="635.417"/>
+wouhouhou
+</Turn>
+<Turn speaker="spk1" startTime="635.997" endTime="636.801">
+<Sync time="635.997"/>
+alors c'est qui qui gagne ?
+</Turn>
+<Turn speaker="spk2" startTime="636.801" endTime="638.466">
+<Sync time="636.801"/>
+*** c'est toi
+</Turn>
+<Turn speaker="spk1" startTime="638.466" endTime="640.533">
+<Sync time="638.466"/>
+allez un dernier
+<Sync time="639.694"/>
+tiens c'est à toi de jouer 
+</Turn>
+<Turn speaker="spk2" startTime="640.533" endTime="648.386">
+<Sync time="640.533"/>
+ouais
+<Sync time="641.783"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="642.386"/>
+et encore un dernier Loïc + 
+<Sync time="645.547"/>
+cinq
+<Sync time="646.52"/>
+un
+<Sync time="647.19"/>
+euh deux
+</Turn>
+<Turn speaker="spk1" startTime="648.386" endTime="649.77">
+<Sync time="648.386"/>
+bah alors
+</Turn>
+<Turn speaker="spk2" startTime="649.77" endTime="651.266">
+<Sync time="649.77"/>
+euh 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="651.266" endTime="653.949">
+<Sync time="651.266"/>
+alors cinq et un
+<Sync time="652.686"/>
+c'est moi qui ait fait cinq et un 
+</Turn>
+<Turn speaker="spk2" startTime="653.949" endTime="659.275">
+<Sync time="653.949"/>
+oh oh 
+<Sync time="654.574"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ +
+<Sync time="656.449"/>
+quatre
+<Sync time="657.32"/>
+trois
+</Turn>
+<Turn speaker="spk1" startTime="659.275" endTime="663.154">
+<Sync time="659.275"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ c'est facile au début 
+<Sync time="660.427"/>
+après ça se complique
+<Sync time="661.556"/>
+ah tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu le * 
+<Sync time="662.596"/>
+toujours /j'ai, chez/ *
+</Turn>
+<Turn speaker="spk2" startTime="663.154" endTime="664.784">
+<Sync time="663.154"/>
+il y en 
+<Event desc="ja~" type="pronounce" extent="previous"/>
+ a de moins en moins 
+</Turn>
+<Turn speaker="spk1" startTime="664.784" endTime="666.753">
+<Sync time="664.784"/>
+mm 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="665.311"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="666.753" endTime="671.253">
+<Sync time="666.753"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ deux un 
+<Sync time="669.333"/>
+parce que ***
+<Sync time="670.449"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="671.253" endTime="673.32">
+<Sync time="671.253"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ gagné non non tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ pas gagné encore 
+</Turn>
+<Turn speaker="spk2" startTime="673.32" endTime="681.455">
+<Sync time="673.32"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ si j'ai 
+<Event desc="e" type="pronounce" extent="previous"/>
+ gagné
+<Sync time="677.664"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="679.017"/>
+c'est six et un 
+<Sync time="680.437"/>
+alors 
+<Event desc="bg" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="681.455" endTime="682.361">
+<Sync time="681.455"/>
+et non non non
+</Turn>
+<Turn speaker="spk2" startTime="682.361" endTime="682.942">
+<Sync time="682.361"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="682.942" endTime="684.808">
+<Sync time="682.942"/>
+c'est sur ta plaquette qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ faut mettre 
+<Sync time="684.205"/>
+on pioche pas
+</Turn>
+<Turn speaker="spk2" startTime="684.808" endTime="688.259">
+<Sync time="684.808"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ six un 
+<Sync time="686.192"/>
+six un 
+<Sync time="686.951"/>
+six un 
+</Turn>
+<Turn speaker="spk1" startTime="688.259" endTime="690.826">
+<Sync time="688.259"/>
+on croirait un match de foot
+</Turn>
+<Turn speaker="spk2" startTime="690.826" endTime="695.416">
+<Sync time="690.826"/>
+bah hey à ¤T¤
+<Sync time="692.545"/>
+ils ont 
+<Event desc="izo~" type="pronounce" extent="previous"/>
+ fait euh vingt-deux 
+<Event desc="b" type="noise" extent="previous"/>
+ à vingt et un
+</Turn>
+<Turn speaker="spk1" startTime="695.416" endTime="696.255">
+<Sync time="695.416"/>
+autant que ça ?
+</Turn>
+<Turn speaker="spk2" startTime="696.255" endTime="697.282">
+<Sync time="696.255"/>
+bah oui
+</Turn>
+<Turn speaker="spk1" startTime="697.282" endTime="697.795">
+<Sync time="697.282"/>
+dis donc
+</Turn>
+<Turn speaker="spk2" startTime="697.795" endTime="708.163">
+<Sync time="697.795"/>
+ils ont fait plus que nos deux premiers matchs
+<Sync time="700.162"/>
+parce 
+<Event desc="pa" type="pronounce" extent="previous"/>
+ que nous 
+<Sync time="700.867"/>
+à ¤T¤ 
+<Event desc="dés sur la table" type="noise" extent="previous"/>
+
+<Sync time="701.515"/>
+on a fait onze zéro
+<Sync time="703.56"/>
+quatre un + 
+<Sync time="705.806"/>
+ah super 
+</Turn>
+<Turn speaker="spk1" startTime="708.163" endTime="712.128">
+<Sync time="708.163"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ maintenant tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ en train de gagner
+<Sync time="709.235"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ t'en reste moins que moi 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="712.128" endTime="714.887">
+<Sync time="712.128"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+
+<Sync time="713.882"/>
+ouh
+</Turn>
+<Turn speaker="spk1" startTime="714.887" endTime="719.887">
+<Sync time="714.887"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="717.49"/>
+alors moi je peux mettre le quatre et le deux 
+</Turn>
+<Turn speaker="spk2" startTime="719.887" endTime="721.115">
+<Sync time="719.887"/>
+oh non
+</Turn>
+<Turn speaker="spk1" startTime="721.115" endTime="721.76">
+<Sync time="721.115"/>
+et si 
+<Event desc="dés sur la table" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="721.76" endTime="722.898">
+<Sync time="721.76"/>
+toi 
+<Event desc="te" type="pronounce" extent="previous"/>
+ faut que tu fasse trois trois 
+</Turn>
+<Turn speaker="spk1" startTime="722.898" endTime="724.282">
+<Sync time="722.898"/>
+oh regarde 
+<Event desc="R9ga" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="724.282" endTime="726.827">
+<Sync time="724.282"/>
+han 
+<Event desc="i" type="noise" extent="previous"/>
+ j'ai gagné allez
+</Turn>
+<Turn speaker="spk2 spk1" startTime="726.827" endTime="727.898">
+<Sync time="726.827"/>
+<Who nb="1"/>
+allez
+<Who nb="2"/>
+allez vas-y 
+</Turn>
+<Turn speaker="spk2" startTime="727.898" endTime="728.702">
+<Sync time="727.898"/>
+c'était quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="728.702" endTime="731.67">
+<Sync time="728.702"/>
+bah je sais pas faut que tu
+<Sync time="730.086"/>
+
+<Event desc="dés sur la table" type="noise" extent="instantaneous"/>
+ les dés
+</Turn>
+<Turn speaker="spk2" startTime="731.67" endTime="733.799">
+<Sync time="731.67"/>
+oh 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="732.273"/>
+six trois euh 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="733.799" endTime="733.88">
+<Sync time="733.799"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="733.88" endTime="735.242">
+<Sync time="733.88"/>
+ça fait neuf 
+</Turn>
+<Turn speaker="spk1" startTime="735.242" endTime="736.336">
+<Sync time="735.242"/>
+tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ sûr ?
+</Turn>
+<Turn speaker="spk2" startTime="736.336" endTime="737.318">
+<Sync time="736.336"/>
+oui 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="737.318" endTime="741.112">
+<Sync time="737.318"/>
+alors attends
+<Sync time="737.987"/>
+je trouve un neuf
+<Sync time="739.282"/>
+tiens c'est quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="741.112" endTime="745.599">
+<Sync time="741.112"/>
+un sanglier
+<Sync time="741.76"/>
+han 
+<Event desc="i" type="noise" extent="previous"/>
+ 
+<Comment desc="longue prononciation"/>
+ c'est 
+<Sync time="742.809"/>
+Loïc tu peux venir
+<Sync time="745.256"/>
+$$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

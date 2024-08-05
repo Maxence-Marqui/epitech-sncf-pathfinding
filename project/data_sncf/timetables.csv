@@ -1,0 +1,1576 @@
+trip_id	trajet	duree
+OCESN003100F140147152	Gare de Le Havre - Gare de Paris-St-Lazare	138
+OCESN003190F040047309	Gare de Dieppe - Gare de Paris-St-Lazare	145
+OCESN003198F030037315	Gare de Paris-St-Lazare - Gare de Rouen-Rive-Droite	97
+OCESN003300F030037323	Gare de Cherbourg - Gare de Paris-St-Lazare	194
+OCESN003313F380387526	Gare de Caen - Gare de Paris-St-Lazare	149
+OCESN003371F080087908	Gare de Paris-St-Lazare - Gare de Trouville-Deauville	147
+OCESN003410F120128075	Gare de Granville - Gare de Paris-Montp.3-Vaug.	201
+OCESN003460F010018083	Gare de Granville - Gare de Paris-Montparnasse 1-2	195
+OCESN003463F030038093	Gare de Dreux - Gare de Granville	142
+OCESN003903F030038704	Gare de Bourges - Gare de Paris-Austerlitz	122
+OCESN003903F040048703	Gare de Paris-Austerlitz - Gare de Vierzon	101
+OCESN003917F090098744	Gare de Bourges - Gare de Paris-Bercy	131
+OCESN003917F130138743	Gare de Nevers - Gare de Paris-Austerlitz	177
+OCESN003933F010018761	Gare de Bourges - Gare de Nevers	38
+OCESN005900F0500510094	Gare de Nevers - Gare de Paris-Bercy	154
+OCESN005905F4304310108	Gare de Nevers - Gare de Paris-Gare-de-Lyon	146
+OCESN013272F09009-1367954595	Gare de Argentan - Gare de Paris-Montp.3-Vaug.	121
+OCESN014030F0900915588	Gare de Orléans - Gare de Paris-Austerlitz	75
+OCESN014033F0700715600	Gare de Paris-Austerlitz - Gare de Tours	131
+OCESN014033F0900915597	Gare de Orléans - Gare de Tours	72
+OCESN014035F0800815607	Gare de Aubrais-(les) - Gare de Paris-Austerlitz	71
+OCESN014041F1201215628	Gare de Paris-Bercy - Gare de Tours	146
+OCESN014043F1801815630	Gare de Orléans - Gare de Paris-Bercy	84
+OCESN014081F2102115781	Gare de Paris-Austerlitz - Gare de St-Pierre-des-Corps	118
+OCESN016350F0100115870	Gare de Calais Ville - Gare de Paris Gare du Nord	183
+OCESN016372F0100115902	Gare de Boulogne Ville - Gare de Paris Gare du Nord	145
+OCESN016380F0100115910	Gare de Amiens - Gare de Calais Ville	107
+OCESN016380F0300315908	Gare de Boulogne Ville - Gare de Calais Ville	28
+OCESN016442F0100115983	Gare de Amiens - Gare de Boulogne Ville	75
+OCESN016444F0500515989	Gare de Amiens - Gare de Paris Gare du Nord	74
+OCESN016450F0100115993	Gare de Cambrai Ville - Gare de Paris Gare du Nord	155
+OCESN016451F0100115996	Gare de Maubeuge - Gare de Paris Gare du Nord	119
+OCESN016453F0400416001	Gare de Paris Gare du Nord - Gare de St Quentin	100
+OCESN016468F0200216048	Gare de Compiègne - Gare de Maubeuge	80
+OCESN016514F0900916097	Gare de Argentan - Gare de Dreux	69
+OCESN016550F0200216123	Gare de Caen - Gare de Le Mans	111
+OCESN016550F0400416121	Gare de Caen - Gare de Tours	182
+OCESN016750F0900916155	Gare de Le Mans - Gare de Paris-Montparnasse 1-2	135
+OCESN016765F1401416187	Gare de Nogent-le-Rotrou - Gare de Paris-Montparnasse 1-2	102
+OCESN016766F1801816197	Gare de Chartres - Gare de Paris-Montparnasse 1-2	70
+OCESN016782F1501516255	Gare de Chartres - Gare de Le Mans	70
+OCESN016812F1601616283	Gare de Blois-Chambord - Gare de Tours	38
+OCESN016840F1201216363	Gare de Lyon-Perrache - Gare de Tours	366
+OCESN016840F1601616364	Gare de Lyon-Perrache - Gare de Nevers	211
+OCESN017301F0200216375	Gare de Latour-de-Carol-Enveitg - Gare de Villefranche-Vernet-l.B	174
+OCESN017303F0200216376	Gare de Font-Romeu-Odeillo-Via - Gare de Villefranche-Vernet-l.B	88
+OCESN017350F0300316385	Gare de Briançon - Gare de Romans-Bourg-de-Péage	241
+OCESN017352F0800816391	Gare de Briançon - Gare de Veynes-Dévoluy	97
+OCESN017354F0200216399	Gare de Romans-Bourg-de-Péage - Gare de Veynes-Dévoluy	153
+OCESN017369F0700716416	Gare de Gap - Gare de Romans-Bourg-de-Péage	172
+OCESN017369F1001016420	Gare de Briançon - Gare de Gap	75
+OCESN017370F0200216422	Gare de Briançon - Gare de Valence-Ville	247
+OCESN017402F2102116431	Gare de Briançon - Gare de Marseille-St-Charles	302
+OCESN017408F1001016439	Gare de Gap - Gare de Marseille-St-Charles	216
+OCESN017421F2402416443	Gare de Aix-en-Provence - Gare de Marseille-St-Charles	50
+OCESN017473F0300316464	Gare de Marseille-St-Charles - Gare de Nice-Ville	159
+OCESN017473F0400416463	Gare de Les Arcs-Draguignan - Gare de Marseille-St-Charles	83
+OCESN017500F0200216492	Gare de Grenoble - Gare de Valence-Ville	74
+OCESN017503F0300316493	Gare de Chambéry-Chal.-les-Eaux - Gare de Valence-Ville	125
+OCESN017506F0700716496	Gare de Annecy - Gare de Valence-Ville	181
+OCESN017516F0500516499	Gare de Annecy - Gare de Chambéry-Chal.-les-Eaux	53
+OCESN017532F0900916508	Gare de Annecy - Gare de Avignon-Centre	277
+OCESN017544F0800816517	Gare de Annecy - Gare de Grenoble	103
+OCESN017600F0300316547	Gare de Grenoble - Gare de Lyon-Part-Dieu	82
+OCESN017702F1301316607	Gare de Avignon-Centre - Gare de Lyon-Part-Dieu	141
+OCESN017704F2702716611	Gare de Lyon-Part-Dieu - Gare de Marseille-St-Charles	246
+OCESN017714F1501516644	Gare de Avignon-Centre - Gare de Marseille-St-Charles	78
+OCESN017750F1401416694	Gare de Dijon-Ville - Gare de Paris-Bercy	171
+OCESN017750F2702716692	Gare de Dijon-Ville - Gare de Paris-Gare-de-Lyon	170
+OCESN017751F0800816699	Gare de Lyon-Part-Dieu - Gare de Sens	262
+OCESN017753F1901916708	Gare de Lyon-Part-Dieu - Gare de Paris-Bercy	308
+OCESN017753F4304316713	Gare de Dijon-Ville - Gare de Lyon-Part-Dieu	124
+OCESN017753F4804816704	Gare de Lyon-Part-Dieu - Gare de Paris-Gare-de-Lyon	309
+OCESN017754F2002016721	Gare de Mâcon-Ville - Gare de Paris-Bercy	262
+OCESN017754F2602616715	Gare de Dijon-Ville - Gare de Mâcon-Ville	74
+OCESN017754F4004016716	Gare de Mâcon-Ville - Gare de Paris-Gare-de-Lyon	263
+OCESN017774F1301316842	Gare de Lyon-Perrache - Gare de Paris-Bercy	324
+OCESN017775F2502516851	Gare de Dijon-Ville - Gare de Lyon-Perrache	137
+OCESN017775F2902916854	Gare de Lyon-Perrache - Gare de Paris-Gare-de-Lyon	323
+OCESN017972F0600616926	Gare de Bourg-St-Maurice - Gare de Lyon-Part-Dieu	217
+OCESN017974F0300316929	Gare de Bourg-St-Maurice - Gare de Bourgoin-Jallieu	188
+OCESN017974F0600616927	Gare de Albertville - Gare de Bourgoin-Jallieu	119
+OCESN018000F0100116931	Gare de Chambéry-Chal.-les-Eaux - Gare de Lyon-Part-Dieu	80
+OCESN018024F0100116954	Gare de Bourgoin-Jallieu - Gare de Chambéry-Chal.-les-Eaux	55
+OCESN018101F0200216959	Gare de La Chaux-de-Fonds - Gare de Morteau	29
+OCESN018108F0200216966	Gare de Besançon-Viotte - Gare de La Chaux-de-Fonds	118
+OCESN018108F0600616967	Gare de Besançon-Mouillère - Gare de La Chaux-de-Fonds	112
+OCESN018120F0200216981	Gare de Pontarlier - Gare de Vallorbe-Cff	33
+OCESN018122F0200216982	Gare de Frasne - Gare de Neuchâtel	60
+OCESN018124F0300316985	Gare de Neuchâtel - Gare de Travers	22
+OCESN018130F0100116991	Gare de Dole-Ville - Gare de Vallorbe-Cff	63
+OCESN018131F0200216992	Gare de Frasne - Gare de Vallorbe-Cff	17
+OCESN018160F0200216999	Gare de Delémont - Gare de Meroux	69
+OCESN018160F0300316998	Gare de Delle - Gare de Delémont	52
+OCESN018163F0300317001	Gare de Biel - Gare de Meroux	99
+OCESN018163F0400417000	Gare de Biel - Gare de Delle	82
+OCESN018518F0100117063	Gare de Lyon-Part-Dieu - Gare de Modane	182
+OCESN018520F0100117065	Gare de Aix-les-Bains-le-Revard - Gare de Lyon-Part-Dieu	78
+OCESN018901F0100117119	Gare de St-Gervais-L-B-Le-Fayet - Gare de Vallorcine	95
+OCESN018901F0400417120	Gare de Chamonix-Mont-Blanc - Gare de Vallorcine	33
+OCESN018931F0200217178	Gare de Chamonix-Mont-Blanc - Gare de St-Gervais-L-B-Le-Fayet	45
+OCESN019201F0300317199	Gare de Aulnoye Aymeries - Gare de Mons	28
+OCESN019701F0200217207	Gare de Courtrai/Kortrijk - Gare de Lille Flandres	36
+OCESN019801F0200217254	Gare de Maubeuge - Gare de Namur	84
+OCESN019900F0200217263	Gare de Lille Flandres - Gare de Tournai	30
+OCESN021703F0100117430	Gare de Brive-la-Gaillarde - Gare de Ussel	106
+OCESN021901F0200217431	Gare de Dijon-Ville - Gare de Nevers	203
+OCESN021911F0200217435	Gare de Le Creusot - Gare de Montchanin	11
+OCESN022945F0300317449	Gare de Nice-Ville - Gare de Tende	137
+OCESN022947F0700717451	Gare de Breil-sur-Roya - Gare de Nice-Ville	70
+OCESN023101F0100117467	Gare de Annemasse - Gare de Coppet	51
+OCESN023196F0100117538	Gare de Decize - Gare de Nevers	33
+OCESN023212F0100117551	Gare de Annemasse - Gare de Genève	23
+OCESN023312F0100117644	Gare de Coppet - Gare de Evian-les-Bains	94
+OCESN023314F0100117646	Gare de Coppet - Gare de Thonon-les-Bains	85
+OCESN023360F0200217661	Gare de Annemasse - Gare de Thonon-les-Bains	33
+OCESN023410F0100117673	Gare de Annecy - Gare de Genève	89
+OCESN023410F0200217674	Gare de Annecy - Gare de Coppet	117
+OCESN023416F0300317685	Gare de Coppet - Gare de La Roche-sur-Foron	79
+OCESN023456F0100117742	Gare de Coppet - Gare de St-Gervais-L-B-Le-Fayet	132
+OCESN023462F0200217748	Gare de Cluses (Hte-Savoie) - Gare de Coppet	108
+OCESN023722F0300317768	Gare de Forbach - Gare de Metz-Ville	47
+OCESN023740F0400417808	Gare de Bening - Gare de Metz-Ville	41
+OCESN030000R0200217969	Bitche - Gare de Haguenau	69
+OCESN030001R0300317970	Bitche - Gare de Niederbronn	26
+OCESN030002R0300317973	Bitche-Camp - Gare de Niederbronn	38
+OCESN030006R0200217979	Gare de Haguenau - Gare de Niederbronn	40
+OCESN030030R0400418029	Bitche-Camp - Gare de Haguenau	76
+OCESN030052R0200218051	Gare de Haguenau - Gare de Strasbourg	50
+OCESN030064R0200218057	Gare de Haguenau - Gare de Wissembourg	37
+OCESN030081R0600618069	Bouxwiller-Schattenmann - Haguenau-Moulin-Neuf.	43
+OCESN030082R0500518070	Gare de Saverne - Niedermodern/Uberach	50
+OCESN030083R0200218071	Gare de Ingwiller - Haguenau-Moulin-Neuf.	41
+OCESN030085R1201218074	Dossenheim-(Mairie) - Haguenau-Moulin-Neuf.	69
+OCESN030086R0200218075	Gare de Obermodern - Saverne-(Ht-Barr)	47
+OCESN030088R0200218077	Gare de Ingwiller - Saverne-(Ht-Barr)	56
+OCESN030089R0700718078	Gare de Saverne - Haguenau-Moulin-Neuf.	81
+OCESN030091R0200218080	Bouxwiller-Babenhausen - Dossenheim-(Mairie)	20
+OCESN030092R0300318082	Bouxwiller-Schattenmann - Niedermodern/Uberach	25
+OCESN030095R0500518086	Bouxwiller-Schattenmann - Gare de Obermodern	10
+OCESN030097R0800818089	Gare de Obermodern - Haguenau-Moulin-Neuf.	31
+OCESN030099R1301318093	Gare de Obermodern - Gare de Saverne	36
+OCESN030100R0400418095	Gare de Obermodern - Niedermodern/Uberach	12
+OCESN030103R0400418103	Bouxwiller-Babenhausen - Niedermodern/Uberach	20
+OCESN030122R0600618127	Dossenheim-(Mairie) - Gare de Obermodern	23
+OCESN030123R0200218128	Gare de Saverne - Neuwiller-R.-Bouxwiller	18
+OCESN030137R0300318141	Gare de Obermodern - Pfaffenhoffen-(Mairie).	8
+OCESN030138R0500518142	Gare de Saverne - Pfaffenhoffen-(Mairie).	43
+OCESN030148R0200218147	Gare de Strasbourg - Gare de Sélestat	53
+OCESN030150R0200218149	Gare de Benfeld - Gare de Strasbourg	42
+OCESN030157R0300318151	Gare de Colmar - Gare de Raedersheim	45
+OCESN030163R0400418153	Buswiller-Eglise - Gare de Mommenheim	19
+OCESN030164R0400418154	Ettendorf-Pl,-de-L'ecol - Gare de Mommenheim	15
+OCESN030165R0400418155	Ettendorf-(Angle-Pont) - Gare de Mommenheim	13
+OCESN030166R0300318156	Bouxwiller-Babenhausen - Gare de Mommenheim	30
+OCESN030190R0200218175	Gare de Diemeringen - Gare de Sarreguemines	31
+OCESN030191R0200218176	Gare de Sarreguemines - Gare de Strasbourg	125
+OCESN030192R0300318178	Gare de Diemeringen - Gare de Strasbourg	91
+OCESN030194R0200218180	Gare de Strasbourg - Gare de Wingen-sur-Moder	64
+OCESN030200R0600618181	Gare de Ingwiller - Reipertswiller-SP.	18
+OCESN030201R0500518183	Gare de Ingwiller - Lichtenberg-(Eglise).	23
+OCESN030222R0200218199	Gare de Saverne - Gare de Strasbourg	57
+OCESN030234R0400418205	Gare de Lutzelbourg - Gare de Saverne	15
+OCESN030241R0200218207	Gare de Kruth - Thann Arrêt La Poste	32
+OCESN030242R0200218208	Gare de Kruth - Gare de Mulhouse	77
+OCESN030244R0200218210	Gare de Kruth - Gare de Thann	32
+OCESN030250R0200218216	Gare de Kruth - Gare de Wesserling	7
+OCESN030273R0300318231	Gare de Colmar - Gare de Metzeral	43
+OCESN030283R0300318235	Gare de Cernay (Haut-Rhin) - Sewen-(Eglise)	60
+OCESN030283R0400418236	Cernay-(Lycée) - Sewen-(Eglise)	66
+OCESN030290R0200218239	Gare de Basel-SBB - Gare de Mulhouse	60
+OCESN030302R0200218245	Gare de Ingwiller - Saverne-(Lycée-Verne)	64
+OCESN030303R0300318247	Frohmuhl- (Lavoir) - Saverne-(Ht-Barr)	83
+OCESN030303R0400418246	Frohmuhl- (Lavoir) - Gare de Saverne	58
+OCESN030304R0300318249	Frohmuhl- (Lavoir) - Saverne-(Lycée-Verne)	85
+OCESN030315R0300318255	Gare de Saverne - Hattmatt-S.-Polyvalente	20
+OCESN030318R0200218258	Hattmatt-S.-Polyvalente - Saverne-(Pl.-Dragons)	33
+OCESN030319R0400418259	Hattmatt-S.-Polyvalente - Saverne-(Lycée-Verne)	42
+OCESN030320R0200218261	Hattmatt-S.-Polyvalente - Saverne-(Ht-Barr)	43
+OCESN030342R0300318275	Gare de Herrlisheim (Bas-Rhin) - Gare de Strasbourg	51
+OCESN030344R0400418278	Gare de Lauterbourg - Gare de Roeschwoog	30
+OCESN030354R0200218282	Gare de Entzheim-Aéroport - Gare de Strasbourg	20
+OCESN030355R0200218283	Gare de Barr - Gare de Molsheim	33
+OCESN030357R0200218285	Gare de Molsheim - Gare de Strasbourg	40
+OCESN030360R0200218288	Gare de Barr - Gare de Strasbourg	89
+OCESN030361R0200218289	Gare de Molsheim - Gare de Sélestat	76
+OCESN030376R0500518295	Gare de Rothau - Gare de Strasbourg	72
+OCESN030380R0200218297	Gare de Saales - Gare de Strasbourg	104
+OCESN030385R0300318299	Gare de Altkirch - Gare de Mulhouse	25
+OCESN030386R0300318300	Gare de Belfort-Ville - Gare de Mulhouse	77
+OCESN030387R0200218301	Gare de Belfort-Ville - Gare de Montreux-Vieux	30
+OCESN030395R0200218303	Gare de Sélestat - Ribeauville-Gare-Routiè	20
+OCESN030399R0300318309	Gare de Sélestat - Riquewihr-Poste	36
+OCESN030427R1401418342	Gare de Sélestat - Ste-Marie-/-Mines-Maire	35
+OCESN030428R1301318344	Gare de St-Dié-des-Vosges - Gare de Sélestat	71
+OCESN030430R0600618347	Gare de Sélestat - Ste-Marie/-Ms-(-Théâtre	36
+OCESN030433R0300318351	Ste-Croix/Mines-Sq-de-G - Sèlestat-(Schwilgué)	55
+OCESN030434R1401418352	Gare de Sélestat - Ste-Marie-/-Ms-Pl-.CdG	35
+OCESN030435R0600618353	Ste-Marie-/-Mines-Maire - Sèlestat-(Schwilgué)	64
+OCESN030437R0300318355	Liepvre-(-R.-GUTH-) - Sèlestat-(Schwilgué)	49
+OCESN030440R0400418359	Ste-Marie-/-Ms-Pl-.CdG - Sélestat-(Schweisguth)	69
+OCESN030441R0400418360	Gare de Sélestat - Lièpvre-(Rte-Vancelle)	45
+OCESN031100R0300318408	Gare de Montluçon-Ville - Gare de Vierzon	125
+OCESN031101R0200218409	Laqueuille - Le-Mont-Dore-Gare	24
+OCESN031102R0200218410	Gare de Clermont-Ferrand - Gare de Gannat	57
+OCESN031103R0200218411	Gare de Gannat - Gare de Riom-Châtel-Guyon	46
+OCESN031106R0300318414	Gare de Aurillac - Gare de St-Denis-près-Martel	111
+OCESN031107R0300318415	Gare de Aurillac - Gare de Capdenac	88
+OCESN031109R0200218416	Gare de Montluçon-Ville - Gare de Vichy	108
+OCESN031110R0300318417	Gare de Clermont-Ferrand - Le-Mont-Dore-Gare	84
+OCESN031111R0200218418	Gare de Clermont-Ferrand - Saint-Etienne-Chtx GR	156
+OCESN031113R0300318421	Gare de Thiers - Saint-Etienne-Chtx GR	118
+OCESN031117R0300318425	Gare de Clermont-Ferrand - Gare de Le Puy-en-Velay	184
+OCESN031119R0200218427	Gare de Clermont-Ferrand - Gare de Montluçon-Ville	146
+OCESN031120R0200218428	Gare de Montluçon-Ville - Gare de Riom-Châtel-Guyon	120
+OCESN031121R0200218429	Gare de Arvant - Gare de Aurillac	121
+OCESN031125R0200218432	Gare de Moulins-sur-Allier - Gare de Vichy	78
+OCESN031127R0200218433	Gare de Clermont-Ferrand - Gare de Thiers	71
+OCESN031128R0200218434	Gare de Clermont-Ferrand - Gare de Volvic	39
+OCESN031135R0400418436	Ancizes-St-Georges-Bour - Gare de Volvic	39
+OCESN031141R0200218442	Gare de Montluçon-Ville - Urcay-Hotel-du-Lyon-d'O	44
+OCESN031147R0200218446	Gare de Montluçon-Ville - Gare de St-Amand-Montrond-Orval	59
+OCESN031164R0100118462	Gare de Thiers - Gare de Vertaizon	40
+OCESN031165R0200218463	Gare de Montluçon-Ville - St-Eloy	40
+OCESN031183R0200218476	Gare de Lapeyrouse(Puy-de-Dôme) - St-Eloy-les-Mines-Lycée	20
+OCESN031185R0300318478	Ancizes-St-Georges-Bour - Gare de Clermont-Ferrand	69
+OCESN031186R0300318479	Gare de Clermont-Ferrand - St-Gervais-Mairie	91
+OCESN031189R0200218482	Gare de Clermont-Ferrand - Le Mont Dore Ski	98
+OCESN031196R0100118489	Gare de Clermont-Ferrand - Gare de Vertaizon	32
+OCESN031197R0200218490	Gare de Volvic - St-Eloy	113
+OCESN031200R0200218493	Gare de Arvant - St-Flour-les-Allées	50
+OCESN031201R0200218494	Gare de Massiac-Blesle - St-Flour-les-Allées	30
+OCESN031202R0200218495	Gare de Arvant - Gare de St-Chély-d'Apcher	77
+OCESN031221R0300318508	Gare de Clermont-Ferrand - Mauriac-Lycée-Cortat	136
+OCESN031223R0200218509	Gare de Lapeyrouse(Puy-de-Dôme) - St-Eloy	15
+OCESN031226R0200218510	Gare de Clermont-Ferrand - Mauriac	133
+OCESN031235R0300318513	Gare de Riom-Châtel-Guyon - St-Gervais-Ch-LPA.	54
+OCESN031247R0200218521	Gare de Montluçon-Ville - St-Gervais-Ch-LPA.	60
+OCESN031254R0300318525	Gare de Neussargues - Riom_Es_M_la_Poste.	69
+OCESN031256R0300318528	Gare de Clermont-Ferrand - St-Flour-les-Allées	93
+OCESN031263R0200218534	Gare de Neussargues - Gare de St-Chély-d'Apcher	56
+OCESN031265R0200218535	Gare de Neussargues - Gare de St-Flour-Chaudes-Aigues	31
+OCESN031269R0200218538	Gare de St-Chély-d'Apcher - St-Flour-les-Allées	30
+OCESN031274R0200218542	Gare de Massiac-Blesle - Gare de St-Chély-d'Apcher	49
+OCESN031290R0300318554	Gare de Volvic - Pontgibaud-Ville	22
+OCESN031301R0200218560	Brioude-Lycée-Lafayette - Gare de Brioude	5
+OCESN031304R0200218561	Gare de Langeac - Gare de St-Georges-d'Aurac	10
+OCESN031309R0400418565	Gare de Langeac - St-George-d'Aurac-Bourg	12
+OCESN031332R0400418585	Gare de Brioude - Gare de Langeac	37
+OCESN031334R0500518587	Gare de Brioude - Gare de Le Puy-en-Velay	64
+OCESN031338R0200218591	Gare de Langeac - Gare de Le Puy-en-Velay	49
+OCESN031342R0200218592	Gare de Le Puy-en-Velay - Gare de St-Georges-d'Aurac	53
+OCESN031347R0200218596	Gare de Arvant - Gare de Le Puy-en-Velay	81
+OCESN031354R0500518600	Gare de Le Puy-en-Velay - Saint-Etienne-Chtx GR	80
+OCESN031360R0300318603	Gare de Le Puy-en-Velay - La Chaise-Dieu	47
+OCESN031363R0300318606	Ambert - Gare de Le Puy-en-Velay	107
+OCESN031394R0400418612	Ambert - Gare de Vichy	119
+OCESN031398R0300318613	Gare de Pont-de-Dore - Gare de Vichy	66
+OCESN031407R0300318618	Gare de Ussel - Laqueuille	39
+OCESN031471R0300318661	Gare de Arvant - Gare de Issoire	46
+OCESN031473R0300318662	Gare de Vic-le-Comte - Issoire-Lycée-Deville	30
+OCESN031476R0300318663	Gare de Issoire - Le-Breuil-sur-Couze-Lyc	13
+OCESN031478R0400418665	Gare de Brioude - Gare de Issoire	54
+OCESN031479R0200218666	Gare de Clermont-Ferrand - Gare de Ussel	100
+OCESN031552R0200218681	Gare de Luzy(Nièvre) - Gare de Nevers	98
+OCESN031554R0200218682	Gare de Cercy-la-Tour - Gare de Nevers	68
+OCESN031679R0300318686	Gare de Autun - Gare de Etang	21
+OCESN031679R0400418687	Gare de Autun - Gare de Le Creusot	49
+OCESN031684R0300318695	Gare de Autun - Gare de Montchanin	62
+OCESN031701R0200218722	Gare de Moulins-sur-Allier - Gare de Nevers	68
+OCESN031712R0300318726	Gare de Nevers - Gare de St-Pierre-le-Moûtier	33
+OCESN031751R0200218729	Gare de Moulins-sur-Allier - Gare de Paray-le-Monial	82
+OCESN031784R0200218743	Chauffailles-Gambetta - Gare de Digoin	67
+OCESN031786R0200218744	Gare de Digoin - Gare de Lozanne	133
+OCESN031860R0200218747	Gare de Louhans - Gare de Seurre	48
+OCESN031864R0200218749	Gare de Bourg-en-Bresse - Gare de Seurre	103
+OCESN031900R0200218753	Gare de Auxerre-St-Gervais - Gare de Avallon	63
+OCESN031950R0200218768	Gare de Auxerre-St-Gervais - Gare de Clamecy	76
+OCESN031955R0400418774	Gare de Auxerre-St-Gervais - Gare de Corbigny	111
+OCESN031970R0400418785	Gare de Clamecy - Gare de Corbigny	35
+OCESN032002R0200218790	Gare de Lorient - Gare de Quimperlé	22
+OCESN032300R1101118791	Châteaubriant - Gare de Janzé	57
+OCESN032303R1001018793	Châteaubriant - Gare de Retiers	33
+OCESN032400R0100118797	Gare de Dinan - Gare de Dol	30
+OCESN032850R0200218821	Gare de Valençay - Luçay-le-Male	15
+OCESN032857R0200218824	Gare de Romorantin-Blanc-Argent - Gare de Salbris	50
+OCESN032861R0200218827	Gare de Faubourg-d'Orléans - Gare de Romorantin-Blanc-Argent	5
+OCESN032867R0200218831	Gare de Faubourg-d'Orléans - Gare de Valençay	55
+OCESN033001R0200218842	La Ferté-sur-Chiers - Sedan-Place-Calonne	59
+OCESN033080R0200218851	Gare de Châlons-en-Champagne - Gare de Verdun	108
+OCESN033111R0200218869	Gare de St-Dizier - Gare de Vitry-le-François	51
+OCESN033120R0200218873	Gare de Joinville - Gare de St-Dizier	50
+OCESN033140R0200218889	Gare de Chaumont - Gare de St-Dizier	123
+OCESN033141R0300318890	Gare de Chaumont - Gare de Joinville	77
+OCESN033172R0300318904	Gare de Chaumont - Langres-Gendarmerie	67
+OCESN033208R0500518910	Gare de Chaumont - Gare de Troyes	100
+OCESN033210R0400418913	Gare de Bar-sur-Aube - Juvancourt	32
+OCESN033212R0200218914	Gare de Bar-sur-Aube - Gare de Troyes	98
+OCESN033215R0200218915	Gare de Troyes - Gare de Vendeuvre (Aube)	55
+OCESN033219R0200218919	Bayel-Eglise - Juvancourt	18
+OCESN033230R0200218924	Gare de Chaumont - Gare de Vendeuvre (Aube)	60
+OCESN033233R0300318925	Gare de Vendeuvre (Aube) - Juvancourt	85
+OCESN033270R0300318934	Gare de Chaumont - Ville-sous-La-Ferté	48
+OCESN033274R0200218938	Bricon(la Poste) - Gare de Chaumont	19
+OCESN033280R0400418944	Gare de St-Florentin-Vergigny - Gare de Troyes	97
+OCESN033281R0300318945	Gare de Laroche-Migennes - Gare de Troyes	130
+OCESN033340R0300318961	Gare de Romilly-sur-Seine - Gare de Troyes	78
+OCESN033345R0200218966	Gare de Troyes - Payns Abri Savières	26
+OCESN033370R0200218982	Gare de Nogent-sur-Seine - Gare de Romilly-sur-Seine	35
+OCESN033400R0200218990	Gare de Charleville-Mézières - Gare de Hirson	60
+OCESN033460R0100119004	Gare de Fismes - Gare de Reims	58
+OCESN033531R0200219010	Gare de Aillevillers - Gare de Belfort-Ville	102
+OCESN033540R0300319011	Gare de Aillevillers - Gare de Lure	37
+OCESN033652R0200219012	Gare de Besançon-Viotte - Gare de Morteau	88
+OCESN033654R0200219014	Gare de Le Locle - Gare de Morteau	20
+OCESN033658R0200219017	Gare de Le Valdahon - Gare de Morteau	54
+OCESN033682R0200219020	Gare de Dole-Ville - Gare de Mouchard	47
+OCESN033714R0200219023	Gare de Lons-le-Saunier - Gare de Mouchard	84
+OCESN033727R0200219030	Gare de Mouchard - Gare de Poligny	28
+OCESN033730R0200219031	Gare de Besançon-Viotte - Gare de Mouchard	58
+OCESN033771R0200219032	Gare de Frasne - Gare de Pontarlier	30
+OCESN033773R0200219033	Dompierre-Halte-Rout. - Gare de Pontarlier	21
+OCESN033782R0200219039	Gare de Pontarlier - Les Granges-Narboz	10
+OCESN033803R0200219046	Gare de Frasne - Jougne	56
+OCESN033891R0200219057	Gare de Champagnole - Gare de Saint-Claude	87
+OCESN033892R0200219058	Gare de Champagnole-PE-Victor - Gare de Dole-Ville	102
+OCESN033893R0200219059	Gare de Andelot - Gare de Saint-Claude	107
+OCESN033894R0200219060	Gare de Dole-Ville - Gare de Saint-Claude	204
+OCESN033895R0200219061	Gare de Mouchard - Gare de Saint-Claude	124
+OCESN034001R0200219062	Gare de Alès - Gare de Nîmes	50
+OCESN034063R0200219066	Gare de La Bastide-St-Laurent - Gare de Langogne	25
+OCESN034065R0200219069	Gare de Langogne - Gare de Mende	90
+OCESN034071R0200219075	Gare de La Bastide-St-Laurent - Gare de Mende	68
+OCESN034213R0300319079	Gare de Millau - Marvejols Place Chayla	75
+OCESN034220R0300319080	Gare de Clermont-Ferrand - Gare de Mende	180
+OCESN034240R0300319090	Gare de Le Puy-en-Velay - Gare de Marvejols	135
+OCESN034251R0200219093	Gare de Mende - Gare de St-Chély-d'Apcher	84
+OCESN034253R0300319095	Gare de La Bastide-St-Laurent - Gare de Marvejols	133
+OCESN034256R0200219097	Gare de Mende - Marvejols Place Chayla	50
+OCESN034350R0200219101	Gare de Carcassonne - Quillan	90
+OCESN034352R0200219103	Gare de Carcassonne - Gare de Limoux	55
+OCESN034354R0200219106	Gare de Limoux - Quillan	45
+OCESN034400R0200219131	Gare de Bédarieux - Gare de Béziers	60
+OCESN034535R0200219143	Gare de Guéret - Gare de Montluçon-Ville	66
+OCESN034675R0200219145	Gare de Tulle - Gare de Ussel	89
+OCESN034677R0200219147	Gare de Egletons - Gare de Tulle	40
+OCESN034680R0200219150	Gare de Egletons - Gare de Meymac	25
+OCESN034682R0200219152	Gare de Brive-la-Gaillarde - Gare de Egletons	63
+OCESN034726R0200219154	Bort-les-Orgues - Gare de Ussel	35
+OCESN035000R0700719173	Gare de Nancy-Ville - Mirecourt	74
+OCESN035001R0400419174	Martigny-les-B-Thiebaut - Vézelise Beauregard	90
+OCESN035002R0500519175	Damblain Eglise - Gare de Nancy-Ville	150
+OCESN035003R0400419176	Gare de Contrexéville - Gare de Nancy-Ville	116
+OCESN035004R0200219177	Gare de Contrexéville - Mirecourt	39
+OCESN035006R0200219179	Gare de Vittel - Mirecourt	26
+OCESN035020R0400419193	Gare de Nancy-Ville - Martigny-les-B-Thiebaut	133
+OCESN035026R0500519199	Gare de Nancy-Ville - Gare de Vittel	92
+OCESN035031R0500519204	Gare de Nancy-Ville - Mirecourt (Lycée Agric)	71
+OCESN035041R0600619205	Gare de Bening - Gare de Sarreguemines	34
+OCESN035073R0600619227	Bitche-Quartier-Driant - Gare de Bening	71
+OCESN035100R0200219234	Gare de Charmes (Vosges) - Gare de Vittel	60
+OCESN035101R0200219235	Gare de Charmes (Vosges) - Mirecourt	30
+OCESN035103R0200219237	Gare de Charmes (Vosges) - Mirecourt (Lycée Agric)	33
+OCESN035129R0300319263	Igney (Centre) - Sarrebourg-LP-Messmer	45
+OCESN035129R0400419264	Gare de Sarrebourg - Igney (Centre)	39
+OCESN035153R0200219281	Gare de Longuyon - Gare de Longwy	32
+OCESN035169R0200219296	Gare de Longuyon - Gare de Montmédy	39
+OCESN035179R0200219303	Gare de Longuyon - Vezin-Carrefour	33
+OCESN035187R0200219307	Gare de Morhange - Gare de Sarrebourg	94
+OCESN035191R0200219309	Gare de Sarrebourg - Loudrefing	34
+OCESN035195R0200219311	Gare de Morhange - Gare de Rémilly	48
+OCESN035202R0200219313	Longuyon (Collège) - Vezin-Carrefour	23
+OCESN035203R0300319314	Gare de Sarrebourg - St-Jean-de-Bassel-Eglis	35
+OCESN035211R0200219319	Gare de Nancy-Ville - Gare de Neufchâteau	62
+OCESN035214R0200219320	Fénétrange (Gendarm.) - Sarrebourg-Hôpital	42
+OCESN035216R0300319322	Loudrefing - Sarrebourg-LP-Messmer	54
+OCESN035224R0300319325	Sarrebourg (Place Math) - St-Jean-de-Bassel-Eglis	24
+OCESN035224R0400419326	Sarrebourg-LP-Messmer - St-Jean-de-Bassel-Eglis	31
+OCESN035225R0400419328	Gare de Neufchâteau - Gare de Toul	45
+OCESN035225R0500519327	Gare de Toul - Neufchateau-Lp	59
+OCESN035232R0500519330	Gare de Nancy-Ville - Neufchateau-Lp	88
+OCESN035233R0200219331	Allamps-Esat - Gare de Toul	30
+OCESN035241R0200219338	Creutzwald G.R. - Gare de Thionville	110
+OCESN035266R0200219351	Fénétrange (Gendarm.) - Sarrebourg-LP-Messmer	30
+OCESN035268R0800819352	Gare de St-Dié-des-Vosges - Laveline-d-Bruy. Mairie	64
+OCESN035270R0200219353	Gare de Epinal - Gare de St-Dié-des-Vosges	65
+OCESN035272R0600619354	Bruyères (Vosges) - Gare de Epinal	43
+OCESN035274R0300319355	Bruyères (Vosges) - Gare de St-Dié-des-Vosges	48
+OCESN035277R0200219357	Bouzonville - Gare de Thionville	67
+OCESN035282R0500519360	Gare de Epinal - Laveline-d-Bruy. Mairie	52
+OCESN035291R0300319370	Gare de Thionville - Kédange (Eglise)	22
+OCESN035300R0200219378	Gare de Thionville - Hombourg (Chapelle)	26
+OCESN035305R0600619385	Gare de Epinal - Saint-Léonard Centre	94
+OCESN035305R0800819384	Corcieux Le Conti - Gare de Epinal	81
+OCESN035315R0400419395	Gare de Arches - Gare de St-Dié-des-Vosges	85
+OCESN035323R0300319405	Bruyères Chanzy Gare - Gare de Epinal	35
+OCESN035366R0200219450	Gare de Arches - Gare de Epinal	20
+OCESN035389R0500519461	Bruyères Chanzy Gare - Gare de St-Dié-des-Vosges	48
+OCESN035392R0200219463	Gare de Thionville - Perl Gare DB	39
+OCESN035410R0500519477	Gare de Sarreguemines - Sarre-Union	52
+OCESN035411R0400419478	Herbitzheim R. Hambach - Sarre-Union	25
+OCESN035412R0400419479	Gare de Sarreguemines - Sarralbe Centre	33
+OCESN035413R0200219480	Loudrefing - Sarrebourg (Place Math)	50
+OCESN035415R0400419482	Herbitzheim Mairie - Sarre-Union	23
+OCESN035416R0500519483	Gare de Sarrebourg - Gare de Sarreguemines	85
+OCESN035417R0200219484	Fénétrange (Gendarm.) - Sarrebourg-Abri-Phalsbo	33
+OCESN035424R0800819492	Gare de Sarreguemines - Sarrebourg (Place Math)	116
+OCESN035435R0200219504	Berthelming-Mairie - Sarrebourg-Abri-Phalsbo	17
+OCESN035440R0200219509	Gare de Metz-Ville - Gare de Nancy-Ville	105
+OCESN035459R0400419530	Gare de Saverne - Sarralbe	64
+OCESN035460R0400419531	Keskastel - Sarre-Union	11
+OCESN035461R0200219532	Gare de Saverne - Sarre-Union	45
+OCESN035473R0300319546	Bruyères (Vosges) - Saint-Léonard Centre	39
+OCESN035480R0100119547	Gare de Bar-le-Duc - Gare de Revigny	21
+OCESN035481R0100119548	Gare de Charmes (Vosges) - Gare de Epinal	40
+OCESN035482R0100119549	Gare de Conflans-Jarny - Gare de Pagny-sur-Moselle	45
+OCESN035532R0200219552	Gare de Figeac - Gare de Gramat	52
+OCESN035576R0200219554	Gare de Mazamet - Gare de Toulouse-Matabiau	133
+OCESN035589R0200219559	Gare de Muret - Gare de Pau	218
+OCESN035593R0200219560	Gare de Pau - Gare de Toulouse-Matabiau	253
+OCESN035603R0200219561	Gare de Agen - Gare de Castelsarrasin	56
+OCESN035608R0200219563	Gare de Longages-Noé - St-Sulpice-sur-Lèze	11
+OCESN035663R0700719574	Gare de Montréjeau-Gourdan-Pol. - Luchon-Richelieu	56
+OCESN035691R0300319579	Gare de Ax-les-Thermes - Gare de Toulouse-Matabiau	145
+OCESN035693R0200219581	Gare de Ax-les-Thermes - Gare de Foix	47
+OCESN035695R0200219583	Gare de Ax-les-Thermes - Gare de Pamiers	83
+OCESN035696R0500519584	Gare de Montréjeau-Gourdan-Pol. - Luchon	50
+OCESN035741R0200219591	Gare de Ax-les-Thermes - Latour de Carol	49
+OCESN035819R0200219594	Gare de Foix - Gare de Pamiers	33
+OCESN035824R0200219595	Gare de Souillac - Gare de St-Denis-près-Martel	27
+OCESN035852R0300319599	Gare de Albi-Ville - Gare de Toulouse-Matabiau	90
+OCESN035866R0200219607	Gare de Foix - Gare de Toulouse-Matabiau	139
+OCESN036000R0200219609	Comines (France) - Gare de Lille Flandres	54
+OCESN036002R0200219611	Gare de Lille Flandres - Wambrechies	30
+OCESN036004R0200219613	Gare de Abbeville - Gare de Boulogne Ville	104
+OCESN036006R0200219615	Gare de Abbeville - Gare de Rue	40
+OCESN036009R0100119618	Gare de Lens - Gare de Lille Flandres	80
+OCESN036019R0200219628	Gare de Avesnes - Gare de Hirson-Ecoles	55
+OCESN036022R0100119629	Gare de Arras - Gare de Douai	40
+OCESN036024R0100119630	Gare de Hazebrouck - Gare de Lille Flandres	77
+OCESN036030R0100119632	Gare de Busigny - Gare de St Quentin	60
+OCESN036200R0200219633	Gare de Calais Fréthun - Gare de Calais Ville	15
+OCESN036500R0400419661	Gare de Coutances - Gare de Lison	54
+OCESN036516R0100119680	Gare de Granville - Gare de Lison	84
+OCESN036524R0100119688	Gare de Coutances - Gare de Granville	36
+OCESN036562R0300319700	Gare de Coutances - Gare de Pontorson-Mt-St-Michel	85
+OCESN036631R0300319702	Gare de Granville - Vire-Centre	75
+OCESN036640R0300319704	Gare de Argentan - Gare de Flers	53
+OCESN036670R0500519723	Bagnoles- Orne Egl.Mad. - Gare de Briouze	40
+OCESN036690R0500519748	Bagnoles- Orne Egl.Mad. - Gare de Argentan	60
+OCESN036700R0300319753	Gare de Alençon - Gare de Surdon	34
+OCESN036701R0300319754	Gare de L'Aigle - Gare de Surdon	58
+OCESN036730R0200219775	Gare de Dreux - Gare de L'Aigle	79
+OCESN036801R0100119776	Gare de Lisieux - Gare de Trouville-Deauville	50
+OCESN036810R0400419778	Gare de Dives-Cabourg - Gare de Trouville-Deauville	35
+OCESN036850R0200219797	Gare de Caen - Gare de Rouen-Rive-Droite	100
+OCESN036860R0100119801	Gare de Evreux - Normandie - Gare de Serquigny	50
+OCESN036871R0100119802	Gare de Villedieu (Gare) - Le Mont St Michel	45
+OCESN036882R0300319811	Gare de Granville - Gare de Rennes	110
+OCESN036890R0200219821	Gare de Caen - Gare de Rennes	170
+OCESN037000R0100119826	Gare de Bréauté-Beuzeville - Gare de Fécamp	30
+OCESN037071R0100119847	Gare de Mantes-la-Jolie - Gare de Rouen-Rive-Droite	125
+OCESN037200R0500519848	Pont-Audemer-Gare-SNCF - Rouen-Gare-Routière	65
+OCESN037202R0500519850	Rouen-Gare-Routière - Routot-Place-de-mairie	50
+OCESN037214R0300319864	Bourg-Achard Champ de F - Pont-Audemer-Gare-SNCF	35
+OCESN037563R0300319872	Gare de Nantes - Gare de St-Gilles-Croix-de-Vie	104
+OCESN037600R0300319877	Gare de Cholet - Gare de Nantes	85
+OCESN037615R0200219885	Gare de Cholet - Gare de Clisson	60
+OCESN038000R0200219893	Gare de Albert - Gare de Amiens	46
+OCESN038060R0200219896	Gare de Beauvais-Gare-SNCF - Gare de Creil	70
+OCESN038100R0200219898	Gare de Hirson - Laon-Gare-Routière-Poma	80
+OCESN038310R0200219901	Gare de Compiègne - Gare de Ribécourt	28
+OCESN038313R0100119904	Gare de Compiègne - Gare de St Quentin	100
+OCESN038314R0200219905	Gare de Compiègne - Gare de Tergnier	94
+OCESN038604R0200219949	Gare de Chatellerault - Gare de Poitiers	44
+OCESN038683R0200219950	Gare de Mauzé - Gare de Niort	40
+OCESN038701R0200219951	Gare de Niort - Gare de Prissé-la-Charrière	49
+OCESN038852R0200219952	Gare de Bressuire - Gare de Saumur	87
+OCESN038859R0200219954	Gare de Bressuire - Gare de Thouars	37
+OCESN038881R0200219962	Gare de La Roche-sur-Yon - Gare de Saumur	177
+OCESN039513R0300319965	Gare de Chambéry-Chal.-les-Eaux - Lyon-Part-Dieu-Gare-Rou	90
+OCESN039518R0200219966	Gare de Annecy - Lyon-Part-Dieu-Gare-Rou	112
+OCESN039525R0400419972	Gare de Aix-les-Bains-le-Revard - Gare de Annecy	35
+OCESN039530R0200219975	Gare de Valence-TGV - Grenoble-Gare-Routière	60
+OCESN039535R0300319979	Gare de Chambéry-Chal.-les-Eaux - Grenoble-Gare-Routière	70
+OCESN039536R0200219980	Grenoble-Gare-Routière - Valence-Gare-Routière	100
+OCESN039549R0200219987	Grenoble-Gare-Routière - Lyon-Part-Dieu-Gare-Rou	119
+OCESN039550R0200219988	Gare de St-André-le-Gaz - Lyon-Perrache-Gare-Rout	110
+OCESN039561R0200219993	Lyon-Part-Dieu-Gare-Rou - Saint-Etienne-Chtx GR	71
+OCESN039608R0200219997	Gare de Lozanne - Gare de Lyon-Gorge-de-Loup	37
+OCESN039621R0200220009	Gare de Lozanne - Lyon-St-Paul-Quai-Bondy	48
+OCESN039640R0200220010	Lyon-Part-Dieu-Gare-Rou - Roanne-Gare-Routière	115
+OCESN039650R0200220012	Gare de Lozanne - Grandris-Centre	42
+OCESN039651R0200220013	Gare de Lamure-sur-Azergues - Gare de Lozanne	46
+OCESN039652R0200220014	Gare de Lozanne - Poule-Mairie	60
+OCESN039654R0200220016	Gare de Lozanne - Gare de Paray-le-Monial	120
+OCESN039655R0200220017	Bois-d'Oingt-Centre - Gare de Lozanne	23
+OCESN039690R0200220046	Gare de Die - Valence-Gare-Routière	75
+OCESN039693R0300320049	Gare de Valence-TGV - Gare de Veynes-Dévoluy	185
+OCESN039694R0200220051	Gare de Veynes-Dévoluy - Valence-Gare-Routière	165
+OCESN039694R0300320050	Gare de Luc-en-Diois - Valence-Gare-Routière	105
+OCESN039697R0200220053	Gare de Luc-en-Diois - Gare de Valence-TGV	125
+OCESN039710R0200220054	Gare de Evian-les-Bains - Grenoble-Gare-Routière	210
+OCESN039712R0200220055	Saint-Etienne-Chtx GR - Valence-Gare-Routière	110
+OCESN039716R0200220058	Gare de Modane - Grenoble-Gare-Routière	130
+OCESN039719R0200220060	Gare de Annecy - Gare de Chamonix-Mont-Blanc	120
+OCESN039721R0200220061	Annonay-Gare-Route - Grenoble-Gare-Routière	170
+OCESN039726R0200220064	Gare de St-Gervais-L-B-Le-Fayet - Grenoble-Gare-Routière	190
+OCESN039727R0200220065	Privas-Cours-du-Palais - Valence-Gare-Routière	50
+OCESN039730R0300320067	Gare de Annemasse - Grenoble-Gare-Routière	180
+OCESN039731R0200220068	Grenoble-Gare-Routière - Montélimar-G-Routière	127
+OCESN039733R0300320069	Gare de Moûtiers-Salins-Brides - Grenoble-Gare-Routière	105
+OCESN039735R0300320070	Gare de Chambéry-Chal.-les-Eaux - Gare de Cluses (Hte-Savoie)	130
+OCESN039736R0200220071	Gare de Bonneville - Lyon-Part-Dieu-Gare-Rou	145
+OCESN039737R0300320072	Gare de Chambéry-Chal.-les-Eaux - Gare de St-Gervais-L-B-Le-Fayet	165
+OCESN039742R0200220075	Aubenas-Pl.-de-la-Paix - Grenoble-Gare-Routière	198
+OCESN039743R0300320076	Gare de Annemasse - Gare de Chambéry-Chal.-les-Eaux	110
+OCESN039744R0300320077	Gare de Chambéry-Chal.-les-Eaux - Gare de Chamonix-Mont-Blanc	200
+OCESN039745R0200220078	Gare de Annemasse - Gare de Evian-les-Bains	60
+OCESN039748R0200220079	Grenoble-Gare-Routière - Privas-Cours-du-Palais	130
+OCESN039749R0300320080	Bourg-en-Bresse Gare R - Gare de Chambéry-Chal.-les-Eaux	170
+OCESN039753R0200220081	Gare de Oyonnax - Lyon-Part-Dieu-Gare-Rou	90
+OCESN039754R0300320082	Gare de Chambéry-Chal.-les-Eaux - Gare de Evian-les-Bains	180
+OCESN039755R0100120083	Lyon-Part-Dieu-Gare-Rou - Morez Lycée	195
+OCESN039757R0200220084	Gare de Chamonix-Mont-Blanc - Lyon-Part-Dieu-Gare-Rou	240
+OCESN039760R0300320086	Gare de Chambéry-Chal.-les-Eaux - Gare de Thonon-les-Bains	165
+OCESN039762R0200220088	Gare de Chamonix-Mont-Blanc - Grenoble-Gare-Routière	220
+OCESN039770R0300320095	Chamberry-Jacob - Gare de St-Gervais-L-B-Le-Fayet	165
+OCESN039776R0300320096	Gare de Bonneville - Gare de Chambéry-Chal.-les-Eaux	130
+OCESN039780R0300320099	Gare de Bourg-St-Maurice - Grenoble-Gare-Routière	160
+OCESN039782R0200220100	Aubenas-Pl.-de-la-Paix - St-Martin-d'Hères	185
+OCESN039784R0200220101	Montélimar-G-Routière - St-Martin-d'Hères	120
+OCESN039786R0200220103	Privas-Cours-du-Palais - St-Martin-d'Hères	145
+OCESN039788R0200220105	Annonay-Gare-Route - St-Martin-d'Hères	160
+OCESN039794R0200220108	Gare de Saint-Claude - Lyon-Part-Dieu-Gare-Rou	135
+OCESN039807R0200220112	Gare de Bourgoin-Jallieu - Lyon-Part-Dieu-Gare-Rou	51
+OCESN039815R0200220113	Gare de Bourg-St-Maurice - Gare de Chambéry-Chal.-les-Eaux	145
+OCESN039819R0400420115	Gare de Chambéry-Chal.-les-Eaux - Gare de Pont-de-Beauvoisin	48
+OCESN039849R0200220116	Gare de Thonon-les-Bains - Grenoble-Gare-Routière	200
+OCESN039991R0200220122	Gare de Mâcon-Ville - Lyon-Part-Dieu-Gare-Rou	75
+OCESN040011R0500520123	Gare de Diemeringen - Sarralbe Centre	36
+OCESN040012R0500520124	Gare de Diemeringen - Sarre-Union	20
+OCESN042100R0200220151	Gare de Dinan - Gare de St-Brieuc	60
+OCESN042101R0200220152	Gare de Dinan - Gare de Lamballe	73
+OCESN043500R0200220161	Gare de Franois - Gare de St-Vit	14
+OCESN043508R0200220167	Gare de Auxonne - Gare de Villers-les-Pots	10
+OCESN043515R0200220171	Gare de Dijon-Ville - Gare de Neuilly-lès-Dijon	25
+OCESN049501R0100120186	Gare de Bellegarde-s-V. Gare - Gare de St-Gervais-L-B-Le-Fayet	135
+OCESN049504R0100120189	Gare de Bellegarde-s-V. Gare - Gare de Evian-les-Bains	115
+OCESN049507R0100120192	Gare de Annemasse - Gare de St-Gervais-L-B-Le-Fayet	111
+OCESN049511R0100120196	Gare de Bellegarde-s-V. Gare - Gare de Chamonix-Mont-Blanc	185
+OCESN049514R0100120199	Gare de Annemasse - Gare de Bellegarde-s-V. Gare	71
+OCESN049521R0100120205	Gare de Evian-les-Bains - Gare de Thonon-les-Bains	20
+OCESN049523R0200220206	Gare de Cluses (Hte-Savoie) - Gare de St-Gervais-L-B-Le-Fayet	40
+OCESN049525R0100120208	Gare de Annemasse - Gare de La Roche-sur-Foron	30
+OCESN049540R0100120213	Gare de Annecy - Gare de Annemasse	60
+OCESN049561R0200220229	Gare de Ambérieu-en-Bugey - Gare de St-Rambert-en-Bugey	15
+OCESN049562R0200220230	Gare de Ambérieu-en-Bugey - Gare de Virieu-le-Grand-Belley	52
+OCESN049581R0200220236	Gare de Boën - Noirétable	26
+OCESN049582R0200220237	Gare de Boën - Saint-Etienne-Chtx GR	92
+OCESN049583R0200220238	Gare de Montbrison - Noirétable	44
+OCESN049584R0200220239	Noirétable - Saint-Etienne-Chtx GR	108
+OCESN049585R0200220240	Gare de Boën - Gare de Montbrison	18
+OCESN049588R0200220242	Gare de Montbrison - Saint-Etienne-Chtx GR	60
+OCESN049600R0200220253	Bourg-en-Bresse Gare R - Lyon-Part-Dieu-Gare-Rou	81
+OCESN049610R0200220259	Bourg-en-Bresse Gare R - Gare de Mâcon-Loché-TGV	42
+OCESN049611R0200220260	Bourg-en-Bresse Gare R - Gare de Mâcon-Ville	62
+OCESN049634R0200220283	Gare de Ambérieu-en-Bugey - Lyon-Part-Dieu-Gare-Rou	63
+OCESN049640R0300320287	Gare de Chambéry-Chal.-les-Eaux - Gare de St-André-le-Gaz	71
+OCESN049645R0300320290	Gare de Chambéry-Chal.-les-Eaux - Gare de La Tour-du-Pin	86
+OCESN049675R0200220305	Gare de Gap - Grenoble-Gare-Routière	127
+OCESN049679R0300320308	Gare de Clelles-Mens - Gare de Gap	80
+OCESN049680R0200220309	Clelles-Mairie - Grenoble-Gare-Routière	81
+OCESN049682R0200220310	Gare de Vif - Grenoble-Gare-Routière	51
+OCESN049684R0200220312	Gare de Clelles-Mens - Grenoble-Gare-Routière	73
+OCESN049691R0200220317	Gare de Sain-Bel - Lyon-St-Paul-la-Feuilée	60
+OCESN049692R0300320318	Gare de Sain-Bel - Lyon-St-Paul-Quai-Bondy	60
+OCESN049701R0200220325	Lyon-Perrache-Gare-Rout - Vienne-Gare-Routière	53
+OCESN049708R0200220329	Bourg-en-Bresse Gare R - Gare de Ambérieu-en-Bugey	40
+OCESN049750R0200220348	Argentine - Gare de St-Pierre-d'Albigny	28
+OCESN049780R0200220362	Gare de St-Priest - St-Pierre-de-Chandieu-R	21
+OCESN049799R0200220374	Gare de Villefranche-sur-Saône - Lyon-Perrache-Gare-Rout	60
+OCESN049808R0200220375	Gare de La Tour-du-Pin - Gare de Rives	55
+OCESN049819R0200220376	Gare de Moûtiers-Salins-Brides - Gare de St-Pierre-d'Albigny	50
+OCESN049823R0200220379	Gare de Albertville - Gare de Moûtiers-Salins-Brides	45
+OCESN049825R0300320381	Gare de Aix-les-Bains-le-Revard - Gare de Chambéry-Chal.-les-Eaux	30
+OCESN049827R0200220383	Gare de Bourg-St-Maurice - Gare de Moûtiers-Salins-Brides	37
+OCESN049842R0300320394	Gare de Chambéry-Chal.-les-Eaux - Gare de Modane	113
+OCESN049844R0300320396	Gare de Chambéry-Chal.-les-Eaux - Gare de Epierre-St-Léger	82
+OCESN049846R0300320398	Gare de Aix-les-Bains-le-Revard - Gare de Modane	157
+OCESN049852R0500520404	Gare de Chambéry-Chal.-les-Eaux - Gare de Culoz	65
+OCESN049864R0200220414	Gare de Feurs - Saint-Etienne-Chtx GR	60
+OCESN049873R0300320418	Gare de Albens - Gare de Annecy	45
+OCESN049877R0200220422	Gare de Annecy - Gare de Rumilly	25
+OCESN049911R0200220426	Gare de Sérézin - Ternay-Barbières	13
+OCESN049913R0200220428	Communay-Stade - Gare de Sérézin	15
+OCESN049962R0200220450	Gare de Epierre-St-Léger - Gare de Montmélian	52
+OCESN049967R0200220452	Gare de Epierre-St-Léger - Gare de St-Pierre-d'Albigny	36
+OCESN049968R0200220453	Gare de St-Jean-de-Maurienne-A. - Gare de St-Pierre-d'Albigny	70
+OCESN049969R0200220454	Aiton-Salle-Polyvalente - Gare de St-Jean-de-Maurienne-A.	58
+OCESN052500R0200220703	Gare de Chinon - Gare de Tours	82
+OCESN052501R0400420704	Chinon-Lycée-Rabelais - Gare de Tours	75
+OCESN052520R0200220712	Gare de Tours - St Christophe / Nais C.	60
+OCESN052521R0200220713	Gare de Château-du-Loir - Gare de Tours	75
+OCESN052540R0300320721	Droué (Centre) - Gare de Courtalain-St-Pellerin	10
+OCESN052541R0200220722	Courtalain-Centre - Droué (Centre)	10
+OCESN052542R0200220723	Chartres-Gare-Routière - Gare de Brou	55
+OCESN052543R0300320724	Droué (Centre) - Gare de Brou	36
+OCESN052547R0200220728	Gare de Brou - Gare de Chartres	50
+OCESN052553R0200220733	Droué (Centre) - Gare de Chartres	92
+OCESN052560R0400420735	Gare de Vendôme - Mondoubleau-Rue-Leroy	60
+OCESN052580R0200220746	Aubigny-sur-Nere-Mail - Gare de Gien	44
+OCESN052600R0200220762	Gare de Gien - Montargis-OT	49
+OCESN052610R0200220766	Gare de Cosne-sur-Loire - Sancerre-Porte-Cesar	27
+OCESN052632R0200220780	Bourges-Gare-Routière - nan	65
+OCESN052635R0200220781	Bourges-Gare-Routière - Gare de St-Amand-Montrond-Orval	76
+OCESN052636R0200220782	Gare de Bourges - Gare de St-Amand-Montrond-Orval	65
+OCESN052650R0200220783	Châteauroux Gare Rout. - Gare de Bourges	106
+OCESN052652R0200220785	Gare de Bourges - Issoudun-Place-de-la-G.	71
+OCESN052665R0200220798	Châteauroux Gare Rout. - Issoudun-Jardin	40
+OCESN052670R0200220799	Gare de Vierzon - Issoudun-Place-de-la-G.	50
+OCESN052671R0200220800	Gare de Issoudun - Gare de Vierzon	56
+OCESN052700R0300320808	Châteauroux Gare Rout. - Poitiers-Gare-Routière	135
+OCESN052702R0200220810	Le-Blanc-Pl-du-Bateau - Poitiers-Gare-Routière	68
+OCESN052720R0200220818	Gare de Nouan-le-Fuzelier - Romorantin-BA-G.R.	55
+OCESN052722R0200220820	Chaumont-sur-Tharonne - Romorantin-BA-G.R.	31
+OCESN052723R0200220821	Gare de Lamotte-Beuvron - Romorantin-BA-G.R.	40
+OCESN052728R0200220823	Gare de Lamotte-Beuvron - Romorantin-Lycée-de-F	35
+OCESN052740R0200220824	Châteauroux-Ly-B-Pascal - Gare de Eguzon	60
+OCESN052741R0300320825	Châteauroux Gare Rout. - Gare de Argenton-sur-Creuse	45
+OCESN052741R0400420826	Châteauroux-Ly-B-Pascal - Gare de Argenton-sur-Creuse	60
+OCESN052742R0300320827	Châteauroux-Lycée-Agric - Gare de Argenton-sur-Creuse	55
+OCESN052744R0300320830	Châteauroux Gare Rout. - Gare de Eguzon	80
+OCESN052746R0200220831	Châteauroux Gare Rout. - Issoudun-Place-de-la-G.	36
+OCESN052750R0200220832	Gare de Thesee - Romorantin-BA-G.R.	60
+OCESN052751R0200220833	Romorantin-BA-G.R. - St-Aignan-Lep	55
+OCESN052752R0200220834	Romorantin-BA-G.R. - St-Aignan-Pl-Wilson	53
+OCESN052800R0200220838	Gare de Loches - Gare de Tours	58
+OCESN052801R0200220839	Buzançais - Châteauroux Gare Rout.	30
+OCESN052802R0200220840	Châteauroux Gare Rout. - Gare de Tours	150
+OCESN052803R0200220841	Chatillon-Mail - Châteauroux-Charmilles	100
+OCESN052804R0200220842	Clion-sur-Indre - Gare de Loches	40
+OCESN052805R0200220843	Chatillon-Mail - Châteauroux Gare Rout.	90
+OCESN052807R0200220845	Châteauroux Gare Rout. - Gare de Loches	101
+OCESN052810R0200220849	Gare de Cormery - Gare de La Douzillère	47
+OCESN052811R0200220850	Gare de Loches - Gare de Montbazon	65
+OCESN052812R0200220851	Chambourg-Chopin - Gare de Cormery	25
+OCESN052815R0200220854	Loches-Lycee-St-Denis - Truyes-St-Blaise	40
+OCESN052822R0200220864	Gare de Cormery - Gare de Loches	29
+OCESN052829R0200220872	Gare de Loches - TOURS LYCEE GRANDMONT	55
+OCESN052832R0200220875	Gare de Esvres - Gare de Loches	45
+OCESN052834R0200220877	Gare de Tours - Reignac-Bourg-Du-Fau	74
+OCESN052840R0200220883	Gare de Loches - Truyes-Pl-Du-Souvenir	40
+OCESN052845R0200220890	Gare de La Douzillère - Gare de Veigné	15
+OCESN052848R0200220893	Loches-LEP - Truyes-Pl-Du-Souvenir	25
+OCESN052850R0400420895	Gare de Tours - Loches-LEP	80
+OCESN052857R0200220905	Gare de Cormery - Gare de Tours	43
+OCESN052860R0200220909	Buzançais - Châteauroux-Ly-B-Pascal	59
+OCESN052861R0200220910	Gare de Esvres - Gare de La Douzillère	20
+OCESN052868R0400420918	Chatillon-Mail - Châteauroux-L-Giraudoux	93
+OCESN052878R0400420929	Chatillon-Mail - Gare de Tours	95
+OCESN052900R0200220941	Gare de Vierzon - Romorantin-BA-G.R.	43
+OCESN052903R0200220944	Romorantin-BA-G.R. - Vierzon-Médiathèque	48
+OCESN052931R0200220960	Gare de Blois-Chambord - Gare de Limeray	35
+OCESN052940R0200220962	Gare de Châteaudun - Gare de Dourdan	90
+OCESN052941R0200220963	Châteaudun-LEP-Paulsen - Gare de Dourdan	102
+OCESN052950R0200220965	Chartres-Gare-Routière - Gare de Tours	159
+OCESN052951R0200220966	Chartres-Gare-Routière - Gare de Vendôme	84
+OCESN052952R0200220967	Gare de Châteaudun - Gare de Vendôme	55
+OCESN052953R0200220968	Gare de Tours - Gare de Vendôme	65
+OCESN052960R0200220975	Chartres-Gare-Routière - Gare de Châteaudun	56
+OCESN052974R0200220989	Gare de Châteaudun - Gare de Tours	111
+OCESN052990R0200220994	Gare de Château-Renault - Gare de Vendôme-Villiers-s-Loir	47
+OCESN055002R0200221027	Gare de Epinal - Gare de Neufchâteau	109
+OCESN055003R0200221028	Gare de Neufchâteau - Gare de Vittel	45
+OCESN055069R0500521037	Gare de Lunéville - Rambervillers (11 Nov)	54
+OCESN055074R0200221043	Gare de Lunéville - Moyen	41
+OCESN055079R0300321047	Luneville-LP - Rambervillers (11 Nov)	72
+OCESN055081R0300321049	Lunéville (Cité Scolai) - Rambervillers	60
+OCESN055081R0400421050	Gare de Lunéville - Rambervillers	52
+OCESN055082R0500521051	Lunéville (Cité Scolai) - Rambervillers (11 Nov)	71
+OCESN055097R0200221067	Gare de Epinal - Mirecourt	44
+OCESN055098R0200221068	Bruyères (Vosges) - Gare de Lunéville	80
+OCESN055121R0200221088	Gare de Remiremont - Gérardmer La Mauselaine	45
+OCESN055123R0200221090	Gare de Contrexéville - Gare de Epinal	60
+OCESN055145R0300321106	Gare de Longwy - Gare de Metz-Ville	55
+OCESN055203R0200221140	Bussang (Gare SNCF) - Gare de Remiremont	54
+OCESN055219R0200221145	Bresse-Claudel (la) - Gare de Remiremont	57
+OCESN055220R0200221146	Gare de Remiremont - La-Bresse (Pl Champtel)	63
+OCESN055223R0200221150	Gare de Remiremont - La Bresse Le Lispach	83
+OCESN055267R0200221181	Gare de Audun-le-Roman - Gare de Thionville	40
+OCESN055403R0200221218	Bitche - Gare de Sarreguemines	48
+OCESN055412R0400421227	Bitche-Quartier-Driant - Gare de Sarreguemines	56
+OCESN055430R0200221246	Gare de Sarrebourg - St-Louis-57-Incliné	27
+OCESN055436R0200221250	Gare de Lutzelbourg - Gare de Sarrebourg	50
+OCESN055437R0200221251	Gare de Conflans-Jarny - Gare de Metz-Ville	40
+OCESN055438R0200221252	Gare de Metz-Ville - Gare de Verdun	90
+OCESN055488R0200221255	Gare de Conflans-Jarny - Gare de Verdun	45
+OCESN078000R0200222782	Gare de Marle-sur-Serre - Lugny	5
+OCESN078001R0300322783	BarentonÂ Cel - Gare de Verneuil-sur-Serre	5
+OCESN078002R0200222784	Barenton-sur-Serre - Gare de Verneuil-sur-Serre	5
+OCESN081390F0100122797	Gare de Strasbourg - Gare de WOERTH RHEIN	66
+OCESN081400F0300322805	Gare de Neustadt (Weinstr) Hbf - Gare de Wissembourg	62
+OCESN081401F0200222806	Gare de WINDEN PFALZ - Gare de Wissembourg	16
+OCESN081436F0300322841	Gare de Landau-Pfalz-Hbf - Gare de Wissembourg	28
+OCESN081440F0300322842	Gare de Lauterbourg - Gare de WOERTH RHEIN	15
+OCESN082201R03003~NAV55728	Gare de Fougères - Gare de Rennes	70
+OCESN086000F0700723025	Gare de Nice-Ville - Gare de Ventimiglia-Stazione	53
+OCESN086000F0800823026	Gare de Grasse - Gare de Nice-Ville	71
+OCESN086000F0900923027	Gare de Grasse - Gare de Ventimiglia-Stazione	127
+OCESN086004F0300323032	Gare de Grasse - Gare de Menton	113
+OCESN086004F0400423031	Gare de Menton - Gare de Nice-Ville	39
+OCESN086005F0800823036	Gare de Cannes-la-Bocca - Gare de Ventimiglia-Stazione	107
+OCESN086007F0600623042	Gare de Cannes-la-Bocca - Gare de Menton	90
+OCESN086011F0100123054	Gare de Les Arcs-Draguignan - Gare de Ventimiglia-Stazione	138
+OCESN086011F0300323055	Gare de Les Arcs-Draguignan - Gare de Menton	118
+OCESN086013F0500523058	Gare de Cannes-la-Bocca - Gare de Monaco-Monte-Carlo	73
+OCESN086013F0600623059	Gare de Grasse - Gare de Monaco-Monte-Carlo	99
+OCESN086013F0900923060	Gare de Monaco-Monte-Carlo - Gare de Nice-Ville	24
+OCESN086015F1001023069	Gare de Cannes - Gare de Ventimiglia-Stazione	101
+OCESN086017F0600623076	Gare de Cannes - Gare de Monaco-Monte-Carlo	70
+OCESN086069F0400423178	Gare de Menton - Gare de Ventimiglia-Stazione	16
+OCESN086090F0100123221	Gare de Monaco-Monte-Carlo - Gare de Ventimiglia-Stazione	30
+OCESN086380F0700723234	Gare de Saarbrücken /Sarrebruck - Gare de Strasbourg	102
+OCESN086381F1201223237	Gare de Mommenheim - Gare de Strasbourg	15
+OCESN086392F0500523255	Gare de Metz-Ville - Gare de Trier-Hbf (Trèves)	96
+OCESN086550F0300323260	Gare de Longwy - Gare de Luxembourg	35
+OCESN086562F0600623275	Gare de Luxembourg - Gare de Rodange	27
+OCESN086960F0100123299	Gare de Perpignan - Gare de Port-Bou	59
+OCESN086966F0100123305	Gare de Avignon-Centre - Gare de Port-Bou	259
+OCESN086967F0100123308	Gare de Narbonne - Gare de Port-Bou	102
+OCESN086969F0400423310	Gare de Nîmes - Gare de Port-Bou	209
+OCESN086970F0200223317	Gare de Port-Bou - Gare de Toulouse-Matabiau	220
+OCESN086983F1301323339	Gare de Montpellier-Saint-Roch - Gare de Port-Bou	171
+OCESN087154F0200223368	Gare de Saarbrücken /Sarrebruck - Gare de Sarreguemines	29
+OCESN087403F0200223441	Gare de Offenburg - Gare de Strasbourg	32
+OCESN087459F0400423488	Gare de Kehl - Gare de Offenburg	22
+OCESN087480F0200223503	Gare de Mulhouse - Gare de Mullheim-Baden-Bf	23
+OCESN087488F0300323515	Gare de Freiburg-Breisgau - Gare de Mulhouse	45
+OCESN088501F0300323533	Gare de Luxembourg - Gare de Nancy-Ville	92
+OCESN088501F0600623534	Gare de Luxembourg - Gare de Thionville	25
+OCESN088503F0800823537	Gare de Nancy-Ville - Gare de Thionville	65
+OCESN088503F1301323536	Gare de Bettembourg - Gare de Nancy-Ville	79
+OCESN088507F0900923553	Gare de Luxembourg - Gare de Metz-Ville	49
+OCESN088710F0700723816	Gare de Bettembourg - Gare de Metz-Ville	36
+OCESN088716F1001023828	Gare de Metz-Ville - Gare de Thionville	27
+OCESN088821F0200224092	Gare de Forbach - Gare de Saarbrücken /Sarrebruck	10
+OCESN088824F0300324099	Gare de Metz-Ville - Gare de Saarbrücken /Sarrebruck	60
+OCESN096151F0300324706	Gare de Basel-SBB - Gare de Strasbourg	89
+OCESN096151F0400424707	Gare de Basel-SBB - Gare de Sélestat	69
+OCESN096500F0300324843	Gare de Genève - Gare de Lyon-Part-Dieu	117
+OCESN096508F0100124850	Gare de Bellegarde-s-V. Gare - Gare de Genève	28
+OCESN096536F0200224867	Gare de Lyon-Part-Dieu - Gare de St-Gervais-L-B-Le-Fayet	228
+OCESN096601F0300324904	Gare de Genève - Gare de Grenoble	144
+OCESN096608F0900924907	Gare de Genève - Gare de Valence-Ville	195
+OCESN105330F0300324982	Gare de St-Pierre-des-Corps - Gare de Tours	5
+OCESN400000R0200233144	Gare de Mommenheim - Gare de Sarreguemines	113
+OCESN400003R0100133147	Gare de Mommenheim - Gare de Saarbrücken /Sarrebruck	154
+OCESN400012R0200233152	Gare de Ingwiller - Gare de Mommenheim	35
+OCESN400013R0200233153	Gare de Ingwiller - Gare de Strasbourg	66
+OCESN400021R0200233156	Gare de Roeschwoog - Gare de Strasbourg	84
+OCESN400023R0100133157	Gare de Lauterbourg - Gare de Strasbourg	114
+OCESN400039R0100133173	Gare de Colmar - Gare de Munster	36
+OCESN400059R0300333193	Gare de Kehl - Gare de Strasbourg	25
+OCESN400061R0300333196	Gare de Saales - Gare de St-Dié-des-Vosges	28
+OCESN400061R0400433197	Gare de Molsheim - Gare de St-Dié-des-Vosges	105
+OCESN400063R0500533201	Gare de Rothau - Gare de St-Dié-des-Vosges	50
+OCESN400067R0200233206	Gare de Molsheim - Gare de Rothau	55
+OCESN400073R0200233216	Gare de Rothau - Gare de Saales	22
+OCESN400075R0200233218	Gare de Kruth - Gare de Thann-Saint-Jacques	28
+OCESN400078R0200233221	Gare de Molsheim - Gare de Saales	76
+OCESN400079R0200233222	Gare de Thann-Saint-Jacques - Gare de Wesserling	19
+OCESN400082R0200233224	Gare de Molsheim - Mutzig-Passage-A-Niveau	8
+OCESN400240R0200233233	Gare de Erstein - Gare de Strasbourg	26
+OCESN400241R0300333235	Gare de Colmar - Gare de Mulhouse	50
+OCESN405004R0200233394	Gare de Bayonne - Gare de Pau	145
+OCESN405009R0200233395	Gare de Bayonne - Gare de Puyoô	70
+OCESN405021R0200233396	Gare de Mont-de-Marsan - Gare de Morcenx	45
+OCESN405024R0200233397	Gare de Bordeaux-St-Jean - Gare de Mont-de-Marsan	185
+OCESN405109R0300333400	Gare de Lesparre - Gare de Pauillac	25
+OCESN405117R0200233401	Gare de Bordeaux-St-Jean - Gare de Lesparre	157
+OCESN405123R0300333404	Gare de Bordeaux-St-Jean - Gare de Le-Verdon	200
+OCESN405210R0300333407	Gare de Dax - Gare de Lourdes	170
+OCESN405212R0300333408	Gare de Dax - Gare de Pau	110
+OCESN405275R0100133413	Gare de Dax - Gare de Tarbes	205
+OCESN405313R0200233415	Gare de Arcachon - Gare de Biganos-Facture	47
+OCESN405403R0200233423	Gare de Brive-la-Gaillarde - Gare de Périgueux	105
+OCESN405410R0100133424	Gare de Condat-le-Lardin - Gare de Tulle	85
+OCESN405411R0100133425	Gare de Brive-la-Gaillarde - Gare de Condat-le-Lardin	44
+OCESN405449R0500533453	Gare de Bedous - Gare de Pau	86
+OCESN405454R0200233454	Gare de Oloron-Ste-Marie - Gare de Pau	52
+OCESN405455R0200233455	Gare de Bidos - Gare de Pau	58
+OCESN405460R0100133459	Gare de Bedous - Gare de Oloron-Ste-Marie	35
+OCESN405483R0100133460	Gare de Bayonne - Gare de St-Jean-Pied-de-Port	81
+OCESN405491R0200233462	Gare de Bayonne - Gare de Cambo-les-Bains	38
+OCESN405520R0300333468	Gare de Dax - Gare de Hendaye	140
+OCESN405525R0200233470	Gare de Bayonne - Gare de Morcenx	105
+OCESN405572R0200233472	Gare de Bordeaux-St-Jean - Gare de Dax	170
+OCESN405608R0100133474	Gare de Bergerac - Gare de Libourne	104
+OCESN405638R0200233484	Gare de Libourne - Gare de St-Emilion	19
+OCESN405652R0200233485	Gare de Bergerac - Gare de Sarlat	94
+OCESN405713R0300333494	Gare de Bordeaux-St-Jean - Gare de Langon	87
+OCESN405758R0300333496	Gare de Agen - Gare de Bordeaux-St-Jean	174
+OCESN405816R0300333499	Gare de Agen - Gare de Périgueux	212
+OCESN405874R0300333503	Gare de Agen - Gare de Monsempron-Libos	65
+OCESN406105R0200233512	Gare de Commentry - Gare de Montluçon-Ville	25
+OCESN406400R0200233521	Gare de Clermont-Ferrand - Gare de Moulins-sur-Allier	165
+OCESN406402R0100133523	Gare de Clermont-Ferrand - Gare de Riom-Châtel-Guyon	25
+OCESN406403R0100133524	Gare de Clermont-Ferrand - Gare de Vichy	85
+OCESN406500R0100133526	Gare de Gannat - Gare de Vichy	32
+OCESN406602R0200233530	Gare de Arvant - Gare de Brioude	12
+OCESN406680R0300333532	Gare de Alès - Gare de Clermont-Ferrand	344
+OCESN406681R0200233533	Gare de Alès - Gare de Brioude	254
+OCESN406685R0200233535	Gare de Arvant - Gare de Langeac	46
+OCESN406687R0200233536	Gare de Arvant - Gare de Nîmes	334
+OCESN406805R0100133552	Gare de Aurillac - Gare de Neussargues	74
+OCESN406906R0200233562	Gare de Aurillac - Gare de Figeac	80
+OCESN407000R0200233567	Gare de Aurillac - Gare de Brive-la-Gaillarde	162
+OCESN407107R0200233578	Gare de Firminy - Gare de Le Puy-en-Velay	129
+OCESN407109R0200233579	Gare de Le Puy-en-Velay - Gare de Vorey	41
+OCESN408009R0200233582	Gare de Dijon-Ville - Gare de Laroche-Migennes	216
+OCESN408018R0200233585	Gare de Laroche-Migennes - Gare de Tonnerre	69
+OCESN408218R0200233602	Gare de Frasne - Gare de Travers	56
+OCESN408281R0200233605	Gare de Laroche-Migennes - Gare de Montereau	148
+OCESN408428R0200233615	Gare de Clamecy - Gare de Laroche-Migennes	113
+OCESN408490R0200233620	Gare de Auxerre-St-Gervais - Gare de Laroche-Migennes	28
+OCESN408770R0200233630	Gare de Dijon-Ville - Gare de Is-sur-Tille	65
+OCESN408827R0200233632	Gare de Dijon-Porte-Neuve - Gare de Is-sur-Tille	32
+OCESN408844R0200233634	Gare de Dijon-Ville - Gare de Seurre	98
+OCESN408849R0100133636	Gare de Besançon-Viotte - Gare de Dijon-Ville	164
+OCESN408897R0200233637	Gare de Dijon-Ville - Gare de Les Laumes-Alésia	107
+OCESN409172R0200233654	Gare de Avallon - Gare de Laroche-Migennes	110
+OCESN409210R0200233655	Gare de Chagny - Gare de Montchanin	57
+OCESN409268R0100133658	Gare de Decize - Gare de Luzy(Nièvre)	54
+OCESN409402R0100133665	Gare de Cosne-sur-Loire - Gare de Nevers-Le-Banlay	118
+OCESN409406R0100133667	Gare de Nevers - Gare de Nevers-Le-Banlay	13
+OCESN409505R0200233671	Gare de Lyon-Perrache - Gare de Paray-le-Monial	150
+OCESN409761R0100133672	Gare de Besançon-Viotte - Gare de Dole-Ville	78
+OCESN409858R0100133674	Gare de Belfort-Ville - Gare de Vesoul	115
+OCESN410017R0200233676	Gare de Besançon-Viotte - Gare de Le Valdahon	62
+OCESN410210R0100133688	Gare de Luzy(Nièvre) - Gare de Montchanin	68
+OCESN410273R0100133715	Gare de Le Creusot - Gare de Luzy(Nièvre)	54
+OCESN410421R0200233724	Gare de Bourg-en-Bresse - Gare de Lons-le-Saunier	89
+OCESN410600R0200233728	Gare de Belfort-Ville - Gare de Meroux	24
+OCESN410610R0200233730	Gare de Belfort-Ville - Gare de Delle	75
+OCESN410854R0100133734	Gare de Besançon-Franche-Comté - Gare de Besançon-Viotte	23
+OCESN411057R0200233740	Gare de Rennes - Gare de Vitré	60
+OCESN411121R0200233742	Gare de Rennes - Gare de St-Brieuc	115
+OCESN411125R0200233744	Gare de Montauban-de-Bretagne - Gare de Rennes	50
+OCESN411211R0200233747	Gare de Messac-Guipry - Gare de Rennes	75
+OCESN411225R0100133749	Gare de Nantes - Gare de Rennes	100
+OCESN411232R0200233751	Gare de Rennes - Gare de Vannes	150
+OCESN411281R0200233754	Gare de Messac-Guipry - Gare de Vannes	115
+OCESN411282R0300333755	Gare de Redon - Gare de Rennes	105
+OCESN411284R0100133756	Gare de Beslé - Gare de Redon	35
+OCESN411329R0300333758	Gare de Lorient - Gare de Quimper	95
+OCESN411330R0200233759	Gare de Lorient - Gare de Rosporden	65
+OCESN411332R0200233760	Gare de Lorient - Gare de Vannes	80
+OCESN411356R0200233764	Gare de Lorient - Gare de Redon	140
+OCESN411510R0200233770	Gare de Brest - Gare de Morlaix	85
+OCESN411616R0200233773	Gare de Brest - Gare de Quimper	130
+OCESN411618R0200233774	Gare de Landerneau - Gare de Quimper	95
+OCESN411639R0200233782	Gare de Brest - Gare de La Forest	35
+OCESN411640R0200233783	Gare de Brest - Gare de Landerneau	45
+OCESN411716R0200233787	Gare de Lannion - Gare de St-Brieuc	65
+OCESN411719R0200233790	Gare de Guingamp - Gare de Lannion	55
+OCESN411850R0200233792	Gare de Carhaix - Gare de Guingamp	75
+OCESN414005R0200233821	Gare de Aubrais-(les) - Gare de Cosne-sur-Loire	135
+OCESN414047R0300333827	Gare de Port-de-Piles - Gare de Tours	85
+OCESN414411R0200233832	Gare de Châteauroux - Gare de Vierzon	90
+OCESN414428R0200233833	Gare de Argenton-sur-Creuse - Gare de Vierzon	130
+OCESN414511R0100133834	Gare de Aubrais-(les) - Gare de Toury	45
+OCESN414565R0200233836	Gare de Bourges - Gare de Vierzon	70
+OCESN414909R0300333840	Gare de Bourges - Gare de Montluçon-Ville	160
+OCESN415126R0200233841	Gare de Port-Boulet - Gare de Tours	77
+OCESN415179R0600633842	Gare de Aubrais-(les) - Gare de Tours	160
+OCESN415512R0300333844	Gare de Aubrais-(les) - Gare de Château-Gaillard	45
+OCESN415959R0400433845	Gare de Romorantin-Blanc-Argent - Gare de Valençay	45
+OCESN416002R0200233854	Gare de Chartres - Gare de Nogent-le-Rotrou	91
+OCESN416005R0300333857	Gare de Chartres - Gare de La Verrière	108
+OCESN416006R0200233858	Gare de Chartres - Gare de Versailles-Chantiers	110
+OCESN416400R0200233873	Gare de Chartres - Gare de Courtalain-St-Pellerin	90
+OCESN417001R0200233875	Gare de Charleville-Mézières - Gare de Givet	107
+OCESN417101R0300333884	Gare de Charleville-Mézières - Gare de Nouzonville	20
+OCESN417301R0100133887	Gare de Charleville-Mézières - Gare de Reims	80
+OCESN417322R0100133888	Gare de Reims - Gare de Sedan	163
+OCESN417328R0100133889	Gare de Charleville-Mézières - Gare de Sedan	43
+OCESN417404R0100133910	Gare de Rethel - Gare de Sedan	113
+OCESN417951R0100133911	Gare de Laon - Gare de Reims	110
+OCESN418003R0200233913	Gare de Chaumont - Gare de Châlons-en-Champagne	164
+OCESN418009R0300333914	Gare de Châlons-en-Champagne - Gare de St-Dizier	75
+OCESN418400R0100133922	Gare de Châlons-en-Champagne - Gare de Château-Thierry	105
+OCESN418402R0100133924	Gare de Dormans - Gare de Epernay	30
+OCESN418405R0100133927	Gare de Bar-le-Duc - Gare de Epernay	155
+OCESN418408R0100133930	Gare de Bar-le-Duc - Gare de St-Dizier	35
+OCESN418410R0100133931	Gare de Bar-le-Duc - Gare de Châlons-en-Champagne	110
+OCESN418802R0100133932	Gare de Culmont-Chalindrey - Gare de Troyes	161
+OCESN418809R0100133934	Gare de Dijon-Ville - Gare de Troyes	145
+OCESN423011R0200233946	Gare de Cerbère - Gare de Perpignan	107
+OCESN423013R0200233948	Gare de Le Grau-du-Roi - Gare de Vauvert	44
+OCESN423016R0300333952	Gare de Le Grau-du-Roi - Gare de Nîmes	93
+OCESN423021R0200233958	Gare de Carcassonne - Gare de Castelnaudary	59
+OCESN423028R0200233962	Gare de Narbonne - Gare de Toulouse-Matabiau	218
+OCESN423030R0200233963	Gare de Castelnaudary - Gare de Narbonne	134
+OCESN423100R0200233964	Gare de Alès - Gare de Génolhac	57
+OCESN423102R0200233966	Gare de Alès - Gare de La Bastide-St-Laurent	111
+OCESN423103R0200233967	Gare de Alès - Gare de Mende	187
+OCESN423106R0200233970	Gare de Alès - Gare de Langogne	136
+OCESN423111R0200233973	Gare de Marvejols - Gare de Mende	48
+OCESN423112R0200233974	Gare de Alès - Gare de Arvant	263
+OCESN423125R0200233986	Gare de Langogne - Gare de Nîmes	180
+OCESN423133R0200233994	Gare de Mende - Gare de Nîmes	247
+OCESN423135R0200233996	Gare de Marvejols - Gare de Nîmes	297
+OCESN423323R0200234002	Gare de Castelnaudary - Gare de Toulouse-Matabiau	83
+OCESN425350R0200234006	Gare de Perpignan - Gare de Villefranche-Vernet-l.B	64
+OCESN426054R0200234023	Gare de Guéret - Gare de Limoges-Bénédictins	111
+OCESN426201R0200234027	Gare de Le Dorat - Gare de Limoges-Bénédictins	70
+OCESN426220R0300334030	Gare de Limoges-Bénédictins - Gare de Poitiers	205
+OCESN426300R0200234035	Gare de Limoges-Bénédictins - Gare de Saillat-Chassenon	91
+OCESN426405R0200234039	Gare de Limoges-Bénédictins - Gare de Périgueux	147
+OCESN426503R0200234044	Gare de St-Yrieix-la-Perche - Pompadour	47
+OCESN426503R0300334045	Gare de Nexon - Pompadour	83
+OCESN426505R0200234048	Gare de Limoges-Bénédictins - Gare de Nexon	33
+OCESN426550R0200234070	Gare de Objat - Pompadour	31
+OCESN426556R0200234073	Gare de Brive-la-Gaillarde - Gare de Objat	46
+OCESN426708R0100134084	Gare de Brive-la-Gaillarde - Gare de Limoges-Bénédictins	174
+OCESN426804R0200234085	Gare de Limoges-Bénédictins - Gare de Ussel	192
+OCESN426956R0200234092	Gare de Brive-la-Gaillarde - Gare de Tulle	44
+OCESN429009R0100134099	Gare de Lunéville - Gare de Nancy-Ville	71
+OCESN429011R0300334100	Gare de Epinal - Gare de Nancy-Ville	79
+OCESN429021R0200234101	Gare de Longwy - Gare de Rodange	16
+OCESN429027R0200234102	Gare de Bening - Gare de Saarbrücken /Sarrebruck	53
+OCESN429069R0200234118	Gare de Longwy - Gare de Nancy-Ville	172
+OCESN429071R0200234120	Gare de Conflans-Jarny - Gare de Longwy	86
+OCESN429073R0200234121	Gare de Nancy-Ville - Gare de Pont-St-Vincent	60
+OCESN429085R0200234130	Gare de Bar-le-Duc - Gare de Metz-Ville	138
+OCESN429092R0200234137	Gare de Bar-le-Duc - Gare de Nancy-Ville	88
+OCESN429097R0400434141	Gare de Nancy-Ville - Gare de Remiremont	160
+OCESN429098R0200234142	Gare de Châlons-en-Champagne - Gare de Metz-Ville	228
+OCESN429100R0100134144	Gare de Epinal - Gare de Remiremont	37
+OCESN429116R0200234151	Gare de Baroncourt - Gare de Nancy-Ville	109
+OCESN429121R0200234153	Gare de Conflans-Jarny - Gare de Hagondange	64
+OCESN429123R0200234154	Gare de Hagondange - Gare de Verdun	113
+OCESN429127R0300334157	Gare de Nancy-Ville - Gare de St-Dié-des-Vosges	121
+OCESN429139R0100134168	Gare de Nancy-Ville - Gare de Revigny	144
+OCESN429147R0200234173	Gare de Liverdun - Gare de Nancy-Ville	25
+OCESN429153R0300334178	Gare de Bar-le-Duc - Gare de Toul	77
+OCESN429194R0100134187	Gare de Lunéville - Gare de St-Dié-des-Vosges	41
+OCESN429218R0100134191	Gare de Longwy - Gare de Sedan	108
+OCESN429302R0100134203	Gare de Charleville-Mézières - Gare de Longwy	151
+OCESN429384R0200234221	Gare de Diemeringen - Gare de Saarbrücken /Sarrebruck	75
+OCESN429401R0200234225	Gare de Nancy-Ville - Gare de Verdun	108
+OCESN429460R0100134226	Gare de Dijon-Ville - Gare de Neufchâteau	120
+OCESN429469R0200234227	Gare de Dijon-Ville - Gare de Nancy-Ville	190
+OCESN429500R0200234228	Gare de Bettembourg - Gare de Luxembourg	20
+OCESN433022R0300334319	Gare de Millau - Gare de Rodez	85
+OCESN433039R0400434326	Gare de Millau - Laissac-Foirail	60
+OCESN433102R0200234330	Gare de Mazamet - Gare de St-Sulpice (Tarn)	103
+OCESN433110R0300334338	Gare de Castres - Gare de St-Sulpice (Tarn)	60
+OCESN433201R0300334341	Gare de Capdenac - Gare de Figeac	20
+OCESN433202R0200234342	Gare de Figeac - Gare de Tessonnières	160
+OCESN433296R0200234356	Gare de Aurillac - Gare de Toulouse-Matabiau	244
+OCESN433305R0200234357	Gare de Auch - Gare de L'Isle-Jourdain (Gers)	51
+OCESN433306R0200234358	Gare de Auch - Gare de Toulouse-Matabiau	122
+OCESN433321R0200234366	Gare de Auch - Gare de Colomiers	94
+OCESN433353R0200234367	Gare de L'Isle-Jourdain (Gers) - Gare de Toulouse-Matabiau	72
+OCESN433362R0300334372	Gare de Colomiers - Gare de L'Isle-Jourdain (Gers)	48
+OCESN433612R0100134373	Gare de Brive-la-Gaillarde - Gare de Montauban-Ville-Bourbon	198
+OCESN433614R0100134374	Gare de Cahors - Gare de Montauban-Ville-Bourbon	78
+OCESN433710R0500534381	Gare de Boussens - Gare de Pau	183
+OCESN433717R0500534384	Gare de Muret - Gare de Tarbes	182
+OCESN433718R0400434385	Gare de Boussens - Gare de Muret	93
+OCESN433721R0400434387	Gare de Boussens - Gare de Montréjeau-Gourdan-Pol.	55
+OCESN433733R0300334393	Gare de Montréjeau-Gourdan-Pol. - Gare de Muret	138
+OCESN433746R0300334402	Gare de Pau - Gare de Tarbes	93
+OCESN433768R0300334412	Gare de Lourdes - Gare de Tarbes	35
+OCESN433814F0100134418	Gare de Agen - Gare de Montauban-Ville-Bourbon	106
+OCESN433952R0100134422	Gare de Capdenac - Gare de Rodez	86
+OCESN433952R0200234423	Gare de Brive-la-Gaillarde - Gare de Capdenac	148
+OCESN435001R0200234433	Gare de Cambrai Ville - Gare de St Quentin	101
+OCESN435005R0500534435	Gare de Boulogne Ville - Gare de Calais Fréthun	30
+OCESN435011R0400434439	Gare de Calais Fréthun - Gare de Rang du Fl. Verton Ber.	96
+OCESN435012R0200234440	Gare de Lille Flandres - Gare de Mouscron / Moeskroen	49
+OCESN435020R0200234448	Gare de Douai - Gare de Lille Flandres	118
+OCESN435036R0200234462	Gare de Cambrai Ville - Gare de Valenciennes	95
+OCESN435040R0300334466	Gare de Aulnoye Aymeries - Gare de Jeumont	50
+OCESN435042R0200234468	Gare de Aulnoye Aymeries - Gare de Maubeuge	28
+OCESN435050R0200234476	Gare de Maubeuge - Gare de St Quentin	116
+OCESN435052R0200234478	Gare de Aulnoye Aymeries - Gare de Busigny	82
+OCESN435054R0200234480	Gare de Amiens - Gare de Arras	104
+OCESN435056R0200234483	Gare de Aulnoye Aymeries - Gare de Hirson	104
+OCESN435058R0200234485	Gare de Lille Flandres - Gare de Valenciennes	127
+OCESN435100R0200234532	Gare de Jeumont - Gare de Maubeuge	15
+OCESN435115R0200234547	Gare de Jeumont - Gare de Valenciennes	128
+OCESN435124R0300334556	Gare de Charleroi Sud - Gare de Maubeuge	60
+OCESN435134R0300334566	Gare de Calais Ville - Gare de Hazebrouck	109
+OCESN435160R0100134586	Gare de Arras - Gare de St Pol sur Ternoise	63
+OCESN435163R0200234589	Gare de Abbeville - Gare de Amiens	56
+OCESN435168R0200234594	Gare de Arras - Gare de Lens	42
+OCESN435188R0100134612	Gare de Arras - Gare de Lille Flandres	99
+OCESN435190R0100134614	Gare de Amiens - Gare de Lille Flandres	223
+OCESN435192R0200234616	Gare de Albert - Gare de Douai	119
+OCESN435194R0100134618	Gare de Amiens - Gare de Douai	164
+OCESN435214R0400434638	Gare de Albert - Gare de Arras	62
+OCESN437027R0100134687	Gare de Dunkerque - Gare de Lille Flandres	150
+OCESN438001R0300334690	Gare de Caen - Gare de Cherbourg	174
+OCESN438003R0200234693	Gare de Evreux - Normandie - Gare de Mantes-la-Jolie	84
+OCESN439451R0200234695	Gare de Le Mans - Gare de Tours	133
+OCESN441002R0300334697	Gare de Amiens - Gare de Rouen-Rive-Droite	186
+OCESN444500R0100134700	Gare de La Roche-sur-Yon - Gare de La Rochelle-Ville	120
+OCESN444512R0100134707	Gare de Angers-St-Laud - Gare de Sablé-sur-Sarthe	83
+OCESN444514R0100134709	Gare de Le Mans - Gare de Nogent-le-Rotrou	95
+OCESN444518R0100134712	Gare de Connerré-Beillé - Gare de Le Mans	50
+OCESN444520R0100134713	Gare de Laval - Gare de Le Mans	135
+OCESN444528R0100134718	Gare de Angers-St-Laud - Gare de Saumur	95
+OCESN444531R0100134721	Gare de Angers-St-Laud - Gare de Cholet	100
+OCESN447026R0200234731	Gare de Beauvais-Gare-SNCF - Gare de Persan-Beaumont	90
+OCESN447138R0300334736	Gare de Tergnier - Laon-Gare-Routière-Poma	67
+OCESN447142R0300334737	Gare de Amiens - Gare de Tergnier	159
+OCESN447172R0200234750	Gare de Amiens - Gare de St Quentin	93
+OCESN447222R0500534757	Gare de Creil - Gare de Laon	171
+OCESN447224R0300334758	Gare de Creil - Laon-Gare-Routière-Poma	200
+OCESN447331R0700734760	Gare de St Quentin - Gare de Tergnier	28
+OCESN447526R0200234793	Gare de Creil - Gare de St-Just-SNCF	56
+OCESN447528R0400434794	Gare de Amiens - Gare de St-Just-SNCF	87
+OCESN447573R0400434832	Gare de Amiens - Gare de Creil	95
+OCESN447580R0300334841	Gare de Abancourt - Le Tréport-Mers-Les-B	83
+OCESN450226R0200234881	Gare de Angoulême - Gare de Poitiers	158
+OCESN451200R0200234895	Gare de La Rochelle-Ville - Gare de Saintes	98
+OCESN451202R0200234897	Gare de La-Rochelle-Pt-Dauphine - Gare de Rochefort	64
+OCESN451203R0200234898	Gare de La Rochelle-Ville - Gare de St-Mariens-St-Yzan	184
+OCESN451204R0400434899	Gare de La Rochelle-Ville - Gare de La-Rochelle-Pt-Dauphine	9
+OCESN451208R0100134905	Gare de La-Rochelle-Pt-Dauphine - Gare de Saintes	133
+OCESN451462R0100134908	Gare de Niort - Gare de Saintes	95
+OCESN451467R0100134909	Gare de Niort - Gare de Royan	139
+OCESN451508R0100134910	Gare de Angoulême - Gare de Saintes	98
+OCESN451509R0200234911	Gare de Angoulême - Gare de Royan	145
+OCESN453001R0200234916	Gare de Breil-sur-Roya - Gare de Tende	40
+OCESN453005R0200234920	Gare de Cannes - Gare de Grasse	50
+OCESN453006R0200234921	Gare de Marseille-St-Charles - Gare de Toulon	125
+OCESN453008R0300334923	Gare de Les Arcs-Draguignan - Gare de St-Raphaël-Valescure	30
+OCESN453012R0200234927	Gare de Nice-Ville - Gare de Sospel	65
+OCESN453014R0200234929	Gare de Nice-Ville - Gare de Touet-de-l'Escarène	65
+OCESN453030R0200234937	Gare de Avignon-Centre - Gare de Miramas	100
+OCESN454000R0100134938	Aix-Gare-Routière - Gare de Marseille-St-Charles	55
+OCESN454001R0100134939	Aix-Gare-Routière - Gare de Gardanne	20
+OCESN454005R0100134943	Gare de Marseille-St-Charles - Gare de Sisteron	175
+OCESN454006R0100134944	Gare de Marseille-St-Charles - Gare de Martigues	70
+OCESN456000R0100134946	Roanne-Gare-Routière - Saint-Etienne-Chtx GR	119
+OCESN457402R0100134962	Lyon-Perrache-Gare-Rout - Roanne-Gare-Routière	142
+OCESN460400R0100134969	Gare de Clelles-Mens - Gare de Veynes-Dévoluy	56
+OCESN460401R0100134970	Gare de Gap - Gare de Veynes-Dévoluy	30
+OCESN461008R0100134982	Gare de La Roche-sur-Foron - Gare de St-Gervais-L-B-Le-Fayet	108
+OCESN461102R0200234992	Gare de Annecy - Gare de La Roche-sur-Foron	55
+OCESN464001R0100135035	Gare de Chedde - Gare de St-Gervais-L-B-Le-Fayet	10
+OCESN830103F0300335081	Gare de Sarrebourg - Gare de Strasbourg	59
+OCESN830200F0200235157	Gare de Krimmeri-Meinau - Gare de Strasbourg	7
+OCESN830300F0400435159	Gare de Metz-Ville - Gare de Strasbourg	86
+OCESN830502F0300335258	Gare de Strasbourg - Gare de Wissembourg	58
+OCESN830917F1201235539	Gare de Krimmeri-Meinau - Gare de Sarreguemines	92
+OCESN831318F0200235610	Gare de Colmar - Gare de Strasbourg	53
+OCESN831720F0200235851	Gare de Obernai - Gare de Strasbourg	31
+OCESN831807F0200236003	Gare de St-Dié-des-Vosges - Gare de Strasbourg	112
+OCESN832300F0300336086	Gare de Mulhouse - Gare de Strasbourg	61
+OCESN832303F0300336094	Gare de Erstein - Gare de Mulhouse	53
+OCESN832308F2902936107	Gare de Mulhouse - Gare de Sélestat	40
+OCESN832500F0200236292	Gare de Lutterbach Tram-train - Gare de Mulhouse-Gare-Centrale	19
+OCESN832602F0200236303	Gare de Mulhouse-Gare-Centrale - Gare de Thann-Saint-Jacques	46
+OCESN832604F0200236305	Gare de Mulhouse-Gare-Centrale - Gare de Thann	41
+OCESN832760F0300336438	Gare de Mulhouse - Gare de Thann-Saint-Jacques	32
+OCESN832765F0200236444	Gare de Mulhouse - Gare de Willer-sur-Thur	36
+OCESN832766F0400436448	Gare de Mulhouse - Gare de Thann	26
+OCESN832771F0400436455	Gare de Mulhouse - Gare de Wesserling	47
+OCESN832901F0300336568	Gare de Niederbronn - Gare de Strasbourg	53
+OCESN833203F0800836633	Gare de Conflans-Jarny - Gare de Nancy-Ville	51
+OCESN833308F0200236650	Gare de Longuyon - Gare de Thionville	39
+OCESN833341F0200236653	Gare de Longwy - Gare de Thionville	55
+OCESN833602F0400436749	Gare de Bar-le-Duc - Gare de Lunéville	98
+OCESN833606F0700736755	Gare de Lunéville - Gare de Revigny	108
+OCESN833618F1101136781	Gare de Epernay - Gare de Nancy-Ville	123
+OCESN833618F1601636779	Gare de Epernay - Gare de Lunéville	165
+OCESN833652F0300336809	Gare de Epernay - Gare de Metz-Ville	117
+OCESN833661F0500536810	Gare de Lunéville - Gare de Toul	68
+OCESN834010F0800836812	Gare de Epinal - Gare de Metz-Ville	120
+OCESN834026F0600636832	Gare de Metz-Ville - Gare de Remiremont	135
+OCESN834351F0200236965	Gare de Metz-Ville - Gare de Sarrebourg	62
+OCESN834850F0100137008	Gare de Metz-Ville - Gare de Sarreguemines	62
+OCESN835010F0600637052	Gare de Nancy-Ville - Gare de Strasbourg	89
+OCESN835014F1001037069	Gare de Lunéville - Gare de Strasbourg	67
+OCESN835190F0400437220	Gare de Lunéville - Gare de Metz-Ville	73
+OCESN836352F0500537458	Gare de Nancy-Ville - Gare de Toul	23
+OCESN836402F0100137486	Gare de Culmont-Chalindrey - Gare de Vittel	49
+OCESN836404F1201237491	Gare de Paris-Est - Gare de Vittel	230
+OCESN838232F0400437701	Gare de Charleville-Mézières - Gare de Longuyon	60
+OCESN838234F0400437707	Gare de Charleville-Mézières - Gare de Thionville	96
+OCESN838340F0100137763	Gare de Champagne-Ardenne - Gare de Charleville-Mézières	71
+OCESN838342F0500537769	Gare de Champagne-Ardenne - Gare de Reims	12
+OCESN838501F0400437819	Gare de Château-Thierry - Gare de Reims	66
+OCESN839101F0100137930	Gare de Bar-le-Duc - Gare de Paris-Est	150
+OCESN839101F0300337926	Gare de Château-Thierry - Gare de Paris-Est	53
+OCESN839101F1001037925	Gare de Bar-le-Duc - Gare de Château-Thierry	95
+OCESN839106F1601637950	Gare de Châlons-en-Champagne - Gare de Paris-Est	101
+OCESN839106F1701737957	Gare de Paris-Est - Gare de St-Dizier	140
+OCESN839106F2002037956	Gare de Epernay - Gare de Paris-Est	84
+OCESN839130F0600638014	Gare de Château-Thierry - Gare de St-Dizier	85
+OCESN839131F1001038023	Gare de Paris-Est - Gare de Strasbourg	359
+OCESN839162F0500538088	Gare de Paris-Est - Gare de Sarrebourg	270
+OCESN839163F0200238094	Gare de Nancy-Ville - Gare de Paris-Est	199
+OCESN839163F0700738097	Gare de Bar-le-Duc - Gare de Strasbourg	158
+OCESN839400F0600638175	Gare de Paris-Est - Gare de Troyes	90
+OCESN839412F0300338207	Gare de Culmont-Chalindrey - Gare de Paris-Est	188
+OCESN839501F2102138232	Gare de Chaumont - Gare de Culmont-Chalindrey	33
+OCESN839505F2202238265	Gare de Chaumont - Gare de Paris-Est	145
+OCESN839550F5505538288	Gare de Mulhouse - Gare de Paris-Est	294
+OCESN839550F6106138292	Gare de Mulhouse - Gare de Troyes	182
+OCESN839552F3203238324	Gare de Chaumont - Gare de Mulhouse	137
+OCESN839553F4704738345	Gare de Belfort-Ville - Gare de Paris-Est	247
+OCESN839555F5005038379	Gare de Belfort-Ville - Gare de Troyes	163
+OCESN839556F5205238394	Gare de Longueville (S.-et-M.) - Gare de Mulhouse	234
+OCESN839558F3103138444	Gare de Belfort-Ville - Gare de Chaumont	105
+OCESN839584F2302338502	Gare de Dijon-Ville - Gare de Paris-Est	223
+OCESN839591F0300338525	Gare de Culmont-Chalindrey - Gare de Dijon-Ville	46
+OCESN839660F0200238611	Gare de Châlons-en-Champagne - Gare de Reims	44
+OCESN839710F0100138643	Gare de Reims - Gare de St-Dizier	93
+OCESN839800F0100138647	Gare de Culmont-Chalindrey - Gare de Reims	171
+OCESN839801F0100138650	Gare de Chaumont - Gare de Reims	130
+OCESN839802F0300338652	Gare de Culmont-Chalindrey - Gare de St-Dizier	89
+OCESN839831F0100138699	Gare de Dijon-Ville - Gare de Reims	216
+OCESN839831F0400438700	Gare de Dijon-Ville - Gare de St-Dizier	128
+OCESN839900F0300338718	Gare de Epernay - Gare de Reims	35
+OCESN840800F0400438804	Gare de Champagne-Ardenne - Gare de Sedan	105
+OCESN841500F0200239125	Gare de Aulnoye Aymeries - Gare de Valenciennes	29
+OCESN841500F0300339127	Gare de Maubeuge - Gare de Valenciennes	42
+OCESN841600F0300339165	Gare de Hirson - Gare de Valenciennes	90
+OCESN841700F0100139198	Gare de Busigny - Gare de Maubeuge	36
+OCESN841702F0200239200	Gare de Aulnoye Aymeries - Gare de Tergnier	71
+OCESN841704F0200239202	Gare de Aulnoye Aymeries - Gare de St Quentin	48
+OCESN841800F0700739230	Gare de Lille Flandres - Gare de Maubeuge	72
+OCESN841800F0800839231	Gare de Aulnoye Aymeries - Gare de Lille Flandres	60
+OCESN841802F0200239236	Gare de Jeumont - Gare de Lille Flandres	81
+OCESN841900F1201239356	Gare de Hirson - Gare de Lille Flandres	108
+OCESN841904F0800839366	Gare de Charleville-Mézières - Gare de Lille Flandres	146
+OCESN842401F0200239532	Gare de Béthune - Gare de Lille Flandres	39
+OCESN842600F0200239604	Gare de Calais Ville - Gare de Rang du Fl. Verton Ber.	68
+OCESN842606F0100139608	Gare de Calais Ville - Gare de Etaples Le Touquet	62
+OCESN843300F0100139861	Gare de Cambrai Ville - Gare de Douai	34
+OCESN843500F0300339917	Gare de Douai - Gare de Valenciennes	38
+OCESN843600F0100139940	Gare de Douai - Gare de Lens	31
+OCESN843800F0300340024	Gare de Lille Flandres - Gare de St Quentin	107
+OCESN843818F0400440034	Gare de Cambrai Ville - Gare de Lille Flandres	59
+OCESN843841F0200240067	Gare de Douai - Gare de St Quentin	93
+OCESN844051F0200240199	Gare de Lille Flandres - Gare de Tourcoing	14
+OCESN844400F0100140255	Gare de Boulogne Ville - Gare de Lille Europe	72
+OCESN844400F0200240254	Gare de Calais Ville - Gare de Lille Europe	49
+OCESN844401F0300340256	Gare de Arras - Gare de Calais Fréthun	67
+OCESN844402F0100140258	Gare de Lille Europe - Gare de Rang du Fl. Verton Ber.	94
+OCESN844404F0100140260	Gare de Calais Fréthun - Gare de Lille Europe	29
+OCESN844500F0200240278	Gare de Dunkerque - Gare de Lille Europe	31
+OCESN844550F0100140299	Gare de Amiens - Gare de Dunkerque	104
+OCESN844600F0300340301	Gare de Calais Ville - Gare de Dunkerque	50
+OCESN844702F0100140321	Gare de Dunkerque - Gare de Hazebrouck	36
+OCESN844800F0300340323	Gare de Lille Flandres - Gare de St Omer	50
+OCESN844810F0400440327	Gare de Calais Ville - Gare de Lille Flandres	75
+OCESN846400F0300340446	Gare de Arras - Gare de Hazebrouck	58
+OCESN846411F0200240449	Gare de Arras - Gare de Dunkerque	93
+OCESN846432F0200240474	Gare de Arras - Gare de Béthune	36
+OCESN846435F0300340477	Gare de Hazebrouck - Gare de Lens	42
+OCESN846449F0400440507	Gare de Béthune - Gare de Lens	17
+OCESN846540F0100140528	Gare de Arras - Gare de Calais Ville	123
+OCESN846607F0200240545	Gare de Hirson - Gare de Laon	51
+OCESN847401F0300340552	Gare de Beauvais-Gare-SNCF - Gare de Paris Gare du Nord	73
+OCESN847405F1901940554	Gare de Paris Gare du Nord - Gare de Persan-Beaumont	63
+OCESN847463F0100140680	Gare de Creil - Gare de Paris Gare du Nord	21
+OCESN847500F0200240694	Gare de Abancourt - Gare de Creil	103
+OCESN847502F0300340696	Gare de Abancourt - Gare de Beauvais-Gare-SNCF	48
+OCESN847802F0100140821	Gare de Compiègne - Gare de Paris Gare du Nord	56
+OCESN847877F0200240926	Gare de Compiègne - Gare de Creil	37
+OCESN847933F2102141026	Gare de Paris Gare du Nord - Gare de Tergnier	88
+OCESN847947F0200241054	Gare de Creil - Gare de St Quentin	104
+OCESN848348F0100141087	Gare de Abbeville - Gare de Albert	80
+OCESN848410F0300341123	Gare de Amiens - Gare de Compiègne	60
+OCESN848501F0200241178	Gare de Paris Gare du Nord - Gare de St-Just-SNCF	64
+OCESN848527F0400441270	Gare de Clermont-de-l'Oise - Gare de Paris Gare du Nord	50
+OCESN848601F0600641435	Gare de Amiens - Gare de Laon	84
+OCESN848603F0200241437	Gare de Laon - Gare de Tergnier	26
+OCESN848904F0700741615	Gare de Lille Flandres - Gare de Rouen-Rive-Droite	168
+OCESN848979F0100141662	Gare de Abancourt - Gare de Amiens	35
+OCESN849300F0400441671	Gare de Aulnoye Aymeries - Gare de Laon	111
+OCESN849900F0800841766	Gare de Laon - Gare de Paris Gare du Nord	90
+OCESN849901F0300341767	Gare de Crépy-en-Valois - Gare de Laon	69
+OCESN850016F0200241928	Gare de Paris-St-Lazare - Gare de Vernon-Giverny	60
+OCESN850021F0200241936	Gare de Oissel - Gare de Paris-St-Lazare	94
+OCESN850032F0200241937	Gare de Mantes-la-Jolie - Gare de Vernon-Giverny	17
+OCESN850200F0100141957	Gare de Le Havre - Gare de Montivilliers	15
+OCESN850250F0200241998	Gare de Le Havre - Gare de Rolleville	26
+OCESN850302F0100142015	Gare de Fécamp - Gare de Le Havre	46
+OCESN850400F0100142047	Gare de Le Havre - Gare de Rouen-Rive-Droite	61
+OCESN850600F0100142071	Gare de Elbeuf-St-Aubin - Gare de Yvetot	63
+OCESN850670F0200242112	Gare de Rouen-Rive-Droite - Gare de Yvetot	34
+OCESN851001F0100142116	Gare de Evreux - Normandie - Gare de Paris-St-Lazare	69
+OCESN851020F0100142181	Gare de Paris-St-Lazare - Gare de Serquigny	105
+OCESN851072F0100142240	Gare de Bueil - Gare de Mantes-la-Jolie	15
+OCESN851700F0100142346	Gare de Dieppe - Gare de Rouen-Rive-Droite	63
+OCESN852313F0100142557	Gare de Evreux - Normandie - Gare de Lisieux	52
+OCESN852331F0400442564	Gare de Caen - Gare de Lisieux	33
+OCESN852610F0100142760	Gare de Caen - Gare de Coutances	75
+OCESN852712F0300342815	Gare de Caen - Gare de St-Lô	51
+OCESN852808F0500542822	Gare de Caen - Gare de Dol	167
+OCESN852826F0200242830	Gare de Dol - Gare de Granville	59
+OCESN853016F0400442857	Gare de Argentan - Gare de Granville	83
+OCESN853412F0200242859	Gare de Caen - Gare de Granville	103
+OCESN853602F0200242937	Gare de Alençon - Gare de Caen	71
+OCESN853707F0400442957	Gare de Argentan - Gare de Caen	40
+OCESN854007F0300342962	Gare de Rennes - Gare de Retiers	42
+OCESN854008F0300342963	Gare de Janzé - Gare de Rennes	36
+OCESN854197F0400442993	Gare de Dol - Gare de Rennes	33
+OCESN854207F0500542994	Gare de Montreuil-sur-Ille - Gare de Rennes	30
+OCESN854300F0400443020	Gare de Rennes - Gare de St-Malo	55
+OCESN854610F0200243101	Gare de Lannion - Gare de Plouaret-Trégor	16
+OCESN855303F0200243328	Gare de Callac - Gare de Carhaix	26
+OCESN855347F0200243349	Gare de Callac - Gare de Guingamp	41
+OCESN855402F0200243370	Gare de Guingamp - Gare de Paimpol	47
+OCESN855504F0200243397	Gare de La Brohinière - Gare de Rennes	32
+OCESN855781F0200243600	Gare de Brest - Gare de Lannion	91
+OCESN855806F0400443615	Gare de Brest - Gare de Rennes	139
+OCESN856595F0400443896	Gare de Quimper - Gare de Vannes	86
+OCESN856608F0200243897	Gare de Quimper - Gare de Rennes	141
+OCESN857051F0200243996	Gare de Château-du-Loir - Gare de Le Mans	50
+OCESN857150F0200244042	Gare de Alençon - Gare de Le Mans	53
+OCESN857233F0400444058	Gare de Alençon - Gare de Tours	145
+OCESN857274F0200244064	Gare de Alençon - Gare de Château-du-Loir	106
+OCESN857301F0500544067	Gare de Le Mans - Gare de Nantes	94
+OCESN857301F0700744068	Gare de Angers-St-Laud - Gare de Nantes	43
+OCESN857375F0400444145	Gare de Le Croisic - Gare de Le Mans	177
+OCESN857404F0200244151	Gare de Angers-St-Laud - Gare de Le Mans	66
+OCESN857446F0100144211	Gare de Le Mans - Gare de Sablé-sur-Sarthe	22
+OCESN857653F0200244305	Gare de Laval - Gare de Rennes	55
+OCESN857690F0200244322	Gare de Le Mans - Gare de Rennes	103
+OCESN857704F0800844332	Gare de Laval - Gare de Nantes	101
+OCESN857773F0800844388	Gare de Le Croisic - Gare de Rennes	222
+OCESN858003F0200244403	Gare de Nantes - Gare de St-Nazaire	51
+OCESN858050F0200244427	Gare de Le Croisic - Gare de Nantes	74
+OCESN858202F0400444476	Gare de Nantes - Gare de Redon	58
+OCESN858244F0200244510	Gare de Nantes - Gare de Quimper	174
+OCESN858284F0200244568	Gare de Brest - Gare de Nantes	203
+OCESN858402F0200244643	Gare de Nantes - Gare de Savenay	34
+OCESN858703F0300344670	Gare de Nantes - Gare de Saumur	86
+OCESN858798F0200244675	Gare de Cholet - Gare de Saumur	85
+OCESN858800F0500544676	Gare de La Roche-sur-Yon - Gare de Nantes	55
+OCESN858850F0700744697	Gare de Les Sables-d'Olonne - Gare de Nantes	87
+OCESN859070F0200244785	Gare de Chantonnay - Gare de La Roche-sur-Yon	31
+OCESN859083F0200244796	Gare de Les Sables-d'Olonne - Gare de Saumur	158
+OCESN859198F0100144855	Gare de Nantes - Gare de Ste-Pazanne	32
+OCESN859252F0200244877	Gare de Nantes - Gare de Pornic	60
+OCESN859405F0300344948	Gare de Ancenis - Gare de Nantes	28
+OCESN859500F0200244971	Gare de Nantes - Gare de Sucé-Sur-Erdre	27
+OCESN859501F0200244972	Gare de Nantes - Gare de Nort-sur-Erdre	40
+OCESN859600F0200245047	Gare de Châteaubriant-TT - Gare de Nantes	67
+OCESN859745F0100145095	Gare de Clisson - Gare de Nantes	29
+OCESN860001F0300345164	Gare de Nantes - Gare de Orléans	170
+OCESN860003F1301345174	Gare de Le Croisic - Gare de Orléans	258
+OCESN860003F2102145170	Gare de Le Croisic - Gare de Tours	190
+OCESN860013F0800845188	Gare de Nantes - Gare de Tours	93
+OCESN860109F0200245198	Gare de Angers-St-Laud - Gare de Tours	78
+OCESN860129F0200245215	Gare de Saumur - Gare de Tours	51
+OCESN860158F0100145225	Gare de Thouars - Gare de Tours	78
+OCESN860171F0100145235	Gare de Bressuire - Gare de Tours	103
+OCESN860190F0200245245	Gare de Angers-St-Laud - Gare de Thouars	68
+OCESN860252F0400445259	Gare de Blois-Chambord - Gare de Orléans	49
+OCESN860297F0100145275	Gare de Orléans - Gare de St-Pierre-des-Corps	58
+OCESN860366F0300345299	Gare de Reignac - Gare de Tours	45
+OCESN860600F0200245368	Gare de Paris-Austerlitz - Gare de Vendôme	139
+OCESN860604F0200245369	Gare de Châteaudun - Gare de Paris-Austerlitz	95
+OCESN860610F0500545374	Gare de Châteaudun - Gare de Paris-Gare-de-Lyon	97
+OCESN860611F0700745377	Gare de Paris-Gare-de-Lyon - Gare de Vendôme	132
+OCESN860616F0600645387	Gare de Paris-Bercy - Gare de Vendôme	149
+OCESN860632F0200245401	Gare de Châteaudun - Gare de Voves	21
+OCESN860653F0200245410	Gare de Tours - Gare de Voves	137
+OCESN860701F0200245425	Gare de Bléré-la-Croix - Gare de Tours	28
+OCESN860716F0400445435	Gare de St-Aignan-Noyers - Gare de Tours	57
+OCESN860733F0600645446	Gare de Tours - Gare de Vierzon	87
+OCESN860800F0300345460	Gare de Bourges - Gare de Tours	110
+OCESN860840F0400445478	Gare de Nevers - Gare de Tours	146
+OCESN860988F0100145504	Gare de Saumur - Gare de Thouars	30
+OCESN861111F0500545516	Gare de Montluçon-Ville - Gare de Vallon-en-Sully	31
+OCESN861112F0500545519	Gare de Commentry - Gare de Vallon-en-Sully	47
+OCESN861112F0600645518	Gare de Commentry - Gare de St-Amand-Montrond-Orval	98
+OCESN861116F0500545525	Gare de Bourges - Gare de Commentry	121
+OCESN861290F0200245558	Gare de Salbris - Gare de Valençay	87
+OCESN861302F0200245560	Gare de Bourges - Gare de Orléans	73
+OCESN861304F0400445562	Gare de Orléans - Gare de Vierzon	51
+OCESN861363F0800845597	Gare de Nevers - Gare de Orléans	132
+OCESN861391F1701745615	Gare de Nevers - Gare de Vierzon	69
+OCESN861404F0500545624	Gare de Argenton-sur-Creuse - Gare de Orléans	117
+OCESN861410F0700745625	Gare de Châteauroux - Gare de Orléans	95
+OCESN861430F0100145665	Gare de Limoges-Bénédictins - Gare de Orléans	203
+OCESN861452F0100145681	Gare de Limoges-Bénédictins - Gare de Vierzon	129
+OCESN861464F0800845697	Gare de Argenton-sur-Creuse - Gare de Limoges-Bénédictins	74
+OCESN862303F0200245752	Gare de Chartres - Gare de Voves	23
+OCESN862531F0300345943	Gare de Angers-St-Laud - Gare de Chartres	163
+OCESN863031F0200245966	Gare de Poitiers - Gare de Tours	74
+OCESN863442F0100146049	Gare de Niort - Gare de Poitiers	59
+OCESN863442F0200246048	Gare de La Rochelle-Ville - Gare de Poitiers	100
+OCESN863466F0100146088	Gare de La Rochelle-Ville - Gare de Niort	44
+OCESN863720F0200246099	Gare de La Roche-sur-Yon - Gare de Tours	199
+OCESN864000F0100146109	Gare de La Rochelle-Ville - Gare de Rochefort	30
+OCESN864200F0200246146	Gare de Bordeaux-St-Jean - Gare de Saintes	99
+OCESN864322F0100146152	Gare de Royan - Gare de Saintes	26
+OCESN864622F0100146207	Gare de Angoulême - Gare de La-Rochelle-Pt-Dauphine	138
+OCESN864623F0300346208	Gare de Angoulême - Gare de La Rochelle-Ville	126
+OCESN864800F0200246244	Gare de Bordeaux-St-Jean - Gare de La-Rochelle-Pt-Dauphine	164
+OCESN864801F0100146250	Gare de Bordeaux-St-Jean - Gare de La Rochelle-Ville	162
+OCESN865010F0400446288	Gare de Angoulême - Gare de Bordeaux-St-Jean	89
+OCESN865040F0400446302	Gare de Bordeaux-St-Jean - Gare de Libourne	35
+OCESN865060F0300346320	Gare de Angoulême - Gare de Coutras	55
+OCESN865071F0400446323	Gare de Bordeaux-St-Jean - Gare de Coutras	47
+OCESN865101F0100146345	Gare de Bordeaux-St-Jean - Gare de St-Mariens-St-Yzan	43
+OCESN865202F0100146375	Gare de Bordeaux-St-Jean - Gare de Brive-la-Gaillarde	143
+OCESN865202F0400446374	Gare de Bordeaux-St-Jean - Gare de Périgueux	82
+OCESN865202F0600646373	Gare de Bordeaux-St-Jean - Gare de Condat-le-Lardin	121
+OCESN865250F0300346387	Gare de Bordeaux-St-Jean - Gare de Tulle	193
+OCESN865411F0300346422	Gare de Condat-le-Lardin - Gare de Périgueux	34
+OCESN865450F0200246451	Gare de Mussidan - Gare de Périgueux	30
+OCESN865550F0200246458	Gare de Bordeaux-St-Jean - Gare de Limoges-Bénédictins	145
+OCESN865601F0200246483	Gare de Bergerac - Gare de Bordeaux-St-Jean	76
+OCESN865702F0100146517	Gare de Bordeaux-St-Jean - Gare de Sarlat	144
+OCESN865706F0400446519	Gare de Bordeaux-St-Jean - Gare de Le Buisson	110
+OCESN865800F0100146551	Gare de Le Buisson - Gare de Périgueux	53
+OCESN865818F0100146562	Gare de Agen - Gare de Limoges-Bénédictins	216
+OCESN865820F0200246565	Gare de Monsempron-Libos - Gare de Périgueux	104
+OCESN866021F0500546607	Gare de Bordeaux-St-Jean - Gare de Morcenx	60
+OCESN866102F0300346631	Gare de Bordeaux-St-Jean - Gare de Pauillac	59
+OCESN866104F0300346633	Gare de Lesparre - Gare de Pessac	72
+OCESN866171F0200246664	Gare de Bordeaux-St-Jean - Gare de Macau	41
+OCESN866173F0200246665	Gare de Macau - Gare de Pessac	34
+OCESN866300F0200246689	Gare de Arcachon - Gare de Bordeaux-St-Jean	52
+OCESN866323F0700746709	Gare de Biganos-Facture - Gare de Bordeaux-St-Jean	29
+OCESN866411F0400446745	Gare de Bordeaux-St-Jean - Gare de Hendaye	178
+OCESN866506F0200246772	Gare de Bayonne - Gare de Dax	44
+OCESN866516F0300346778	Gare de Bayonne - Gare de Hendaye	37
+OCESN866832F0200246845	Gare de Agen - Gare de Marmande	36
+OCESN866860F0300346854	Gare de Bordeaux-St-Jean - Gare de Marmande	67
+OCESN866882F0300346861	Gare de Agen - Gare de Langon	69
+OCESN867002F0400446865	Gare de Bayonne - Gare de Tarbes	145
+OCESN867168F0100146889	Gare de Bordeaux-St-Jean - Gare de Pau	132
+OCESN867180F0300346891	Gare de Bordeaux-St-Jean - Gare de Tarbes	188
+OCESN867212F0300346894	Gare de Bordeaux-St-Jean - Gare de Lourdes	174
+OCESN868003F0500546986	Gare de Le Dorat - Gare de Poitiers	60
+OCESN868101F0100147043	Gare de Limoges-Bénédictins - Gare de St-Junien	38
+OCESN868301F0100147111	Gare de Limoges-Bénédictins - Gare de St-Yrieix-la-Perche	39
+OCESN868650F0100147258	Gare de Eymoutiers-Vassiviere - Gare de Limoges-Bénédictins	45
+OCESN868701F0100147264	Gare de Limoges-Bénédictins - Gare de Montluçon-Ville	131
+OCESN868710F0100147271	Gare de Felletin-Gare - Gare de Guéret	52
+OCESN868800F0200247299	Gare de Bordeaux-St-Jean - Gare de Montluçon-Ville	259
+OCESN868800F0700747298	Gare de Bordeaux-St-Jean - Gare de Guéret	208
+OCESN868812F0100147316	Gare de Bordeaux-St-Jean - Gare de Ussel	262
+OCESN868819F0100147320	Gare de Périgueux - Gare de Ussel	169
+OCESN869001F1001047334	Gare de La Souterraine - Gare de Limoges-Bénédictins	47
+OCESN869010F0100147342	Gare de Châteauroux - Gare de Limoges-Bénédictins	86
+OCESN870000F0200247406	Gare de Rodez - Gare de Toulouse-Matabiau	137
+OCESN870003F0700747411	Gare de Carmaux - Gare de Toulouse-Matabiau	76
+OCESN870150F0900947472	Gare de Brive-la-Gaillarde - Gare de Rodez	145
+OCESN870321F0400447545	Gare de Colomiers - Gare de Toulouse-Matabiau	22
+OCESN870405F0800847554	Gare de L'Isle-Jourdain (Gers) - Gare de Saint-Cyprien-Arènes	33
+OCESN870500F0200247569	Gare de Colomiers - Gare de Saint-Cyprien-Arènes	13
+OCESN870604F0300347622	Gare de Carcassonne - Gare de Toulouse-Matabiau	74
+OCESN871201F0300347639	Gare de Capdenac - Gare de Toulouse-Matabiau	137
+OCESN871202F0600647641	Gare de Tessonnières - Gare de Toulouse-Matabiau	53
+OCESN871206F0700747650	Gare de Aurillac - Gare de Clermont-Ferrand	152
+OCESN871209F0900947657	Gare de Arvant - Gare de Clermont-Ferrand	47
+OCESN871405F0700747674	Gare de Pamiers - Gare de Toulouse-Matabiau	57
+OCESN871470F0400447721	Gare de Latour-de-Carol-Enveitg - Gare de Toulouse-Matabiau	174
+OCESN871470F0700747720	Gare de Foix - Gare de Latour-de-Carol-Enveitg	105
+OCESN871600F0500547750	Gare de Brive-la-Gaillarde - Gare de Toulouse-Matabiau	147
+OCESN871601F0100147754	Gare de Cahors - Gare de Toulouse-Matabiau	74
+OCESN871604F0300347759	Gare de Montauban-Ville-Bourbon - Gare de Toulouse-Matabiau	43
+OCESN871608F0400447764	Gare de Brive-la-Gaillarde - Gare de Cahors	66
+OCESN871800F0300347799	Gare de Agen - Gare de Toulouse-Matabiau	81
+OCESN872404F0600647877	Gare de St-Sulpice (Tarn) - Gare de Toulouse-Matabiau	24
+OCESN872600F0500547912	Gare de Muret - Gare de Toulouse-Matabiau	19
+OCESN872602F0800847916	Gare de Boussens - Gare de Toulouse-Matabiau	58
+OCESN872613F0700747941	Gare de Montréjeau-Gourdan-Pol. - Gare de Toulouse-Matabiau	86
+OCESN872701F1901947979	Gare de Tarbes - Gare de Toulouse-Matabiau	109
+OCESN873245F0200248171	Gare de Clermont-Ferrand - Gare de Durtol-Nohanent	13
+OCESN873351F0900948230	Gare de Clermont-Ferrand - Gare de St-Germain-des-Fossés	40
+OCESN873352F0500548231	Gare de Clermont-Ferrand - Gare de Nevers	106
+OCESN873600F0200248257	Gare de Clermont-Ferrand - Gare de Vic-le-Comte	21
+OCESN873650F0800848273	Gare de Brioude - Gare de Clermont-Ferrand	67
+OCESN873664F0500548280	Gare de Clermont-Ferrand - Gare de Issoire	40
+OCESN873813F0200248332	Gare de Clermont-Ferrand - Gare de Le Lioran	111
+OCESN873921F0400448351	Gare de Brive-la-Gaillarde - Gare de Neussargues	168
+OCESN873990F0300348362	Gare de Clermont-Ferrand - Gare de Nîmes	307
+OCESN874002F1201248372	Gare de Nevers - Gare de Vic-le-Comte	124
+OCESN874002F1901948373	Gare de Moulins-sur-Allier - Gare de Vic-le-Comte	92
+OCESN874009F0900948388	Gare de St-Germain-des-Fossés - Gare de Vic-le-Comte	66
+OCESN874108F0500548392	Gare de Issoire - Gare de Moulins-sur-Allier	113
+OCESN874110F0400448395	Gare de Issoire - Gare de Riom-Châtel-Guyon	57
+OCESN874111F0300348396	Gare de Riom-Châtel-Guyon - Gare de Vic-le-Comte	38
+OCESN874123F0400448401	Gare de Issoire - Gare de St-Germain-des-Fossés	88
+OCESN874130F0500548407	Gare de Gannat - Gare de Issoire	81
+OCESN874131F0500548409	Gare de Gannat - Gare de Vic-le-Comte	66
+OCESN874210F0300348410	Gare de Brioude - Gare de Gannat	100
+OCESN874221F0800848412	Gare de Brioude - Gare de Moulins-sur-Allier	149
+OCESN875500F1101148421	Gare de Clermont-Ferrand - Gare de Dijon-Ville	260
+OCESN875500F1801848422	Gare de Dijon-Ville - Gare de Moulins-sur-Allier	178
+OCESN875700F0900948434	Gare de Clermont-Ferrand - Gare de Lyon-Perrache	171
+OCESN876100F0200248467	Gare de Narbonne - Gare de Perpignan	46
+OCESN876102F0300348469	Gare de Lunel - Gare de Narbonne	100
+OCESN876108F0200248476	Gare de Montpellier-Saint-Roch - Gare de Narbonne	71
+OCESN876119F0200248477	Gare de Cerbère - Gare de Narbonne	87
+OCESN876121F0200248480	Gare de Montpellier-Saint-Roch - Gare de Perpignan	130
+OCESN876204F0500548493	Gare de Nîmes - Gare de Toulouse-Matabiau	210
+OCESN876204F0800848490	Gare de Montpellier-Saint-Roch - Gare de Toulouse-Matabiau	176
+OCESN876216F0200248506	Gare de Carcassonne - Gare de Narbonne	36
+OCESN876224F0100148510	Gare de Carcassonne - Gare de Nîmes	140
+OCESN876250F0700748513	Gare de Perpignan - Gare de Toulouse-Matabiau	154
+OCESN876252F0300348519	Gare de Cerbère - Gare de Toulouse-Matabiau	199
+OCESN876254F0100148527	Gare de Carcassonne - Gare de Perpignan	91
+OCESN876301F1301348553	Gare de Avignon-Centre - Gare de Sète	109
+OCESN876301F1401448555	Gare de Montpellier-Saint-Roch - Gare de Nîmes	43
+OCESN876302F0600648557	Gare de Avignon-Centre - Gare de Montpellier-Saint-Roch	76
+OCESN876304F1501548566	Gare de Avignon-Centre - Gare de Narbonne	144
+OCESN876309F0400448572	Gare de Nîmes - Gare de Sète	66
+OCESN876330F0400448600	Gare de Lunel - Gare de Sète	54
+OCESN876334F0100148601	Gare de Montpellier-Saint-Roch - Gare de Sète	23
+OCESN876335F0200248602	Gare de Lunel - Gare de Montpellier-Saint-Roch	20
+OCESN876400F0300348616	Gare de Avignon-Centre - Gare de Nîmes	37
+OCESN876401F0900948621	Gare de Nîmes - Gare de Perpignan	160
+OCESN876405F2202248643	Gare de Narbonne - Gare de Nîmes	98
+OCESN876406F1001048646	Gare de Cerbère - Gare de Nîmes	197
+OCESN876407F0400448657	Gare de Avignon-Centre - Gare de Perpignan	196
+OCESN876408F2502548664	Gare de Avignon-Centre - Gare de Cerbère	238
+OCESN876530F0900948772	Gare de Béziers - Gare de Marseille-St-Charles	171
+OCESN876532F2102148779	Gare de Marseille-St-Charles - Gare de Narbonne	188
+OCESN876542F3003048800	Gare de Marseille-St-Charles - Gare de Montpellier-Saint-Roch	119
+OCESN876604F0700748840	Gare de Cerbère - Gare de Montpellier-Saint-Roch	154
+OCESN877500F0400448869	Gare de Génolhac - Gare de Nîmes	77
+OCESN877527F0600648902	Gare de La Bastide-St-Laurent - Gare de Nîmes	114
+OCESN877550F0600648916	Gare de Nîmes - Gare de Vauvert	24
+OCESN878950F0500548989	Gare de Béziers - Gare de St-Chély-d'Apcher	244
+OCESN878950F0700748990	Gare de Béziers - Gare de Millau	117
+OCESN878956F0200248993	Gare de Millau - Gare de St-Chély-d'Apcher	111
+OCESN878969F0400449003	Gare de Montpellier-Saint-Roch - Gare de St-Chély-d'Apcher	297
+OCESN879102F0300349012	Gare de Marseille-St-Charles - Gare de Miramas	33
+OCESN879218F0200249021	Gare de Avignon-Centre - Gare de Orange	26
+OCESN879301F0200249023	Gare de Avignon-Centre - Gare de Avignon-TGV	5
+OCESN879302F0200249024	Gare de Avignon-Centre - Gare de Carpentras	28
+OCESN879305F0200249030	Gare de Avignon-TGV - Gare de Carpentras	41
+OCESN879606F1001049186	Gare de Avignon-TGV - Gare de Marseille-St-Charles	133
+OCESN879660F0100149261	Gare de Cavaillon - Gare de Marseille-St-Charles	70
+OCESN880106F0500549348	Gare de Gardanne - Gare de Marseille-St-Charles	36
+OCESN880670F0200249467	Gare de Aix-en-Provence - Gare de Manosque-Gréoux	45
+OCESN880671F0300349469	Gare de Manosque-Gréoux - Gare de Marseille-St-Charles	95
+OCESN881005F0400449474	Gare de Aubagne - Gare de Marseille-St-Charles	31
+OCESN881060F0300349503	Gare de Aubagne - Gare de Marseille-Blancarde	22
+OCESN881106F0100149530	Gare de Cannes - Gare de Menton	69
+OCESN881139F0200249555	Gare de Antibes - Gare de Grasse	41
+OCESN881251F0300349560	Gare de Cannes - Gare de Les Arcs-Draguignan	55
+OCESN881270F0200249568	Gare de Cannes - Gare de St-Raphaël-Valescure	38
+OCESN881600F0100149625	Gare de Hyères - Gare de Marseille-St-Charles	84
+OCESN881646F0500549709	Gare de Hyères - Gare de Toulon	21
+OCESN881652F0300349716	Gare de Les Arcs-Draguignan - Gare de Toulon	60
+OCESN881669F0500549733	Gare de Carnoules - Gare de Toulon	31
+OCESN881751F0500549749	Gare de Marseille-St-Charles - Gare de Menton	205
+OCESN882103F0200249751	Gare de Ambérieu-en-Bugey - Gare de Mâcon-Ville	54
+OCESN882106F0200249754	Gare de Ambérieu-en-Bugey - Gare de Bourg-en-Bresse	23
+OCESN882110F0200249756	Gare de Bourg-en-Bresse - Gare de Mâcon-Ville	29
+OCESN883103F0400449775	Gare de Chambéry-Chal.-les-Eaux - Gare de Moûtiers-Salins-Brides	80
+OCESN883115F0400449778	Gare de Aix-les-Bains-le-Revard - Gare de Bourg-St-Maurice	129
+OCESN883600F0200249926	Gare de Ambérieu-en-Bugey - Gare de Chambéry-Chal.-les-Eaux	73
+OCESN883701F0200249938	Gare de Chambéry-Chal.-les-Eaux - Gare de Grenoble	53
+OCESN884117F0300349977	Gare de Annecy - Gare de St-Gervais-L-B-Le-Fayet	97
+OCESN884608F0700750018	Gare de Bellegarde-s-V. Gare - Gare de La Roche-sur-Foron	65
+OCESN885100F0300350078	Gare de Grenoble U.-Gières - Gare de Valence-Ville	97
+OCESN885103F0200250079	Gare de Grenoble U.-Gières - Gare de St-Marcellin	53
+OCESN885104F0200250080	Gare de St-Marcellin - Gare de Valence-Ville	39
+OCESN885111F0200250083	Gare de Grenoble - Gare de St-Marcellin	40
+OCESN885401F0500550114	Gare de Grenoble U.-Gières - Gare de Rives	43
+OCESN885409F0200250117	Gare de Grenoble U.-Gières - Gare de St-André-le-Gaz	69
+OCESN885413F0400450120	Gare de Grenoble - Gare de St-André-le-Gaz	62
+OCESN885456F0400450135	Gare de Grenoble - Gare de Rives	30
+OCESN885601F0200250144	Gare de Gap - Gare de Grenoble	181
+OCESN885601F0300350143	Gare de Clelles-Mens - Gare de Grenoble	71
+OCESN885605F0600650145	Gare de Grenoble - Gare de Veynes-Dévoluy	134
+OCESN885735F0600650201	Gare de Chambéry-Chal.-les-Eaux - Gare de Rives	90
+OCESN886003F0300350227	Gare de Lyon-Part-Dieu - Gare de Mâcon-Ville	62
+OCESN886007F0300350228	Gare de Lyon-Perrache - Gare de Mâcon-Ville	60
+OCESN886102F0200250248	Gare de Lyon-Perrache - Gare de Valence-Ville	70
+OCESN886105F0200250254	Gare de Lyon-Part-Dieu - Gare de Valence-Ville	71
+OCESN886111F0300350266	Gare de Mâcon-Ville - Gare de Valence-Ville	138
+OCESN886170F0500550345	Gare de Marseille-St-Charles - Gare de Valence-Ville	145
+OCESN886172F0400450353	Gare de Mâcon-Ville - Gare de Pierrelatte	189
+OCESN886174F0700750356	Gare de Avignon-Centre - Gare de Mâcon-Ville	235
+OCESN886175F0700750362	Gare de Avignon-Centre - Gare de Valence-Ville	89
+OCESN886176F0600650366	Gare de Avignon-Centre - Gare de Lyon-Perrache	168
+OCESN886201F0600650414	Gare de Firminy - Gare de Lyon-Perrache	82
+OCESN886201F1001050412	Gare de Firminy - Gare de St-Etienne-Châteaucreux	22
+OCESN886233F0700750473	Gare de Lyon-Perrache - Gare de St-Etienne-Châteaucreux	55
+OCESN886295F0200250552	Gare de Givors-Ville - Gare de Lyon-Perrache	25
+OCESN886401F0200250553	Gare de Bourg-en-Bresse - Gare de Oyonnax	53
+OCESN886407F0600650559	Gare de Lyon-Perrache - Gare de Oyonnax	130
+OCESN886415F0100150564	Gare de Bourg-en-Bresse - Gare de Lyon-Perrache	65
+OCESN886461F0200250566	Gare de Bourg-en-Bresse - Gare de Lyon-Part-Dieu	42
+OCESN886602F0100150569	Gare de Lyon-Perrache - Gare de Roanne	89
+OCESN886700F0500550628	Gare de Ambérieu-en-Bugey - Gare de St-Etienne-Châteaucreux	97
+OCESN886702F0800850635	Gare de Ambérieu-en-Bugey - Gare de Givors-Ville	64
+OCESN886710F0800850648	Gare de Lyon-Part-Dieu - Gare de St-Etienne-Châteaucreux	46
+OCESN886710F1501550647	Gare de Givors-Ville - Gare de Lyon-Part-Dieu	17
+OCESN886726F0900950677	Gare de Ambérieu-en-Bugey - Gare de Lyon-Part-Dieu	41
+OCESN886900F0200250872	Gare de Roanne - Gare de St-Etienne-Châteaucreux	73
+OCESN887101F0200250909	Gare de Lyon-Perrache - Gare de Vienne	34
+OCESN887102F0200250910	Gare de Vienne - Gare de Villefranche-sur-Saône	74
+OCESN887103F0300350911	Gare de Mâcon-Ville - Gare de Vienne	98
+OCESN887103F0400450912	Gare de Lyon-Perrache - Gare de Villefranche-sur-Saône	36
+OCESN887300F0400450987	Gare de Lyon-Perrache - Gare de St-André-le-Gaz	56
+OCESN887302F0400450989	Gare de Bourgoin-Jallieu - Gare de Lyon-Perrache	37
+OCESN889200F0300351037	Gare de Die - Gare de Romans-Bourg-de-Péage	83
+OCESN889409F1001051050	Gare de Lyon-Perrache - Gare de Sathonay-Rillieux	19
+OCESN889901F0200251142	Gare de Montbrison - Gare de St-Etienne-Châteaucreux	40
+OCESN889905F0200251146	Gare de Boën - Gare de St-Etienne-Châteaucreux	53
+OCESN889950F0200251173	Gare de Le Puy-en-Velay - Gare de St-Etienne-Châteaucreux	113
+OCESN889990F0200251219	Gare de Bas-Monistrol - Gare de St-Etienne-Châteaucreux	55
+OCESN890000F0200251226	Gare de Lyon-St-Paul - Gare de Sain-Bel	42
+OCESN890004F0200251230	Gare de L'Arbresle - Gare de Lyon-St-Paul	37
+OCESN890200F0200251308	Gare de Lozanne - Gare de Tassin	25
+OCESN890300F0200251328	Gare de Brignais - Gare de Lyon-St-Paul	25
+OCESN891000F0800851371	Gare de Laroche-Migennes - Gare de Paris-Gare-de-Lyon	125
+OCESN891003F1001051378	Gare de Montereau - Gare de Paris-Gare-de-Lyon	57
+OCESN891024F0400451438	Gare de Laroche-Migennes - Gare de Paris-Bercy	124
+OCESN891200F0900951550	Gare de Corbigny - Gare de Paris-Bercy	213
+OCESN891200F2202251554	Gare de Corbigny - Gare de Paris-Gare-de-Lyon	215
+OCESN891204F1201251557	Gare de Auxerre-St-Gervais - Gare de Paris-Bercy	105
+OCESN891204F2002051567	Gare de Clamecy - Gare de Paris-Bercy	165
+OCESN891204F2702751556	Gare de Clamecy - Gare de Paris-Gare-de-Lyon	159
+OCESN891206F0800851575	Gare de Avallon - Gare de Paris-Bercy	158
+OCESN891206F1501551577	Gare de Avallon - Gare de Paris-Gare-de-Lyon	160
+OCESN891221F0700751602	Gare de Auxerre-St-Gervais - Gare de Paris-Gare-de-Lyon	119
+OCESN891350F0600651732	Gare de Auxerre-St-Gervais - Gare de Dijon-Ville	114
+OCESN891400F0200251766	Gare de Chalon-sur-Saône - Gare de Dijon-Ville	43
+OCESN891751F0300351843	Gare de Is-sur-Tille - Gare de Les Laumes-Alésia	76
+OCESN891800F0500551854	Gare de Bourg-en-Bresse - Gare de Dijon-Ville	102
+OCESN891981F0400451902	Gare de Chalon-sur-Saône - Gare de Mâcon-Ville	39
+OCESN892400F0200251922	Gare de Corbigny - Gare de Laroche-Migennes	113
+OCESN893003F0700751967	Gare de Dijon-Ville - Gare de Montchanin	45
+OCESN893009F0900951979	Gare de Dijon-Ville - Gare de Le Creusot	53
+OCESN893020F0300352003	Gare de Autun - Gare de Dijon-Ville	91
+OCESN893051F0300352024	Gare de Chalon-sur-Saône - Gare de Montchanin	39
+OCESN893080F0200252057	Gare de Etang - Gare de Montchanin	30
+OCESN893201F0300352115	Gare de Autun - Gare de Nevers	94
+OCESN893301F0200252132	Gare de Montchanin - Gare de Paray-le-Monial	43
+OCESN893610F0300352155	Gare de Decize - Gare de Moulins-sur-Allier	75
+OCESN893750F0200252161	Gare de Cosne-sur-Loire - Gare de Nevers	48
+OCESN893760F0400452179	Gare de Cosne-sur-Loire - Gare de Decize	89
+OCESN894000F0300352200	Gare de Belfort-Ville - Gare de Besançon-Viotte	71
+OCESN894200F0500552239	Gare de Dijon-Ville - Gare de Dole-Ville	28
+OCESN894602F0200252398	Gare de Belfort-Ville - Gare de Epinal	92
+OCESN894831F0200252407	Gare de Belfort-Ville - Gare de Montbéliard-Ville	15
+OCESN895000F0400452425	Gare de Delle - Gare de Meroux	17
+OCESN895225F0300352479	Gare de Besançon-Mouillère - Gare de Le Valdahon	43
+OCESN895302F0400452484	Gare de Besançon-Mouillère - Gare de Morteau	82
+OCESN895522F0200252510	Gare de Besançon-Viotte - Gare de Saint-Claude	148
+OCESN895702F0500552519	Gare de Dole-Ville - Gare de Pontarlier	75
+OCESN895714F0600652522	Gare de Andelot - Gare de Dole-Ville	41
+OCESN895800F0500552541	Gare de Besançon-Viotte - Gare de Lyon-Perrache	176
+OCESN895800F1401452539	Gare de Lyon-Part-Dieu - Gare de Mouchard	128
+OCESN895800F1701752543	Gare de Besançon-Viotte - Gare de Lyon-Part-Dieu	159
+OCESN895802F0700752546	Gare de Lyon-Perrache - Gare de Mouchard	139
+OCESN895819F0300352564	Gare de Besançon-Viotte - Gare de Bourg-en-Bresse	118
+OCESN895820F0900952566	Gare de Belfort-Ville - Gare de Lyon-Part-Dieu	230
+OCESN895820F1801852568	Gare de Belfort-Ville - Gare de Bourg-en-Bresse	186
+OCESN895822F0500552575	Gare de Belfort-Ville - Gare de Lyon-Perrache	244
+OCESN895830F0200252600	Gare de Lons-le-Saunier - Gare de Lyon-Perrache	103
+OCESN895880F0500552634	Gare de Belfort-Ville - Gare de Lons-le-Saunier	144
+OCESN895940F0200252654	Gare de Besançon-Viotte - Gare de Lons-le-Saunier	89
+OCESN895942F0900952655	Gare de Bourg-en-Bresse - Gare de Mouchard	81

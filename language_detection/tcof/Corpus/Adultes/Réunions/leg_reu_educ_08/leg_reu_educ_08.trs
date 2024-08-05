@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="" audio_filename="leg_reu_educ_08.wav" version="11" version_date="131019">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk4" name="L4" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk5" name="L5" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk6" name="L6" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk7" name="L7" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk8" name="LX" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="901.464">
+      <Turn speaker="spk1" startTime="-0.0" endTime="10.27">
+        <Sync time="0.0" />
+        le bilan de ¤P1¤ allez
+        <Event desc="bruit de microphone" type="noise" extent="instantaneous" />
+        stagiaire euh longue durée euh puis pour la première fois euh
+        <Sync time="7.435" />
+        <Event desc="pause" type="noise" extent="instantaneous"/> indemnisée rémunérée
+      </Turn>
+      <Turn speaker="spk8" startTime="10.27" endTime="13.539">
+        <Sync time="10.27" />
+        hum &lt; <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+        <Event desc="conversation annexe entre plusieurs locuteurs" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="13.539" endTime="18.495">
+        <Sync time="13.539" />
+        de &gt; deux euros quatre-vingt
+        <Sync time="15.274" />
+        de l'heure euh
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        hein c'est énorme
+      </Turn>
+      <Turn speaker="spk2" startTime="18.495" endTime="18.742">
+        <Sync time="18.495" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="18.742" endTime="22.943">
+        <Sync time="18.742" />
+        mais c'est pas mal hein quand même
+        <Event desc="conversation de fond" type="noise" extent="instantaneous" />
+        c'est un début naturel <Event desc="pause" type="noise" extent="instantaneous"/> il y en a qui ont
+      </Turn>
+      <Turn speaker="spk3" startTime="22.943" endTime="23.917">
+        <Sync time="22.943" />
+        qui ont rien
+      </Turn>
+      <Turn speaker="spk1" startTime="23.917" endTime="24.278">
+        <Sync time="23.917" />
+        oui oui
+      </Turn>
+      <Turn speaker="spk3" startTime="24.278" endTime="25.132">
+        <Sync time="24.278" />
+        il y en a qui n'ont rien &lt; du tout
+      </Turn>
+      <Turn speaker="spk1" startTime="25.132" endTime="26.279">
+        <Sync time="25.132" />
+        on en alloue &gt; une depuis quatre mois
+      </Turn>
+      <Turn speaker="spk4" startTime="26.279" endTime="32.188">
+        <Sync time="26.279" />
+        ben nous tous hein je veux dire même antérieurement
+        <Event desc="conversation entre plusieurs locuteurs" type="noise" extent="instantaneous" />
+        <Sync time="29.339" />
+        c'est dommage que c'est pas rétroactif hein parce qu' &lt; autrement
+      </Turn>
+      <Turn speaker="spk1" startTime="32.188" endTime="37.065">
+        <Sync time="32.188" />
+        allez &gt; euh un petit point un petit point point presqu' à mi-parcours là hein
+      </Turn>
+      <Turn speaker="spk2" startTime="37.065" endTime="37.743">
+        <Sync time="37.065" />
+        euh ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="37.743" endTime="38.17">
+        <Sync time="37.743" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="38.17" endTime="38.671">
+        <Sync time="38.17" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="38.671" endTime="47.589">
+        <Sync time="38.671" />
+        hein alors c'est vrai que tu es que tu es la pas la seule stagiaire
+        <Sync time="43.226" />
+        mais on a un peu moins de stagiaires que les autres années l'an dernier à l'époque on en avait
+        <Sync time="46.544" />
+        euh quatre
+      </Turn>
+      <Turn speaker="spk4" startTime="47.589" endTime="49.801">
+        <Sync time="47.589" />
+        mais on (n') a pas de sous &lt; alors euh
+      </Turn>
+      <Turn speaker="spk1" startTime="49.801" endTime="50.304">
+        <Sync time="49.801" />
+        là tu es &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="50.304" endTime="50.804">
+        <Sync time="50.304" />
+        on limite
+      </Turn>
+      <Turn speaker="spk1" startTime="50.804" endTime="62.06">
+        <Sync time="50.804" />
+        tu essuies un peu les plâtres euh de la réforme du diplôme d'éducatrice spécialisée
+        <Sync time="55.333" />
+        et dieu merci avec les <Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/> te rejoindre ça sera ça sera tout de suite mieux
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        <Sync time="59.58" />
+        allez ¤P2¤ on t'écoute
+      </Turn>
+      <Turn speaker="spk2" startTime="62.06" endTime="63.299">
+        <Sync time="62.06" />
+        donc euh
+      </Turn>
+      <Turn speaker="spk1" startTime="63.299" endTime="63.988">
+        <Sync time="63.299" />
+        n'aie pas peur
+      </Turn>
+      <Turn speaker="spk2" startTime="63.988" endTime="77.909">
+        <Sync time="63.988" />
+        moi par rapport aux usagers j'ai noté que euh qu'aux yeux des adolescents
+        <Sync time="68.609" />
+        je pensais maintenant enfin je pense faire partie euh de l'équipe
+        <Sync time="72.502" />
+        euh ils parce qu'ils viennent me voir autant que autant que les autres
+      </Turn>
+      <Turn speaker="spk1" startTime="77.909" endTime="80.387">
+        <Sync time="77.909" />
+        ¤P2¤ les usagers c'est les usagers &lt; l'équipe c'est
+      </Turn>
+      <Turn speaker="spk2" startTime="80.387" endTime="80.864">
+        <Sync time="80.387" />
+        oui c'est exact &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="80.864" endTime="82.13">
+        <Sync time="80.864" />
+        euh c'est c'est l'équipe
+      </Turn>
+      <Turn speaker="spk2" startTime="82.13" endTime="82.755">
+        <Sync time="82.13" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="82.755" endTime="92.904">
+        <Sync time="82.755" />
+        donc il faut que tu que tu te dises toi je me situe là ou là
+        <Sync time="87.122" />
+        hein soit tu soit tu es dans le regard de l'usager soit tu es dans le regard de l'équipe
+      </Turn>
+      <Turn speaker="spk4" startTime="92.904" endTime="94.512">
+        <Sync time="92.904" />
+        ben elle est dans le regard des &lt; usagers
+      </Turn>
+      <Turn speaker="spk3" startTime="94.512" endTime="94.762">
+        <Sync time="94.512" />
+        ben oui &gt;
+      </Turn>
+      <Turn speaker="spk5" startTime="94.762" endTime="96.744">
+        <Sync time="94.762" />
+        oui même qu'elle a dit je me sens intégrée par dans l'équipe
+      </Turn>
+      <Turn speaker="spk1" startTime="96.744" endTime="97.153">
+        <Sync time="96.744" />
+        les &lt; usagers
+      </Turn>
+      <Turn speaker="spk2" startTime="97.153" endTime="98.059">
+        <Sync time="97.153" />
+        non &gt; je pense
+      </Turn>
+      <Turn speaker="spk1" startTime="98.059" endTime="98.247">
+        <Sync time="98.059" />
+        &lt; oui
+      </Turn>
+      <Turn speaker="spk2" startTime="98.247" endTime="99.027">
+        <Sync time="98.247" />
+        j'ai pas &gt; <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/> &lt; je pense que j'ai
+      </Turn>
+      <Turn speaker="spk1" startTime="99.027" endTime="99.465">
+        <Sync time="99.027" />
+        allez-y &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="99.465" endTime="101.851">
+        <Sync time="99.465" />
+        les ad- les adolescents je fais maintenant
+        <Event desc="bruit d'objet sur la table" type="noise" extent="instantaneous" />
+        partie de l'équipe
+      </Turn>
+      <Turn speaker="spk1" startTime="101.851" endTime="104.854">
+        <Sync time="101.851" />
+        <Event desc="pause" type="noise" extent="instantaneous"/> allez on y va comme ça
+      </Turn>
+      <Turn speaker="spk2" startTime="104.854" endTime="132.27">
+        <Sync time="104.854" />
+        donc euh voilà donc euh avec certains euh
+        <Sync time="107.574" />
+        j'ai euh il y a une relation de confiance qui euh qui s'est installée <Event desc="pause" type="noise" extent="instantaneous"/>
+        <Sync time="111.816" />
+        euh ils viennent euh j'ai noté qu'ils viennent me voir d'eux-mêmes
+        <Sync time="117.019" />
+        pour me confier des choses ou me parler de leur situation
+        <Sync time="119.926" />
+        euh <Event desc="pause" type="noise" extent="instantaneous"/> et euh étant donné que je fais beaucoup de transports donc euh ça permet aussi euh de
+        <Sync time="126.57" />
+        ben d'avoir d'avoir une relation <Event desc="pause" type="noise" extent="instantaneous"/> plus proche avec euh avec l'ado
+      </Turn>
+      <Turn speaker="spk1" startTime="132.27" endTime="133.088">
+        <Sync time="132.27" />
+        c'est super les transports
+      </Turn>
+      <Turn speaker="spk2" startTime="133.088" endTime="133.493">
+        <Sync time="133.088" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="133.493" endTime="137.354">
+        <Sync time="133.493" />
+        non mais c'est vrai <Event desc="pause" type="noise" extent="instantaneous"/> pour tout le monde il se passe pleins de choses &lt; pendant les
+      </Turn>
+      <Turn speaker="spk2" startTime="137.354" endTime="137.619">
+        <Sync time="137.354" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="137.619" endTime="138.456">
+        <Sync time="137.619" />
+        transports
+      </Turn>
+      <Turn speaker="spk2" startTime="138.456" endTime="168.051">
+        <Sync time="138.456" />
+        euh <Event desc="pause" type="noise" extent="instantaneous"/> donc euh voilà euh je j'ai noté aussi que euh les jeunes euh
+        <Sync time="147.673" />
+        enfin je pense que les jeunes m'écoutent lorsque lorsque je demande quelque chose
+        <Sync time="151.361" />
+        <Event desc="froissement de papiers" type="noise" extent="instantaneous" />
+        ou que je fais une remarque <Event desc="pause" type="noise" extent="instantaneous"/> euh voilà sinon euh ben il y en a forcément certains
+        <Sync time="157.254" />
+        avec qui j'ai plus de difficultés mais euh j'en ai parlé avec euh
+        <Sync time="161.587" />
+        avec l'équipe et je pense pas être la seule j'a- j'avais noté euh
+        <Sync time="164.975" />
+        ¤P3¤ ¤N1¤ ou ¤P4¤
+      </Turn>
+      <Turn speaker="spk1" startTime="168.051" endTime="170.512">
+        <Sync time="168.051" />
+        non mais ça c'est c'est pas propre aux stagiaires je pense
+      </Turn>
+      <Turn speaker="spk4" startTime="170.512" endTime="172.135">
+        <Sync time="170.512" />
+        ouais hein
+      </Turn>
+      <Turn speaker="spk2" startTime="172.135" endTime="271.417">
+        <Sync time="172.135" />
+        voilà euh par rapport à l'équipe euh j'ai marqué euh enfin qu'au début
+        <Sync time="177.248" />
+        j'ai senti une difficulté à m'intégrer euh que le fait de pas avoir de référent
+        <Sync time="182.996" />
+        m'a aussi euh déstabilisée euh car j'avais bah j'avais l'impression
+        <Sync time="187.914" />
+        qu'il y avait personne qui s'intéressait à mon enfin qui s'investissait dans mon stage en fait
+        <Sync time="192.939" />
+        <Event desc="pause" type="noise" extent="instantaneous"/> euh bah à l'heure d'aujourd'hui je me sens je me sens intégrée
+        <Sync time="198.762" />
+        bon parce que ben on me donne des res- des responsabilités
+        <Sync time="201.371" />
+        on me propose euh maintenant d'aller à des rendez-vous à des synthèses euh
+        <Sync time="206.102" />
+        à des points scolaires et caetera <Event desc="pause" type="noise" extent="instantaneous"/>
+        <Sync time="210.228" />
+        euh <Event desc="pause" type="noise" extent="instantaneous"/> par contre euh le fait de de de pas avoir de référent euh
+        <Sync time="215.423" />
+        et donc du coup de travailler sur les horaires de tout le monde
+        <Event desc="bruit sur la table" type="noise" extent="instantaneous" />
+        <Sync time="218.67" />
+        ça m'a aussi permis de de voir plusieurs façons de travailler
+        <Sync time="221.501" />
+        et euh eh ben c'était c'était intéressant aussi <Event desc="pause" type="noise" extent="instantaneous"/> donc voilà
+        <Sync time="228.488" />
+        <Event desc="conversation dans une autre salle" type="noise" extent="instantaneous" />
+        et puis
+        <Event desc="bruit de  froissement de feuilles" type="noise" extent="instantaneous" />
+        <Event desc="pause" type="noise" extent="instantaneous"/> et puis bah par rapport au fait aussi
+        <Sync time="238.253" />
+        de pas avoir euh de pas avoir de référent euh la la mise en route de mon stage
+        <Sync time="243.424" />
+        moi je l'ai trouvée euh enfin je l'ai trouvée assez longue
+        <Sync time="245.195" />
+        parce qu'il a vraiment fallu que que j'observe tout tout par moi-même et euh
+        <Sync time="251.466" />
+        sans <Event desc="pause" type="noise" extent="instantaneous"/> sans avoir quelqu'un pour me enfin pour m'aider euh comment expliquer
+        <Sync time="258.863" />
+        euh c'est c'est bien d'observer par soi-même mais là j'avais il y a vraiment des choses
+        <Sync time="262.607" />
+        que qu'on m'a pas montré et que j'ai voilà que j'ai découvert
+        <Comment desc="sic" />
+        il y a encore pas longtemps euh
+        <Sync time="267.516" />
+        des euh des fiches euh des fiches d'effectifs week-end ou euh &lt; des choses
+      </Turn>
+      <Turn speaker="spk1" startTime="271.417" endTime="272.711">
+        <Sync time="271.417" />
+        c'est tout nouveau &gt; hein
+      </Turn>
+      <Turn speaker="spk2" startTime="272.711" endTime="273.884">
+        <Sync time="272.711" />
+        comment
+      </Turn>
+      <Turn speaker="spk1" startTime="273.884" endTime="275.575">
+        <Sync time="273.884" />
+        les fiches d'effectifs week-end c'est tout nouveau
+      </Turn>
+      <Turn speaker="spk2" startTime="275.575" endTime="279.11">
+        <Sync time="275.575" />
+        non mais il y en avait d'a- d'avant là euh <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+        <Event desc="paroles incompréhensibles d'une locutrice" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="279.11" endTime="279.779">
+        <Sync time="279.11" />
+        hein /les trois en fait,<Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>/
+      </Turn>
+      <Turn speaker="spk2" startTime="279.779" endTime="311.722">
+        <Sync time="279.779" />
+        ouais <Event desc="pause" type="noise" extent="instantaneous"/> donc euh <Event desc="pause" type="noise" extent="instantaneous"/> donc voilà donc c'est c'est un petit peu
+        <Sync time="285.902" />
+        <Event desc="pause" type="noise" extent="instantaneous"/> c'était une bonne façon d'apprendre vu que euh ben oui vu que j'étais obligée d'observer
+        <Sync time="292.249" />
+        mais en même temps j'ai l'impression d'avoir eu des loupés enfin d'être passée à côté de
+        <Sync time="295.618" />
+        à côté de certaines choses <Event desc="pause" type="noise" extent="instantaneous"/> voilà <Event desc="pause" type="noise" extent="instantaneous"/>
+        <Event desc="L2 tourne ses feuilles" type="noise" extent="instantaneous" />
+        <Sync time="306.373" />
+        et puis bah sinon euh sinon par rapport aux stagiaires j'ai un petit coup de gueule
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="311.722" endTime="312.004">
+        <Sync time="311.722" />
+        hein
+      </Turn>
+      <Turn speaker="spk2" startTime="312.004" endTime="328.148">
+        <Sync time="312.004" />
+        un petit coup de gueule non mais parce que il y a ben par rapport euh on on en a déjà parlé hein euh
+        <Sync time="318.043" />
+        par rapport aux stagiaires j'ai enfin ce qui serait bien c'est de savoir quel euh
+        <Sync time="322.207" />
+        quel rôle a le stagiaire euh ici euh savoir euh quelles responsabilités euh &lt; <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="328.148" endTime="330.319">
+        <Sync time="328.148" />
+        stage à &gt; responsabilités tu es dans &lt; un cadre à responsabilités
+      </Turn>
+      <Turn speaker="spk2" startTime="330.319" endTime="335.202">
+        <Sync time="330.319" />
+        oui voilà mais euh &gt; il y a il y en a cer- enfin il y en a certains qui nous laissent des responsabilités d'autres non
+      </Turn>
+      <Turn speaker="spk1" startTime="335.202" endTime="335.612">
+        <Sync time="335.202" />
+        qui
+      </Turn>
+      <Turn speaker="spk1" startTime="335.612" endTime="338.243">
+        <Sync time="335.612" />
+        euh bah par exemple pendant les week-ends bah qui c'est je vais &lt; pas donner de noms hein
+      </Turn>
+      <Turn speaker="spk6" startTime="338.243" endTime="338.929">
+        <Sync time="338.243" />
+        bah si &gt; si &lt; vas-y
+      </Turn>
+      <Turn speaker="spk2" startTime="338.929" endTime="345.546">
+        <Sync time="338.929" />
+        non mais par <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+        <Sync time="340.163" />
+        moi si tu veux
+        <Event desc="conversation de fond" type="noise" extent="instantaneous" />
+        que ce &gt; ça soit un stagiaire première année deuxième année troisième année je m'en fous
+      </Turn>
+      <Turn speaker="spk2" startTime="345.546" endTime="346.069">
+        <Sync time="345.546" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="346.069" endTime="346.925">
+        <Sync time="346.069" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="346.925" endTime="347.757">
+        <Sync time="346.925" />
+        parce que par &lt; exemple
+      </Turn>
+      <Turn speaker="spk1" startTime="347.757" endTime="348.332">
+        <Sync time="347.757" />
+        je &gt; sais que &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="348.332" endTime="356.564">
+        <Sync time="348.332" />
+        un &gt; week-end
+        <Sync time="349.071" />
+        j'ai fait un week-end avec ¤P5¤ et là j'avais le droit de rien faire
+        <Sync time="352.603" />
+        donc euh on s'est retrouvé euh enfin je me suis retrouvée avec euh avec une euh
+      </Turn>
+      <Turn speaker="spk6" startTime="356.564" endTime="357.112">
+        <Sync time="356.564" />
+        ¤P6¤
+      </Turn>
+      <Turn speaker="spk2" startTime="357.112" endTime="359.643">
+        <Sync time="357.112" />
+        avec ¤P6¤ donc euh une une fille qui vient en
+      </Turn>
+      <Turn speaker="spk1" startTime="359.643" endTime="359.916">
+        <Sync time="359.643" />
+        en
+      </Turn>
+      <Turn speaker="spk2" startTime="359.916" endTime="375.925">
+        <Sync time="359.916" />
+        en plus et euh on s'est retrouvé avec euh quatre même pas trois trois petits
+        <Sync time="366.555" />
+        donc euh il y avait ¤P7¤ euh ¤P8¤ je crois enfin
+        <Sync time="371.244" />
+        on était avec trois petits et on était toutes les deux quoi donc euh euh ce qui est bien
+      </Turn>
+      <Turn speaker="spk3" startTime="375.925" endTime="376.816">
+        <Sync time="375.925" />
+        en même temps
+      </Turn>
+      <Turn speaker="spk2" startTime="376.816" endTime="378.338">
+        <Sync time="376.816" />
+        j'ai j'ai j'ai &lt; j'aurais bien j'aurais bien voulu
+      </Turn>
+      <Turn speaker="spk1" startTime="378.338" endTime="379.307">
+        <Sync time="378.338" />
+        mais après il aurait il aurait pu &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="379.307" endTime="380.76">
+        <Sync time="379.307" />
+        a- avoir euh enfin
+      </Turn>
+      <Turn speaker="spk1" startTime="380.76" endTime="384.092">
+        <Sync time="380.76" />
+        il aurait pu se passer pleins de choses euh avec les trois petits
+      </Turn>
+      <Turn speaker="spk2" startTime="384.092" endTime="386.186">
+        <Sync time="384.092" />
+        oui mais euh mais non
+      </Turn>
+      <Turn speaker="spk1" startTime="386.186" endTime="386.647">
+        <Sync time="386.186" />
+        &lt; c'était pas dans le secteur
+      </Turn>
+      <Turn speaker="spk3" startTime="386.647" endTime="390.104">
+        <Sync time="386.647" />
+        non mais c'est pas bien compliqué &gt; c'est que tu as demandé à &lt; faire cette sortie ça voilà
+        <Sync time="389.009" />
+        et j'ai &gt; et j'ai demandé
+      </Turn>
+      <Turn speaker="spk3" startTime="390.104" endTime="390.69">
+        <Sync time="390.104" />
+        et voilà tu as été &lt; refusée
+      </Turn>
+      <Turn speaker="spk1" startTime="390.69" endTime="392.196">
+        <Sync time="390.69" />
+        d'accord &gt; oui oui non &lt; mais bon après
+      </Turn>
+      <Turn speaker="spk3" startTime="392.196" endTime="392.665">
+        <Sync time="392.196" />
+        c'est ça le problème &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="392.665" endTime="394.102">
+        <Sync time="392.665" />
+        ça c'est voilà &lt; moi je veux dire là là
+      </Turn>
+      <Turn speaker="spk3" startTime="394.102" endTime="395.686">
+        <Sync time="394.102" />
+        c'est <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/> tu voulais pas être <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/> &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="395.686" endTime="396.536">
+        <Sync time="395.686" />
+        euh effectivement moi je peux &lt; effectivement je peux je
+      </Turn>
+      <Turn speaker="spk3" startTime="396.536" endTime="397.348">
+        <Sync time="396.536" />
+        <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/> &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="397.348" endTime="399.321">
+        <Sync time="397.348" />
+        peux comprendre ton message par rapport à la maison
+      </Turn>
+      <Turn speaker="spk2" startTime="399.321" endTime="399.682">
+        <Sync time="399.321" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="399.682" endTime="427.732">
+        <Sync time="399.682" />
+        hein euh là si on se situe dans le groupe on va ¤P9¤ euh toi euh stagiaire hein euh M.E. E.S.
+        <Sync time="408.975" />
+        euh moi je suis à la limite je m'en fous quoi je veux dire le stage
+        <Sync time="411.788" />
+        c'est ce que les gens en font et et j'ai pas de
+        <Sync time="415.15" />
+        la responsabilité elle est même pour quelqu'un qui démarre
+        <Sync time="418.329" />
+        et moi j'estime qu'il faut mettre lui mettre le pieds le plus vite possible à l'étrier
+        <Sync time="421.652" />
+        et puis voilà après non c'est vrai qu'on peut rentrer aussi dans le cadre de l'école
+        <Sync time="425.39" />
+        et euh bon après c'est <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+        <Event desc="JaJa" type="pronounce" extent="previous" />
+        quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="427.732" endTime="428.336">
+        <Sync time="427.732" />
+        hum hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="428.336" endTime="428.755">
+        <Sync time="428.336" />
+        hein
+      </Turn>
+      <Turn speaker="spk4" startTime="428.755" endTime="438.82">
+        <Sync time="428.755" />
+        donc que tu penses que dans le par rapport à ¤P5¤ euh
+        <Sync time="431.494" />
+        pour avoir travailler longtemps avec lui je sais que au niveau il est il est très à cheval
+        <Sync time="435.539" />
+        sur la convention de l'école et c'est vrai que même en en stage euh à &lt; responsabilités
+      </Turn>
+      <Turn speaker="spk1" startTime="438.82" endTime="439.436">
+        <Sync time="438.82" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="439.436" endTime="440.356">
+        <Sync time="439.436" />
+        il faut un doublon
+      </Turn>
+      <Turn speaker="spk2" startTime="440.356" endTime="442.243">
+        <Sync time="440.356" />
+        non mais c'est <Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/> enfin c'est frustrant &lt; <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+        <Event desc="propos de L2 et L1 incompréhensibles" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk4" startTime="442.243" endTime="445.483">
+        <Sync time="442.243" />
+        non mais c'est frustrant moi je l'ai vécu en tant que stagiaire aussi &gt; donc je sais
+      </Turn>
+      <Turn speaker="spk4" startTime="445.483" endTime="448.096">
+        <Sync time="445.483" />
+        mais euh il y a certaines euh il y a certains professionnels qui &lt; euh
+      </Turn>
+      <Turn speaker="spk8" startTime="448.096" endTime="448.456">
+        <Sync time="448.096" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="448.456" endTime="449.789">
+        <Sync time="448.456" />
+        se basent sur la convention &lt; et voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="449.789" endTime="450.883">
+        <Sync time="449.789" />
+        et que &gt; sur un week-end
+      </Turn>
+      <Turn speaker="spk2" startTime="450.883" endTime="451.257">
+        <Sync time="450.883" />
+        c'est &lt; que sur
+      </Turn>
+      <Turn speaker="spk4" startTime="451.257" endTime="451.554">
+        <Sync time="451.257" />
+        voilà &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="451.554" endTime="459.18">
+        <Sync time="451.554" />
+        un week-end mais du coup enfin je veux dire euh euh ça pose ça pose question quoi parce que du coup euh je euh &lt; comment expliquer
+      </Turn>
+      <Turn speaker="spk1" startTime="459.18" endTime="461.335">
+        <Sync time="459.18" />
+        moi je sais &gt; je sais pas si tu veux si
+      </Turn>
+      <Turn speaker="spk2" startTime="461.335" endTime="461.975">
+        <Sync time="461.335" />
+        on peut comme la &lt; dernière fois j'ai fait un week-end
+      </Turn>
+      <Turn speaker="spk1" startTime="461.975" endTime="463.33">
+        <Sync time="461.975" />
+        si tu es une stagiaire euh &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="463.33" endTime="464.23">
+        <Sync time="463.33" />
+        avec euh ¤P10¤
+      </Turn>
+      <Turn speaker="spk2" startTime="464.23" endTime="466.578">
+        <Sync time="464.23" />
+        c'était euh comment il s'appelle euh
+      </Turn>
+      <Turn speaker="spk4" startTime="466.578" endTime="468.638">
+        <Sync time="466.578" />
+        ¤P11¤ peut-être
+      </Turn>
+      <Turn speaker="spk3" startTime="468.638" endTime="469.832">
+        <Sync time="468.638" />
+        ¤P12¤ ¤P12¤ &lt; <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+        <Event desc="conversation de fond" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="469.832" endTime="483.09">
+        <Sync time="469.832" />
+        c'était ¤P12¤ &gt; donc du coup on (n') a on (n') a pas trop pu euh
+        <Sync time="473.745" />
+        euh prévoir notre week-end parce que justement on savait pas si j'avais le droit ou pas
+        <Sync time="477.325" />
+        d'avoir un groupe et si j'avais pas donc euh voilà on peut <Event desc="pause" type="noise" extent="instantaneous"/>
+        <Sync time="480.5" />
+        je suis un peu le boulet du coup dans ces cas-là parce &lt; que
+      </Turn>
+      <Turn speaker="spk1" startTime="483.09" endTime="483.367">
+        <Sync time="483.09" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="483.367" endTime="483.734">
+        <Sync time="483.367" />
+        euh &lt; non mais voilà parce que on sait pas et on peut pas prévoir
+      </Turn>
+      <Turn speaker="spk1" startTime="483.734" endTime="488.915">
+        <Sync time="483.734" />
+        non tu es pas le boulet non mais ça ça euh &gt; je euh je peux comprendre ce que tu dis
+      </Turn>
+      <Turn speaker="spk4" startTime="488.915" endTime="490.932">
+        <Sync time="488.915" />
+        et ça c'est aussi euh ton &lt; possibilité
+        <Comment desc="sic" />
+        de parler à l'école
+      </Turn>
+      <Turn speaker="spk1" startTime="490.932" endTime="492.324">
+        <Sync time="490.932" />
+        moi moi c'est c'est &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="492.324" endTime="497.687">
+        <Sync time="492.324" />
+        par rapport à la convention peut-être de faire évoluer aussi &lt; euh ce qu'il y a écrit sur la convention
+        <Sync time="494.699" />
+        /les satgiaires,et statuer/ et statuer la &gt; responsabilité
+      </Turn>
+      <Turn speaker="spk2" startTime="497.687" endTime="498.518">
+        <Sync time="497.687" />
+        bah oui &lt; voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="498.518" endTime="500.424">
+        <Sync time="498.518" />
+        les &gt; stagiaires normalement ils travaillent toujours en doublure
+      </Turn>
+      <Turn speaker="spk2" startTime="500.424" endTime="500.831">
+        <Sync time="500.424" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="500.831" endTime="502.375">
+        <Sync time="500.831" />
+        hein normalement même le stagiaire à &lt; responsabilités
+      </Turn>
+      <Turn speaker="spk8" startTime="502.375" endTime="502.79">
+        <Sync time="502.375" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="502.79" endTime="503.078">
+        <Sync time="502.79" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="503.078" endTime="507.041">
+        <Sync time="503.078" />
+        ça veut dire quoi travailler en doublure ça veut dire que tu as besoin de toujours quelqu'un qui te tienne
+      </Turn>
+      <Turn speaker="spk2" startTime="507.041" endTime="507.306">
+        <Sync time="507.041" />
+        hum
+      </Turn>
+      <Turn speaker="spk8" startTime="507.306" endTime="507.921">
+        <Sync time="507.306" />
+        le pantalon hein
+      </Turn>
+      <Turn speaker="spk2" startTime="507.921" endTime="508.218">
+        <Sync time="507.921" />
+        ouais
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk8" startTime="508.218" endTime="512.554">
+        <Sync time="508.218" />
+        euh le haut de la jupe euh j'en sais rien hein
+        <Sync time="510.46" />
+        c'est aussi une capacité à travailler seul
+      </Turn>
+      <Turn speaker="spk2" startTime="512.554" endTime="512.908">
+        <Sync time="512.554" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="512.908" endTime="514.4">
+        <Sync time="512.908" />
+        mais bon en effet bon
+      </Turn>
+      <Turn speaker="spk5" startTime="514.4" endTime="518.853">
+        <Sync time="514.4" />
+        après sur un groupe est-ce qu'elle est poss-
+        <Sync time="516.635" />
+        est-ce qu'il est capable qu'elle fasse une sortie &lt; extérieure un peu
+      </Turn>
+      <Turn speaker="spk1" startTime="518.853" endTime="520.171">
+        <Sync time="518.853" />
+        moi ça me dérange pas &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="520.171" endTime="527.456">
+        <Sync time="520.171" />
+        c'est ce qu'on avait demandé pour le week-end et euh
+        <Event desc="conversation de fond" type="noise" extent="begin" />
+        ça m'a été refusé
+        <Sync time="523.386" />
+        on me dit non non elle ne sortira pas
+        <Event desc="conversation de fond" type="noise" extent="end" />
+        seule avec un groupe d'enfants
+        <Sync time="526.086" />
+        alors qu'on avait prévu une activité &lt; <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk5" startTime="527.456" endTime="529.89">
+        <Sync time="527.456" />
+        oui et alors <Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/> franchement &gt; elle est seule avec les enfants
+      </Turn>
+      <Turn speaker="spk4" startTime="529.89" endTime="530.515">
+        <Sync time="529.89" />
+        voilà
+      </Turn>
+      <Turn speaker="spk5" startTime="530.515" endTime="530.731">
+        <Sync time="530.515" />
+        voiture
+      </Turn>
+      <Turn speaker="spk4" startTime="530.731" endTime="531.372">
+        <Sync time="530.731" />
+        donc moi &lt; j'étais embétée parce que du coup on est parti avec <Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/> enfants /et pas,quoi/ tous réunis
+      </Turn>
+      <Turn speaker="spk1" startTime="531.372" endTime="535.622">
+        <Sync time="531.372" />
+        après c'est toi qui vois c'est toi qui pars avec des gamins ou je sais pas quoi mais je sais &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="535.622" endTime="535.74">
+        <Sync time="535.622" />
+        mais &lt; c'est c'est du coup voilà on est parti
+      </Turn>
+      <Turn speaker="spk4" startTime="535.74" endTime="537.77">
+        <Sync time="535.74" />
+        s'il faut s'il faut on change &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="537.77" endTime="540.291">
+        <Sync time="537.77" />
+        on est parti tous ensemble bah tous ensemble &lt; mais fi- mais
+      </Turn>
+      <Turn speaker="spk4" startTime="540.291" endTime="541.15">
+        <Sync time="540.291" />
+        <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/> &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="541.15" endTime="542.548">
+        <Sync time="541.15" />
+        finalement sur place et
+      </Turn>
+      <Turn speaker="spk2" startTime="542.548" endTime="546.801">
+        <Sync time="542.548" />
+        j'avais un grou- j'avais un groupe sous ma responsabilité voilà donc du coup c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="546.801" endTime="549.031">
+        <Sync time="546.801" />
+        tant tant tant mieux que tu /fais,<Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/>/ un groupe sous ta responsabilité
+      </Turn>
+      <Turn speaker="spk2" startTime="549.031" endTime="550.749">
+        <Sync time="549.031" />
+        c'est en premier voilà mais euh
+      </Turn>
+      <Turn speaker="spk1" startTime="550.749" endTime="551.388">
+        <Sync time="550.749" />
+        qu'est-ce que ça veut dire si ça
+      </Turn>
+      <Turn speaker="spk2" startTime="551.388" endTime="553.039">
+        <Sync time="551.388" />
+        <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/> j'ai parlé avec ¤P13¤ dans les transports dans les &lt; transports et<Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+        <Comment desc="les locuteurs parlent tous en même temps et il est impossible de discerner ce qu'ils disent" />
+      </Turn>
+      <Turn speaker="spk1" startTime="553.039" endTime="553.732">
+        <Sync time="553.039" />
+        ça c'est bien &gt;
+      </Turn>
+      <Turn speaker="spk8" startTime="553.732" endTime="554.56">
+        <Sync time="553.732" />
+        toute seule avec des parents
+      </Turn>
+      <Turn speaker="spk1" startTime="554.56" endTime="555.06">
+        <Sync time="554.56" />
+        bien sûr
+      </Turn>
+      <Turn speaker="spk8" startTime="555.06" endTime="558.175">
+        <Sync time="555.06" />
+        pareil pour les transports la question se pose pas là
+        <Sync time="557.195" />
+        ça voudrait dire quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="558.175" endTime="558.503">
+        <Sync time="558.175" />
+        donc /je,déjà/
+      </Turn>
+      <Turn speaker="spk1" startTime="558.503" endTime="563.536">
+        <Sync time="558.503" />
+        stage de sept mois euh
+        <Sync time="560.829" />
+        sans cette capacité à travailler seule avec des gamins
+      </Turn>
+      <Turn speaker="spk2" startTime="563.536" endTime="564.847">
+        <Sync time="563.536" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="564.847" endTime="569.601">
+        <Sync time="564.847" />
+        voilà je veux dire tu prends le bus avec euh trois gamins
+        <Sync time="567.412" />
+        tu vas à la médiathèque ou tu vas au cinoche j'en sais rien
+      </Turn>
+      <Turn speaker="spk2" startTime="569.601" endTime="569.976">
+        <Sync time="569.601" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="569.976" endTime="571.302">
+        <Sync time="569.976" />
+        euh voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="571.302" endTime="578.633">
+        <Sync time="571.302" />
+        oui voilà mais euh moi ce qui moi ce qui me gène c'est que euh
+        <Sync time="575.748" />
+        il y en a qui disent j'ai le droit il y en a qui disent non &lt; et puis ceux qui disent non et bah par exemple ¤P5¤
+      </Turn>
+      <Turn speaker="spk1" startTime="578.633" endTime="582.131">
+        <Sync time="578.633" />
+        moi moi moi <Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/> à la limite je m'en fous mais bon il y en a &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="582.131" endTime="582.6">
+        <Sync time="582.131" />
+        m'a dit non
+      </Turn>
+      <Turn speaker="spk1" startTime="582.6" endTime="583.209">
+        <Sync time="582.6" />
+        il y en a &lt; il y en
+      </Turn>
+      <Turn speaker="spk2" startTime="583.209" endTime="583.569">
+        <Sync time="583.209" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="583.569" endTime="587.302">
+        <Sync time="583.569" />
+        a là je veux dire tu travailles sur l'unité euh R et O et puis &lt; c'est pour ça que
+      </Turn>
+      <Turn speaker="spk2" startTime="587.302" endTime="588.932">
+        <Sync time="587.302" />
+        oui oui mais je &gt; sais bien mais
+      </Turn>
+      <Turn speaker="spk1" startTime="588.932" endTime="594.134">
+        <Sync time="588.932" />
+        et il y aura des différences partout où tu travailleras
+        <Sync time="591.228" />
+        il y a des gens qui te donneront qui te feront confiance et c'est pareil quand tu es &lt; cadre
+      </Turn>
+      <Turn speaker="spk2" startTime="594.134" endTime="595.055">
+        <Sync time="594.134" />
+        oui &gt; mais voilà mais &lt; je veux dire
+      </Turn>
+      <Turn speaker="spk1" startTime="595.055" endTime="604.711">
+        <Sync time="595.055" />
+        hein ça c'est &gt; mon troisième patron et je vais te dire que euh euh avec trente ans de boulot euh j'ai euh
+        <Sync time="600.895" />
+        j'ai eu l'impression d'avoir beaucoup plus de libertés à certains moments &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="604.711" endTime="622.523">
+        <Sync time="604.711" />
+        ah oui &gt; oui oui c'est normal mais je veux dire ¤P5¤ par exemple pour en revenir à ¤P5¤
+        <Sync time="609.339" />
+        euh il me il me laisse pas la responsabilité euh de trois enfin euh
+        <Sync time="613.58" />
+        d'un groupe de trois enfants mais euh par contre euh le soir et bah il y a personne pour aller euh
+        <Sync time="618.33" />
+        pour aller emmener ¤P14¤ aux urgences bah qui est-ce qui y va
+        <Sync time="621.147" />
+        qui est-ce qui en a la responsabilité c'est moi
+      </Turn>
+      <Turn speaker="spk1" startTime="622.523" endTime="622.818">
+        <Sync time="622.523" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" startTime="622.818" endTime="623.18">
+        <Sync time="622.818" />
+        et &lt; voilà et là ça gène pas quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="623.18" endTime="626.867">
+        <Sync time="623.18" />
+        ça sera pas ça &gt; c'est du para- ça s'appelle du paradoxe
+      </Turn>
+      <Turn speaker="spk2" startTime="626.867" endTime="627.648">
+        <Sync time="626.867" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="627.648" endTime="628.093">
+        <Sync time="627.648" />
+        &lt; hein
+      </Turn>
+      <Turn speaker="spk7" startTime="628.093" endTime="632.315">
+        <Sync time="628.093" />
+        moi je pense que &gt; c'est un problème de management il fonctionne en sous-effectif
+        <Sync time="630.844" />
+        apparemment depuis le quinze et puis
+      </Turn>
+      <Turn speaker="spk3" startTime="632.315" endTime="634.346">
+        <Sync time="632.315" />
+        ah non non là on était en sur-effectif ce week-end-là &lt; c'est pas ça le problème
+      </Turn>
+      <Turn speaker="spk7" startTime="634.346" endTime="637.244">
+        <Sync time="634.346" />
+        /mais,et/ comment ça se fait &gt; qu'il y ait (eu) autant de dys-
+      </Turn>
+      <Turn speaker="spk3" startTime="637.244" endTime="639.854">
+        <Sync time="637.244" />
+        de dys- de différences &lt; tu veux dire
+      </Turn>
+      <Turn speaker="spk7" startTime="639.854" endTime="645.046">
+        <Sync time="639.854" />
+        oui mais euh &gt; par rapport parce qu'en fait l'idée
+        <Sync time="642.319" />
+        c'est de mettre en nombre pour coatcher le le stagiaire
+      </Turn>
+      <Turn speaker="spk3" startTime="645.046" endTime="661.757">
+        <Sync time="645.046" />
+        non la question je pense que c'est plus au niveau des responsabilités
+        <Sync time="649.192" />
+        si au au au cas où il se passe quelque chose et que euh effectivement elle est en transport
+        <Sync time="653.778" />
+        ou elle est à droite à gauche euh au niveau de sa responsabilité personnelle
+        <Sync time="658.62" />
+        qu'est-ce que ça implique qu'est-ce que voilà je pense que c'est plus euh &lt; est-ce que les gens sont frileux est-ce que les gens respectent la convention
+      </Turn>
+      <Turn speaker="spk1" startTime="661.757" endTime="665.21">
+        <Sync time="661.757" />
+        j'ai pour l'instant non non non dans dans la convention
+      </Turn>
+      <Turn speaker="spk4" startTime="665.21" endTime="666.322">
+        <Sync time="665.21" />
+        pourquoi il y a tant &gt; de frilosités &lt; est-ce que euh
+      </Turn>
+      <Turn speaker="spk1" startTime="666.322" endTime="676.878">
+        <Sync time="666.322" />
+        dans la convention &gt; je veux dire c'est pas il y a
+        <Sync time="669.009" />
+        il y a une personne ressource une personne référente hein
+        <Sync time="672.95" />
+        c'est pas marqué que le stagiaire il doit travailler à cent pourcent seul
+      </Turn>
+      <Turn speaker="spk4" startTime="676.878" endTime="679.253">
+        <Sync time="676.878" />
+        après c'est l'interprétation que tu fais de la convention
+      </Turn>
+      <Turn speaker="spk1" startTime="679.253" endTime="680.194">
+        <Sync time="679.253" />
+        ah non non non
+      </Turn>
+      <Turn speaker="spk4" startTime="680.194" endTime="680.935">
+        <Sync time="680.194" />
+        ah si si si
+      </Turn>
+      <Turn speaker="spk1" startTime="680.935" endTime="681.456">
+        <Sync time="680.935" />
+        non non
+      </Turn>
+      <Turn speaker="spk4" startTime="681.456" endTime="682.216">
+        <Sync time="681.456" />
+        c'est marqué &lt; euh quatre mois
+      </Turn>
+      <Turn speaker="spk1" startTime="682.216" endTime="694.119">
+        <Sync time="682.216" />
+        tu (n') as qu'à en discuter avec &gt; avec des euh des responsables de stage d'ailleurs tu pourras en rediscuter
+        <Sync time="687.445" />
+        avec ton début euh début décembre euh voilà moi ça me semble normal
+        <Sync time="692.07" />
+        ça veut dire que les gens ils sont diplômés en juin ce &lt; et il y en a ils vont travailler seul
+      </Turn>
+      <Turn speaker="spk2" startTime="694.119" endTime="697.012">
+        <Sync time="694.119" />
+        hein oui voilà &gt; hum ouais
+        <Event desc="un locuteur tousse" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="697.012" endTime="714.682">
+        <Sync time="697.012" />
+        moi j'ai enfin pour pour le coup moi ça ne me pose pas du tout de problème quoi
+        <Sync time="702.699" />
+        ben naturellement euh la responsabilité elle est interrogée euh tout le temps hein euh
+        <Sync time="706.687" />
+        même quand tu pars avec euh cinq en- cinq enfants en bagnole
+        <Sync time="710.416" />
+        ou je sais pas quoi si tu as un pépin machin
+        <Sync time="712.354" />
+        on va toujours rechercher euh des poux sur la tête des gens
+      </Turn>
+      <Turn speaker="spk8" startTime="714.682" endTime="715.037">
+        <Sync time="714.682" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="715.037" endTime="744.31">
+        <Sync time="715.037" />
+        mais enfin moi j'estime que c'est normal de travailler seul
+        <Sync time="717.788" />
+        elle-même ¤P9¤ c'est normal de travailler seule
+        <Sync time="720.733" />
+        ça serait insupportable que qu'elle euh alors ça ça ça se passe sur la première semaine
+        <Sync time="725.752" />
+        ou euh effectivement il y a des c'est quand c'est le premier stage
+        <Sync time="728.286" />
+        il faut que tu prennes tes marques et caetera mais après je veux dire
+        <Sync time="731.405" />
+        tu dois apprendre à marcher tout seul autrement c'est le boulot il est pas intéressant <Event desc="pause" type="noise" extent="instantaneous"/>
+        <Sync time="735.886" />
+        hein <Event desc="pause" type="noise" extent="instantaneous"/> voilà voilà bon il y a pas que le week-end là quand même c'est pas il faut pas non plus que ça soit
+      </Turn>
+      <Turn speaker="spk2" startTime="744.31" endTime="745.419">
+        <Sync time="744.31" />
+        oui mais /ça,je/ veux &lt; dire j'ai que
+      </Turn>
+      <Turn speaker="spk1" startTime="745.419" endTime="746.263">
+        <Sync time="745.419" />
+        <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/> &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="746.263" endTime="749.903">
+        <Sync time="746.263" />
+        ces deux week-ends et les deux week-ends /ça,c'est/
+        <Sync time="748.752" />
+        le premier bah c'était &lt; avec ¤P5¤ le deuxième
+      </Turn>
+      <Turn speaker="spk1" startTime="749.903" endTime="750.752">
+        <Sync time="749.903" />
+        quand est-ce que tu vas travailler avce moi &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="750.752" endTime="752.752">
+        <Sync time="750.752" />
+        c'était avec ¤P10¤ et puis que
+      </Turn>
+      <Turn speaker="spk1" startTime="752.752" endTime="782.301">
+        <Sync time="752.752" />
+        tu verras tu vas voir tu vas te plaindre parce que tu auras trop de libertés
+        <Event desc="rires" type="noise" extent="instantaneous" />
+        <Sync time="758.426" />
+        voilà allez continue non mais c'est c'est im- c'est important aussi
+        <Sync time="762.669" />
+        de que tu que tu le soulignes parce que c'est aussi du du fonctionnement
+        <Sync time="766.272" />
+        ou du dysfon- dysfonctionnement de la maison et euh
+        <Sync time="770.617" />
+        on est euh trois cadres ou cinq cadres
+        <Sync time="773.972" />
+        mais on on intervient euh totalement différents différemment
+        <Event desc="bruit de microphone" type="noise" extent="instantaneous" />
+        <Sync time="777.994" />
+        <Event desc="pause" type="noise" extent="instantaneous"/> continue
+      </Turn>
+      <Turn speaker="spk2" startTime="782.301" endTime="782.947">
+        <Sync time="782.301" />
+        bah c'est tout
+      </Turn>
+      <Turn speaker="spk1" startTime="782.947" endTime="787.875">
+        <Sync time="782.947" />
+        non c'est pas tout ton projet
+        <Event desc="bruit de feuilles" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="787.875" endTime="854.171">
+        <Sync time="787.875" />
+        alors mon projet
+        <Event desc="bruit de feuilles" type="noise" extent="instantaneous" />
+        bah j'ai j'avais mis un
+        <Sync time="792.76" />
+        j'avais fait une feuille dans la fin du cahier
+        <Sync time="795.606" />
+        donc euh j'étais part- enfin je suis partie sur un un projet relaxation euh
+        <Sync time="803.216" />
+        enfin j'ai eu j'ai eu pas mal de pas mal d'idées au départ
+        <Sync time="806.144" />
+        au départ c'était j'étais partie sur un peut-être un un projet euh sur euh sur l'hygiène
+        <Sync time="810.912" />
+        ensuite euh <Event desc="pause" type="noise" extent="instantaneous"/> j'ai changé d'avis enfin <Event desc="pause" type="noise" extent="instantaneous"/> l'hygiène ça se travaille plus au quotidien
+        <Sync time="820.029" />
+        et euh enfin avec quand j'en ai parlé avec ¤P15¤ c'était pas vraiment un projet euh
+        <Sync time="824.719" />
+        que je pouvais mettre en place comme ça donc du coup ensuite euh
+        <Sync time="828.789" />
+        je suis passée euh <Event desc="pause" type="noise" extent="instantaneous"/> à un projet euh euh sur la sexualité
+        <Sync time="834.54" />
+        mais finalement je me suis rendue compte que c'était déjà euh
+        <Sync time="837.159" />
+        un projet qui devait être mis en place par ¤P16¤ et ¤P10¤ donc <Event desc="pause" type="noise" extent="instantaneous"/> voilà
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="842.93" />
+        et donc euh je suis arrivée euh sur un projet euh relaxation donc rien à voir
+        <Sync time="848.708" />
+        et euh donc euh <Event desc="pause" type="noise" extent="instantaneous"/> mais euh par rapport à mes
+      </Turn>
+      <Turn speaker="spk1" startTime="854.171" endTime="857.777">
+        <Sync time="854.171" />
+        c'est relativement lié <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/>
+        <Event desc="rire d'une locutrice" type="noise" extent="instantaneous" />
+        &lt; et relaxation
+        <Sync time="855.98" />
+        comment &gt;
+        <Event desc="rire d'une locutrice" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="857.777" endTime="901.464">
+        <Sync time="857.777" />
+        par rapport à mes constats donc j'ai noté que
+        <Event desc="conversation de fond" type="noise" extent="instantaneous" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="871.85" />
+        donc euh les constats que j'ai fait c'est que euh les jeunes euh sont très sollicités donc euh
+        <Sync time="877.323" />
+        avec euh donc la scolarité les rendez-vous santé les activités extra-scolaires
+        <Sync time="881.441" />
+        et les enfin et les tâches de la vie quotidienne donc euh <Event desc="pause" type="noise" extent="instantaneous"/> donc voilà
+        <Sync time="886.572" />
+        j'ai marqué aussi que vivre en collectivité peut amener un stress <Event desc="pause" type="noise" extent="instantaneous"/>
+        <Sync time="890.664" />
+        euh qu'ils sont aussi en période d'adolescence donc euh
+        <Sync time="895.624" />
+        euh il y a toutes les transformations au niveau psychologique et physique
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

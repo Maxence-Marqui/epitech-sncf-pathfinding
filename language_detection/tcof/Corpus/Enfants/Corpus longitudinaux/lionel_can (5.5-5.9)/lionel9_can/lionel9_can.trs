@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="jadelot" audio_filename="lionel9_can.wav" version="12" version_date="090721">
+<Speakers>
+<Speaker id="spk1" name="Lionel" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="adulte" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="CJ 8 07 08 fin 9 07 08RevuECaout08YS20/8/2008"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="599.809" topic="to1">
+<Turn startTime="0" endTime="3.215" speaker="spk2">
+<Sync time="0"/>
+alors attends je mets le magnétophone en route 
+</Turn>
+<Turn speaker="spk1" startTime="3.215" endTime="17.39">
+<Sync time="3.215"/>
+ah *** 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ ///
+</Turn>
+<Turn speaker="spk2" startTime="17.39" endTime="19.308">
+<Sync time="17.39"/>
+qu'est-ce que tu cherches là ? 
+</Turn>
+<Turn speaker="spk1" startTime="19.308" endTime="22.096">
+<Sync time="19.308"/>
+la dame *** 
+</Turn>
+<Turn speaker="spk2" startTime="22.096" endTime="30.53">
+<Sync time="22.096"/>
+la maman ah 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ et l- là-dedans regarde dans celui-là
+<Sync time="27.726"/>
+tu crois pas qu'elle était là la maman ? 
+</Turn>
+<Turn speaker="spk1" startTime="30.53" endTime="31.492">
+<Sync time="30.53"/>
+et voilà 
+</Turn>
+<Turn speaker="spk2" startTime="31.492" endTime="38.067">
+<Sync time="31.492"/>
+et voilà elle est là encore
+<Sync time="33.767"/>
+ah non mais là je crois que c'est une autre maman
+<Sync time="35.294"/>
+c'est la maman de Nicolas je crois
+</Turn>
+<Turn speaker="spk1" startTime="38.067" endTime="39.891">
+<Sync time="38.067"/>
+oui mais elle a les mêmes cheveux
+</Turn>
+<Turn speaker="spk2" startTime="39.891" endTime="43.958">
+<Sync time="39.891"/>
+elle a les mêmes cheveux * elle a les cheveux de la même de la même couleur 
+<Sync time="43.392"/>
+hop 
+</Turn>
+<Turn speaker="spk1" startTime="43.958" endTime="46.917">
+<Sync time="43.958"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="46.917" endTime="47.907">
+<Sync time="46.917"/>
+hop là
+</Turn>
+<Turn speaker="spk1" startTime="47.907" endTime="49.512">
+<Sync time="47.907"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="49.512" endTime="57.169">
+<Sync time="49.512"/>
+hop là 
+<Event desc="b" type="noise" extent="previous"/>
+ alors on y va 
+<Event desc="shh" type="noise" extent="previous"/>
+
+<Sync time="53.778"/>
+
+<Event desc="shh" type="noise" extent="instantaneous"/>
+ tu t'approches de moi là viens là
+<Sync time="56.348"/>
+oh hisse
+</Turn>
+<Turn speaker="spk1" startTime="57.169" endTime="68.33">
+<Sync time="57.169"/>
+hisse
+<Sync time="58.449"/>
+alors je les mets là hein ? et je te 
+<Event desc="St9" type="pronounce" extent="previous"/>
+ lis tout ça
+<Sync time="62.169"/>
+"Le chat de Nicolas" alors dans les personnages tu te souviens 
+<Event desc="tsuvje~" type="pronounce" extent="previous"/>
+ ? 
+</Turn>
+<Turn speaker="spk1" startTime="68.33" endTime="69.498">
+<Sync time="68.33"/>
+Nicolas 
+<Event desc="ch" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="69.498" endTime="71.286">
+<Sync time="69.498"/>
+Nico- Nicolas 
+</Turn>
+<Turn speaker="spk1" startTime="71.286" endTime="74.134">
+<Sync time="71.286"/>
+hum Nicolas 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ * ? 
+</Turn>
+<Turn speaker="spk2" startTime="74.134" endTime="75.198">
+<Sync time="74.134"/>
+là-haut ?
+</Turn>
+<Turn speaker="spk1" startTime="75.198" endTime="78.227">
+<Sync time="75.198"/>
+hum 
+<Event desc="e" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="78.227" endTime="79.245">
+<Sync time="78.227"/>
+Anaïs 
+</Turn>
+<Turn speaker="spk1" startTime="79.245" endTime="80.024">
+<Sync time="79.245"/>
+Anaïs 
+</Turn>
+<Turn speaker="spk2" startTime="80.024" endTime="82.112">
+<Sync time="80.024"/>
+ici
+</Turn>
+<Turn speaker="spk1" startTime="82.112" endTime="82.446">
+<Sync time="82.112"/>
+Karim 
+<Event desc="ch" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="82.446" endTime="86.199">
+<Sync time="82.446"/>
+Karim + Augustin 
+</Turn>
+<Turn speaker="spk1" startTime="86.199" endTime="86.668">
+<Sync time="86.199"/>
+ah 
+<Event desc="ch" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="86.668" endTime="95.993">
+<Sync time="86.668"/>
+on avait vu aussi dans la cantine Augustin
+<Sync time="88.416"/>
+alors là c'est la maman et là c'est Félix
+<Sync time="91.987"/>
+alors Félix je sais pas on va regarder qui c'est hein ?
+<Sync time="93.761"/>
+on va hein lire l'histoire puis on verra qui c'est ?
+</Turn>
+<Turn speaker="spk1" startTime="95.993" endTime="97.06">
+<Sync time="95.993"/>
+il est dedans 
+<Event desc="ch" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="97.06" endTime="98.516">
+<Sync time="97.06"/>
+ah ben il est sûrement dans le livre oui 
+</Turn>
+<Turn speaker="spk1" startTime="98.516" endTime="99.453">
+<Sync time="98.516"/>
+il est dans 
+<Event desc="b" type="noise" extent="previous"/>
+ le livre 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="99.453" endTime="259.157">
+<Sync time="99.453"/>
+s'il est là 
+<Event desc="b" type="noise" extent="previous"/>
+ il est forcément dans 
+<Event desc="b" type="noise" extent="previous"/>
+ le livre
+<Sync time="101.915"/>
+alors on y va tu le mets là entre nous deux 
+<Sync time="104.508"/>
+ou si tu veux je le mets comme ça regarde 
+<Comment desc="Manipulation du magnétophone"/>
+
+<Sync time="105.82"/>
+comme ça il va bien entendre ma voix 
+<Event desc="mic" type="noise" extent="previous"/>
+ ah voilà comme ça
+<Sync time="110.226"/>
+Nicolas regarde par la fenêtre
+<Sync time="112.148"/>
+pour voir si voir si son coup- copain Karim rentre de l'école
+<Sync time="117.066"/>
+quand Karim arrive dans la cour Nicolas lui crie
+<Sync time="119.787"/>
+Karim Karim tu as vu mon chat ?
+<Sync time="122.822"/>
+en entendant Nicolas Karim lève la tête et il crie
+<Sync time="126.286"/>
+non je ne l'ai pas vu ton chat 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ +
+<Sync time="131.323"/>
+Karim demande à Augustin et à Anaïs s'ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ont vu le chat de Nicolas
+<Sync time="135.626"/>
+Anaïs Augustin et Anaïs crient très fort qu'ils n'ont pas vu le chat de Nicolas +
+<Sync time="141.677"/>
+tous les habitants de la Cité se sont mis à leur fenêtre
+<Sync time="145.234"/>
+tout le monde se demande où le chat de Nicolas a pu bien se cacher
+<Sync time="148.939"/>
+a bien pu se cacher
+<Sync time="151.924"/>
+Nicolas Karim Anaïs et Augustin ont décidé de chercher le chat partout partout dans l'immeuble
+<Sync time="159.265"/>
+il commence par descendre à la cave mais le chat de Nicolas n'est pas dans la cave +
+<Sync time="166.608"/>
+le fils du gardien appelle les enfants il est plus vieux que tous les enfants de la cour
+<Sync time="172.232"/>
+il a dix neuf ans il s'appelle Félix
+<Sync time="176.046"/>
+dans sa poche Félix garde la clé de la porte qui ouvre sur le toit + 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+<Sync time="184.746"/>
+Anaïs Augustin Karim et Nicolas sont arrivés sur le toit avec Félix
+<Sync time="190.78"/>
+sur le toit il y a une toute petite cabane en bois
+<Sync time="194.785"/>
+Nicolas dit il faut que je regarde je suis sûr que mon chat est là-dedans
+<Sync time="199.985"/>
+Nicolas a ouvert la cabane il voit deux gros yeux par terre
+<Sync time="204.987"/>
+Nicolas comprend que c'est la maison des poules de Félix
+<Sync time="209.396"/>
+il demande aux poules si elles ont vu son chat
+<Sync time="212.633"/>
+mais les poules ne rat- ne savent pas répondre
+<Sync time="215.081"/>
+elles répètent sans arrêt cot cot codec cot cot codec +
+<Sync time="219.507"/>
+en redescendant l'escalier Nicolas se met à pleurer
+<Sync time="223.286"/>
+il a peur de ne jamais retrouver son chat
+<Sync time="226.25"/>
+les voisins essaient de le consoler mais personne n'a vu le chat de Nicolas 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="231.645"/>
+les enfants retournent à l'étage où Nicolas habite
+<Sync time="235.099"/>
+la maman de Nicolas est devant la porte elle tient un panier à chat
+<Sync time="239.727"/>
+le panier dit miaou miaou la maman de Nicolas l'embrasse en disant
+<Sync time="245.705"/>
+ne pleure plus Nicolas regarde ton chat est dans le panier
+<Sync time="250.27"/>
+je l'ai emmené chez le vétérinaire pour son vaccin
+<Sync time="253.448"/>
+on va lui donner un yaourt parce qu'il a sûrement très faim +
+</Turn>
+<Turn speaker="spk1" startTime="259.157" endTime="259.84">
+<Sync time="259.157"/>
+à moi 
+<Event desc="ch" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="259.84" endTime="260.126">
+<Sync time="259.84"/>
+à toi
+</Turn>
+<Turn speaker="spk1" startTime="260.126" endTime="263.214">
+<Sync time="260.126"/>
+*** 
+<Event desc="ch" type="pronounce" extent="previous"/>
+ 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="263.214" endTime="263.902">
+<Sync time="263.214"/>
+qu'est-ce qu'il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ ?
+</Turn>
+<Turn speaker="spk1" startTime="263.902" endTime="264.011">
+<Sync time="263.902"/>
+*
+</Turn>
+<Turn speaker="spk2" startTime="264.011" endTime="265.821">
+<Sync time="264.011"/>
+ tu veux qu'elle s'en aille ?
+</Turn>
+<Turn speaker="spk2" startTime="265.821" endTime="273.509">
+<Sync time="265.821"/>
+non c'est bon hein c'est pas grave /// Nicolas 
+</Turn>
+<Turn speaker="spk1" startTime="273.509" endTime="284.773">
+<Sync time="273.509"/>
+
+<Event desc="bg" type="noise" extent="instantaneous"/>
+ +
+<Sync time="276.052"/>
+alors + alors + tu me dis le titre ? tu m'as pas dit le titre ?
+</Turn>
+<Turn speaker="spk1" startTime="284.773" endTime="286.454">
+<Sync time="284.773"/>
+je m'en rappelle plus 
+<Event desc="ch" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="286.454" endTime="291.122">
+<Sync time="286.454"/>
+tu t'en rappelles plus du titre ? c'est "Le chat de Nicolas" tu me le redis ?
+</Turn>
+<Turn speaker="spk1" startTime="291.122" endTime="292.855">
+<Sync time="291.122"/>
+"Le chat de Nicolas" 
+</Turn>
+<Turn speaker="spk2" startTime="292.855" endTime="294.85">
+<Sync time="292.855"/>
+oui 
+</Turn>
+<Turn speaker="spk1" startTime="294.85" endTime="297.891">
+<Sync time="294.85"/>
+Nicolas 
+<Event desc="pap" type="noise" extent="previous"/>
+ regarde par la fenêtre 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="297.891" endTime="298.22">
+<Sync time="297.891"/>
+<Who nb="1"/>
+si
+<Who nb="2"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="298.22" endTime="302.657">
+<Sync time="298.22"/>
+Karim rentre de l'école il ne le voit pas
+</Turn>
+<Turn speaker="spk2" startTime="302.657" endTime="308.102">
+<Sync time="302.657"/>
+il regarde par la fenêtre pour voir si son copain est rentré de l'école +
+</Turn>
+<Turn speaker="spk1" startTime="308.102" endTime="313.387">
+<Sync time="308.102"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il voit Karim il lui crie euh non 
+</Turn>
+<Turn speaker="spk2" startTime="313.387" endTime="314.66">
+<Sync time="313.387"/>
+si si si c'est bien 
+</Turn>
+<Turn speaker="spk1" startTime="314.66" endTime="318.862">
+<Sync time="314.66"/>
+il lui dit Nicolas euh non euh
+</Turn>
+<Turn speaker="spk2" startTime="318.862" endTime="320.202">
+<Sync time="318.862"/>
+Karim
+</Turn>
+<Turn speaker="spk1" startTime="320.202" endTime="334.557">
+<Sync time="320.202"/>
+Karim est-ce que tu as vu mon chat ? 
+<Sync time="323.38"/>
+Karim répondit non 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et lui dit non 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ + en levant la tête Karim euh +
+</Turn>
+<Turn speaker="spk2" startTime="334.557" endTime="348.404">
+<Sync time="334.557"/>
+Karim en levant la tête voit Nicolas
+<Sync time="337.515"/>
+et en /l'entendant, l'attendant/ il répond à sa question hein ?
+<Sync time="341.228"/>
+qu'est-ce qu'il lui dit ? qu'est-ce qu'il lui répond Karim ? +
+<Sync time="346.102"/>
+est-ce qu'il a vu le chat Karim ? 
+</Turn>
+<Turn speaker="spk1" startTime="348.404" endTime="350.906">
+<Sync time="348.404"/>
+est-ce que tu as vu mon chat ? non 
+</Turn>
+<Turn speaker="spk2" startTime="350.906" endTime="355.859">
+<Sync time="350.906"/>
+ah Karim n'a pas vu le chat de Nicolas hein ? 
+</Turn>
+<Turn speaker="spk1" startTime="355.859" endTime="362.983">
+<Sync time="355.859"/>
+alors tous les gens regardent sont par la fenêtre
+<Sync time="358.889"/>
+ils ils se demandent bien où a pu passer le chat de Nicolas 
+</Turn>
+<Turn speaker="spk2" startTime="362.983" endTime="368.588">
+<Sync time="362.983"/>
+oui ils demandent aussi à Anaïs et Augustin s'ils n'ont pas vu le chat de Nicolas 
+</Turn>
+<Turn speaker="spk1" startTime="368.588" endTime="370.551">
+<Sync time="368.588"/>
+ouais
+</Turn>
+<Turn speaker="spk2" startTime="370.551" endTime="380.347">
+<Sync time="370.551"/>
+alors attends on va attendre que Isabelle et Chantal s'en aillent 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+<Sync time="375.957"/>
+puis on va recommencer d'accord ? alors cette image
+<Sync time="378.738"/>
+on y va on en était à la page quatre
+</Turn>
+<Turn speaker="spk1" startTime="380.347" endTime="381.535">
+<Sync time="380.347"/>
+tous les gens
+</Turn>
+<Turn speaker="spk2 spk1" startTime="381.535" endTime="381.916">
+<Sync time="381.535"/>
+<Who nb="1"/>
+oui 
+<Who nb="2"/>
+regardent
+</Turn>
+<Turn speaker="spk1" startTime="381.916" endTime="382.693">
+<Sync time="381.916"/>
+par la fenêtre
+</Turn>
+<Turn speaker="spk2" startTime="382.693" endTime="383.376">
+<Sync time="382.693"/>
+oui 
+</Turn>
+<Turn speaker="spk1" startTime="383.376" endTime="386.172">
+<Sync time="383.376"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se demandent bien où est passé le chat de Nicolas 
+</Turn>
+<Turn speaker="spk2" startTime="386.172" endTime="389.345">
+<Sync time="386.172"/>
+oui ils demandent aussi à Anaïs et Augustin s'il n'ont pas vu 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="389.345" endTime="390.883">
+<Sync time="389.345"/>
+<Who nb="1"/>
+ ils ne l'ont pas trouvé 
+<Who nb="2"/>
+le chat de Nicolas 
+</Turn>
+<Turn speaker="spk1" startTime="390.883" endTime="392.422">
+<Sync time="390.883"/>
+alors
+</Turn>
+<Turn speaker="spk2" startTime="392.422" endTime="397.081">
+<Sync time="392.422"/>
+oui ///
+</Turn>
+<Turn speaker="spk1 spk2" startTime="397.081" endTime="397.363">
+<Sync time="397.081"/>
+<Who nb="1"/>
+c'est 
+<Who nb="2"/>
+c'est
+</Turn>
+<Turn speaker="spk1" startTime="397.363" endTime="404.004">
+<Sync time="397.363"/>
+Ka- euh non ils descendent /à, dans/ la cave voir 
+<Sync time="400.889"/>
+mais ils ne le voient pas 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ /non, hum/ 
+</Turn>
+<Turn speaker="spk2" startTime="404.004" endTime="406.937">
+<Sync time="404.004"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ont décidé de chercher le chat partout partout dans l'immeuble
+</Turn>
+<Turn speaker="spk1" startTime="406.937" endTime="407.677">
+<Sync time="406.937"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="407.677" endTime="410.992">
+<Sync time="407.677"/>
+et dans la cave ils n'ont pas vu le chat effectivement
+</Turn>
+<Turn speaker="spk1" startTime="410.992" endTime="413.99">
+<Sync time="410.992"/>
+alors 
+<Event desc="ch" type="pronounce" extent="previous"/>
+ ils vont voir le fils du gardien 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="413.99" endTime="414.639">
+<Sync time="413.99"/>
+<Who nb="1"/>
+il a trente 
+<Who nb="2"/>
+oui 
+</Turn>
+<Turn speaker="spk1" startTime="414.639" endTime="415.803">
+<Sync time="414.639"/>
+trois ans
+</Turn>
+<Turn speaker="spk2" startTime="415.803" endTime="416.716">
+<Sync time="415.803"/>
+dix neuf ans
+</Turn>
+<Turn speaker="spk2 spk1" startTime="416.716" endTime="418.021">
+<Sync time="416.716"/>
+<Who nb="1"/>
+pas trente trois ans 
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="418.021" endTime="425.506">
+<Sync time="418.021"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ comment il s'appelle le gardien ? 
+<Sync time="421.665"/>
+tu te rappelles pas le fils du gardien comment il s'appelle ? 
+<Sync time="424.068"/>
+c'est Félix 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="425.506" endTime="427.24">
+<Sync time="425.506"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+c'est un nouveau personnage on l'avait pas vu
+</Turn>
+<Turn speaker="spk1" startTime="427.24" endTime="429.88">
+<Sync time="427.24"/>
+il garde toujours les clés dans sa poche 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="429.88" endTime="430.883">
+<Sync time="429.88"/>
+<Who nb="1"/>
+hum
+<Who nb="2"/>
+du toit
+</Turn>
+<Turn speaker="spk2" startTime="430.883" endTime="433.093">
+<Sync time="430.883"/>
+les clés qui ouvrent sur le toit oui 
+</Turn>
+<Turn speaker="spk1" startTime="433.093" endTime="442.691">
+<Sync time="433.093"/>
+il leur demande tiens je vais voir s'il n'est pas dedans 
+<Sync time="437.16"/>
+alors 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il voit la le toit et un toit en bois
+<Sync time="441.68"/>
+il ouvra la porte 
+</Turn>
+<Turn speaker="spk2" startTime="442.691" endTime="450.711">
+<Sync time="442.691"/>
+attends attends attends Lionel parce que
+<Sync time="444.943"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont montés sur le toit de l'immeuble 
+<Sync time="448.703"/>
+et sur le toit de l'immeuble qu'est-ce qu'il y a ?
+</Turn>
+<Turn speaker="spk1" startTime="450.711" endTime="452.272">
+<Sync time="450.711"/>
+un petit toit 
+</Turn>
+<Turn speaker="spk2" startTime="452.272" endTime="454.328">
+<Sync time="452.272"/>
+c'est c'est une petite cabane 
+</Turn>
+<Turn speaker="spk1" startTime="454.328" endTime="455.656">
+<Sync time="454.328"/>
+une petite cabane 
+</Turn>
+<Turn speaker="spk2" startTime="455.656" endTime="459.082">
+<Sync time="455.656"/>
+hein une petite cabane en bois et qu'est-ce qu'il y a dans la petite cabane en bois ? 
+</Turn>
+<Turn speaker="spk1" startTime="459.082" endTime="460.271">
+<Sync time="459.082"/>
+il ouvre la porte
+</Turn>
+<Turn speaker="spk2" startTime="460.271" endTime="461.112">
+<Sync time="460.271"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="461.112" endTime="463.865">
+<Sync time="461.112"/>
+et il voit que des poules et deux gros oeufs 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="463.865" endTime="464.392">
+<Sync time="463.865"/>
+<Who nb="1"/>
+oui 
+<Who nb="2"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="464.392" endTime="469.453">
+<Sync time="464.392"/>
+il demande aux poules si elles ne l'ont pas vu le chat
+<Sync time="467.348"/>
+les poules ont fait cot euh cot 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="469.453" endTime="470.64">
+<Sync time="469.453"/>
+<Who nb="1"/>
+cot cot
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="470.64" endTime="472.307">
+<Sync time="470.64"/>
+cot cot cot
+</Turn>
+<Turn speaker="spk2" startTime="472.307" endTime="476.337">
+<Sync time="472.307"/>
+/elle, il/ demande aux poules si elles n'ont pas vu son chat
+<Sync time="474.763"/>
+mais les poules est-ce qu'elles savent répondre ?
+</Turn>
+<Turn speaker="spk1" startTime="476.337" endTime="476.974">
+<Sync time="476.337"/>
+non 
+</Turn>
+<Turn speaker="spk2" startTime="476.974" endTime="478.174">
+<Sync time="476.974"/>
+ah non 
+</Turn>
+<Turn speaker="spk1" startTime="478.174" endTime="483.096">
+<Sync time="478.174"/>
+Nicolas descend les escaliers il pleure et 
+</Turn>
+<Turn speaker="spk2" startTime="483.096" endTime="484.176">
+<Sync time="483.096"/>
+pourquoi est-ce qu'il pleure Nicolas ? 
+</Turn>
+<Turn speaker="spk1" startTime="484.176" endTime="486.068">
+<Sync time="484.176"/>
+parce que il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ trouve plus son chat 
+</Turn>
+<Turn speaker="spk2" startTime="486.068" endTime="490.228">
+<Sync time="486.068"/>
+et il a peur de ne jamais revoir son chat
+<Sync time="488.628"/>
+et et qu- avec qui il est là 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="490.228" endTime="495.251">
+<Sync time="490.228"/>
+<Who nb="1"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+Nicolas ? ///
+</Turn>
+<Turn speaker="spk2" startTime="495.251" endTime="500.303">
+<Sync time="495.251"/>
+c'est les voisins c'est ses voisins ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont venus le consoler ? 
+</Turn>
+<Turn speaker="spk1" startTime="500.303" endTime="504.084">
+<Sync time="500.303"/>
+non ///
+</Turn>
+<Turn speaker="spk2" startTime="504.084" endTime="507.52">
+<Sync time="504.084"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ vas-y vas-y continue Lionel 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="507.52" endTime="507.7">
+<Sync time="507.52"/>
+<Who nb="1"/>
+Nicolas
+<Who nb="2"/>
+mais tu 
+</Turn>
+<Turn speaker="spk2" startTime="507.7" endTime="509.294">
+<Sync time="507.7"/>
+veux tu veux me le raconter ? 
+</Turn>
+<Turn speaker="spk1" startTime="509.294" endTime="509.794">
+<Sync time="509.294"/>
+Nicolas
+</Turn>
+<Turn speaker="spk1 spk2" startTime="509.794" endTime="510.258">
+<Sync time="509.794"/>
+<Who nb="1"/>
+voit
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="510.258" endTime="518.761">
+<Sync time="510.258"/>
+un un panier un panier à chat et il il voit il voit un panier à chat 
+</Turn>
+<Turn speaker="spk2" startTime="518.761" endTime="529.863">
+<Sync time="518.761"/>
+et Nicolas tu sais comment ils sont arrivés ici avec tous ses amis ?
+<Sync time="522.668"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont redescendus à l'étage où Nicolas habite + hein ?
+<Sync time="528.13"/>
+à toi à toi de me le dire 
+</Turn>
+<Turn speaker="spk1" startTime="529.863" endTime="533.991">
+<Sync time="529.863"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont descendus à à l'étage que que que Nicolas 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="533.991" endTime="534.682">
+<Sync time="533.991"/>
+<Who nb="1"/>
+où Nicolas 
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="534.682" endTime="539.968">
+<Sync time="534.682"/>
+habite oui hein et qui c'est qu'il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ y a devant la maison de Nicolas ?
+</Turn>
+<Turn speaker="spk1" startTime="539.968" endTime="541.475">
+<Sync time="539.968"/>
+* sa maman 
+<Event desc="ch" type="pronounce" extent="previous"/>
+ 
+</Turn>
+<Turn speaker="spk2" startTime="541.475" endTime="542.844">
+<Sync time="541.475"/>
+oui ben dis-le plus fort 
+</Turn>
+<Turn speaker="spk1" startTime="542.844" endTime="543.783">
+<Sync time="542.844"/>
+sa maman 
+</Turn>
+<Turn speaker="spk2" startTime="543.783" endTime="545.976">
+<Sync time="543.783"/>
+oui et qu'est-ce qu'elle fait sa maman là ?
+</Turn>
+<Turn speaker="spk1" startTime="545.976" endTime="547.148">
+<Sync time="545.976"/>
+elle porte un panier à chat
+</Turn>
+<Turn speaker="spk2" startTime="547.148" endTime="547.679">
+<Sync time="547.148"/>
+oui 
+</Turn>
+<Turn speaker="spk1" startTime="547.679" endTime="568.207">
+<Sync time="547.679"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ alors + son elle lui dit n'aie pas peur ton chat est dedans
+<Sync time="556.094"/>
+c'est le le docteur lui a fait son vaccin
+<Sync time="558.505"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et et et puis elle fait un bisou sur la tête
+<Sync time="563.626"/>
+et puis elle dit il doit avoir faim je vais lui donner un yaourt 
+</Turn>
+<Turn speaker="spk2" startTime="568.207" endTime="570.32">
+<Sync time="568.207"/>
+oui et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ Nicolas tu as vu il est content 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="570.32" endTime="571.257">
+<Sync time="570.32"/>
+<Who nb="1"/>
+il a à qui 
+<Who nb="2"/>
+d'avoir retrouvé son chat 
+</Turn>
+<Turn speaker="spk1" startTime="571.257" endTime="572.832">
+<Sync time="571.257"/>
+il a donné le yaourt ?
+</Turn>
+<Turn speaker="spk2" startTime="572.832" endTime="573.622">
+<Sync time="572.832"/>
+au chat ? 
+</Turn>
+<Turn speaker="spk1" startTime="573.622" endTime="575.461">
+<Sync time="573.622"/>
+ben un chat ça mange pas de yaourt
+</Turn>
+<Turn speaker="spk2" startTime="575.461" endTime="575.904">
+<Sync time="575.461"/>
+tu crois ?
+</Turn>
+<Turn speaker="spk2" startTime="575.904" endTime="576.266">
+<Sync time="575.904"/>
+ben 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="576.266" endTime="576.482">
+<Sync time="576.266"/>
+<Who nb="1"/>
+pourtant
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="576.482" endTime="591.912">
+<Sync time="576.482"/>
+la maman peut-être que le chat de Nicolas il est spécial
+<Sync time="578.997"/>
+et qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ mange du yaourt parce que la maman de Nicolas tu vois
+<Sync time="582.311"/>
+c'est c'est écrit qu'elle qu'on va lui donner
+<Sync time="584.598"/>
+elle dit on va lui donner son yaourt
+<Sync time="587.118"/>
+donc c'est au chat mais peut-être qu'ils aiment ça 
+<Event desc="b" type="noise" extent="previous"/>
+ les chats les yaourts 
+</Turn>
+<Turn speaker="spk1" startTime="591.912" endTime="594.288">
+<Sync time="591.912"/>
+*** le chat il a mangé
+</Turn>
+<Turn speaker="spk2" startTime="594.288" endTime="595.081">
+<Sync time="594.288"/>
+c'est fini ?
+</Turn>
+<Turn speaker="spk1" startTime="595.081" endTime="595.79">
+<Sync time="595.081"/>
+oui 
+</Turn>
+<Turn speaker="spk2" startTime="595.79" endTime="599.809">
+<Sync time="595.79"/>
+tu veux m'en raconter une autre ou pas ? non c'est bon $$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

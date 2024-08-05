@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Lolo" audio_filename="lucille1_cha.wav" version="24" version_date="140729">
+  <Topics>
+    <Topic id="to1" desc="MS10/2012-ECFev2014" />
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="Lucille" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="714.511" topic="to1">
+      <Turn startTime="0.0" endTime="9.109" speaker="spk1">
+        <Sync time="0.0" />
+        voilà
+        <Sync time="1.128" />
+        alors le titre du livre c'est Marianne et Joël font les commissions
+        <Sync time="6.527" />
+        alors qu'est ce que c'est les commissions Lucille ?
+      </Turn>
+      <Turn speaker="spk2" startTime="9.109" endTime="12.824">
+        <Sync time="9.109" />
+        + euh ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        vont y aller au marché
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="12.824" endTime="14.297">
+        <Sync time="12.824" />
+        <Who nb="1" />
+        hum hum
+        <Who nb="2" />
+        pour manger
+      </Turn>
+      <Turn speaker="spk1" startTime="14.297" endTime="22.625">
+        <Sync time="14.297" />
+        c'est vrai donc c'est comme faire les courses finalement
+        <Sync time="17.462" />
+        faire les commissions ça veut dire faire les courses
+        <Sync time="20.05" />
+        est ce que toi tu fais les courses avec ta maman ?
+      </Turn>
+      <Turn speaker="spk2" startTime="22.625" endTime="23.39">
+        <Sync time="22.625" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="23.39" endTime="25.843">
+        <Sync time="23.39" />
+        oui et vous allez où alors ?
+      </Turn>
+      <Turn speaker="spk2" startTime="25.843" endTime="27.5">
+        <Sync time="25.843" />
+        sur sur le marché
+      </Turn>
+      <Turn speaker="spk1" startTime="27.5" endTime="28.531">
+        <Sync time="27.5" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="28.531" endTime="36.265">
+        <Sync time="28.531" />
+        des fois il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        en fait il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        une dame qui habite chez nous
+        <Sync time="32.843" />
+        c'est une jeune fille italienne mais elle sait parler un peu en français
+      </Turn>
+      <Turn speaker="spk1" startTime="36.265" endTime="36.89">
+        <Sync time="36.265" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="36.89" endTime="38.171">
+        <Sync time="36.89" />
+        et elle nous garde
+      </Turn>
+      <Turn speaker="spk1" startTime="38.171" endTime="40.983">
+        <Sync time="38.171" />
+        d'accord et elle va faire les courses parfois pour ta maman ?
+      </Turn>
+      <Turn speaker="spk2" startTime="40.983" endTime="42.028">
+        <Sync time="40.983" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="42.028" endTime="42.567">
+        <Sync time="42.028" />
+        non
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="42.567" endTime="43.406">
+        <Sync time="42.567" />
+        <Who nb="1" />
+        d'accord
+        <Who nb="2" />
+        ***
+      </Turn>
+      <Turn speaker="spk2" startTime="43.406" endTime="44.546">
+        <Sync time="43.406" />
+        des fois je sais pas
+      </Turn>
+      <Turn speaker="spk1" startTime="44.546" endTime="55.061">
+        <Sync time="44.546" />
+        d'accord mais souvent c'est ta maman
+        <Sync time="46.924" />
+        d'accord
+        <Sync time="47.581" />
+        donc voilà Marianne et Joel font les commissions
+        <Sync time="50.333" />
+        donc tu vas me raconter ce qu'il
+        <Event desc="ski" type="pronounce" extent="previous" />
+        se passe
+        <Event desc="spas" type="pronounce" extent="previous" />
+        encore sur les images
+        <Sync time="53.576" />
+        + alors
+      </Turn>
+      <Turn speaker="spk2" startTime="55.061" endTime="58.655">
+        <Sync time="55.061" />
+        et pourquoi dans l'autre livre que tu as
+        <Event desc="ta" type="pronounce" extent="previous" />
+        raconté *** ?
+      </Turn>
+      <Turn speaker="spk1" startTime="58.655" endTime="60.129">
+        <Sync time="58.655" />
+        ah dans le
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="60.129" endTime="61.159">
+        <Sync time="60.129" />
+        <Who nb="1" />
+        celui qu'on a lu
+        <Who nb="2" />
+        hum *
+      </Turn>
+      <Turn speaker="spk1" startTime="61.159" endTime="69.358">
+        <Sync time="61.159" />
+        juste avant parce qu'il était un peu dur il était un peu difficile à expliquer
+        <Sync time="65.261" />
+        celui là il est un peu il est simple
+        <Sync time="67.025" />
+        alors on a quoi dans cette image ?
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="69.358" endTime="71.562">
+        <Sync time="69.358" />
+        <Who nb="1" />
+        la maman
+        <Who nb="2" />
+        on a qui ?
+      </Turn>
+      <Turn speaker="spk1" startTime="71.562" endTime="72.25">
+        <Sync time="71.562" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="72.25" endTime="78.313">
+        <Sync time="72.25" />
+        euh avec la petite fille le *** et son petit frère
+      </Turn>
+      <Turn speaker="spk1" startTime="78.313" endTime="82.719">
+        <Sync time="78.313" />
+        alors on a dit que la petite fille s'appelait comment ?
+        <Sync time="80.671" />
+        + c'est Marianne
+      </Turn>
+      <Turn speaker="spk2" startTime="82.719" endTime="83.688">
+        <Sync time="82.719" />
+        Marianne
+      </Turn>
+      <Turn speaker="spk1" startTime="83.688" endTime="85.125">
+        <Sync time="83.688" />
+        et le garçon c'est Joël
+      </Turn>
+      <Turn speaker="spk2" startTime="85.125" endTime="85.844">
+        <Sync time="85.125" />
+        Joël
+      </Turn>
+      <Turn speaker="spk1" startTime="85.844" endTime="90.359">
+        <Sync time="85.844" />
+        donc là on a la maman de Marianne et Joël
+        <Sync time="88.874" />
+        là on a m- Marianne
+      </Turn>
+      <Turn speaker="spk2" startTime="90.359" endTime="90.702">
+        <Sync time="90.359" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="90.702" endTime="91.296">
+        <Sync time="90.702" />
+        et là ?
+      </Turn>
+      <Turn speaker="spk2" startTime="91.296" endTime="91.984">
+        <Sync time="91.296" />
+        Joël
+      </Turn>
+      <Turn speaker="spk1" startTime="91.984" endTime="93.641">
+        <Sync time="91.984" />
+        ouais et qu'est ce qu'elle fait Marianne ?
+      </Turn>
+      <Turn speaker="spk2" startTime="93.641" endTime="95.985">
+        <Sync time="93.641" />
+        elle est en train de jouer avec sa poupée
+      </Turn>
+      <Turn speaker="spk1" startTime="95.985" endTime="96.235">
+        <Sync time="95.985" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="96.235" endTime="97.594">
+        <Sync time="96.235" />
+        et parler avec sa maman
+      </Turn>
+      <Turn speaker="spk1" startTime="97.594" endTime="99.5">
+        <Sync time="97.594" />
+        et que fait la maman là ?
+      </Turn>
+      <Turn speaker="spk2" startTime="99.5" endTime="101.578">
+        <Sync time="99.5" />
+        elle est en train de lire
+      </Turn>
+      <Turn speaker="spk1" startTime="101.578" endTime="107.515">
+        <Sync time="101.578" />
+        hum hum et alors ça c'est une feuille de papier
+        <Sync time="103.998" />
+        et qu'est ce que tu penses qu'il y a écrit sur la feuille de papier ?
+      </Turn>
+      <Turn speaker="spk2" startTime="107.515" endTime="115.937">
+        <Sync time="107.515" />
+        des choses
+        <Sync time="108.967" />
+        oui et tu penses que c'est des choses euh quel genre de choses ?
+        <Sync time="112.329" />
+        parce qu'on a dit que c'était
+        <Event desc="ksetE" type="pronounce" extent="previous" />
+        Marianne et Joël qui allaient faire les courses
+      </Turn>
+      <Turn speaker="spk2" startTime="115.937" endTime="119.094">
+        <Sync time="115.937" />
+        des choses de de courses
+      </Turn>
+      <Turn speaker="spk1" startTime="119.094" endTime="119.406">
+        <Sync time="119.094" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="119.406" endTime="120.188">
+        <Sync time="119.406" />
+        pour acheter
+      </Turn>
+      <Turn speaker="spk1" startTime="120.188" endTime="121.829">
+        <Sync time="120.188" />
+        alors par exemple ça peut être quoi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="121.829" endTime="125.329">
+        <Sync time="121.829" />
+        euh des tomates
+      </Turn>
+      <Turn speaker="spk1" startTime="125.329" endTime="133.417">
+        <Sync time="125.329" />
+        hum hum c'est vrai ça peut être des tomates
+        <Sync time="127.901" />
+        alors il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        peut-être écrit des tomates ici et puis peut-être du pain et puis
+        <Sync time="131.772" />
+        on peut acheter plein de choses au marché
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="133.417" endTime="134.649">
+        <Sync time="133.417" />
+        <Who nb="1" />
+        de toute façon
+        <Who nb="2" />
+        ***
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="134.649" endTime="137.391">
+        <Sync time="134.649" />
+        <Who nb="1" />
+        hum hum c'est vrai
+        <Who nb="2" />
+        ***
+      </Turn>
+      <Turn speaker="spk1" startTime="137.391" endTime="139.094">
+        <Sync time="137.391" />
+        et alors là qu'est ce qu'il y a
+        <Event desc="keskia" type="pronounce" extent="previous" />
+        en dessous de la feuille ?
+      </Turn>
+      <Turn speaker="spk2" startTime="139.094" endTime="140.219">
+        <Sync time="139.094" />
+        des euros
+      </Turn>
+      <Turn speaker="spk1" startTime="140.219" endTime="142.397">
+        <Sync time="140.219" />
+        ouais des euros
+        <Sync time="141.753" />
+        de l'argent
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="142.397" endTime="144.094">
+        <Sync time="142.397" />
+        <Who nb="1" />
+        finalement
+        <Who nb="2" />
+        mais là on les voit pas là
+      </Turn>
+      <Turn speaker="spk1" startTime="144.094" endTime="148.719">
+        <Sync time="144.094" />
+        non on les voit juste là parce que pour faire les courses on a besoin de quoi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="148.719" endTime="150.031">
+        <Sync time="148.719" />
+        des sous
+      </Turn>
+      <Turn speaker="spk1" startTime="150.031" endTime="157.062">
+        <Sync time="150.031" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        on a besoin d'argent
+        <Sync time="152.033" />
+        + alors là
+        <Sync time="154.944" />
+        ils sont en train de faire
+        <Event desc="dfER" type="pronounce" extent="previous" />
+        quoi Joël et Marianne ?
+      </Turn>
+      <Turn speaker="spk2" startTime="157.062" endTime="159.624">
+        <Sync time="157.062" />
+        ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont en train de prendre leurs manteaux
+      </Turn>
+      <Turn speaker="spk1" startTime="159.624" endTime="165.671">
+        <Sync time="159.624" />
+        hum hum donc finalement ça s'appelle comment ça ?
+        <Sync time="162.403" />
+        quand on met des vêtements
+        <Sync time="163.737" />
+        quand on met des habits ?
+      </Turn>
+      <Turn speaker="spk2" startTime="165.671" endTime="167.327">
+        <Sync time="165.671" />
+        des manteaux
+      </Turn>
+      <Turn speaker="spk1" startTime="167.327" endTime="174.859">
+        <Sync time="167.327" />
+        on s'habille
+        <Sync time="168.549" />
+        donc ils sont en train de s'habiller les enfants
+        <Sync time="171.615" />
+        + Marianne qu'est ce qu'elle donne à Joël ?
+      </Turn>
+      <Turn speaker="spk2" startTime="174.859" endTime="176.281">
+        <Sync time="174.859" />
+        un sac
+      </Turn>
+      <Turn speaker="spk1" startTime="176.281" endTime="179.328">
+        <Sync time="176.281" />
+        hum hum donc c'est un panier et le panier il
+        <Event desc="i" type="pronounce" extent="previous" />
+        va leur servir à quoi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="179.328" endTime="182.094">
+        <Sync time="179.328" />
+        à mettre des choses dedans
+      </Turn>
+      <Turn speaker="spk1" startTime="182.094" endTime="183.281">
+        <Sync time="182.094" />
+        pour mettre leur courses
+      </Turn>
+      <Turn speaker="spk2" startTime="183.281" endTime="184.969">
+        <Sync time="183.281" />
+        *
+      </Turn>
+      <Turn speaker="spk1" startTime="184.969" endTime="187.937">
+        <Sync time="184.969" />
+        et alors là ils sont train de ?
+      </Turn>
+      <Turn speaker="spk2" startTime="187.937" endTime="189.78">
+        <Sync time="187.937" />
+        de descendre les escaliers
+      </Turn>
+      <Turn speaker="spk1" startTime="189.78" endTime="190.936">
+        <Sync time="189.78" />
+        et là ?
+      </Turn>
+      <Turn speaker="spk2" startTime="190.936" endTime="196.061">
+        <Sync time="190.936" />
+        ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont en train d'ouvrir la porte et la faire refermer
+        <Comment desc="sic" />
+      </Turn>
+      <Turn speaker="spk1" startTime="196.061" endTime="198.467">
+        <Sync time="196.061" />
+        donc là ils sont partis se promener dehors
+      </Turn>
+      <Turn speaker="spk2" startTime="198.467" endTime="199.556">
+        <Sync time="198.467" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="199.556" endTime="200.968">
+        <Sync time="199.556" />
+        avec leur panier
+      </Turn>
+      <Turn speaker="spk2" startTime="200.968" endTime="201.968">
+        <Sync time="200.968" />
+        *
+      </Turn>
+      <Turn speaker="spk1" startTime="201.968" endTime="203.968">
+        <Sync time="201.968" />
+        et alors là on est dans quelle boutique ?
+      </Turn>
+      <Turn speaker="spk2" startTime="203.968" endTime="205.562">
+        <Sync time="203.968" />
+        euh
+      </Turn>
+      <Turn speaker="spk1" startTime="205.562" endTime="207.469">
+        <Sync time="205.562" />
+        qu'est ce qu'elle vend ? qu'est ce qu'elle vend la dame ?
+      </Turn>
+      <Turn speaker="spk2" startTime="207.469" endTime="208.75">
+        <Sync time="207.469" />
+        du lait
+      </Turn>
+      <Turn speaker="spk1" startTime="208.75" endTime="209.031">
+        <Sync time="208.75" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="209.031" endTime="210.781">
+        <Sync time="209.031" />
+        des petits pots
+        <Event desc="pu" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="210.781" endTime="211.312">
+        <Sync time="210.781" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="211.312" endTime="212.359">
+        <Sync time="211.312" />
+        des oeufs
+        <Event desc="z9f" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="212.359" endTime="213.578">
+        <Sync time="212.359" />
+        des oeufs oui
+      </Turn>
+      <Turn speaker="spk2" startTime="213.578" endTime="215.297">
+        <Sync time="213.578" />
+        hum du fromage
+      </Turn>
+      <Turn speaker="spk1" startTime="215.297" endTime="216.11">
+        <Sync time="215.297" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="216.11" endTime="217.298">
+        <Sync time="216.11" />
+        des petites
+        <Event desc="ptit" type="pronounce" extent="previous" />
+        boîtes
+      </Turn>
+      <Turn speaker="spk1" startTime="217.298" endTime="219.361">
+        <Sync time="217.298" />
+        ça c'est quoi ? du beurre aussi
+      </Turn>
+      <Turn speaker="spk2" startTime="219.361" endTime="219.751">
+        <Sync time="219.361" />
+        du beurre
+      </Turn>
+      <Turn speaker="spk1" startTime="219.751" endTime="220.626">
+        <Sync time="219.751" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="220.626" endTime="223.407">
+        <Sync time="220.626" />
+        des f- du fromage encore
+      </Turn>
+      <Turn speaker="spk1" startTime="223.407" endTime="223.84">
+        <Sync time="223.407" />
+        elle vend
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="223.84" endTime="225.875">
+        <Sync time="223.84" />
+        <Who nb="1" />
+        beaucoup de fromage
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Who nb="2" />
+        du fromage encore
+      </Turn>
+      <Turn speaker="spk2" startTime="225.875" endTime="227.0">
+        <Sync time="225.875" />
+        du fromage encore
+      </Turn>
+      <Turn speaker="spk1" startTime="227.0" endTime="229.813">
+        <Sync time="227.0" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        elle mange beaucoup de fromage la dame
+      </Turn>
+      <Turn speaker="spk2" startTime="229.813" endTime="230.516">
+        <Sync time="229.813" />
+        et du vin
+      </Turn>
+      <Turn speaker="spk1" startTime="230.516" endTime="233.797">
+        <Sync time="230.516" />
+        hum hum peut-être que c'est de l'huile ça je ne sais
+        <Event desc="nsE" type="pronounce" extent="previous" />
+        pas
+      </Turn>
+      <Turn speaker="spk2" startTime="233.797" endTime="234.235">
+        <Sync time="233.797" />
+        *
+      </Turn>
+      <Turn speaker="spk1" startTime="234.235" endTime="238.313">
+        <Sync time="234.235" />
+        alors cette boutique est ce que tu sais comment ça s'appelle ? c'est un peu difficile comme mot
+      </Turn>
+      <Turn speaker="spk2" startTime="238.313" endTime="239.625">
+        <Sync time="238.313" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="239.625" endTime="252.375">
+        <Sync time="239.625" />
+        c'est une crèmerie
+        <Sync time="240.854" />
+        ça s'appelle une crèmerie donc c'est là comme tu m'as dit
+        <Sync time="244.593" />
+        où on vend des oeufs du lait du beurre du fromage
+        <Sync time="249.363" />
+        donc là Joël et Marianne sont dans la crèmerie
+      </Turn>
+      <Turn speaker="spk2" startTime="252.375" endTime="255.015">
+        <Sync time="252.375" />
+        et il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        pas de tomates
+      </Turn>
+      <Turn speaker="spk1" startTime="255.015" endTime="261.295">
+        <Sync time="255.015" />
+        non alors là justement qu'est ce qu'ils sont en train d'acheter là les enfants ?
+        <Comment desc="Lucille tousse" />
+      </Turn>
+      <Turn speaker="spk2" startTime="261.295" endTime="262.452">
+        <Sync time="261.295" />
+        ***
+      </Turn>
+      <Turn speaker="spk1" startTime="262.452" endTime="263.921">
+        <Sync time="262.452" />
+        donc ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont dans une autre boutique là
+      </Turn>
+      <Turn speaker="spk2" startTime="263.921" endTime="264.89">
+        <Sync time="263.921" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="264.89" endTime="266.499">
+        <Sync time="264.89" />
+        hum hum et ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont où ?
+        <Comment desc="Lucille tousse" />
+      </Turn>
+      <Turn speaker="spk2" startTime="266.499" endTime="269.999">
+        <Sync time="266.499" />
+        ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont dans la boutique
+      </Turn>
+      <Turn speaker="spk1" startTime="269.999" endTime="273.577">
+        <Sync time="269.999" />
+        là
+        <Sync time="270.72" />
+        + i- il
+        <Event desc="i" type="pronounce" extent="previous" />
+        vend quoi le monsieur ?
+      </Turn>
+      <Turn speaker="spk2" startTime="273.577" endTime="274.546">
+        <Sync time="273.577" />
+        des fruits
+      </Turn>
+      <Turn speaker="spk1" startTime="274.546" endTime="277.39">
+        <Sync time="274.546" />
+        hum hum et puis il vend quoi aussi ? ça c'est quoi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="277.39" endTime="283.484">
+        <Sync time="277.39" />
+        des euh
+        <Sync time="278.964" />
+        + des des artichauts
+      </Turn>
+      <Turn speaker="spk1" startTime="283.484" endTime="288.687">
+        <Sync time="283.484" />
+        ouais c'est ça des artichauts de la salade
+        <Sync time="285.73" />
+        il
+        <Event desc="i" type="pronounce" extent="previous" />
+        vend plein plein de choses
+        <Event desc="dSOz" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="288.687" endTime="290.14">
+        <Sync time="288.687" />
+        ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont au marché
+      </Turn>
+      <Turn speaker="spk1" startTime="290.14" endTime="300.905">
+        <Sync time="290.14" />
+        hum il est au marché ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont au marché là
+        <Sync time="292.533" />
+        effectivement
+        <Sync time="294.462" />
+        là + c'est des animaux un petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        peu bizarres
+      </Turn>
+      <Turn speaker="spk2" startTime="300.905" endTime="301.504">
+        <Sync time="300.905" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="301.504" endTime="302.937">
+        <Sync time="301.504" />
+        <Who nb="1" />
+        ils habitent dans l'eau
+        <Who nb="2" />
+        c'est quoi ?
+      </Turn>
+      <Turn speaker="spk1" startTime="302.937" endTime="306.562">
+        <Sync time="302.937" />
+        hum hum mais c'est quoi ?
+        <Sync time="305.061" />
+        qui est ce qui vit dans l'eau ?
+      </Turn>
+      <Turn speaker="spk2" startTime="306.562" endTime="312.75">
+        <Sync time="306.562" />
+        euh des poissons des scarabées des crabes
+      </Turn>
+      <Turn speaker="spk1" startTime="312.75" endTime="317.0">
+        <Sync time="312.75" />
+        alors c'est pas des scarabées
+        <Sync time="313.981" />
+        c'est des homards tu vois donc oui il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        des crabes aussi
+      </Turn>
+      <Turn speaker="spk2" startTime="317.0" endTime="318.453">
+        <Sync time="317.0" />
+        des moules
+      </Turn>
+      <Turn speaker="spk1" startTime="318.453" endTime="319.422">
+        <Sync time="318.453" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" startTime="319.422" endTime="321.563">
+        <Sync time="319.422" />
+        euh
+        <Event desc="bb" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="321.563" endTime="326.719">
+        <Sync time="321.563" />
+        alors ça s'appelle la poissonnerie
+        <Sync time="324.02" />
+        + c'est la poissonnerie
+      </Turn>
+      <Turn speaker="spk2" startTime="326.719" endTime="329.094">
+        <Sync time="326.719" />
+        il y a quelque chose aussi dans son sac
+      </Turn>
+      <Turn speaker="spk1" startTime="329.094" endTime="336.312">
+        <Sync time="329.094" />
+        hum hum je pense qu'ils ont plein de choses
+        <Event desc="dSOz" type="pronounce" extent="previous" />
+        dans leur sac
+        <Sync time="331.499" />
+        puisqu'ils
+        <Event desc="ki" type="pronounce" extent="previous" />
+        sont déjà allés dans la crèmerie
+        <Sync time="333.414" />
+        et ils ont
+        <Event desc="izo~ " type="pronounce" extent="previous" />
+        déjà acheté des fruits et des légumes
+      </Turn>
+      <Turn speaker="spk2" startTime="336.312" endTime="338.327">
+        <Sync time="336.312" />
+        * trois
+      </Turn>
+      <Turn speaker="spk1" startTime="338.327" endTime="344.296">
+        <Sync time="338.327" />
+        hum hum ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont allés déjà dans trois magasins c'est vrai
+        <Sync time="341.669" />
+        + alors là on est où ?
+      </Turn>
+      <Turn speaker="spk2" startTime="344.296" endTime="346.656">
+        <Sync time="344.296" />
+        dans la ville
+      </Turn>
+      <Turn speaker="spk1" startTime="346.656" endTime="348.656">
+        <Sync time="346.656" />
+        hum hum et ça c'est quoi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="348.656" endTime="351.406">
+        <Sync time="348.656" />
+        une roulotte
+      </Turn>
+      <Turn speaker="spk1" startTime="351.406" endTime="355.938">
+        <Sync time="351.406" />
+        ouais et on est dans la rue en fait hein
+        <Sync time="353.503" />
+        et qu'est ce qu'il y a
+        <Event desc="keskia" type="pronounce" extent="previous" />
+        dans cette rue ?
+      </Turn>
+      <Turn speaker="spk2" startTime="355.938" endTime="361.558">
+        <Sync time="355.938" />
+        non je pense que c'est que de la *** petit truc là
+      </Turn>
+      <Turn speaker="spk1" startTime="361.558" endTime="364.5">
+        <Sync time="361.558" />
+        hum hum et là qu'est ce qu'il y a
+        <Event desc="keskia" type="pronounce" extent="previous" />
+        ?
+      </Turn>
+      <Turn speaker="spk2" startTime="364.5" endTime="367.0">
+        <Sync time="364.5" />
+        des magasins
+      </Turn>
+      <Turn speaker="spk1" startTime="367.0" endTime="367.266">
+        <Sync time="367.0" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="367.266" endTime="370.047">
+        <Sync time="367.266" />
+        des petits
+        <Event desc="pti" type="pronounce" extent="previous" />
+        oiseaux ils s'achètent *
+      </Turn>
+      <Turn speaker="spk1" startTime="370.047" endTime="374.578">
+        <Sync time="370.047" />
+        ah oui alors là on achète des petits
+        <Event desc="pti" type="pronounce" extent="previous" />
+        oiseaux ça s'appelle une animalerie
+      </Turn>
+      <Turn speaker="spk2" startTime="374.578" endTime="376.328">
+        <Sync time="374.578" />
+        <Event desc="alri" type="pronounce" extent="previous" />
+        <Comment desc="=animalerie" />
+      </Turn>
+      <Turn speaker="spk1" startTime="376.328" endTime="379.172">
+        <Sync time="376.328" />
+        hum hum et dans celle là qu'est ce qu'on achète ?
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="379.172" endTime="381.708">
+        <Sync time="379.172" />
+        <Who nb="1" />
+        des chapeaux
+        <Who nb="2" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="381.708" endTime="384.056">
+        <Sync time="381.708" />
+        des paniers mais ils ont
+        <Event desc="izo~" type="pronounce" extent="previous" />
+        déjà
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="384.056" endTime="385.156">
+        <Sync time="384.056" />
+        <Who nb="1" />
+        un panier
+        <Who nb="2" />
+        ils ont
+        <Event desc="izo~ " type="pronounce" extent="previous" />
+        déjà un panier
+      </Turn>
+      <Turn speaker="spk1" startTime="385.156" endTime="389.687">
+        <Sync time="385.156" />
+        donc ils en ont pas besoin
+        <Sync time="385.977" />
+        + bon bah alors il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        beaucoup beaucoup de boutiques là-dedans hein
+      </Turn>
+      <Turn speaker="spk2" startTime="389.687" endTime="392.265">
+        <Sync time="389.687" />
+        *** la maman /0, elle/ a demandé un panier
+      </Turn>
+      <Turn speaker="spk1" startTime="392.265" endTime="397.499">
+        <Sync time="392.265" />
+        mais on va voir /hein, à/ la fin ce que
+        <Event desc="sk@" type="pronounce" extent="previous" />
+        la maman avait demandé
+        <Sync time="395.707" />
+        + donc on va tourner
+      </Turn>
+      <Turn speaker="spk2" startTime="397.499" endTime="402.311">
+        <Sync time="397.499" />
+        et p- la petite fille ici qui avait dit qui avait fait là
+      </Turn>
+      <Turn speaker="spk1" startTime="402.311" endTime="403.78">
+        <Sync time="402.311" />
+        qui avait fait quoi ?
+      </Turn>
+      <Turn speaker="spk2" startTime="403.78" endTime="406.561">
+        <Sync time="403.78" />
+        qui a fait la qui a écrit tout
+      </Turn>
+      <Turn speaker="spk1" startTime="406.561" endTime="410.248">
+        <Sync time="406.561" />
+        tu crois je pense
+        <Event desc="Zpa~s" type="pronounce" extent="previous" />
+        qu'elle sait pas encore écrire la petite
+        <Event desc="ptit" type="pronounce" extent="previous" />
+        fille c'est sûrement la maman
+      </Turn>
+      <Turn speaker="spk2" startTime="410.248" endTime="412.748">
+        <Sync time="410.248" />
+        ça doit être elle a elle doit avoir sept ans
+      </Turn>
+      <Turn speaker="spk1" startTime="412.748" endTime="422.816">
+        <Sync time="412.748" />
+        hum hum alors elle sait lire et écrire à sept ans
+        <Sync time="415.328" />
+        + bon et alors là ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont dans un magasin qui doit te plaire hein
+        <Sync time="420.294" />
+        qu'est ce qu'on vend dans ce magasin ?
+      </Turn>
+      <Turn speaker="spk2" startTime="422.816" endTime="425.034">
+        <Sync time="422.816" />
+        des bonbons
+        <Comment desc="rires de l'adulte" />
+      </Turn>
+      <Turn speaker="spk1" startTime="425.034" endTime="426.905">
+        <Sync time="425.034" />
+        ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        vont en acheter beaucoup tu penses ?
+      </Turn>
+      <Turn speaker="spk2" startTime="426.905" endTime="429.014">
+        <Sync time="426.905" />
+        ah oui des bonbons euh
+      </Turn>
+      <Turn speaker="spk1" startTime="429.014" endTime="430.155">
+        <Sync time="429.014" />
+        c'est qu'ils
+        <Event desc="ki" type="pronounce" extent="previous" />
+        sont gourmands
+      </Turn>
+      <Turn speaker="spk2" startTime="430.155" endTime="432.655">
+        <Sync time="430.155" />
+        elle lui il
+        <Event desc="i" type="pronounce" extent="previous" />
+        va acheter toutes les sucettes
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="432.655" endTime="433.499">
+        <Sync time="432.655" />
+        <Who nb="1" />
+        ouais
+        <Who nb="2" />
+        hein
+      </Turn>
+      <Turn speaker="spk1" startTime="433.499" endTime="439.374">
+        <Sync time="433.499" />
+        <Comment desc="rires de l'adulte" />
+        je pense aussi
+        <Sync time="434.95" />
+        donc là ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont un magasin qui leur plaît beaucoup hein
+        <Sync time="437.726" />
+        et là on est où ?
+      </Turn>
+      <Turn speaker="spk2" startTime="439.374" endTime="442.187">
+        <Sync time="439.374" />
+        où on vend du pou-
+      </Turn>
+      <Turn speaker="spk1" startTime="442.187" endTime="445.124">
+        <Sync time="442.187" />
+        oui du quoi ? du poulet ? hum
+      </Turn>
+      <Turn speaker="spk2" startTime="445.124" endTime="447.03">
+        <Sync time="445.124" />
+        du poulet du poisson
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="447.03" endTime="448.624">
+        <Sync time="447.03" />
+        <Who nb="1" />
+        de la vian-
+        <Who nb="2" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="448.624" endTime="449.28">
+        <Sync time="448.624" />
+        de la ?
+      </Turn>
+      <Turn speaker="spk2" startTime="449.28" endTime="450.217">
+        <Sync time="449.28" />
+        de la viande
+      </Turn>
+      <Turn speaker="spk1" startTime="450.217" endTime="464.135">
+        <Sync time="450.217" />
+        ouais effectivement donc on voi- on vend pas de poisson là mais on vend de la viande
+        <Sync time="453.665" />
+        on est chez le boucher ça s'apelle la boucherie
+        <Sync time="456.991" />
+        hum il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        un petit chat
+        <Sync time="459.044" />
+        donc après être allés chez le boucher ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        vont où ?
+        <Sync time="462.983" />
+        ça s'appelle comment ?
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="464.135" endTime="466.26">
+        <Sync time="464.135" />
+        <Who nb="1" />
+        la boulangerie
+        <Who nb="2" />
+        chez le
+      </Turn>
+      <Turn speaker="spk1" startTime="466.26" endTime="470.135">
+        <Sync time="466.26" />
+        ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        vont à la boulangerie
+        <Sync time="467.299" />
+        et ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        vont acheter quoi à la boulangerie ?
+      </Turn>
+      <Turn speaker="spk2" startTime="470.135" endTime="475.151">
+        <Sync time="470.135" />
+        bah plein de choses parce qu'il y a
+        <Event desc="paskia" type="pronounce" extent="previous" />
+        des gâteaux
+        <Sync time="473.125" />
+        très bons comme les bonbons
+      </Turn>
+      <Turn speaker="spk1" startTime="475.151" endTime="478.667">
+        <Sync time="475.151" />
+        ouais alors il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        des bonbons des gâteaux et puis qu'est ce qu'on achète à la boulangerie ?
+      </Turn>
+      <Turn speaker="spk2" startTime="478.667" endTime="480.73">
+        <Sync time="478.667" />
+        une baguette
+      </Turn>
+      <Turn speaker="spk1" startTime="480.73" endTime="482.573">
+        <Sync time="480.73" />
+        ouais donc ça s'appelle du ?
+      </Turn>
+      <Turn speaker="spk2" startTime="482.573" endTime="483.385">
+        <Sync time="482.573" />
+        ***
+      </Turn>
+      <Turn speaker="spk1" startTime="483.385" endTime="488.064">
+        <Sync time="483.385" />
+        c'est du ?
+        <Sync time="485.451" />
+        pain ils achètent du pain
+      </Turn>
+      <Turn speaker="spk2" startTime="488.064" endTime="491.361">
+        <Sync time="488.064" />
+        et lui il est en train de regarder
+        <Event desc="dR@gaRde" type="pronounce" extent="previous" />
+        s'il peut acheter quelque chose
+      </Turn>
+      <Turn speaker="spk1" startTime="491.361" endTime="497.389">
+        <Sync time="491.361" />
+        donc comme tu m'as dit tout à l'heure avec les bonbons il a l'air très gourmand
+        <Sync time="494.908" />
+        Joël hein et Marianne elle est en train
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="497.389" endTime="498.324">
+        <Sync time="497.389" />
+        <Who nb="1" />
+        d'acheter
+        <Who nb="2" />
+        mon papa aussi
+      </Turn>
+      <Turn speaker="spk2" startTime="498.324" endTime="499.579">
+        <Sync time="498.324" />
+        il
+        <Event desc="i" type="pronounce" extent="previous" />
+        s'appelle Joël
+      </Turn>
+      <Turn speaker="spk1" startTime="499.579" endTime="500.19">
+        <Sync time="499.579" />
+        ah bon
+      </Turn>
+      <Turn speaker="spk2" startTime="500.19" endTime="502.612">
+        <Sync time="500.19" />
+        bah nous on l'appelle papa Jo
+      </Turn>
+      <Turn speaker="spk1" startTime="502.612" endTime="503.393">
+        <Sync time="502.612" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="503.393" endTime="508.049">
+        <Sync time="503.393" />
+        et quand j'étais petite je l'appel-
+        <Event desc="ZlapEl" type="pronounce" extent="previous" />
+        je l'appelais Jojo Jojo
+      </Turn>
+      <Turn speaker="spk1" startTime="508.049" endTime="512.852">
+        <Sync time="508.049" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        il était gourmand
+        <Sync time="509.895" />
+        alors comme aussi Joël
+        <Sync time="511.968" />
+        donc
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="512.852" endTime="514.546">
+        <Sync time="512.852" />
+        <Who nb="1" />
+        là après la boulangerie
+        <Who nb="2" />
+        non non il est pas gourmand
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="514.546" endTime="515.799">
+        <Sync time="514.546" />
+        <Who nb="1" />
+        il est pas gourmand
+        <Who nb="2" />
+        *** gourmand
+      </Turn>
+      <Turn speaker="spk2" startTime="515.799" endTime="519.815">
+        <Sync time="515.799" />
+        ***
+      </Turn>
+      <Turn speaker="spk1" startTime="519.815" endTime="527.584">
+        <Sync time="519.815" />
+        d'accord
+        <Sync time="520.536" />
+        donc Joël pour l'instant c'est un petit garçon qui est gourmand
+        <Sync time="523.995" />
+        et là
+        <Sync time="525.452" />
+        oh c'est joli ça
+      </Turn>
+      <Turn speaker="spk2" startTime="527.584" endTime="530.253">
+        <Sync time="527.584" />
+        ils
+        <Event desc="i" type="pronounce" extent="previous" />
+        sont en train d'acheter des plantes
+      </Turn>
+      <Turn speaker="spk1" startTime="530.253" endTime="531.519">
+        <Sync time="530.253" />
+        ouais c'est des fleurs
+      </Turn>
+      <Turn speaker="spk2" startTime="531.519" endTime="535.863">
+        <Sync time="531.519" />
+        bah tu sais pourquoi elle fait un bisou parce qu'elle
+        <Event desc="paskEl" type="pronounce" extent="previous" />
+        a acheté des plantes pour elle
+      </Turn>
+      <Turn speaker="spk1" startTime="535.863" endTime="541.442">
+        <Sync time="535.863" />
+        ouais
+        <Sync time="536.33" />
+        donc là on avait dans la première image Marianne et Joël qui achetaient des ?
+      </Turn>
+      <Turn speaker="spk2" startTime="541.442" endTime="542.442">
+        <Sync time="541.442" />
+        fleurs
+      </Turn>
+      <Turn speaker="spk1" startTime="542.442" endTime="543.755">
+        <Sync time="542.442" />
+        oui pour ?
+      </Turn>
+      <Turn speaker="spk2" startTime="543.755" endTime="545.255">
+        <Sync time="543.755" />
+        pour sa maman
+      </Turn>
+      <Turn speaker="spk1" startTime="545.255" endTime="549.318">
+        <Sync time="545.255" />
+        voilà et dans l'image d'après effectivement
+        <Sync time="547.841" />
+        qu'est ce qu'elle fait la maman ?
+      </Turn>
+      <Turn speaker="spk2" startTime="549.318" endTime="553.755">
+        <Sync time="549.318" />
+        elle est en train de lui
+        <Event desc="dlyi" type="pronounce" extent="previous" />
+        faire un bisous parce qu'elle
+        <Event desc="paskEl" type="pronounce" extent="previous" />
+        a acheté tous les trucs qu'il fallait
+      </Turn>
+      <Turn speaker="spk1" startTime="553.755" endTime="555.458">
+        <Sync time="553.755" />
+        alors elle fait un bisou à qui ?
+      </Turn>
+      <Turn speaker="spk2" startTime="555.458" endTime="562.083">
+        <Sync time="555.458" />
+        à Marianne et à *** et pas à Nicole et le tire comme ça
+      </Turn>
+      <Turn speaker="spk1" startTime="562.083" endTime="568.786">
+        <Sync time="562.083" />
+        donc elle fait un bisou à Marianne et à Joël
+        <Sync time="564.339" />
+        elle leur fait un gros gros bisou
+        <Sync time="566.399" />
+        parce qu'ils ont été gentils
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="568.786" endTime="570.099">
+        <Sync time="568.786" />
+        <Who nb="1" />
+        mais Marianne elle
+        <Who nb="2" />
+        parce qu'ils ont bien tout acheté
+      </Turn>
+      <Turn speaker="spk2" startTime="570.099" endTime="577.473">
+        <Sync time="570.099" />
+        *** bah tu sais pourquoi elle fait un gros bisou à Marianne
+        <Sync time="573.855" />
+        parce que
+        <Event desc="pask9" type="pronounce" extent="previous" />
+        aussi elle s'est bien occupée de son petit frère
+      </Turn>
+      <Turn speaker="spk1" startTime="577.473" endTime="580.102">
+        <Sync time="577.473" />
+        c'est vrai ils ont été drôlement gentils ces enfants hein
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="580.102" endTime="581.21">
+        <Sync time="580.102" />
+        <Who nb="1" />
+        drôlement sages
+        <Who nb="2" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="581.21" endTime="585.859">
+        <Sync time="581.21" />
+        ils ont fait exactement ce que
+        <Event desc="sk@" type="pronounce" extent="previous" />
+        la maman leur voulait
+        <Sync time="583.475" />
+        + et là dans cette image ?
+      </Turn>
+      <Turn speaker="spk2" startTime="585.859" endTime="589.339">
+        <Sync time="585.859" />
+        en plus sa maman elle est toute petite là
+      </Turn>
+      <Turn speaker="spk1" startTime="589.339" endTime="591.068">
+        <Sync time="589.339" />
+        et elle est comment là tu penses ?
+      </Turn>
+      <Turn speaker="spk2" startTime="591.068" endTime="592.473">
+        <Sync time="591.068" />
+        elle est toute petite
+      </Turn>
+      <Turn speaker="spk1" startTime="592.473" endTime="596.548">
+        <Sync time="592.473" />
+        elle est à genou
+        <Sync time="593.701" />
+        + tu vois elle est à genou elle a les genoux pliés
+      </Turn>
+      <Turn speaker="spk2" startTime="596.548" endTime="600.249">
+        <Sync time="596.548" />
+        oui mais Sabine elle est de- elle est debout sur la piscine
+      </Turn>
+      <Turn speaker="spk1" startTime="600.249" endTime="604.61">
+        <Sync time="600.249" />
+        <Comment desc="rires de l'adulte" />
+        c'est vrai
+        <Sync time="601.549" />
+        + elle a des petites
+        <Event desc="ptit" type="pronounce" extent="previous" />
+        joues toutes roses
+      </Turn>
+      <Turn speaker="spk2" startTime="604.61" endTime="606.796">
+        <Sync time="604.61" />
+        elle a des petites
+        <Event desc="ptit" type="pronounce" extent="previous" />
+        joues
+      </Turn>
+      <Turn speaker="spk1" startTime="606.796" endTime="609.258">
+        <Sync time="606.796" />
+        ça ça s'appelle comment cette coiffure ?
+      </Turn>
+      <Turn speaker="spk2" startTime="609.258" endTime="610.256">
+        <Sync time="609.258" />
+        des couettes
+      </Turn>
+      <Turn speaker="spk1" startTime="610.256" endTime="610.896">
+        <Sync time="610.256" />
+        des couettes
+      </Turn>
+      <Turn speaker="spk2" startTime="610.896" endTime="612.371">
+        <Sync time="610.896" />
+        et oui elle a des petites couettes
+      </Turn>
+      <Turn speaker="spk1" startTime="612.371" endTime="612.871">
+        <Sync time="612.371" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="612.871" endTime="613.919">
+        <Sync time="612.871" />
+        brun
+      </Turn>
+      <Turn speaker="spk1" startTime="613.919" endTime="617.31">
+        <Sync time="613.919" />
+        marron donc il est châtain et puis elle elle est plutôt de quelle couleur de cheveux ?
+      </Turn>
+      <Turn speaker="spk2" startTime="617.31" endTime="620.263">
+        <Sync time="617.31" />
+        ils sont /?, blonds/ on peut le voir ici
+      </Turn>
+      <Turn speaker="spk1" startTime="620.263" endTime="622.083">
+        <Sync time="620.263" />
+        /parce que, ça/ ça s'appelle blond ça hum
+      </Turn>
+      <Turn speaker="spk2" startTime="622.083" endTime="622.622">
+        <Sync time="622.083" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="622.622" endTime="623.767">
+        <Sync time="622.622" />
+        et elle /était, s'est/ habillée comment ?
+      </Turn>
+      <Turn speaker="spk2" startTime="623.767" endTime="627.204">
+        <Sync time="623.767" />
+        euh une petite robe avec des fleurs
+      </Turn>
+      <Turn speaker="spk1" startTime="627.204" endTime="627.767">
+        <Sync time="627.204" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="627.767" endTime="632.002">
+        <Sync time="627.767" />
+        comme comme la petite fille qui était ***
+      </Turn>
+      <Turn speaker="spk1" startTime="632.002" endTime="641.649">
+        <Sync time="632.002" />
+        ouais comme dans le petit
+        <Event desc="pti" type="pronounce" extent="previous" />
+        prince
+        <Sync time="634.41" />
+        eh ben voilà
+        <Sync time="636.072" />
+        donc c'était une très très belle histoire alors
+        <Sync time="638.112" />
+        regarde là tu vois sur la couverture là on va voir ce qu'ils /ont acheté, nous restait/
+      </Turn>
+      <Turn speaker="spk2" startTime="641.649" endTime="644.555">
+        <Sync time="641.649" />
+        des tomates ah oui j'avais raison des tomates
+      </Turn>
+      <Turn speaker="spk1" startTime="644.555" endTime="646.631">
+        <Sync time="644.555" />
+        tu avais raison et là ?
+      </Turn>
+      <Turn speaker="spk2" startTime="646.631" endTime="648.666">
+        <Sync time="646.631" />
+        euh des fleurs
+      </Turn>
+      <Turn speaker="spk1" startTime="648.666" endTime="653.087">
+        <Sync time="648.666" />
+        hum hum donc ils ont acheté quoi ?
+        <Sync time="650.676" />
+        /essaie de, est ce que tu peux/ me le dire ?
+      </Turn>
+      <Turn speaker="spk2" startTime="653.087" endTime="654.282">
+        <Sync time="653.087" />
+        du poisson
+      </Turn>
+      <Turn speaker="spk1" startTime="654.282" endTime="654.76">
+        <Sync time="654.282" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="654.76" endTime="660.134">
+        <Sync time="654.76" />
+        des croissants
+        <Sync time="656.607" />
+        /// du pain
+      </Turn>
+      <Turn speaker="spk1" startTime="660.134" endTime="660.951">
+        <Sync time="660.134" />
+        des brioches
+      </Turn>
+      <Turn speaker="spk2" startTime="660.951" endTime="662.225">
+        <Sync time="660.951" />
+        des brioches
+        <Event desc="biOS" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="662.225" endTime="664.267">
+        <Sync time="662.225" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="664.267" endTime="666.042">
+        <Sync time="664.267" />
+        non c'est pas comme ça
+      </Turn>
+      <Turn speaker="spk1" startTime="666.042" endTime="667.544">
+        <Sync time="666.042" />
+        c'est des pâtes tu penses non?
+      </Turn>
+      <Turn speaker="spk2" startTime="667.544" endTime="667.882">
+        <Sync time="667.544" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="667.882" endTime="669.117">
+        <Sync time="667.882" />
+        des spaghettis
+      </Turn>
+      <Turn speaker="spk2" startTime="669.117" endTime="670.296">
+        <Sync time="669.117" />
+        spaghettis
+      </Turn>
+      <Turn speaker="spk1" startTime="670.296" endTime="671.374">
+        <Sync time="670.296" />
+        et puis là on a des ?
+      </Turn>
+      <Turn speaker="spk2" startTime="671.374" endTime="673.182">
+        <Sync time="671.374" />
+        des fromages des oeufs
+        <Event desc="z9f" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="673.182" endTime="674.731">
+        <Sync time="673.182" />
+        ouais des oeufs hum
+      </Turn>
+      <Turn speaker="spk2" startTime="674.731" endTime="677.557">
+        <Sync time="674.731" />
+        *** ils étaient comme ça
+      </Turn>
+      <Turn speaker="spk1" startTime="677.557" endTime="683.688">
+        <Sync time="677.557" />
+        ah bah dis donc
+        <Sync time="678.368" />
+        non c'était
+        <Sync time="680.536" />
+        ça s'appelle comment le titre est ce que tu te souviens le titre de l'histoire ?
+      </Turn>
+      <Turn speaker="spk2" startTime="683.688" endTime="684.235">
+        <Sync time="683.688" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="684.235" endTime="685.7">
+        <Sync time="684.235" />
+        c'est comment ?
+      </Turn>
+      <Turn speaker="spk2" startTime="685.7" endTime="687.092">
+        <Sync time="685.7" />
+        ben je sais plus
+      </Turn>
+      <Turn speaker="spk1" startTime="687.092" endTime="688.573">
+        <Sync time="687.092" />
+        /elle, ça/ s'appelle comment ?
+      </Turn>
+      <Turn speaker="spk2" startTime="688.573" endTime="691.764">
+        <Sync time="688.573" />
+        je sais plus le nom *** s'appelle Nicole
+      </Turn>
+      <Turn speaker="spk1" startTime="691.764" endTime="692.594">
+        <Sync time="691.764" />
+        non c'est Joël
+      </Turn>
+      <Turn speaker="spk2" startTime="692.594" endTime="693.179">
+        <Sync time="692.594" />
+        Joël
+      </Turn>
+      <Turn speaker="spk1" startTime="693.179" endTime="696.734">
+        <Sync time="693.179" />
+        ben c'était Marianne et Joël font ?
+      </Turn>
+      <Turn speaker="spk2" startTime="696.734" endTime="700.19">
+        <Sync time="696.734" />
+        + euh font le marché
+      </Turn>
+      <Turn speaker="spk1" startTime="700.19" endTime="704.465">
+        <Sync time="700.19" />
+        voilà font les courses c'était ça et ben merci Lucille hein c'était joli
+      </Turn>
+      <Turn speaker="spk2" startTime="704.465" endTime="707.449">
+        <Sync time="704.465" />
+        *** vont au marché
+      </Turn>
+      <Turn speaker="spk1" startTime="707.449" endTime="712.649">
+        <Sync time="707.449" />
+        d'accord donc on re- on redonne un titre au livre c'est
+        <Sync time="710.525" />
+        Marianne et Joël ?
+      </Turn>
+      <Turn speaker="spk2" startTime="712.649" endTime="713.44">
+        <Sync time="712.649" />
+        vont au marché
+      </Turn>
+      <Turn speaker="spk1" startTime="713.44" endTime="714.511">
+        <Sync time="713.44" />
+        ouais
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

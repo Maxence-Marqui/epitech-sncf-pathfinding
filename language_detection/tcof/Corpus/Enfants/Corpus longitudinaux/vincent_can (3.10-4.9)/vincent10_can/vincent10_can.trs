@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="jadelot" audio_filename="vincent10_can.wav" version="8" version_date="090723">
+<Speakers>
+<Speaker id="spk1" name="Vincent" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="adulte" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="CJ 30 06 08 Vincent quasi inaudible fin 1er 07 08YS18/8/2008"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="205.611" topic="to1">
+<Turn startTime="0" endTime="20.593" speaker="spk2">
+<Sync time="0"/>
+Vincent corpus numéro sept 
+<Sync time="4.82"/>
+Vincent nous sommes le 
+<Event desc="bg" type="noise" extent="instantaneous"/>
+ 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+<Sync time="7.681"/>
+¤C¤
+<Sync time="10.204"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et il est quatorze heures 
+<Sync time="14.244"/>
+dans la bibliothèque de la salle des moyens $$$
+<Sync time="18.843"/>
+une lecture 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="20.593" endTime="22.382">
+<Sync time="20.593"/>
+pourquoi tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ dit une lecture ? 
+</Turn>
+<Turn speaker="spk2" startTime="22.382" endTime="26.92">
+<Sync time="22.382"/>
+j'ai dit que je ne te l'avais lu qu'une fois 
+<Event desc="b" type="noise" extent="previous"/>
+ tu me dis le titre ? 
+</Turn>
+<Turn speaker="spk1" startTime="26.92" endTime="28.502">
+<Sync time="26.92"/>
+"Le ballon de Jonathan"
+</Turn>
+<Turn speaker="spk2" startTime="28.502" endTime="36.055">
+<Sync time="28.502"/>
+oui +
+</Turn>
+<Turn speaker="spk1" startTime="36.055" endTime="37.787">
+<Sync time="36.055"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ il s'appelle qui lui ? 
+<Event desc="mic" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="37.787" endTime="38.687">
+<Sync time="37.787"/>
+Bob 
+<Event desc="mic" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.687" endTime="42.016">
+<Sync time="38.687"/>
+Bob il a 
+<Event desc="ina" type="pronounce" extent="previous"/>
+ donné 
+<Event desc="b" type="noise" extent="previous"/>
+ un ballon à Jonathan 
+</Turn>
+<Turn speaker="spk2" startTime="42.016" endTime="50.194">
+<Sync time="42.016"/>
+oui et Jonathan embrasse Bob pour lui dire merci 
+<Sync time="48.47"/>
+et là et là ? 
+</Turn>
+<Turn speaker="spk1" startTime="50.194" endTime="50.715">
+<Sync time="50.194"/>
+la page deux 
+</Turn>
+<Turn speaker="spk2" startTime="50.715" endTime="53.737">
+<Sync time="50.715"/>
+ la page deux tu me racontes la page deux 
+</Turn>
+<Turn speaker="spk1" startTime="53.737" endTime="57.691">
+<Sync time="53.737"/>
+Bob Bob viens dans ma maison on va jouer au ballon 
+</Turn>
+<Turn speaker="spk2" startTime="57.691" endTime="64.512">
+<Sync time="57.691"/>
+oui Jonathan dit à Bob de venir chez lui pour jouer au ballon 
+</Turn>
+<Turn speaker="spk1" startTime="64.512" endTime="65.759">
+<Sync time="64.512"/>
+et puis c'est tout 
+</Turn>
+<Turn speaker="spk2" startTime="65.759" endTime="73.28">
+<Sync time="65.759"/>
+et ben oui tu peux tourner la page 
+<Sync time="69.554"/>
+là là là attends voilà pose bien la page 
+</Turn>
+<Turn speaker="spk1" startTime="73.28" endTime="74.773">
+<Sync time="73.28"/>
+un deux trois 
+</Turn>
+<Turn speaker="spk2" startTime="74.773" endTime="79.577">
+<Sync time="74.773"/>
+voilà tu me racontes la page trois ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="79.577" endTime="81.899">
+<Sync time="79.577"/>
+*** 
+</Turn>
+<Turn speaker="spk2" startTime="81.899" endTime="86.731">
+<Sync time="81.899"/>
+et ben regarde l'image montre-moi ce qu'il y a sur l'image 
+</Turn>
+<Turn speaker="spk1" startTime="86.731" endTime="88.084">
+<Sync time="86.731"/>
+*** 
+</Turn>
+<Turn speaker="spk2" startTime="88.084" endTime="89.41">
+<Sync time="88.084"/>
+c'est le chat 
+</Turn>
+<Turn speaker="spk1" startTime="89.41" endTime="90.994">
+<Sync time="89.41"/>
+le chat regarde 
+</Turn>
+<Turn speaker="spk2" startTime="90.994" endTime="93.539">
+<Sync time="90.994"/>
+oui 
+<Sync time="91.819"/>
+et qu'est-ce qu'il regarde le chat ?
+</Turn>
+<Turn speaker="spk1" startTime="93.539" endTime="94.486">
+<Sync time="93.539"/>
+le ballon 
+</Turn>
+<Turn speaker="spk2" startTime="94.486" endTime="95.584">
+<Sync time="94.486"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="95.584" endTime="96.77">
+<Sync time="95.584"/>
+de Jonathan 
+</Turn>
+<Turn speaker="spk2" startTime="96.77" endTime="108.027">
+<Sync time="96.77"/>
+oui il regarde le ballon de Jonathan 
+<Sync time="99.777"/>
+Jonathan et Bob jouent à lancer le ballon rouge 
+<Sync time="103.844"/>
+et le chat regarde le ballon rouge 
+</Turn>
+<Turn speaker="spk1" startTime="108.027" endTime="113.257">
+<Sync time="108.027"/>
+Bob il a lancé le ballon très haut /jusqu'en bas, jusqu'à là/
+</Turn>
+<Turn speaker="spk2" startTime="113.257" endTime="115.382">
+<Sync time="113.257"/>
+ju- j'ai pas entendu 
+</Turn>
+<Turn speaker="spk1" startTime="115.382" endTime="116.034">
+<Sync time="115.382"/>
+
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="116.034" endTime="116.956">
+<Sync time="116.034"/>
+vas-y dis-le 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="116.956" endTime="117.096">
+<Sync time="116.956"/>
+<Who nb="1"/>
+Bob
+<Who nb="2"/>
+moi 
+</Turn>
+<Turn speaker="spk2" startTime="117.096" endTime="117.655">
+<Sync time="117.096"/>
+encore
+</Turn>
+<Turn speaker="spk1" startTime="117.655" endTime="121.676">
+<Sync time="117.655"/>
+Bob il il a lancé le ballon jusqu'à l'armoire 
+<Event desc="amwa" type="pronounce" extent="previous"/>
+ 
+</Turn>
+<Turn speaker="spk2" startTime="121.676" endTime="126.121">
+<Sync time="121.676"/>
+oui il a lancé le ballon tout en haut de l'armoire 
+</Turn>
+<Turn speaker="spk1" startTime="126.121" endTime="127.965">
+<Sync time="126.121"/>
+il prend cette chaise là 
+</Turn>
+<Turn speaker="spk2" startTime="127.965" endTime="136.869">
+<Sync time="127.965"/>
+alors tourne la page on va voir s'il prend la chaise 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+<Sync time="132.065"/>
+c'est bon ta page elle est bien elle est pas 
+<Sync time="134.652"/>
+elle est bien là voilà
+</Turn>
+<Turn speaker="spk1" startTime="136.869" endTime="145.01">
+<Sync time="136.869"/>
+Jonathan il est monté sur une chaise 
+<Sync time="139.76"/>
+et puis il tient le ballon dans la ficelle du ballon 
+</Turn>
+<Turn speaker="spk2" startTime="145.01" endTime="148.482">
+<Sync time="145.01"/>
+oui il attrape la ficelle du ballon 
+</Turn>
+<Turn speaker="spk1" startTime="148.482" endTime="150.415">
+<Sync time="148.482"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ c'est fini ? 
+</Turn>
+<Turn speaker="spk2" startTime="150.415" endTime="152.918">
+<Sync time="150.415"/>
+tu me racontes la page a- d'après 
+</Turn>
+<Turn speaker="spk1" startTime="152.918" endTime="153.746">
+<Sync time="152.918"/>
+ça neuf 
+</Turn>
+<Turn speaker="spk2" startTime="153.746" endTime="157.261">
+<Sync time="153.746"/>
+voilà non c'est page six 
+<Event desc="tx" type="noise" extent="instantaneous"/>
+ la page six 
+</Turn>
+<Turn speaker="spk1" startTime="157.261" endTime="164.549">
+<Sync time="157.261"/>
+six six six six six six *** 
+</Turn>
+<Turn speaker="spk2" startTime="164.549" endTime="172.253">
+<Sync time="164.549"/>
+alors raconte-moi ce 
+<Event desc="s" type="pronounce" extent="previous"/>
+ qui se passe sur la page six ?
+<Sync time="168.026"/>
+vas-y +
+</Turn>
+<Turn speaker="spk1" startTime="172.253" endTime="174.606">
+<Sync time="172.253"/>
+pipi 
+</Turn>
+<Turn speaker="spk2" startTime="174.606" endTime="175.241">
+<Sync time="174.606"/>
+qu'est-ce qu'il y a ? 
+</Turn>
+<Turn speaker="spk1" startTime="175.241" endTime="176.409">
+<Sync time="175.241"/>
+pipi 
+</Turn>
+<Turn speaker="spk2" startTime="176.409" endTime="181.702">
+<Sync time="176.409"/>
+ben finis de me raconter puis tu vas faire pipi après d'accord ? 
+<Sync time="179.483"/>
+finis vite de raconter c'est la 
+<Sync time="181.487"/>
+dernière page 
+</Turn>
+<Turn speaker="spk1" startTime="181.702" endTime="185.001">
+<Sync time="181.702"/>
+*** quoi ? 
+</Turn>
+<Turn speaker="spk2" startTime="185.001" endTime="188.213">
+<Sync time="185.001"/>
+ben regarde qu'est-ce 
+<Event desc="S" type="pronounce" extent="previous"/>
+ qui se passe ? 
+</Turn>
+<Turn speaker="spk1" startTime="188.213" endTime="191.617">
+<Sync time="188.213"/>
+le chat a griffé le ballon de Jonathan 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="191.617" endTime="192.381">
+<Sync time="191.617"/>
+<Who nb="1"/>
+Jonathan 
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="192.381" endTime="194.882">
+<Sync time="192.381"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ pleure parce qu'il a plus de ballon 
+</Turn>
+<Turn speaker="spk2" startTime="194.882" endTime="205.611">
+<Sync time="194.882"/>
+c'est bien 
+<Sync time="195.889"/>
+le ballon a éclaté quand le chat a griffé le ballon 
+<Sync time="199.586"/>
+et Jonathan pleure parce qu'il n'a plus de ballon
+<Sync time="202.6"/>
+allez va vite faire pipi va vite 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ $$$ 
+</Turn>
+</Section>
+</Episode>
+</Trans>

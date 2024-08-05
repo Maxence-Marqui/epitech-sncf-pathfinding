@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="iclement" audio_filename="ApprendreAuLycée_ANON" version="12" version_date="110503">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="886.891">
+      <Turn speaker="spk1" startTime="0.0" endTime="17.21">
+        <Sync time="0.0" />
+        alors ¤P1¤ j'aimerais te poser quelques questions euh
+        <Sync time="3.481" />
+        sur ce que je fais en sciences de l'éducation + pour illustrer les réformes qui ont été faites
+        <Sync time="8.499" />
+        par Allègre et Ségolène Royal + dans les années quatre-vingt-dix-neuf
+        <Sync time="13.354" />
+        alors euh rappelle-moi juste ce que tu fais exactement +
+      </Turn>
+      <Turn speaker="spk2" startTime="17.21" endTime="25.459">
+        <Sync time="17.21" />
+        alors je suis en première ES économique
+        <Event desc="ecomik" type="pronounce" extent="previous" />
+        et social au lycée ¤S1¤ de ¤T1¤
+        <Sync time="21.386" />
+        et comme option j'ai choisi euh é- l'économie +
+      </Turn>
+      <Turn speaker="spk1" startTime="25.459" endTime="30.734">
+        <Sync time="25.459" />
+        d'accord
+        <Sync time="26.378" />
+        donc euh j'aimerais savoir ce que c'est les modules +
+      </Turn>
+      <Turn speaker="spk2" startTime="30.734" endTime="49.124">
+        <Sync time="30.734" />
+        alors les modules euh c'est environ euh une heure par semaine on est euh en moit- en moitié de classe en fait
+        <Sync time="37.178" />
+        comme ça les profs ils peuvent euh + plus s'occuper de chaque élève + individuellement
+        <Sync time="42.217" />
+        et s'occuper des problèmes alors qu'en classe i- ils en ont pas trop l'occasion vu qu'on est trop nombreux +
+      </Turn>
+      <Turn speaker="spk1" startTime="49.124" endTime="56.516">
+        <Sync time="49.124" />
+        et euh comment ça se passe euh comment euh le professeur arrive à déterminer les problèmes que vous avez +
+      </Turn>
+      <Turn speaker="spk2" startTime="56.516" endTime="70.16">
+        <Sync time="56.516" />
+        ben en début d'heure euh on lui dit euh les problèmes qu'on a rencontrés par exemple
+        <Event desc="parea~p" type="pronounce" extent="previous" />
+        au cours précédent
+        <Sync time="62.609" />
+        et puis il revient sur certains points
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        et après il nous demande s'il y a nouv- encore des difficultés
+        <Sync time="67.207" />
+        s'il y en a plus ben on peut passer à autre chose +
+      </Turn>
+      <Turn speaker="spk1" startTime="70.16" endTime="85.649">
+        <Sync time="70.16" />
+        et euh tous les élèves passent chaque semaine euh v- c'est d- deux groupes par exemple de la classe
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="76.841" />
+        et euh par exemple
+        <Event desc="paeza~p" type="pronounce" extent="previous" />
+        il y a un groupe qui passe le lundi et l'autre groupe qui passe le mardi
+        <Sync time="80.992" />
+        et toutes les semaines euh vous êtes sûrs de participer aux enseignements modulaires +
+        <Event desc="i" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="85.649" endTime="94.914">
+        <Sync time="85.649" />
+        ben en anglais euh on est sûrs c'est une fois par semaine un groupe le lundi un groupe le vendredi
+        <Sync time="90.508" />
+        mais par contre euh en histoire c'est une fois toutes les deux semaines +
+      </Turn>
+      <Turn speaker="spk1" startTime="94.914" endTime="103.836">
+        <Sync time="94.914" />
+        d'accord est-ce que tu peux me parler maintenant de l'aide individualisée qu'est-ce que c'est exactement ///
+        <Comment desc="chuchotements" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="103.836" endTime="127.007">
+        <Sync time="103.836" />
+        <Event desc="bg" type="noise" extent="instantaneous" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        euh oui eh ben ça c'est en fait euh surtout en en seconde bon maintenant un petit peu en première mais moins
+        <Sync time="110.664" />
+        ça consiste à aider euh les problèmes qui sont en difficulté en fait euh ils font des groupes d'aide
+        <Sync time="115.6" />
+        chaque semaine les professeurs nous donnent une liste d'é- d'élèves qui ont eu des mauvaises notes
+        <Sync time="120.367" />
+        et ainsi euh on on les profs nous aident à mieux comprendre euh ce que justement on a pas compris +
+      </Turn>
+      <Turn speaker="spk1" startTime="127.007" endTime="129.237">
+        <Sync time="127.007" />
+        et c'est dans quelle matière
+        <Event desc="bb" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="129.237" endTime="130.996">
+        <Sync time="129.237" />
+        en maths et en français
+      </Turn>
+      <Turn speaker="spk1" startTime="130.996" endTime="135.412">
+        <Sync time="130.996" />
+        d'accord et vous êtes à peu près à combien dans ces aides
+      </Turn>
+      <Turn speaker="spk2" startTime="135.412" endTime="138.626">
+        <Sync time="135.412" />
+        euh
+        <Event desc="pf" type="noise" extent="instantaneous" />
+        environ dix pas plus
+      </Turn>
+      <Turn speaker="spk1" startTime="138.626" endTime="143.993">
+        <Sync time="138.626" />
+        et les profs chaque semaine euh font une liste des élèves qui sont le plus en difficulté c'est ça
+      </Turn>
+      <Turn speaker="spk2" startTime="143.993" endTime="150.602">
+        <Sync time="143.993" />
+        oui enfin
+        <Event desc="fe~" type="pronounce" extent="previous" />
+        surtout après chaque contrôle ils comparent les notes
+        <Sync time="146.961" />
+        et les élèves les moins bons ben ils sont en gros en aide
+      </Turn>
+      <Turn speaker="spk1" startTime="150.602" endTime="155.338">
+        <Sync time="150.602" />
+        d'accord et euh est-ce que toi tu as déjà participé à ces aides
+      </Turn>
+      <Turn speaker="spk2" startTime="155.338" endTime="167.321">
+        <Sync time="155.338" />
+        euh oui en maths + et je trouve que ça m'aide surtout que on a un prof différent
+        <Sync time="160.882" />
+        c'est pas le prof de maths qu'on a habituellement
+        <Sync time="163.617" />
+        et je trouve que cette prof nous explique beaucoup mieux donc euh je comprends
+      </Turn>
+      <Turn speaker="spk1" startTime="167.321" endTime="172.529">
+        <Sync time="167.321" />
+        et est-ce que ce professeur euh s'occupe cas par cas des difficultés des élèves
+      </Turn>
+      <Turn speaker="spk2" startTime="172.529" endTime="183.136">
+        <Sync time="172.529" />
+        ben en général on a tous les mêmes difficultés donc euh +
+        <Sync time="176.621" />
+        on fait des exercices où il y a les difficultés qu'on rencontrait et après on comprend mieux en fait +
+      </Turn>
+      <Turn speaker="spk1" startTime="183.136" endTime="187.612">
+        <Sync time="183.136" />
+        et euh + est-ce que tu as des meilleures notes depuis que tu vas à ces aides
+        <Event desc="bb" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="187.612" endTime="192.964">
+        <Sync time="187.612" />
+        euh oui
+        <Event desc="pf" type="noise" extent="instantaneous" />
+        un ou deux points de plus mais bon c'est toujours bon à prendre
+      </Turn>
+      <Turn speaker="spk1" startTime="192.964" endTime="206.345">
+        <Sync time="192.964" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        d'accord
+        <Event desc="i" type="noise" extent="instantaneous" />
+        et
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        et est-ce que des fois tu y vas volontairement à ces aides
+        <Sync time="198.417" />
+        enfin est-ce qu'il est possible par exemple un élève n'a pas assez confiance en lui
+        <Sync time="201.939" />
+        même s'il n'est pas le plus mauvais est-ce qu'il peut y aller de lui-même
+      </Turn>
+      <Turn speaker="spk2" startTime="206.345" endTime="219.3">
+        <Sync time="206.345" />
+        oui on peut y aller de nous-mêmes mais par contre s'il y a vraiment euh trop de personnes
+        <Sync time="209.581" />
+        ben là on peut pas y aller parce que si on est trop nombreux euh
+        <Sync time="212.409" />
+        c'est trop difficile à gérer pour les profs donc il peut pas
+        <Sync time="214.931" />
+        euh il peut moins bien s'occuper des problèmes de chacun +
+      </Turn>
+      <Turn speaker="spk1" startTime="219.3" endTime="240.487">
+        <Sync time="219.3" />
+        alors maintenant j'aimerais euh avoir des renseignements sur les T.P.E.
+        <Comment desc="épelé: Travaux Personnels Encadrés" />
+        <Sync time="222.378" />
+        parce que moi je me rappelle que quand j'étais euh en terminale c'était facultatif ça venait de sortir
+        <Sync time="228.144" />
+        et j'aimerais savoir ce que sont devenus ces T.P.E. qui sont d'ailleurs assez contestés en ce moment
+        <Sync time="234.003" />
+        euh comment ça se passe au final euh pour présenter ces T.P.E. c'est qu- sous quelle forme
+      </Turn>
+      <Turn speaker="spk2" startTime="240.487" endTime="266.579">
+        <Sync time="240.487" />
+        ben tout d'abord euh maintenant ils sont obligatoires et c'est en première puis en terminale
+        <Sync time="245.721" />
+        euh environ une fois par mois on a rendez-vous avec euh deux professeurs un prof d'histoire et un prof de français
+        <Sync time="251.97" />
+        ils nous disent euh l- le les p- les problèmes ils nous donnent des conseils
+        <Sync time="257.219" />
+        et au final ben en fait c'est comme un exposé
+        <Sync time="260.219" />
+        il faut présenter des documents écrits et des affiches des images et les commenter ///
+      </Turn>
+      <Turn speaker="spk1" startTime="266.579" endTime="274.739">
+        <Sync time="266.579" />
+        et euh donc vous avez rendez-vous une fois par mois avec les professeurs
+        <Sync time="270.47" />
+        et entre temps vous devez tenir un carnet de bord si je me souviens bien
+      </Turn>
+      <Turn speaker="spk2" startTime="274.739" endTime="296.067">
+        <Sync time="274.739" />
+        oui alors ce carnet de bord euh comporte plusieurs colonnes
+        <Sync time="278.661" />
+        euh il faut dedans il faut inscrire euh les recherches qu'on a faites
+        <Sync time="282.661" />
+        les si on est allées voir sur le net taper les mots-clefs
+        <Sync time="285.67" />
+        écrire
+        <Event desc="ekri" type="pronounce" extent="previous" />
+        les mots-clefs qu'on a utilisés
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        euh écrire aussi les problèmes rencontrés
+        <Sync time="291.765" />
+        et à côté ben les profs ils nous mettent euh leurs remarques +
+      </Turn>
+      <Turn speaker="spk1" startTime="296.067" endTime="306.161">
+        <Sync time="296.067" />
+        et justement euh les T.P.E. euh pourquoi ils sont consté- contestés
+        <Sync time="301.286" />
+        c'est parce qu'ils posent des problèmes au niveau de l'hétérogénéité est-ce que tu sais ce que c'est
+      </Turn>
+      <Turn speaker="spk2" startTime="306.161" endTime="307.436">
+        <Sync time="306.161" />
+        non
+      </Turn>
+      <Turn speaker="spk1" startTime="307.436" endTime="336.707">
+        <Sync time="307.436" />
+        alors je vais t'expliquer en fait c'est euh dans une classe de trente élèves
+        <Sync time="311.202" />
+        il y a toujours des élèves issus de milieux différents plus ou moins modestes plus ou moins aisés
+        <Sync time="316.577" />
+        et donc l'hétérogénéité c'est la différence entre les élèves euh +
+        <Sync time="321.014" />
+        à à se documenter parce que tout le monde n'a pas chez lui Internet
+        <Sync time="325.451" />
+        ne peut pas se rendre dans les médiathèques de la ville et caetera
+        <Sync time="329.099" />
+        et est-ce que toi pour les T.P.E. justement est-ce que tu penses avoir assez de moyens
+        <Sync time="332.889" />
+        pour te documenter et chercher des informations
+      </Turn>
+      <Turn speaker="spk2" startTime="336.707" endTime="342.446">
+        <Sync time="336.707" />
+        ben oui enfin je vais surtout voir sur le net et en second lieu à la médiathèque
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="342.446" endTime="345.858">
+        <Sync time="342.446" />
+        et euh vous êtes à combien en T.P.E. à trois si je me souviens bien
+      </Turn>
+      <Turn speaker="spk2" startTime="345.858" endTime="350.082">
+        <Sync time="345.858" />
+        euh non à quatre mais euh les groupes varient de deux à quatre on peut choisir
+      </Turn>
+      <Turn speaker="spk1" startTime="350.082" endTime="355.146">
+        <Sync time="350.082" />
+        oui et donc est-ce que tes camarades est-ce qu'ils ont aussi Internet chez eux
+      </Turn>
+      <Turn speaker="spk2" startTime="355.146" endTime="356.146">
+        <Sync time="355.146" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="356.146" endTime="357.318">
+        <Sync time="356.146" />
+        tous les trois
+      </Turn>
+      <Turn speaker="spk2" startTime="357.318" endTime="358.521">
+        <Sync time="357.318" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="358.521" endTime="366.961">
+        <Sync time="358.521" />
+        mais sinon euh d- enfin des fois vous vous consultez en- euh entre les groupes
+        <Sync time="362.54" />
+        pour savoir euh comment vous vous débrouillez où vous en êtes dans les T.P.E.
+      </Turn>
+      <Turn speaker="spk2" startTime="366.961" endTime="374.931">
+        <Sync time="366.961" />
+        oui ben pour ça ben on se donne tous rendez-vous à la médiathèque
+        <Sync time="370.181" />
+        comme ça s'il y a des documents qu'on a pas ben on peut regarder dans les livres et caetera
+      </Turn>
+      <Turn speaker="spk1" startTime="374.931" endTime="380.93">
+        <Sync time="374.931" />
+        et est-ce que tu as l'impression qu'il y a d'autres groupes qui ont des problèmes
+        <Sync time="377.742" />
+        parce qu'ils n'ont pas Internet chez eux qu'ils ne trouvent rien
+      </Turn>
+      <Turn speaker="spk2" startTime="380.93" endTime="387.05">
+        <Sync time="380.93" />
+        ben non puisqu'ils ont à peu près tous le net quoi
+        <Sync time="383.066" />
+        mais sinon je pense qu'ils auraient quand même des difficultés pour se documenter +
+      </Turn>
+      <Turn speaker="spk1" startTime="387.05" endTime="405.81">
+        <Sync time="387.05" />
+        d'accord et sinon mis à part les T.P.E.
+        <Sync time="389.879" />
+        bon il n'y a pas que les T.P.E. qui posent des problèmes euh
+        <Sync time="392.989" />
+        on voit que il y a des élèves d'origine modeste dans les classes et que
+        <Sync time="397.098" />
+        dans la plupart des cas ce sont les élèves issus de milieux modestes
+        <Sync time="401.466" />
+        qui ont le plus de difficultés en cours est-ce que tu as aussi cette impression +
+      </Turn>
+      <Turn speaker="spk2" startTime="405.81" endTime="409.53">
+        <Sync time="405.81" />
+        euh oui ///
+      </Turn>
+      <Turn speaker="spk1" startTime="409.53" endTime="413.898">
+        <Sync time="409.53" />
+        et est-ce que les professeurs font cette différence
+      </Turn>
+      <Turn speaker="spk2" startTime="413.898" endTime="415.555">
+        <Sync time="413.898" />
+        comment ça
+      </Turn>
+      <Turn speaker="spk1" startTime="415.555" endTime="419.418">
+        <Sync time="415.555" />
+        ben c'est-à-dire des fois il y a des profs euh qui vous demandent de faire des recherches et &lt; tout
+      </Turn>
+      <Turn speaker="spk2" startTime="419.418" endTime="449.419">
+        <Sync time="419.418" />
+        ah oui &gt; ben j'ai une petite anecdote par rapport à ça
+        <Sync time="423.878" />
+        c'était il y a deux trois semaines notre prof d'allemand nous a donné une liste de questions
+        <Sync time="427.659" />
+        et les réponses à c- ces questions elles se trouvaient euh sur un site Internet
+        <Sync time="432.867" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        alors euh bien sûr il y a des élèves qui se sont manifestés
+        <Sync time="435.328" />
+        qui ont dit que il y a pas tout l- qu'on /n', / a pas tous le net quoi
+        <Sync time="438.717" />
+        et euh la prof nous a dit ben dans ce cas vous avez toujours le C.D.I.
+        <Comment desc="épelé: Centre de Documentation et d'Information" />
+        <Sync time="442.989" />
+        mais le problème c'est qu'au C.D.I. déjà il y a pas beaucoup d'ordinateurs
+        <Sync time="445.869" />
+        et ils sont toujours pris donc on peut jamais y aller +
+      </Turn>
+      <Turn speaker="spk1" startTime="449.419" endTime="460.867">
+        <Sync time="449.419" />
+        et euh est-ce que toi justement tu as l'impression euh +
+        <Sync time="454.475" />
+        que avant que tu avais Internet
+        <Comment desc="sic" />
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        tu avais plus de difficultés que maintenant que tu as Internet
+      </Turn>
+      <Turn speaker="spk2" startTime="460.867" endTime="477.913">
+        <Sync time="460.867" />
+        ben oui surtout euh par exemple
+        <Event desc="bza~p" type="pronounce" extent="previous" />
+        pour les commentaires ou les dissertations
+        <Sync time="464.446" />
+        maintenant je vais tout de suite sur le net pour avoir euh des renseignements sur les auteurs
+        <Sync time="468.878" />
+        donc euh au moins avec le Net ben je peux travailler plus vite
+        <Sync time="472.922" />
+        j'ai t- tout de suite tout ce qu'il faut toutes les informations à ma portée +
+      </Turn>
+      <Turn speaker="spk1" startTime="477.913" endTime="485.736">
+        <Sync time="477.913" />
+        d'accord et justement avant tu parlais du C.D.I. et j'aimerais savoir
+        <Sync time="481.26" />
+        s'il est facile d'accès s'il y a toutes les informations que tu veux
+      </Turn>
+      <Turn speaker="spk2" startTime="485.736" endTime="493.128">
+        <Sync time="485.736" />
+        ben oui en général quand on y va on trouve tout ce qu'on veut
+        <Sync time="488.512" />
+        puis au pire si on trouve pas on peut toujours demander à la documentaliste
+        <Sync time="491.108" />
+        et puis elle nous donne ce qu'il faut
+      </Turn>
+      <Turn speaker="spk1" startTime="493.128" endTime="501.326">
+        <Sync time="493.128" />
+        d'accord + alors sinon euh j'aimerais aussi savoir ce que tu fais exactement en langues
+      </Turn>
+      <Turn speaker="spk2" startTime="501.326" endTime="514.134">
+        <Sync time="501.326" />
+        alors en anglais on fait surtout des compréhensions de textes
+        <Sync time="505.008" />
+        et en allemand euh on fait beaucoup de grammaire par exemple euh
+        <Sync time="508.419" />
+        apprendre à donner son opinion à exprimer la cause la conséquence ///
+      </Turn>
+      <Turn speaker="spk1" startTime="514.134" endTime="516.518">
+        <Sync time="514.134" />
+        et l'allemand c'est donc ta L.V.2
+        <Comment desc="épelé: Langue Vivante 2" />
+      </Turn>
+      <Turn speaker="spk2" startTime="516.518" endTime="517.688">
+        <Sync time="516.518" />
+        oui ma L.V.2
+      </Turn>
+      <Turn speaker="spk1" startTime="517.688" endTime="521.682">
+        <Sync time="517.688" />
+        et tu as l'impression de plus travailler en L.V.2 qu'en L.V.1 si j'ai bien compris
+      </Turn>
+      <Turn speaker="spk2" startTime="521.682" endTime="525.637">
+        <Sync time="521.682" />
+        oui et j'ai même encore des bien meilleures notes en L.V.2 qu'en L.V.1 +
+      </Turn>
+      <Turn speaker="spk1" startTime="525.637" endTime="528.757">
+        <Sync time="525.637" />
+        oui enfin ça c'est aussi parce que c'est plus facile hein
+      </Turn>
+      <Turn speaker="spk2" startTime="528.757" endTime="530.629">
+        <Sync time="528.757" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="530.629" endTime="546.758">
+        <Sync time="530.629" />
+        et j'aimerais savoir euh bon si l'enseignement en langue est efficace ou pas
+        <Sync time="536.387" />
+        euh par exemple si tu te retrouvais euh justement ben en Allemagne vu que c'est près de chez nous
+        <Sync time="541.198" />
+        par exemple dans un magasin à Sarrebruck si tu saurais euh demander une information dans un magasin
+      </Turn>
+      <Turn speaker="spk2" startTime="546.758" endTime="549.902">
+        <Sync time="546.758" />
+        euh oui ça j'arrive assez facilement
+      </Turn>
+      <Turn speaker="spk1" startTime="549.902" endTime="562.286">
+        <Sync time="549.902" />
+        et si maintenant par exemple tu faisais un voyage scolaire en Angleterre
+        <Sync time="553.026" />
+        euh que tu te retrouverais
+        <Comment desc="sic" />
+        dans une famille comme moi en quatrième
+        <Sync time="556.432" />
+        euh est-ce que euh tu arriverais justement à discuter avec la famille anglaise
+      </Turn>
+      <Turn speaker="spk2" startTime="562.286" endTime="568.231">
+        <Sync time="562.286" />
+        ben non parce que je trouve qu'ils parlent beaucoup trop vite euh
+        <Sync time="564.544" />
+        donc euh je comprendrais pas du tout ce qu'ils disent +
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="568.231" endTime="573.014">
+        <Sync time="568.231" />
+        ouais non mais je veux dire euh enfin c'est ce que tu fais en cours quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="573.014" endTime="585.191">
+        <Sync time="573.014" />
+        euh oui ben justement notre prof d'anglais vu qu'elle est d'origine américaine
+        <Sync time="576.767" />
+        elle parle très vite alors elle essaye de nous apprendre à à comprendre le vrai accent anglais
+        <Sync time="581.731" />
+        mais bon on a beaucoup de difficultés +
+      </Turn>
+      <Turn speaker="spk1" startTime="585.191" endTime="598.929">
+        <Sync time="585.191" />
+        hum hum + alors euh sinon on a vu aussi le cas de la confiance des élèves euh
+        <Sync time="593.217" />
+        en fait il y a des profs qui donnent plus ou moins confiance aux élèves est-ce que tu ressens ça
+      </Turn>
+      <Turn speaker="spk2" startTime="598.929" endTime="604.665">
+        <Sync time="598.929" />
+        ben oui c'est vrai qu'il y a des profs euh qui sont vraiment euh derrière les élèves qui les encouragent
+      </Turn>
+      <Turn speaker="spk1" startTime="604.665" endTime="607.473">
+        <Sync time="604.665" />
+        euh chez toi c'est le cas par exemple
+      </Turn>
+      <Turn speaker="spk2" startTime="607.473" endTime="630.561">
+        <Sync time="607.473" />
+        euh oui par exemple en histoire où euh je n'ai pas la moyenne
+        <Sync time="610.569" />
+        dans mon bulletin le prof m'a laissé un commentaire encourageant
+        <Sync time="613.865" />
+        il m'a dit euh comme quoi je devais pas me décourager je devais poursuivre mes efforts
+        <Sync time="618.027" />
+        donc euh ça fait toujours plaisir
+        <Sync time="619.785" />
+        contrairement à mon prof de maths par exemple euh
+        <Sync time="622.785" />
+        qui laisse de côté les mauvais élèves et qui qui s'adresse plutôt aux bons élèves en classe
+        <Sync time="627.849" />
+        donc euh nous on comprend plus trop
+      </Turn>
+      <Turn speaker="spk1" startTime="630.561" endTime="641.433">
+        <Sync time="630.561" />
+        et est-ce que tu as justement l'impression que c'est un cercle vicieux
+        <Sync time="632.937" />
+        enfin dès le début de l'année vous aviez le cours de maths et vous et vous compreniez pas
+        <Sync time="638.049" />
+        vous perdiez confiance donc
+      </Turn>
+      <Turn speaker="spk2" startTime="641.433" endTime="661.281">
+        <Sync time="641.433" />
+        ben en fait au départ euh quand on comprend pas on se dit bon après on va comprendre
+        <Sync time="646.521" />
+        mais en fait non donc les difficultés elles s'accumulent donc euh
+        <Sync time="649.667" />
+        c'est vrai qu'on a vraiment des mauvaises notes et puis le prof euh s'intéresse plus du tout à nous
+        <Sync time="653.577" />
+        donc là on est vraiment démotivé quoi euh on se donne même plus la peine de trop réviser
+        <Sync time="657.617" />
+        puisque de toute façon on sait qu'on aura quand même une mauvaise note
+        <Event desc="bb" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="661.281" endTime="665.82">
+        <Sync time="661.281" />
+        mais euh le prof vous fait donc bien sentir que vous êtes de côté
+      </Turn>
+      <Turn speaker="spk2" startTime="665.82" endTime="675.898">
+        <Sync time="665.82" />
+        ben oui et des fois il a même tendance à un peu nous rabaisser
+        <Sync time="668.77" />
+        il nous dit euh ouais si euh au lycée ¤S1¤ vous arrivez pas ben
+        <Sync time="672.633" />
+        à côté il y a le ¤S2¤ qui est un lycée où c'est beaucoup plus facile voilà
+        <Event desc="*" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="675.898" endTime="698.35">
+        <Sync time="675.898" />
+        oui donc on sent tout de suite que ce n'est pas un professeur qui aime donner confiance aux élèves quoi +
+        <Sync time="684.118" />
+        oui c'est sûr que ça aide pas j'ai été aussi dans ce cas-là au lycée c'est pour ça que j'ai fait L
+        <Comment desc="Littéraire" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        +
+        <Sync time="691.294" />
+        voilà euh sinon ben est-ce que tu as l'impression d'être bien préparée pour le bac
+      </Turn>
+      <Turn speaker="spk2" startTime="698.35" endTime="715.541">
+        <Sync time="698.35" />
+        ben en français
+        <Event desc="fra~ste" type="pronounce" extent="previous" />
+        euh plus ou moins mais euh je sais qu'à la fin de l'année on aura pas tous nos textes de faits
+        <Sync time="703.006" />
+        vu q- vu que la prof euh elle raconte beaucoup sa vie donc on a beaucoup de retard
+        <Sync time="707.981" />
+        mais par contre en S.V.T.
+        <Comment desc="épelé: Sciences et Vie de la Terre" />
+        euh là je pense que je serai au point vu qu'on a des bons cours qu'on comprend bien
+        <Sync time="713.165" />
+        donc ça devrait aller +
+      </Turn>
+      <Turn speaker="spk1" startTime="715.541" endTime="727.718">
+        <Sync time="715.541" />
+        d'accord et est-ce que tu penses que c'est à ta portée
+        <Sync time="718.244" />
+        enfin que les cours de du lycée euh n'ont pas vraiment euh de gros décalages par rapport aux cours du collège
+        <Sync time="724.887" />
+        est-ce que tu arrives bien à suivre
+      </Turn>
+      <Turn speaker="spk2" startTime="727.718" endTime="749.601">
+        <Sync time="727.718" />
+        ben en fait je trouve que les difficultés c'est su- on les rencontre surtout à cause des professeurs
+        <Sync time="733.427" />
+        ben toujours par exemple en maths là je sens que j'ai vraiment pas le niveau
+        <Sync time="737.33" />
+        parce que j'étais habituée aux profs du collège qui expliquaient toujours tout bien
+        <Sync time="740.843" />
+        alors que les profs de maths du lycée ils font juste le cours comme il est ils expliquent rien
+        <Sync time="745.541" />
+        donc là *** quand par contre en maths je pense pas que j'ai le niveau non
+      </Turn>
+      <Turn speaker="spk1" startTime="749.601" endTime="754.257">
+        <Sync time="749.601" />
+        et sinon enfin on vous a déjà habitués à la prise de notes
+      </Turn>
+      <Turn speaker="spk2" startTime="754.257" endTime="763.473">
+        <Sync time="754.257" />
+        euh un petit peu mais bon j'ai beaucoup de mal m- m- mes cours d'histoire ils sont pas très complets
+        <Sync time="758.841" />
+        parce que j'ai du mal à à écouter le prof et à écrire en même temps donc euh
+      </Turn>
+      <Turn speaker="spk1" startTime="763.473" endTime="772.435">
+        <Sync time="763.473" />
+        mais justement ça est-ce
+        <Event desc="tx" type="noise" extent="previous" />
+        que tu aurais eu besoin que un prof vous fasse une sorte de transition
+        <Sync time="768.969" />
+        /qu'il, qui/ vous explique euh vous apprenne à prendre des notes
+      </Turn>
+      <Turn speaker="spk2" startTime="772.435" endTime="786.364">
+        <Sync time="772.435" />
+        ben les profs nous l'ont appris mais euh i- c'est passé trop rapidemment de
+        <Sync time="778.04" />
+        quand les profs ils nous dictaient et d'un coup du jour au lendemain on doit prendre des notes
+        <Sync time="781.507" />
+        je pense qu'ils auraient plutôt dû faire une p- une légère progression
+        <Sync time="784.588" />
+        et après ben aboutir &lt; à la prise de notes
+      </Turn>
+      <Turn speaker="spk1" startTime="786.364" endTime="794.972">
+        <Sync time="786.364" />
+        hum hum &gt; d'accord oui c'est sûr et euh j'aimerais aussi que tu me parles un peu de lévieu- lé- l'évaluation de seconde
+        <Sync time="793.187" />
+        est-ce que tu te rappelles de ça
+      </Turn>
+      <Turn speaker="spk2" startTime="794.972" endTime="809.804">
+        <Sync time="794.972" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        euh oui c'était en début d'année il y avait une évaluation en maths et en français il me semble +
+        <Sync time="800.996" />
+        ben j'ai trouvé que c'était assez facile vu que c'était surtout euh des questions qu'on avait eues au brevet
+        <Sync time="806.305" />
+        donc euh c'était déjà bien acquis quelque chose de bien acquis
+      </Turn>
+      <Turn speaker="spk1" startTime="809.804" endTime="816.175">
+        <Sync time="809.804" />
+        et euh sinon à part toi dans la classe
+        <Sync time="811.724" />
+        est-ce qu'il y en a qui ont eu des difficultés sur cette évaluation d'entrée en seconde
+      </Turn>
+      <Turn speaker="spk2" startTime="816.175" endTime="819.802">
+        <Sync time="816.175" />
+        ben oui il y en a eu certains mais c'était une minorité +
+      </Turn>
+      <Turn speaker="spk1" startTime="819.802" endTime="822.778">
+        <Sync time="819.802" />
+        et c'est quoi les problèmes qu'ils ont rencontrés
+      </Turn>
+      <Turn speaker="spk2" startTime="822.778" endTime="828.874">
+        <Sync time="822.778" />
+        euh surtout en français euh des problèmes de langue pour s'exprimer beaucoup de fautes d'orthographe
+      </Turn>
+      <Turn speaker="spk1" startTime="828.874" endTime="833.776">
+        <Sync time="828.874" />
+        d'accord et est-ce que les professeurs ont essayé de remédier à ces problèmes
+      </Turn>
+      <Turn speaker="spk2" startTime="833.776" endTime="846.5">
+        <Sync time="833.776" />
+        ben un petit peu mais bon pas beaucoup vu qu'ils peuvent pas vraiment perdre de temps là-dessus
+        <Sync time="837.376" />
+        parce que derrière ça il y a on a un un autre programme à faire
+        <Sync time="841.508" />
+        donc euh les problèmes euh normalement ils s- ils devraient pas avoir euh lieu d'être
+      </Turn>
+      <Turn speaker="spk1" startTime="846.5" endTime="848.679">
+        <Sync time="846.5" />
+        ils devraient être résolus au collège tu penses
+      </Turn>
+      <Turn speaker="spk2" startTime="848.679" endTime="850.052">
+        <Sync time="848.679" />
+        tout à fait
+      </Turn>
+      <Turn speaker="spk1" startTime="850.052" endTime="856.388">
+        <Sync time="850.052" />
+        et justement les élèves dont tu parlais est-ce qu'ils sont toujours euh en filière générale en ce moment
+      </Turn>
+      <Turn speaker="spk2" startTime="856.388" endTime="861.572">
+        <Sync time="856.388" />
+        euh non pas tous il y en a ben maintenant ils sont allés en B.E.P.
+        <Comment desc="épelé: Brevet d'Etudes Professionnelles" />
+        C.A.P.
+        <Comment desc="épelé: Certificat d'Aptitudes Professionnelles" />
+        +
+      </Turn>
+      <Turn speaker="spk1" startTime="861.572" endTime="872.14">
+        <Sync time="861.572" />
+        d'accord donc tu penses que en sortant du collège euh vous n'avez pas acquis euh les notions de base
+        <Sync time="867.596" />
+        enfin certains élèves ont encore des difficultés en expression et caetera +
+      </Turn>
+      <Turn speaker="spk2" startTime="872.14" endTime="874.031">
+        <Sync time="872.14" />
+        oui voilà +
+      </Turn>
+      <Turn speaker="spk1" startTime="874.031" endTime="886.343">
+        <Sync time="874.031" />
+        d'accord + ben voilà c'est à peu près tout ce que je voulais savoir euh
+        <Sync time="879.731" />
+        apparemment ce qu'on fait en cours ça se révèle être dans la réalité + donc merci et bonne chance pour ton bac
+        <Event desc="rire" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="886.343" endTime="886.891">
+        <Sync time="886.343" />
+        merci
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

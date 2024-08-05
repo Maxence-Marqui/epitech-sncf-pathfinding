@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Corpus" audio_filename="vincent14_can.wav" version="5" version_date="080825">
+<Topics>
+<Topic id="to1" desc="SDrevuEC22/8/2007YS13/8/2008"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Vincent" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="105.880" topic="to1">
+<Turn startTime="0" endTime="18.008" speaker="spk1">
+<Sync time="0"/>
+Vincent nous sommes le 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ ¤C¤ il est quatorze heures tren- quinze 
+<Sync time="10.572"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ nous sommes dans la salle des moyens $$$
+<Sync time="15.349"/>
+"Le ballon de Jonathan" 
+</Turn>
+<Turn speaker="spk2" startTime="18.008" endTime="19.388">
+<Sync time="18.008"/>
+
+<Event desc="bebo" type="pronounce" extent="previous"/>
+ ***
+</Turn>
+<Turn speaker="spk1" startTime="19.388" endTime="20.47">
+<Sync time="19.388"/>
+ Bob
+</Turn>
+<Turn speaker="spk2" startTime="20.47" endTime="24.368">
+<Sync time="20.47"/>
+ Bob * 
+<Event desc="e" type="pronounce" extent="previous"/>
+ a donné un ballon de Jonathan
+</Turn>
+<Turn speaker="spk1" startTime="24.368" endTime="26.433">
+<Sync time="24.368"/>
+il a donné un ballon à Jonathan
+</Turn>
+<Turn speaker="spk2" startTime="26.433" endTime="31.427">
+<Sync time="26.433"/>
+ b- b- Jonathan fait un bisou à Bob pour lui dire merci
+</Turn>
+<Turn speaker="spk1" startTime="31.427" endTime="33.403">
+<Sync time="31.427"/>
+oui 
+</Turn>
+<Turn speaker="spk2" startTime="33.403" endTime="36.387">
+<Sync time="33.403"/>
+et euh euh euh c'est qui ? 
+<Event desc="ch" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="36.387" endTime="37.755">
+<Sync time="36.387"/>
+Jonathan
+</Turn>
+<Turn speaker="spk2" startTime="37.755" endTime="41.859">
+<Sync time="37.755"/>
+Jonathan il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ veut tu viens à la maison pour jouer à le 
+<Event desc="al" type="pronounce" extent="previous"/>
+ ballon
+</Turn>
+<Turn speaker="spk1" startTime="41.859" endTime="47.24">
+<Sync time="41.859"/>
+oui il dit à Bob de venir jouer au ballon avec lui +
+</Turn>
+<Turn speaker="spk2" startTime="47.24" endTime="48.897">
+<Sync time="47.24"/>
+il a pas il lance avec une main ?
+</Turn>
+<Turn speaker="spk1" startTime="48.897" endTime="54.74">
+<Sync time="48.897"/>
+oui + Bob et Jonathan
+</Turn>
+<Turn speaker="spk2" startTime="54.74" endTime="57.199">
+<Sync time="54.74"/>
+Bob et Jonathan jouent au ballon
+</Turn>
+<Turn speaker="spk1" startTime="57.199" endTime="59.27">
+<Sync time="57.199"/>
+oui et le chat regarde 
+</Turn>
+<Turn speaker="spk2" startTime="59.27" endTime="68.848">
+<Sync time="59.27"/>
+le chat regarde + Bob a lancé le ballon très haut il est il est envolé jusqu'à l'armoire
+</Turn>
+<Turn speaker="spk1" startTime="68.848" endTime="73.131">
+<Sync time="68.848"/>
+oui il s'est envolé 
+<Event desc="b" type="noise" extent="previous"/>
+ tout en haut sur l'armoire 
+<Event desc="b" type="noise" extent="previous"/>
+ 
+</Turn>
+<Turn speaker="spk2" startTime="73.131" endTime="87.913">
+<Sync time="73.131"/>
+mais il va plus /me, le/ tenir * +
+<Sync time="78.732"/>
+Jonathan monte sur une chaise pour l'attraper le ballon 
+<Event desc="lbalo~" type="pronounce" extent="previous"/>
+
+<Sync time="83.131"/>
+il tire la ficelle et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il est tout en haut de l'armoire 
+<Event desc="dlaRmwaR" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="87.913" endTime="89.475">
+<Sync time="87.913"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="89.475" endTime="96.497">
+<Sync time="89.475"/>
+le chat veut jouer aussi au ballon
+<Sync time="91.946"/>
+sa patte il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il a griffé avec sa patte il a éclaté le ballon 
+<Event desc="lbalo~" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="96.497" endTime="100.201">
+<Sync time="96.497"/>
+oui et Jonathan pleure parce qu'il n'a plus de ballon
+</Turn>
+<Turn speaker="spk2" startTime="100.201" endTime="103.869">
+<Sync time="100.201"/>
+Jonathan pleure par- parce qu'il a plus de ballon 
+<Event desc="lbalo~" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="103.869" endTime="105.880">
+<Sync time="103.869"/>
+c'est très bien Vincent $$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

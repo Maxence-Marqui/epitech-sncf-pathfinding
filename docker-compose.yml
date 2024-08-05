@@ -1,0 +1,35 @@
+version: '3'  
+services:
+  db:
+    container_name: postgres_sncf
+    image: postgres
+    restart: always
+    ports:
+      - 8001:5432
+    environment:
+      POSTGRES_PASSWORD: user
+      POSTGRES_USER: user
+      POSTGRES_DB: SNCF_DB
+  
+  python_worker:
+    container_name: python_sncf
+    build: 
+      context: ./pathfinding
+    environment:
+      DB_PASSWORD: user
+      DB_USER: user
+      DB_PORT: 5432
+      DB_NAME: SNCF_DB
+      DB_HOST: db
+    depends_on:
+      - db
+    volumes:
+      - ./project/data_sncf:/data
+      
+  adminer:
+    image: adminer
+    restart: always
+    depends_on:
+      - db
+    ports:
+      - 8081:8080

@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="monin5u" audio_filename="infirmier_aud_14.wav" version="27" version_date="151229">
+  <Topics>
+    <Topic id="to1" desc="Audrey" />
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="903.401">
+      <Turn startTime="0.0" endTime="3.099" speaker="spk1">
+        <Sync time="0.0" />
+        bon bah bonjour ¤Pren1¤
+      </Turn>
+      <Turn speaker="spk2" startTime="3.099" endTime="3.878">
+        <Sync time="3.099" />
+        salut
+      </Turn>
+      <Turn speaker="spk1" startTime="3.878" endTime="4.639">
+        <Sync time="3.878" />
+        ça va
+      </Turn>
+      <Turn speaker="spk2" startTime="4.639" endTime="5.822">
+        <Sync time="4.639" />
+        ça va ça va
+      </Turn>
+      <Turn speaker="spk1" startTime="5.822" endTime="9.163">
+        <Sync time="5.822" />
+        lors hum de quoi tu vas nous parler aujourd'hui
+      </Turn>
+      <Turn speaker="spk2" startTime="9.163" endTime="189.564">
+        <Sync time="9.163" />
+        aujourd'hui euh je vais vous parler de quand j'ai passé mes concours d'infirmier
+        <Sync time="13.133" />
+        parce que bah forcément ça marque euh quand même une étape dans dans la vie de de chacun hein
+        <Sync time="19.56" />
+        passage de la vie lycéenne de à la vie étudiante c'est c'est pas rien donc euh oui
+        <Sync time="26.786" />
+        voilà je pense que ça peut être intéressant d'en parler et de vous
+        <Sync time="30.175" />
+        faire partager un petit peu mon experience à moi
+        <Sync time="32.832" />
+        donc euh bah forcément on arrive en terminale voilà avec euh comme couperet final
+        <Sync time="39.803" />
+        euh à la fin le bac et puis forcément euh le choix de son orientation
+        <Sync time="44.017" />
+        euh moi j'étais parti à la base euh pour faire orthophoniste
+        <Sync time="48.939" />
+        mais euh bon c'est vrai que c'est un concours qui est très compliqué euh où il y a
+        <Sync time="56.012" />
+        énormément de il y a énormément de monde qui qui veulent le faire il y a
+        <Sync time="61.224" />
+        très peu de places
+        <Event desc="mic" type="noise" extent="instantaneous" />
+        et euh surtout il y a pas non plus euh trente-six écoles
+        <Sync time="67.704" />
+        donc euh forcément bah les les places sont chères et euh c'est c'est quelque chose
+        <Sync time="74.241" />
+        voilà il faut hum derrière ça nécessite d'avoir euh d'avoir entre guillemets un un plan
+        <Sync time="80.036" />
+        de secours quelque chose euh voilà de pour pas pas se retrouver sans si on venait
+        <Sync time="85.5" />
+        à le louper pour pas se retrouver sans
+        <Sync time="87.052" />
+        sans rien à la fin et puis perdre une année euh à rien faire ou à faire quelque chose
+        <Sync time="93.325" />
+        euh qui nous plaît pas du tout qui a pas de rapport avec euh avec le projet professionnel donc voilà
+        <Sync time="98.329" />
+        euh moi j'ai depuis que je suis tout petit j'ai j'ai toujours voulu
+        <Sync time="103.078" />
+        bosser dans dans du par- dans du médical para-médical
+        <Sync time="106.146" />
+        et donc euh c'est vrai qu'en en deuxième option euh le le métier d'infirmier me plaisait bien
+        <Sync time="112.789" />
+        donc bon je me je me suis renseigné j'en ai j'en ai pas mal discuté avec mon entourage
+        <Sync time="119.612" />
+        et ouais voilà je me je me suis lancé là dedans donc dans la préparation euh de trois concours
+        <Sync time="126.38" />
+        euh celui de Lionnois à Nancy où ça me permettait bah voilà de de rester bah là où
+        <Sync time="134.617" />
+        j'habitais de rester avec ma famille euh ma copine mes amis
+        <Sync time="138.023" />
+        de pas bouger et puis forcément bah d'avoir des frais en moins
+        <Sync time="142.444" />
+        euh celui de Verdun parce que c'est le c'est le seul IFSI
+        <Comment desc="sigle= Instituts de Formation en Soins Infirmiers" />
+        <Sync time="147.816" />
+        en Lorraine où il y a un internat donc voilà c'est ouais toujours le le plan financier
+        <Sync time="153.729" />
+        puis bon au niveau des places euh voilà des places qui étaient disponibles
+        <Sync time="157.997" />
+        et du nombre de participants euh le rapport était assez intéressant
+        <Sync time="161.29" />
+        et puis euh St-Dié parce que de de tous les concours euh qui qui se déroulaient
+        <Sync time="168.29" />
+        euh dans la région voilà c'est c'est vraiment celui où il y avait le plus de places
+        <Sync time="172.824" />
+        pour le moins de participants enfin en tout cas sur les statistiques des des années euh
+        <Sync time="176.836" />
+        des années d'avant donc voilà euh on j'ai essayé de mettre un petit peu toutes mes
+        <Sync time="181.12" />
+        toutes mes chances de mon côté pour euh pour faire ces concours là en même temps
+        <Sync time="186.981" />
+        que que je préparais mon bac quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="189.564" endTime="200.146">
+        <Sync time="189.564" />
+        et hum est-ce que tu as privilégié des concours ou euh le bac ou euh c'était pareil
+        <Sync time="196.059" />
+        tu bossais les les deux en même temps tu as réussi tu as fait tu as fait comment
+        <Sync time="199.019" />
+        en fait pour gérer tout ça
+      </Turn>
+      <Turn speaker="spk2" startTime="200.146" endTime="239.335">
+        <Sync time="200.146" />
+        euh ben c'est clair que forcément euh il y a il y a eu un choix euh enfin entre
+        <Sync time="205.57" />
+        guillemets un choix à faire euh ouais je me je me suis pendant pendant deux deux bons
+        <Sync time="210.954" />
+        mois essentiellement euh essentiellement tourné vers euh vers mes concours infirmiers
+        <Sync time="214.587" />
+        euh les concours je devais les passer euh au mois de fin fin mars euh début avril
+        <Sync time="221.097" />
+        grand maximum et donc ouais sur toute la période euh janvier allez
+        <Sync time="226.07" />
+        à partir de ouais du du mois de janvier ju- jusqu'à bah jusqu'à l'échéance
+        <Sync time="230.06" />
+        c'est vrai que euh je me suis beaucoup plus concentré sur euh sur mes concours
+        <Sync time="235.506" />
+        que que sur euh que sur mon bac quoi que sur le lycée
+      </Turn>
+      <Turn speaker="spk1" startTime="239.335" endTime="245.147">
+        <Sync time="239.335" />
+        et est-ce qu'à un moment tu t'es dit et si j'ai mes concours et si j'ai pas mon bac
+      </Turn>
+      <Turn speaker="spk2" startTime="245.147" endTime="247.078">
+        <Sync time="245.147" />
+        je me suis pas posé la question
+        <Sync time="246.968" />
+        &lt; parce
+      </Turn>
+      <Turn speaker="spk1" startTime="247.078" endTime="247.869">
+        <Sync time="247.078" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="247.869" endTime="324.366">
+        <Sync time="247.869" />
+        que pour moi voilà je faisais mes concours c'était pour les avoir et mon bac
+        <Sync time="251.864" />
+        c'était pour l'avoir aussi c'est voilà j'ai jamais été dans l'optique euh s- si j'en
+        <Sync time="256.872" />
+        loupe un si je loupe quelque chose euh qu'est-ce que je fais derrière ou voilà
+        <Sync time="260.569" />
+        que ça soit louper mon bac ou louper mes concours euh pour moi euh je me je me suis lancé
+        <Sync time="266.581" />
+        là-dedans en me disant euh voilà il il faut que il faut juste que j'ai tout
+        <Sync time="270.293" />
+        et euh voilà le la la seule la seule chose où où je me suis dit
+        <Sync time="275.664" />
+        euh voilà si si je l'ai pas c'est pas grave ou enfin c'est par rapport à mon
+        <Sync time="280.089" />
+        mon concours othophoniste en fait parce que je l'ai je peux ouais je peux
+        <Sync time="284.195" />
+        le dire je l'ai je l'ai carrément laissé tomber en fait parce qu'en en préparant
+        <Sync time="287.046" />
+        le concours je me suis rendu compte que voilà euh c'est c'était le métier d'infirmier
+        <Sync time="292.873" />
+        qui m'intéressait vraiment donc voilà mon concours d'othophoniste euh j'y suis
+        <Sync time="296.376" />
+        je me suis inscrit mais je m'y suis pas allé j'y suis même pas allé
+        <Sync time="299.612" />
+        mais euh ouais con- concernant mes mes concours d'inf et mon bac voilà pour moi
+        <Sync time="304.656" />
+        c'est euh je me lançais là dedans c'était pour tout déchirer et je ressortais
+        <Sync time="309.424" />
+        à la fin avec euh au moins un concours et mon bac euh il y a il y a jamais
+        <Sync time="314.662" />
+        je me suis jamais posé la question en fait euh est-ce que je loupe ou pas pour moi
+        <Sync time="317.685" />
+        dans ma tête c'est tout était clair euh j'y vais j'ai j'arrache tout +
+      </Turn>
+      <Turn speaker="spk1" startTime="324.366" endTime="333.871">
+        <Sync time="324.366" />
+        et hum comment ça se passe en fait les concours d'inf est-ce qu'ils sont
+        <Sync time="329.647" />
+        tous pareils ou est-ce que c'est comme orthophoniste ils diffèrent selon selon l'endroit
+      </Turn>
+      <Turn speaker="spk2" startTime="333.871" endTime="439.002">
+        <Sync time="333.871" />
+        hum non le la plupart sont sont tous pareils en fait donc le concours euh se passe
+        <Sync time="339.219" />
+        en deux étapes on a un écrit et puis euh à l'issue de cet écrit
+        <Sync time="344.395" />
+        euh si on si on est pas si est séléctionné
+        <Sync time="347.045" />
+        donc euh pour être séléctionné tu sais là il faut avoir la moyenne en fait euh à l'écrit
+        <Sync time="351.084" />
+        ensuite on on a accès à l'oral et donc euh l'écrit donc comme je vous ai dit se passait
+        <Sync time="358.816" />
+        voilà euh sur les trois concours entre fin fin mars début avril
+        <Sync time="363.152" />
+        donc après l'écrit se divise en deux parties une partie de thème
+        <Sync time="368.204" />
+        euh enfin de où on a un texte sur des thèmes médicaux-sociaux
+        <Sync time="372.339" />
+        donc euh avec euh bah derrière des questions des choses comme ça
+        <Sync time="376.329" />
+        et une partie euh avec euh des tests euh psychotechniques
+        <Sync time="379.54" />
+        donc là forcément il y a il y a il y a une charge de travail euh impo- ass- assez
+        <Sync time="385.465" />
+        importante quand même parce que voilà les les thèmes médicaux-sociaux
+        <Sync time="389.043" />
+        on a quand même des des connaissances à avoir des choses comme ça
+        <Sync time="393.169" />
+        euh et puis euh bon bah les les tests psychotechniques hein il y a pas de secret
+        <Sync time="398.811" />
+        pou- pour les réussir les faire le plus rapidement possible et donc en faire un maximum
+        <Sync time="403.402" />
+        ben voilà il faut en manger donc euh moi j'ai j'ai préparé ça euh voilà de
+        <Sync time="408.544" />
+        dans mon coin je suis je suis pas passé par un institut spécialisé ou quelque chose comme ça
+        <Sync time="413.182" />
+        c'est euh je suis allé m'acheter mes bouquins et et voilà j'ai j'ai bossé
+        <Sync time="418.44" />
+        j'ai bossé dans mon coin les week-ends les soirs en rentrant du du bahut et
+        <Sync time="421.899" />
+        et voilà et puis bon c'est ça s'est plutôt bien passé parce que bah bon au final euh j'ai
+        <Sync time="428.423" />
+        j'ai eu mes trois écrits donc euh voilà j'ai j'ai pu j'ai pu avoir accès à mes oraux
+        <Sync time="433.816" />
+        et et là dessus euh voilà j'ai c'était une prem- une première victoire +
+      </Turn>
+      <Turn speaker="spk1" startTime="439.002" endTime="447.057">
+        <Sync time="439.002" />
+        et hum tu as eu les résultats quand en fait enfin de l'écrit
+        <Sync time="443.652" />
+        et de euh l'oral peut-être je sais pas en même enfin non
+      </Turn>
+      <Turn speaker="spk2" startTime="447.057" endTime="527.121">
+        <Sync time="447.057" />
+        bah les les résultats de l'écrit en fait on les a eu euh
+        <Sync time="452.58" />
+        on les a eu courant du courant début mai en fait
+        <Sync time="456.401" />
+        et puis euh ensuite euh ouais ensuite il y a fa- bah il y a fallu aller aux oraux
+        <Sync time="461.542" />
+        donc euh les oraux ça s'est déroulé sur euh fin mai euh dé- début juin
+        <Sync time="467.232" />
+        donc euh là c'est pareil c'est les pour les oraux il y a il y a une charge de travail
+        <Sync time="472.864" />
+        qui est quand même moins conséquente parce qu'en fait
+        <Sync time="474.56" />
+        les les oraux c'est pareil il y a deux parties
+        <Sync time="476.698" />
+        on va à euh une première partie où on va nous donner une question
+        <Sync time="480.57" />
+        euh sur des sur des thèmes médicaux-sociaux et où on va devoir nous y répondre
+        <Sync time="485.857" />
+        et une deuxième partie où ça va être essentiellement sur nos motivations
+        <Sync time="490.351" />
+        euh nos valeurs pourquoi on pourquoi on veut faire ce métier euh
+        <Sync time="493.328" />
+        sur nos représentations un petit peu donc euh
+        <Sync time="496.563" />
+        voilà les les thèmes médicaux-sociaux euh si on les a bien bossés avant
+        <Sync time="500.957" />
+        euh là normalement euh les revoir euh succintement su- ça suffit
+        <Sync time="505.913" />
+        et puis ensuite euh les motivations ces choses là c'est pas il y a normalement
+        <Sync time="510.19" />
+        il y a pas besoin de les bosser ça doit venir naturellement
+        <Sync time="512.38" />
+        euh on a pas on a pas faut pas faut pas être faux à ces concours là faut que ça
+        <Sync time="516.216" />
+        vienne euh faut que ça sorte un peu de du coeur des tripes et et voilà donc euh
+        <Sync time="522.489" />
+        oralement c'est pas c'est pas une s- charge de travail très conséquente +
+      </Turn>
+      <Turn speaker="spk1" startTime="527.121" endTime="534.255">
+        <Sync time="527.121" />
+        et euh est-ce qu'il y a des des concours que tu as que tu as mieux senti
+        <Sync time="531.191" />
+        que que d'autres ou les écrits les oraux
+      </Turn>
+      <Turn speaker="spk2" startTime="534.255" endTime="695.639">
+        <Sync time="534.255" />
+        euh au niveau des écrits en fait je suis pas oui je suis ressorti des des trois
+        <Sync time="539.591" />
+        concours sans sans me dire je les ai loupés mais sans me dire je les ai réussis non plus
+        <Sync time="544.859" />
+        euh voilà j'avais pas pas d'idée précise euh je savais ce que j'avais fait
+        <Sync time="549.799" />
+        maintenant je pensais que c'était pas pas catastrophique
+        <Sync time="552.818" />
+        après voilà je me je me suis pas fixé d'idée je me suis dit euh si si ça passe
+        <Sync time="559.385" />
+        euh tant mieux si ça passe pas bon ben voilà euh c- c'est que c'est que j'aurais pas
+        <Sync time="564.858" />
+        j'aurais pas été assez bon mais bon voilà au final euh au final ça s'est très bien
+        <Sync time="569.881" />
+        déroulé pour les trois et au niveau des oraux euh donc j'ai commencé à passer
+        <Sync time="573.729" />
+        euh l'oral de Saint-Dié qui s'est plutôt très bien passé enfin j'en suis ressorti plutôt confiant
+        <Sync time="580.058" />
+        où euh l'entretien s'était s'était très bien déroulé avec euh avec les membres du jury où ouais
+        <Sync time="587.523" />
+        on m'avait même dit que c'était bien donc ouais non j'étais plutôt confiant
+        <Sync time="590.812" />
+        euh ensuite j'ai passé l'oral de l'oral de Verdun où pareil euh j'en suis ressorti
+        <Sync time="596.448" />
+        même encore plus confiant je pense qu'à Saint-Dié
+        <Sync time="598.556" />
+        où vraiment en plus j'étais tombé sur quelque chose voilà que que je maîtrisais
+        <Sync time="602.969" />
+        où j'étais bien dans mon sujet et non ça s'est super bien déroulé
+        <Sync time="607.815" />
+        en revanche euh le concours de Lionnois ça été ça a été un peu une autre histoire en fait
+        <Sync time="614.112" />
+        parce que je suis je suis tombé sur une question qui était très ambigue qui était
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        <Sync time="621.588" />
+        pardon posée euh plutôt plutôt bizarrement alors euh est-ce que c'était fait exprès
+        <Sync time="626.736" />
+        pour nous piéger ou pas euh voilà on je sais pas trop on euh à ces concours là on rien rien n'est sûr
+        <Sync time="633.744" />
+        mais ouais non en fait euh j'ai j'ai déroulé ma réponse et à la fin on me dit euh
+        <Sync time="638.88" />
+        mais euh monsieur euh la question c'était pas ça
+        <Sync time="642.369" />
+        donc euh ouais euh petite douche froide euh petite poussée de stress quoi on se dit tout de suite
+        <Sync time="648.15" />
+        euh bon bah voilà c'est déjà mal embarqué ça va pas trop le faire
+        <Sync time="653.557" />
+        puis bon voilà les les personnes qui m'ont interrogé m'ont ont pris le temps
+        <Sync time="658.063" />
+        de me réexpliquer un petit peu quel était vraiment le sens
+        <Sync time="660.613" />
+        de la question et moi derrière j'ai pu rebondir dessus
+        <Sync time="663.433" />
+        mais voilà je suis je suis ressorti de de cet oral en me disant euh Lionnois
+        <Sync time="668.709" />
+        voilà je ça va me passer sous le nez euh je peux faire euh je pense
+        <Sync time="671.765" />
+        que je peux faire une croix dessus euh ça va pas le faire
+        <Sync time="675.536" />
+        après en y réfléchissant plus on peut se dire voilà est-ce que comme j'ai j'ai réussi
+        <Sync time="679.985" />
+        à bien à bien rebondir ça ça peut être pris comme un point positif
+        <Sync time="684.575" />
+        mais euh je suis je suis plutôt résté sur sur euh le fait que euh je suis un peu parti en
+        <Sync time="689.757" />
+        hors sujet et que du coup euh ça allait pas le faire + mais bon +
+      </Turn>
+      <Turn speaker="spk1" startTime="695.639" endTime="704.057">
+        <Sync time="695.639" />
+        et hum tu as eu tes résultats de d'oraux euh de de tes concours en même temps
+        <Sync time="701.345" />
+        que ton bac ou dfi- enfin différents jours
+      </Turn>
+      <Turn speaker="spk2" startTime="704.057" endTime="903.401">
+        <Sync time="704.057" />
+        ouais en fait euh on avait les résultats du bac le cinq juillet
+        <Sync time="708.079" />
+        et euh le même jour j'avais les résultats euh et du concours de Lionnois et du concours
+        <Sync time="712.955" />
+        de Saint-Dié et le concours de Verdun j'avais les résultats juste le lendemain
+        <Sync time="717.401" />
+        donc euh en fait euh pff dans ma tête ça a été clair euh je suis le 5 juillet
+        <Sync time="723.737" />
+        j'ai pris ma voiture le matin euh à partir de dix heures
+        <Sync time="726.731" />
+        euh il y avait l'annonce des résultats de Lionnois
+        <Sync time="728.731" />
+        à dix heures j'étais devant devant l'établissement euh pour pour voir mes résulats
+        <Sync time="733.904" />
+        en fait et * voilà c'est pour moi c'était c'était le plus important
+        <Sync time="738.966" />
+        euh puis ouais voilà je suis je suis arrivé devant la grille euh et j'ai
+        <Sync time="743.259" />
+        j'ai regardé les les listes d'admis et voilà en me disant vraiment je regarde
+        <Sync time="747.757" />
+        la liste des des personnes qui sont admises mais je pense pas me voir
+        <Sync time="750.567" />
+        et euh donc c'était par ordre alphabétique et ouais je je regarde au niveau
+        <Sync time="755.432" />
+        de mon nom et et là je ouais j'ai j'ai eu un temps d'arrêt en fait je me suis
+        <Sync time="759.884" />
+        vu je me suis dit non c'est pas possible c'est non je suis je suis je suis pris enfin
+        <Sync time="764.798" />
+        ça ça chamboulle tout dans la tête c'est du coup je suis reparti puis je me suis dit non
+        <Sync time="770.026" />
+        mais est-ce que c'était vraiment moi ou pas alors euh il y a fallu que je retourne
+        <Sync time="773.447" />
+        voir et là je me suis vu et là oui j'ai clairement j'ai craqué euh cr- craqué sous sous l'émotion
+        <Sync time="781.159" />
+        parce que voilà c'est je l'é- je l'éspérais pas trop et puis euh voilà euh c'est le la joie
+        <Sync time="787.26" />
+        de se dire que putain on on reste à la maison là on on bouge pas
+        <Sync time="791.58" />
+        et puis bon mon mon père était dans une phase un moment délicat euh à cette période là
+        <Sync time="796.669" />
+        il allait pas bien et voilà on se dit on pense aussi un peu à sa famille en se disant
+        <Sync time="801.558" />
+        ben voilà forcément pour eux c'est plus simple qu'on reste puis enfin
+        <Sync time="804.314" />
+        on a pas forcément envie de voir ses enfants partir et voilà je j'étais content
+        <Sync time="808.881" />
+        pour moi j'étais content pour pour mon père qui en avait besoin
+        <Sync time="812.02" />
+        et un peu tout ça qui fait que bah voilà on on a les les nerfs
+        <Sync time="816.543" />
+        qui lâchent un peu à ce moment là
+        <Sync time="818.045" />
+        et ouais c'est c'est ce que je retiens c'est un peu mon fait marquant à moi
+        <Sync time="822.465" />
+        parce que je pensais pas du tout que j'aurais été capable d'avoir ce type de réaction
+        <Sync time="826.781" />
+        euh mais bon voilà c'est c'est ça fait du bien je suis retourné à ma voiture euh
+        <Sync time="833.263" />
+        et j'ai appelé mon père en premier euh tout de suite
+        <Sync time="835.791" />
+        euh la petite pensée à lui en lui disant oui papa euh t'inquiète ça va le faire
+        <Sync time="839.853" />
+        je reste à la maison mon pote euh c'est cool et bon voilà on
+        <Sync time="844.144" />
+        enfin j'ai appelé ma mère euh je lui ai raconté et elle m'a appris en même temps
+        <Sync time="847.984" />
+        que voilà j'étais aussi accepté à Saint-Dié donc euh
+        <Sync time="850.572" />
+        mais enfin c'est super mais comme je lui ai dit voilà maintenant pour moi maman c'est
+        <Sync time="855.839" />
+        c'est que du bonus voilà Saint- Saint-Dié je l'ai
+        <Sync time="859.006" />
+        c'est cool euh pareil euh c'est c'est que du bonus c'est
+        <Sync time="863.405" />
+        s'en s'est suivi je suis allé chercher mes résultats du bac où c'est passé
+        <Sync time="868.138" />
+        c'est passé comme une lettre à la poste aussi
+        <Sync time="870.053" />
+        et à partir de là voilà on a on a forcément le le chemin est ouvert vers la suite quoi
+        <Sync time="875.386" />
+        puis bon le lendemain j'apprends pour Saint-Dié pour euh Verdun pardon où voilà euh
+        <Sync time="881.006" />
+        on apprend que je l'ai décroché aussi donc euh c'est c'est plutôt magnifique
+        <Sync time="885.602" />
+        voilà enfin de se dire là c'était ma petite fierté me dire euh j'ai préparé
+        <Sync time="890.826" />
+        mes concours je me je me suis battu j'ai préparé mes concours et j'ai eu les trois
+        <Sync time="895.463" />
+        c'est c'est sa fierté on se dit on a tout réussi on on vaut quelque chose
+        <Sync time="899.929" />
+        et puis enfin voilà c'est c'est assez magique comme truc
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Corpus" audio_filename="vincent8_can.wav" version="10" version_date="090723">
+<Topics>
+<Topic id="to1" desc="SDrevuEC21/8/2007YS19/8/2008"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Vincent" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="324.289" topic="to1">
+<Turn startTime="0" endTime="11.161" speaker="spk1">
+<Sync time="0"/>
+nous sommes le ¤C¤ 
+<Sync time="2.298"/>
+il est onze heures ou on- dix heures quarante-cinq
+<Sync time="6.239"/>
+nous sommes 
+<Event desc="nsOm" type="pronounce" extent="previous"/>
+ dans la salle des moyens
+<Sync time="7.739"/>
+et c'est "Les feutres de Bastien" $$$ 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="11.161" endTime="12.552">
+<Sync time="11.161"/>
+
+<Event desc="mic" type="noise" extent="next"/>
+ ***
+</Turn>
+<Turn speaker="spk1" startTime="12.552" endTime="16.49">
+<Sync time="12.552"/>
+attention tu sautes une page là regarde 
+<Sync time="15.258"/>
+tu me dis le titre ? 
+</Turn>
+<Turn speaker="spk2" startTime="16.49" endTime="18.167">
+<Sync time="16.49"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="18.167" endTime="21.266">
+<Sync time="18.167"/>
+c'est quoi le titre ?
+</Turn>
+<Turn speaker="spk2" startTime="21.266" endTime="22.112">
+<Sync time="21.266"/>
+c'est ça le titre 
+<Event desc="ltitR" type="pronounce" extent="previous"/>
+ ? 
+<Comment desc="L'enfant désigne le nom de l'auteur"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="22.112" endTime="29.054">
+<Sync time="22.112"/>
+non c'est là le titre regarde 
+<Comment desc="L'adulte montre le titre sur la page de couverture"/>
+
+<Sync time="23.803"/>
+il est là le titre
+<Sync time="24.933"/>
+et le titre c'est le feu- "Les feutres de Bastien"
+</Turn>
+<Turn speaker="spk2" startTime="29.054" endTime="30.865">
+<Sync time="29.054"/>
+"Les feutres 
+<Event desc="f2t" type="pronounce" extent="previous"/>
+ de Bastien"
+</Turn>
+<Turn speaker="spk1" startTime="30.865" endTime="33.818">
+<Sync time="30.865"/>
+voilà
+</Turn>
+<Turn speaker="spk2" startTime="33.818" endTime="35.445">
+<Sync time="33.818"/>
+Bastien et lui 
+<Comment desc="L'enfant désigne l'autre personnage du livre"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="35.445" endTime="36.449">
+<Sync time="35.445"/>
+Tonton David
+</Turn>
+<Turn speaker="spk2" startTime="36.449" endTime="42.006">
+<Sync time="36.449"/>
+Tonton David il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va sortir chercher des crayons à Bastien
+</Turn>
+<Turn speaker="spk1" startTime="42.006" endTime="47.162">
+<Sync time="42.006"/>
+oui Tonton David va acheter des feutres à Bastien
+</Turn>
+<Turn speaker="spk2" startTime="47.162" endTime="47.614">
+<Sync time="47.162"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="47.614" endTime="48.162">
+<Sync time="47.614"/>
+oui et 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="48.162" endTime="49.239">
+<Sync time="48.162"/>
+<Who nb="1"/>
+là il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+ic-
+</Turn>
+<Turn speaker="spk2" startTime="49.239" endTime="50.536">
+<Sync time="49.239"/>
+la page deux
+</Turn>
+<Turn speaker="spk1" startTime="50.536" endTime="53.467">
+<Sync time="50.536"/>
+la page deux oui
+</Turn>
+<Turn speaker="spk2" startTime="53.467" endTime="59.285">
+<Sync time="53.467"/>
+Papa David il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ voit des euh il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ voit pas de feutres 
+<Event desc="df2tR" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="59.285" endTime="68.423">
+<Sync time="59.285"/>
+non Tonton David et Bastien passent devant une épicerie
+<Sync time="63.935"/>
+mais ils ne voient que des fruits et des légumes 
+<Sync time="67.432"/>
+ils ne voient pas 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="68.423" endTime="68.923">
+<Sync time="68.423"/>
+<Who nb="1"/>
+il s'appelle 
+<Who nb="2"/>
+de feutres
+</Turn>
+<Turn speaker="spk2" startTime="68.923" endTime="69.888">
+<Sync time="68.923"/>
+qui ? 
+</Turn>
+<Turn speaker="spk1" startTime="69.888" endTime="71.136">
+<Sync time="69.888"/>
+Tonton David
+</Turn>
+<Turn speaker="spk2" startTime="71.136" endTime="75.092">
+<Sync time="71.136"/>
+Tonton David 
+<Event desc="davi" type="pronounce" extent="previous"/>
+ et lui *** 
+</Turn>
+<Turn speaker="spk1" startTime="75.092" endTime="78.152">
+<Sync time="75.092"/>
+oui 
+<Sync time="77.026"/>
+qu'est-ce que tu veux me dire ?
+</Turn>
+<Turn speaker="spk2" startTime="78.152" endTime="80.6">
+<Sync time="78.152"/>
+non sont des quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="80.6" endTime="82.881">
+<Sync time="80.6"/>
+c'est des fruits et des légumes
+</Turn>
+<Turn speaker="spk2" startTime="82.881" endTime="86.61">
+<Sync time="82.881"/>
+Tonton David il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ cherche dans des crayons 
+</Turn>
+<Turn speaker="spk1" startTime="86.61" endTime="90.442">
+<Sync time="86.61"/>
+oui il cherche des crayons
+</Turn>
+<Turn speaker="spk2" startTime="90.442" endTime="93.07">
+<Sync time="90.442"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ de que des 
+<Event desc="dEj" type="pronounce" extent="previous"/>
+ fruits et des légumes 
+<Event desc="glegim" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="93.07" endTime="105.45">
+<Sync time="93.07"/>
+oui 
+<Sync time="93.736"/>
+c'est bien ils cherchent des feutres 
+<Sync time="95.679"/>
+mais il n'y a que des fruits et des légumes
+<Sync time="98.501"/>
+c'est bon c'est bon tu peux tourner
+<Sync time="100.346"/>
+non non c'est bien 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="102.459"/>
+c'est bien comme ça la page elle est pas dédoublée
+</Turn>
+<Turn speaker="spk2" startTime="105.45" endTime="106.43">
+<Sync time="105.45"/>
+ la page trois
+</Turn>
+<Turn speaker="spk1" startTime="106.43" endTime="107.462">
+<Sync time="106.43"/>
+oui tu me racontes 
+<Event desc="mRaco~" type="pronounce" extent="previous"/>
+ la page 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="107.462" endTime="107.961">
+<Sync time="107.462"/>
+<Who nb="1"/>
+trois
+<Who nb="2"/>
+Tonton 
+</Turn>
+<Turn speaker="spk2" startTime="107.961" endTime="113.841">
+<Sync time="107.961"/>
+David cherche il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ voit un gâteau +
+</Turn>
+<Turn speaker="spk1" startTime="113.841" endTime="126.282">
+<Sync time="113.841"/>
+oui Tonton David et Bastien passent devant une boulangerie
+<Sync time="117.79"/>
+ils ne voient que du pain et des gâteaux 
+<Sync time="120.403"/>
+et ils ne voient pas de feutres + hum
+</Turn>
+<Turn speaker="spk2" startTime="126.282" endTime="132.588">
+<Sync time="126.282"/>
+et ils passent * 
+<Comment desc="Interprétation = devant ?"/>
+ une boulangère
+<Sync time="127.98"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ voient pas de ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ v- ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ voient voient quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="132.588" endTime="136.867">
+<Sync time="132.588"/>
+ils voient du pain 
+<Sync time="133.527"/>
+regarde ils voient du pain et des gâteaux
+</Turn>
+<Turn speaker="spk2" startTime="136.867" endTime="140.29">
+<Sync time="136.867"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ voient du pain et des gâteaux 
+<Sync time="138.809"/>
+et il n'y a pas de feutres 
+<Event desc="df2tR" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="140.29" endTime="143.685">
+<Sync time="140.29"/>
+et il n'y a pas de feutres
+</Turn>
+<Turn speaker="spk2" startTime="143.685" endTime="146.856">
+<Sync time="143.685"/>
+et puis Tonton David et
+</Turn>
+<Turn speaker="spk1" startTime="146.856" endTime="147.824">
+<Sync time="146.856"/>
+et Bastien
+</Turn>
+<Turn speaker="spk2" startTime="147.824" endTime="151.366">
+<Sync time="147.824"/>
+et Bastien + 
+<Sync time="150.829"/>
+c'est quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="151.366" endTime="154.147">
+<Sync time="151.366"/>
+ils arrivent devant 
+<Event desc="b" type="noise" extent="previous"/>
+ une librairie
+</Turn>
+<Turn speaker="spk2" startTime="154.147" endTime="160.53">
+<Sync time="154.147"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ arrivent devant une librairie +
+<Sync time="159.4"/>
+ça s'appelle quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="160.53" endTime="163.458">
+<Sync time="160.53"/>
+et ben regarde qu'est-ce qui se passe 
+<Event desc="spas" type="pronounce" extent="previous"/>
+ ? 
+<Sync time="161.991"/>
+est-ce qu'ils trouvent des feutres ?
+</Turn>
+<Turn speaker="spk2" startTime="163.458" endTime="165.598">
+<Sync time="163.458"/>
+ils trouvent des feutres 
+</Turn>
+<Turn speaker="spk1" startTime="165.598" endTime="166.91">
+<Sync time="165.598"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="166.91" endTime="167.918">
+<Sync time="166.91"/>
+et après ?
+</Turn>
+<Turn speaker="spk1" startTime="167.918" endTime="172.012">
+<Sync time="167.918"/>
+et ben tu tournes la page 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="172.012" endTime="172.92">
+<Sync time="172.012"/>
+comme ça ?
+</Turn>
+<Turn speaker="spk1" startTime="172.92" endTime="176.48">
+<Sync time="172.92"/>
+oui c'est bien 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="174.803"/>
+c'est bien 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="176.48" endTime="177.521">
+<Sync time="176.48"/>
+la page cinq
+</Turn>
+<Turn speaker="spk1" startTime="177.521" endTime="180.009">
+<Sync time="177.521"/>
+oui tu me racontes la page cinq ?
+</Turn>
+<Turn speaker="spk2" startTime="180.009" endTime="186.209">
+<Sync time="180.009"/>
+hum Tonton David +
+</Turn>
+<Turn speaker="spk1" startTime="186.209" endTime="205.507">
+<Sync time="186.209"/>
+tu t'en souviens plus ? 
+<Comment desc="Signe de tête affirmatif de l'enfant"/>
+
+<Sync time="187.589"/>
+je te le relis d'accord ?
+<Sync time="189.707"/>
+Tonton David et Bastien sont entrés dans la librairie
+<Sync time="193.851"/>
+Bastien voudrait la grande boîte de douze crayons feutres
+<Sync time="198.278"/>
+mais Tonton David dit que la grande boîte coûte trop cher 
+</Turn>
+<Turn speaker="spk2" startTime="205.507" endTime="208.63">
+<Sync time="205.507"/>
+Tonton Davi- * Tonton David 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="208.63" endTime="209.337">
+<Sync time="208.63"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+et quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="209.337" endTime="210.453">
+<Sync time="209.337"/>
+et Bastien
+</Turn>
+<Turn speaker="spk2" startTime="210.453" endTime="216.528">
+<Sync time="210.453"/>
+et Bastien et et les les feutres ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ coûtent trop cher
+</Turn>
+<Turn speaker="spk1" startTime="216.528" endTime="222.606">
+<Sync time="216.528"/>
+oui la grande boîte de douze crayons feutres coûte trop cher 
+</Turn>
+<Turn speaker="spk2" startTime="222.606" endTime="228.547">
+<Sync time="222.606"/>
+les douze douze la boîte les grandes boîtes de feutres elles 
+<Event desc="E" type="pronounce" extent="previous"/>
+ coûtent très cher
+</Turn>
+<Turn speaker="spk1" startTime="228.547" endTime="230.365">
+<Sync time="228.547"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="230.365" endTime="233.999">
+<Sync time="230.365"/>
+là c'est quoi ? 
+<Sync time="232.788"/>
+c'est quoi là ?
+</Turn>
+<Turn speaker="spk1" startTime="233.999" endTime="236.483">
+<Sync time="233.999"/>
+ben tu te souviens pas ? 
+<Sync time="235.228"/>
+regarde
+</Turn>
+<Turn speaker="spk2" startTime="236.483" endTime="244.195">
+<Sync time="236.483"/>
+Tonton David il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va faire
+<Sync time="239.189"/>
+Tonton David Bastien il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va faire un beau coloriage pour Tonton David
+</Turn>
+<Turn speaker="spk1" startTime="244.195" endTime="250.797">
+<Sync time="244.195"/>
+oui Tonton David et Bastien ont choisi la boîte de six crayons feutres 
+</Turn>
+<Turn speaker="spk2" startTime="250.797" endTime="255.255">
+<Sync time="250.797"/>
+Tonton Bastien Tonton David et euh
+</Turn>
+<Turn speaker="spk1" startTime="255.255" endTime="256.081">
+<Sync time="255.255"/>
+et Bastien
+</Turn>
+<Turn speaker="spk2" startTime="256.081" endTime="260.952">
+<Sync time="256.081"/>
+et Bastien ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ euh +
+</Turn>
+<Turn speaker="spk1" startTime="260.952" endTime="268.867">
+<Sync time="260.952"/>
+Tonton David et Bastien ont choisi la boîte de six crayons feutres
+<Sync time="265.117"/>
+Tonton David donne l'argent à la dame 
+</Turn>
+<Turn speaker="spk2" startTime="268.867" endTime="274.049">
+<Sync time="268.867"/>
+Bastien il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ * Bastien fait quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="274.049" endTime="278.459">
+<Sync time="274.049"/>
+Tonton David et Bastien ont choisi la boîte de six crayons feutres 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="278.459" endTime="280.177">
+<Sync time="278.459"/>
+<Who nb="1"/>
+Tonton David
+<Who nb="2"/>
+Tonton David
+</Turn>
+<Turn speaker="spk1" startTime="280.177" endTime="281.055">
+<Sync time="280.177"/>
+vas-y 
+</Turn>
+<Turn speaker="spk2" startTime="281.055" endTime="286.719">
+<Sync time="281.055"/>
+Tonton David ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ont choisi la boîte de de six crayons feutres
+</Turn>
+<Turn speaker="spk1" startTime="286.719" endTime="294.004">
+<Sync time="286.719"/>
+oui Tonton David et Bastien ont choisi la boîte de six crayons feutres
+<Sync time="291.213"/>
+Tonton David donne l'argent à la dame 
+</Turn>
+<Turn speaker="spk2" startTime="294.004" endTime="296.854">
+<Sync time="294.004"/>
+Tonton David donne l'argent à la dame 
+</Turn>
+<Turn speaker="spk1" startTime="296.854" endTime="302.291">
+<Sync time="296.854"/>
+oui et Bastien dit qu'il va faire un beau coloriage pour Tonton David 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="302.291" endTime="304.467">
+<Sync time="302.291"/>
+<Who nb="1"/>
+avec ses nouveaux feutres
+<Who nb="2"/>
+un autre un autre
+</Turn>
+<Turn speaker="spk2" startTime="304.467" endTime="305.665">
+<Sync time="304.467"/>
+un autre 
+<Comment desc="Vincent désigne les autres livres à côté"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="305.665" endTime="324.289">
+<Sync time="305.665"/>
+tu veux un autre ? 
+<Sync time="306.881"/>
+alors lequel tu choisis ? 
+<Sync time="308.56"/>
+"Léonard joue avec son chat" 
+<Sync time="311.938"/>
+"Lucie et Bruno 
+<Event desc="b" type="noise" extent="previous"/>
+ se déguisent" 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="314.613"/>
+"Cheval-Papi" 
+<Sync time="316.808"/>
+"Plic-Ploc-Chien-Mouillé"
+<Sync time="318.602"/>
+ou "Le ballon 
+<Event desc="b" type="noise" extent="previous"/>
+ de Jonathan" 
+<Sync time="321.2"/>
+"Lucie et Bruno se déguisent" ? 
+<Sync time="323.504"/>
+d'accord $$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

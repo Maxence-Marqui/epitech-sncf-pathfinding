@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Laurie" audio_filename="emploi_cha_08.wav" version="25" version_date="101223">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="914.212">
+      <Turn speaker="spk1" startTime="0.0" endTime="2.27">
+        <Sync time="0.0" />
+        bon alors ¤P1¤
+      </Turn>
+      <Turn speaker="spk2" startTime="2.27" endTime="3.033">
+        <Sync time="2.27" />
+        <Event desc="râclement de gorge" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="3.033" endTime="5.275">
+        <Sync time="3.033" />
+        donc on s'est vues la semaine dernière hein
+      </Turn>
+      <Turn speaker="spk2" startTime="5.275" endTime="5.518">
+        <Sync time="5.275" />
+        c'est ça
+      </Turn>
+      <Turn speaker="spk1" startTime="5.518" endTime="12.202">
+        <Sync time="5.518" />
+        voilà hein donc euh alors la semaine dernière vous aviez relevé un certain nombre d'offres
+      </Turn>
+      <Turn speaker="spk2" startTime="12.202" endTime="13.42">
+        <Sync time="12.202" />
+        exactement il y &lt; en
+      </Turn>
+      <Turn speaker="spk1" startTime="13.42" endTime="13.54">
+        <Sync time="13.42" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="13.54" endTime="17.737">
+        <Sync time="13.54" />
+        avait trois qui étaient susceptibles de de correspondre avec mon profil
+      </Turn>
+      <Turn speaker="spk1" startTime="17.737" endTime="27.482">
+        <Sync time="17.737" />
+        hum hum
+        <Event desc="bruit de bouche" type="noise" extent="instantaneous" />
+        ouais alors j'avais noté moi j'ai envoyé votre candidature aussi
+        <Event desc="bruit de bouche" type="noise" extent="instantaneous" />
+        sur le poste donc de caisse on va voir &lt; hein
+      </Turn>
+      <Turn speaker="spk2" startTime="27.482" endTime="28.334">
+        <Sync time="27.482" />
+        d'accord &gt;
+        <Sync time="27.814" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="28.334" endTime="33.38">
+        <Sync time="28.334" />
+        donc euh je vous avais dit que c'était pour un Leclerc finalement qu'on avait eu l'info
+      </Turn>
+      <Turn speaker="spk2" startTime="33.38" endTime="34.119">
+        <Sync time="33.38" />
+        <Event desc="bruit de bouche" type="noise" extent="instantaneous" />
+        vous ne m'aviez pas &lt; dit non
+      </Turn>
+      <Turn speaker="spk1" startTime="34.119" endTime="39.923">
+        <Sync time="34.119" />
+        non &gt; parce que à l'époque donc j'ai entre temps j'ai eu la collègue qui s'occupe euh donc euh qui s'occupe de ça
+      </Turn>
+      <Turn speaker="spk2" startTime="39.923" endTime="40.298">
+        <Sync time="39.923" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="40.298" endTime="43.232">
+        <Sync time="40.298" />
+        donc euh c'est madame ¤N1¤ ¤P2¤ ¤N1¤
+      </Turn>
+      <Turn speaker="spk2" startTime="43.232" endTime="43.56">
+        <Sync time="43.232" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="43.56" endTime="96.949">
+        <Sync time="43.56" />
+        elle est allée hier euh donc euh
+        <Event desc="bruit de bouche" type="noise" extent="next" />
+        rencontrer madame ¤N2¤ je crois qu'elle s'appelle c'est donc la responsable du personnel du Leclerc ¤T1¤
+        <Sync time="54.622" />
+        + qui va procéder au recrutement pour l'ouverture d'un Leclerc dans les coins de l'avenue euh du vingtième corps
+        <Sync time="63.749" />
+        donc ça c'est dans les coins de la maison de l'emploi +
+        <Sync time="66.234" />
+        je sais pas si c'est pas d'ailleurs avenue du vingtième corps
+        <Sync time="69.513" />
+        ou alors c'est dans les coins du kinépolis voilà
+        <Sync time="72.239" />
+        donc ils vont ouvrir un magasin Leclerc là euh donc en mars c'est pas pour tout de suite hein
+        <Sync time="78.192" />
+        et il c'est la la responsable de donc des ressources humaines du Leclerc ¤T1¤ qui apparemment s'occupe du recrutement
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+        <Sync time="86.553" />
+        donc la collègue ¤P2¤ ¤N1¤ c'est elle qui s'occupe nous on lui envoie des C.V.
+        <Comment desc="sigle=Curriculum Vitae" />
+        <Sync time="92.246" />
+        elle va défendre les candidatures ben auprès de cette dame
+        <Sync time="96.297" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="96.949" endTime="97.255">
+        <Sync time="96.949" />
+        d' &lt; accord d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="97.255" endTime="109.941">
+        <Sync time="97.255" />
+        donc de &gt; toute façon à mon avis euh bon vous vous avez quand même pas + le le maximum de chance
+        <Sync time="104.904" />
+        on va dire parce que euh euh vous avez peu d'exp- vous avez pas d'éxperience d'ailleurs hein
+      </Turn>
+      <Turn speaker="spk2" startTime="109.941" endTime="110.99">
+        <Sync time="109.941" />
+        dans quoi dans quel domaine
+      </Turn>
+      <Turn speaker="spk1" startTime="110.99" endTime="112.139">
+        <Sync time="110.99" />
+        donc dans tou- dans la caisse
+      </Turn>
+      <Turn speaker="spk2" startTime="112.139" endTime="113.094">
+        <Sync time="112.139" />
+        bah &lt; c'est vrai que la caisse d'un
+      </Turn>
+      <Turn speaker="spk1" startTime="113.094" endTime="113.352">
+        <Sync time="113.094" />
+        sauf que là &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="113.352" endTime="114.205">
+        <Sync time="113.352" />
+        musée n'est pas la même &lt; que la caisse d'un supermarché
+      </Turn>
+      <Turn speaker="spk1" startTime="114.205" endTime="115.802">
+        <Sync time="114.205" />
+        ben voilà + mais &gt; bon &lt; mais on sait que
+      </Turn>
+      <Turn speaker="spk2" startTime="115.802" endTime="117.169">
+        <Sync time="115.802" />
+        c'est sûr que la cadence &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="117.169" endTime="122.028">
+        <Sync time="117.169" />
+        on sait que sur ces postes-là ce qu'ils veulent c'est des gens qui s'adaptent vite
+      </Turn>
+      <Turn speaker="spk2" startTime="122.028" endTime="122.497">
+        <Sync time="122.028" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="122.497" endTime="124.415">
+        <Sync time="122.497" />
+        qui euh euh
+      </Turn>
+      <Turn speaker="spk2" startTime="124.415" endTime="125.326">
+        <Sync time="124.415" />
+        la relation &lt; clientèle voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="125.326" endTime="127.275">
+        <Sync time="125.326" />
+        qui sont polis &gt; la relation &lt; clientèle
+      </Turn>
+      <Turn speaker="spk2" startTime="127.275" endTime="127.869">
+        <Sync time="127.275" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="127.869" endTime="130.228">
+        <Sync time="127.869" />
+        euh qui sont assez &lt; réactifs + qui résistent
+      </Turn>
+      <Turn speaker="spk2" startTime="130.228" endTime="131.981">
+        <Sync time="130.228" />
+        souriant(s) aimable(s) réactif(s) voilà &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="131.981" endTime="134.715">
+        <Sync time="131.981" />
+        bien aux aux situations assez stressantes
+      </Turn>
+      <Turn speaker="spk2" startTime="134.715" endTime="135.215">
+        <Sync time="134.715" />
+        voilà aussi
+      </Turn>
+      <Turn speaker="spk1" startTime="135.215" endTime="151.102">
+        <Sync time="135.215" />
+        on vous + c'est pas comme un poste vous seriez sur le l'offre employé libre service là il faut de l'expérience
+        <Sync time="141.771" />
+        vous en avez pas là c'est pas la peine mais sur la caisse on a peut-être une chance donc on verra bien
+        <Sync time="146.258" />
+        mais ne vous attendez pas à avoir forcément un contact tout de suite tout de suite
+        <Sync time="150.428" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="151.102" endTime="151.573">
+        <Sync time="151.102" />
+        &lt; d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="151.573" endTime="172.215">
+        <Sync time="151.573" />
+        hein &gt; donc ça oui je voulais vous dire que ça avait été fait + donc Acticall ca été fait
+        <Sync time="157.399" />
+        la plateforme téléconseiller j'ai envoyé aussi + donc ça c'est bon +
+        <Sync time="164.136" />
+        voilà c'est ça que je voulais vous redemander est-ce que vous avez refait le point avec les ASSEDIC
+        <Comment desc="sigle = ASSociations pour l'Emploi Dans l'Industrie et le Commerce" />
+        <Sync time="170.105" />
+        par rapport &lt; à votre histoire d'attestations
+      </Turn>
+      <Turn speaker="spk2" startTime="172.215" endTime="174.871">
+        <Sync time="172.215" />
+        alors là j'ai rappelé &gt; donc mes attestations j'en je les attends
+      </Turn>
+      <Turn speaker="spk1" startTime="174.871" endTime="175.53">
+        <Sync time="174.871" />
+        &lt; donc
+      </Turn>
+      <Turn speaker="spk2" startTime="175.53" endTime="178.955">
+        <Sync time="175.53" />
+        alors &gt; j'ai un employeur qui qu- qui va être obligé de me refaire un duplicata
+      </Turn>
+      <Turn speaker="spk1" startTime="178.955" endTime="179.33">
+        <Sync time="178.955" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="179.33" endTime="180.899">
+        <Sync time="179.33" />
+        puisque bon euh ils ne les ont plus visiblement c'est &lt; Arcade
+      </Turn>
+      <Turn speaker="spk1" startTime="180.899" endTime="181.974">
+        <Sync time="180.899" />
+        hum &gt; ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="181.974" endTime="183.217">
+        <Sync time="181.974" />
+        donc j'attends de tout voir
+      </Turn>
+      <Turn speaker="spk1" startTime="183.217" endTime="184.56">
+        <Sync time="183.217" />
+        &lt; donc voilà oui
+      </Turn>
+      <Turn speaker="spk2" startTime="184.56" endTime="185.36">
+        <Sync time="184.56" />
+        j'ai repassé &gt; les appels
+      </Turn>
+      <Turn speaker="spk1" startTime="185.36" endTime="187.842">
+        <Sync time="185.36" />
+        voilà mais vous avez retelephoné à chaque &lt; employeur
+      </Turn>
+      <Turn speaker="spk2" startTime="187.842" endTime="188.265">
+        <Sync time="187.842" />
+        voilà &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="188.265" endTime="189.468">
+        <Sync time="188.265" />
+        donc ils vont vous renvoyer
+      </Turn>
+      <Turn speaker="spk2" startTime="189.468" endTime="189.873">
+        <Sync time="189.468" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="189.873" endTime="190.509">
+        <Sync time="189.873" />
+        vos &gt; attestations
+      </Turn>
+      <Turn speaker="spk2" startTime="190.509" endTime="198.94">
+        <Sync time="190.509" />
+        donc j'ai expliqué que malencontreusement les ASSEDIC avaient égarés mes attestations et que + et que moi j'étais obligée de
+        <Sync time="197.057" />
+        de ben dé- de ravoir les doubles pour euh
+      </Turn>
+      <Turn speaker="spk1" startTime="198.94" endTime="199.612">
+        <Sync time="198.94" />
+        &lt; d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="199.612" endTime="201.037">
+        <Sync time="199.612" />
+        pour réactualiser &gt; mon mon statut
+      </Turn>
+      <Turn speaker="spk1" startTime="201.037" endTime="206.574">
+        <Sync time="201.037" />
+        donc ça c'est le point sur ce qu'on a fait voilà alors par rapport aux offres que vous aviez eues
+        <Sync time="205.335" />
+        euh la semaine &lt; dernière
+      </Turn>
+      <Turn speaker="spk2" startTime="206.574" endTime="207.059">
+        <Sync time="206.574" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="207.059" endTime="209.561">
+        <Sync time="207.059" />
+        je me souviens plus moi j'ai pas tout noté
+      </Turn>
+      <Turn speaker="spk2" startTime="209.561" endTime="209.736">
+        <Sync time="209.561" />
+        alors &lt; il y avait
+      </Turn>
+      <Turn speaker="spk1" startTime="209.736" endTime="209.907">
+        <Sync time="209.736" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="209.907" endTime="211.81">
+        <Sync time="209.907" />
+        un poste de secrétaire débutante dans une &lt; entreprise
+      </Turn>
+      <Turn speaker="spk1" startTime="211.81" endTime="212.216">
+        <Sync time="211.81" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="212.216" endTime="212.741">
+        <Sync time="212.216" />
+        à Ludres
+      </Turn>
+      <Turn speaker="spk1" startTime="212.741" endTime="213.171">
+        <Sync time="212.741" />
+        oui &lt; alors
+      </Turn>
+      <Turn speaker="spk2" startTime="213.171" endTime="216.203">
+        <Sync time="213.171" />
+        je sais plus &gt; qu'elle type d'entreprise enfin c'est une petite entreprise
+      </Turn>
+      <Turn speaker="spk1" startTime="216.203" endTime="216.851">
+        <Sync time="216.203" />
+        ouais donc &lt; vous avez
+      </Turn>
+      <Turn speaker="spk2" startTime="216.851" endTime="217.98">
+        <Sync time="216.851" />
+        ils recherchent &gt; une débutante
+      </Turn>
+      <Turn speaker="spk1" startTime="217.98" endTime="220.016">
+        <Sync time="217.98" />
+        ouais donc c'était à chaque fois des courriers
+      </Turn>
+      <Turn speaker="spk2" startTime="220.016" endTime="220.804">
+        <Sync time="220.016" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="220.804" endTime="222.577">
+        <Sync time="220.804" />
+        donc vous avez fait des courriers à chaque fois &lt; pour
+      </Turn>
+      <Turn speaker="spk2" startTime="222.577" endTime="224.907">
+        <Sync time="222.577" />
+        et il y &gt; en a une qui était à Reims en fait c'était pas du tout à Nancy
+      </Turn>
+      <Turn speaker="spk1" startTime="224.907" endTime="237.642">
+        <Sync time="224.907" />
+        oui mais euh + ça peut être pour l'agence qu- quoi ça peut être le envoyer le document votre candi-
+        <Sync time="233.704" />
+        toutes tout les documents de votre candidature à Reims mais pour un poste à Nancy
+      </Turn>
+      <Turn speaker="spk2" startTime="237.642" endTime="239.321">
+        <Sync time="237.642" />
+        là c'était la société qui était à Reims apparemment
+      </Turn>
+      <Turn speaker="spk1" startTime="239.321" endTime="239.724">
+        <Sync time="239.321" />
+        &lt; oui
+      </Turn>
+      <Turn speaker="spk2" startTime="239.724" endTime="239.974">
+        <Sync time="239.724" />
+        ouais
+        <Event desc="inspiration" type="noise" extent="previous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="239.974" endTime="240.539">
+        <Sync time="239.974" />
+        le siège
+      </Turn>
+      <Turn speaker="spk2" startTime="240.539" endTime="241.046">
+        <Sync time="240.539" />
+        ouais ouais &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="241.046" endTime="243.209">
+        <Sync time="241.046" />
+        mais &gt; ça peut être pour l'agence de Nancy
+        <Sync time="242.458" />
+        vous l'avez &lt; envoyé quand même
+      </Turn>
+      <Turn speaker="spk2" startTime="243.209" endTime="243.905">
+        <Sync time="243.209" />
+        je l'ai envoyé quand même &gt; oui &lt; je l'ai envoyé
+      </Turn>
+      <Turn speaker="spk1" startTime="243.905" endTime="245.543">
+        <Sync time="243.905" />
+        ah d'accord O.K. j'ai cru &gt; que vous l'aviez pas &lt; fait parce que
+      </Turn>
+      <Turn speaker="spk2" startTime="245.543" endTime="246.683">
+        <Sync time="245.543" />
+        je je l'ai envoyé &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="246.683" endTime="248.424">
+        <Sync time="246.683" />
+        d'accord donc vous l'avez &lt; envoyé
+      </Turn>
+      <Turn speaker="spk2" startTime="248.424" endTime="248.721">
+        <Sync time="248.424" />
+        voilà &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="248.721" endTime="259.703">
+        <Sync time="248.721" />
+        impec
+        <Event desc="apocope d'impeccable" type="lexical" extent="previous" />
+        parce que ça parce que moi je il me semble que tous les tous les hum ça je m'en souviendrais tous les postes que je que toutes les les les les les offres imprimées
+      </Turn>
+      <Turn speaker="spk2" startTime="259.703" endTime="260.328">
+        <Sync time="259.703" />
+        hum &lt; hum
+      </Turn>
+      <Turn speaker="spk1" startTime="260.328" endTime="272.992">
+        <Sync time="260.328" />
+        c'était &gt; des postes sur Nancy mais c'est vrai que s- il suffit que l'agence euh quoi où il y a le euh responsable du personnel
+        <Sync time="267.113" />
+        soit euh en effet à Reims et puis la candidature elle passe par là-bas mais c'est bien pour un poste sur Nancy
+      </Turn>
+      <Turn speaker="spk2" startTime="272.992" endTime="273.326">
+        <Sync time="272.992" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="273.326" endTime="280.885">
+        <Sync time="273.326" />
+        hein + bien bon donc ça pour l'instant c'est en attente vous avez bien tout noté
+        <Sync time="279.098" />
+        vous avez &lt; utilisé le tableau
+      </Turn>
+      <Turn speaker="spk2" startTime="280.885" endTime="282.714">
+        <Sync time="280.885" />
+        j'ai tout noté &gt; j'ai tout noté ce que j'ai fait sur un bout &lt; de papier
+      </Turn>
+      <Turn speaker="spk1" startTime="282.714" endTime="282.955">
+        <Sync time="282.714" />
+        d'accord &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="282.955" endTime="283.717">
+        <Sync time="282.955" />
+        j'ai fait une liste
+      </Turn>
+      <Turn speaker="spk1" startTime="283.717" endTime="288.19">
+        <Sync time="283.717" />
+        d' &lt; accord
+        <Sync time="284.545" />
+        le &gt; nom des employeurs postulés j'ai mis une petite croix &lt; enfin j'ai fait je me suis arrangée
+      </Turn>
+      <Turn speaker="spk1" startTime="288.19" endTime="290.225">
+        <Sync time="288.19" />
+        d'accord &gt; donc pour que &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="290.225" endTime="290.716">
+        <Sync time="290.225" />
+        savoir ou j'en suis &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="290.716" endTime="291.43">
+        <Sync time="290.716" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="291.43" endTime="291.685">
+        <Sync time="291.43" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="291.685" endTime="299.89">
+        <Sync time="291.685" />
+        et puis faire les il faut faire les relances téléphoniques
+        <Sync time="293.742" />
+        + hein euh il faut + les les offres A.N.P.E.
+        <Comment desc="Agence Nationale Pour l'Emploi" />
+        vous pouvez attendre une une semaine
+      </Turn>
+      <Turn speaker="spk2" startTime="299.89" endTime="300.302">
+        <Sync time="299.89" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="300.302" endTime="312.079">
+        <Sync time="300.302" />
+        une semaine après il faut relancer hein ils ont déposé une offre vous avez vous avez tout à fait euh
+        <Sync time="305.436" />
+        c'est pas impoli + de téléphoner à l'entreprise de dire voilà j'ai déposé ma candidature
+      </Turn>
+      <Turn speaker="spk2" startTime="312.079" endTime="312.499">
+        <Sync time="312.079" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="312.499" endTime="316.188">
+        <Sync time="312.499" />
+        euh est-ce que vous avez procedé au recrutement est-ce que vous pouvez me dire où vous en êtes
+      </Turn>
+      <Turn speaker="spk2" startTime="316.188" endTime="319.509">
+        <Sync time="316.188" />
+        et là par contre j'ai euh j'ai postulé à l'O.H.S.
+        <Comment desc="sigle=Office d'Hygiène Sociale" />
+        de ¤T2¤
+      </Turn>
+      <Turn speaker="spk1" startTime="319.509" endTime="319.713">
+        <Sync time="319.509" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" startTime="319.713" endTime="326.517">
+        <Sync time="319.713" />
+        j'ai envoyé un courrier un C.V. lettre de motivation + parce que en fait il se trouve que le chef de service qui recrute ben mon père travaille là-bas
+      </Turn>
+      <Turn speaker="spk1" startTime="326.517" endTime="328.193">
+        <Sync time="326.517" />
+        oui parce qui vous m'en aviez déjà &lt; parlé
+      </Turn>
+      <Turn speaker="spk2" startTime="328.193" endTime="328.359">
+        <Sync time="328.193" />
+        voilà &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="328.359" endTime="329.033">
+        <Sync time="328.359" />
+        ouais &lt; ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="329.033" endTime="330.468">
+        <Sync time="329.033" />
+        c'est un &gt; petit un petit papy quoi hein
+      </Turn>
+      <Turn speaker="spk1" startTime="330.468" endTime="333.756">
+        <Sync time="330.468" />
+        ouais ouais ouais + et en ce moment il(s) recherche(nt) du
+      </Turn>
+      <Turn speaker="spk2" startTime="333.756" endTime="337.356">
+        <Sync time="333.756" />
+        alors là ça serait un agent de logistique en fait c'est l'équivalent d'une A.S.H
+        <Comment desc="sigle=Agent des Services Hospitaliers" />
+      </Turn>
+      <Turn speaker="spk1" startTime="337.356" endTime="338.625">
+        <Sync time="337.356" />
+        ouais ouais ouais ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="338.625" endTime="339.352">
+        <Sync time="338.625" />
+        &lt; pour faire l'entretien
+      </Turn>
+      <Turn speaker="spk1" startTime="339.352" endTime="339.359">
+        <Sync time="339.352" />
+        et &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="339.359" endTime="340.434">
+        <Sync time="339.359" />
+        des &lt; chambres
+      </Turn>
+      <Turn speaker="spk1" startTime="340.434" endTime="341.122">
+        <Sync time="340.434" />
+        oui &gt; ouais &lt; ouais ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="341.122" endTime="341.935">
+        <Sync time="341.122" />
+        les petits déjeuners &gt; les repas
+      </Turn>
+      <Turn speaker="spk1" startTime="341.935" endTime="343.328">
+        <Sync time="341.935" />
+        et il(s) recherche(nt) en ce moment
+      </Turn>
+      <Turn speaker="spk2" startTime="343.328" endTime="343.992">
+        <Sync time="343.328" />
+        il(s) recherche(nt)
+      </Turn>
+      <Turn speaker="spk1" startTime="343.992" endTime="348.375">
+        <Sync time="343.992" />
+        et alors euh par rapport au(x) déplacement(s) vous pourriez ce serait les mêmes horaires &lt; que votre père
+      </Turn>
+      <Turn speaker="spk2" startTime="348.375" endTime="351.497">
+        <Sync time="348.375" />
+        ben mon père &gt; euh ben mon père travaille de journée et c'est un poste de journée donc c'est &lt; bien
+      </Turn>
+      <Turn speaker="spk1" startTime="351.497" endTime="352.687">
+        <Sync time="351.497" />
+        ce &gt; serait les mêmes &lt; horaires donc vous auriez
+      </Turn>
+      <Turn speaker="spk2" startTime="352.687" endTime="353.567">
+        <Sync time="352.687" />
+        ça serait pareil &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="353.567" endTime="354.379">
+        <Sync time="353.567" />
+        pas de soucis
+      </Turn>
+      <Turn speaker="spk2" startTime="354.379" endTime="355.389">
+        <Sync time="354.379" />
+        j'aurai(s) pas de soucis d'horaires
+      </Turn>
+      <Turn speaker="spk1" startTime="355.389" endTime="359.209">
+        <Sync time="355.389" />
+        oui vous comment eh c'est parce que souvent hein les A.S.H. par exemple en milieu hospitalier &lt; traditionnel
+      </Turn>
+      <Turn speaker="spk2" startTime="359.209" endTime="359.799">
+        <Sync time="359.209" />
+        voilà &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="359.799" endTime="360.558">
+        <Sync time="359.799" />
+        démarre à six heures
+      </Turn>
+      <Turn speaker="spk2" startTime="360.558" endTime="362.107">
+        <Sync time="360.558" />
+        il y en avait un autre de nuit &lt; aussi
+      </Turn>
+      <Turn speaker="spk1" startTime="362.107" endTime="362.342">
+        <Sync time="362.107" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="362.342" endTime="364.795">
+        <Sync time="362.342" />
+        ben ça dépend il y a six heures quatorze heures et il y a une heure &lt; huit heures
+      </Turn>
+      <Turn speaker="spk1" startTime="364.795" endTime="366.383">
+        <Sync time="364.795" />
+        et votre père &gt; il démarre à six heures
+      </Turn>
+      <Turn speaker="spk2" startTime="366.383" endTime="366.591">
+        <Sync time="366.383" />
+        voilà &lt; mon père commence à six heures
+      </Turn>
+      <Turn speaker="spk1" startTime="366.591" endTime="368.381">
+        <Sync time="366.591" />
+        ah d'accord &gt; O.K. &lt; donc ça pourrait
+      </Turn>
+      <Turn speaker="spk2" startTime="368.381" endTime="368.81">
+        <Sync time="368.381" />
+        donc c'est bien &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="368.81" endTime="369.181">
+        <Sync time="368.81" />
+        coller
+      </Turn>
+      <Turn speaker="spk2" startTime="369.181" endTime="370.315">
+        <Sync time="369.181" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="370.315" endTime="372.787">
+        <Sync time="370.315" />
+        d'accord bon donc vous avez déposé votre candidature
+      </Turn>
+      <Turn speaker="spk2" startTime="372.787" endTime="379.177">
+        <Sync time="372.787" />
+        voilà je l'ai déposé et là comme euh le le chef du recrutement euh qui s'occupe de ça euh + justement mon père le connaît bien &lt; donc euh
+      </Turn>
+      <Turn speaker="spk1" startTime="379.177" endTime="379.583">
+        <Sync time="379.177" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="379.583" endTime="383.27">
+        <Sync time="379.583" />
+        on va essayer de voir un petit peu euh
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+        + sur quoi ca pourrait déboucher
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="383.27" endTime="387.64">
+        <Sync time="383.27" />
+        et autrement euh donc est-ce que vous avez regardé ces temps derniers les offres
+      </Turn>
+      <Turn speaker="spk2" startTime="387.64" endTime="394.72">
+        <Sync time="387.64" />
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+        sur le site de l'A.N.P.E. toujours le problème c'est que j'ai vu des postes intéressants mais toujours pareil(s) deux à deux à cinq ans d'éxperience
+      </Turn>
+      <Turn speaker="spk1" startTime="394.72" endTime="395.726">
+        <Sync time="394.72" />
+        donc là vous l'avez &lt; ***
+        <Event desc="vebe" type="pronounce" extent="previous" />
+        il y a
+      </Turn>
+      <Turn speaker="spk2" startTime="395.726" endTime="396.47">
+        <Sync time="395.726" />
+        l' I.R.T.S.
+        <Comment desc="sigle=Institut Régional du Travail Social" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="396.47" endTime="396.961">
+        <Sync time="396.47" />
+        pas longtemps
+      </Turn>
+      <Turn speaker="spk2" startTime="396.961" endTime="398.19">
+        <Sync time="396.961" />
+        sur le site de l'A.N.P.E.
+      </Turn>
+      <Turn speaker="spk1" startTime="398.19" endTime="398.456">
+        <Sync time="398.19" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="398.456" endTime="398.923">
+        <Sync time="398.456" />
+        toujours
+      </Turn>
+      <Turn speaker="spk1" startTime="398.923" endTime="399.441">
+        <Sync time="398.923" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="399.441" endTime="401.558">
+        <Sync time="399.441" />
+        j'ai je &gt; suis allée sur le site de la maison de l'emploi j'ai rien vu de
+      </Turn>
+      <Turn speaker="spk1" startTime="401.558" endTime="402.698">
+        <Sync time="401.558" />
+        vous avez regardé
+      </Turn>
+      <Turn speaker="spk2" startTime="402.698" endTime="402.981">
+        <Sync time="402.698" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="402.981" endTime="412.235">
+        <Sync time="402.981" />
+        <Event desc="bruit indéterminé" type="noise" extent="instantaneous" />
+        bon on va regarder si des fois ce matin on sait jamais
+        <Event desc="clic de souris d'ordinateur" type="noise" extent="instantaneous" />
+        pff pff pff +
+        <Event desc="clics de souris d'ordinateur" type="noise" extent="instantaneous" />
+        alors +
+      </Turn>
+      <Turn speaker="spk2" startTime="412.235" endTime="418.147">
+        <Sync time="412.235" />
+        par contre j'ai le euh l'agence Adecco du Luxembourg qui m'avait contactée il y a deux ou trois jours
+      </Turn>
+      <Turn speaker="spk1" startTime="418.147" endTime="419.6">
+        <Sync time="418.147" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="419.6" endTime="426.893">
+        <Sync time="419.6" />
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+        mais le problème il(s) m'avai(en)t dit qu'il(s) m'enverrai(en)t un mail pour faire un test chronométré
+        <Sync time="423.206" />
+        d'anglais et d'allemand parce qu'il(s) recherche(nt) des des C.D.I.
+        <Comment desc="sigle=Contrat à durée indeterminée" />
+        au Luxembourg
+      </Turn>
+      <Turn speaker="spk1" startTime="426.893" endTime="427.999">
+        <Sync time="426.893" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" startTime="427.999" endTime="428.601">
+        <Sync time="427.999" />
+        le &lt; problème c'est que
+      </Turn>
+      <Turn speaker="spk1" startTime="428.601" endTime="428.654">
+        <Sync time="428.601" />
+        on vous a déja &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="428.654" endTime="429.898">
+        <Sync time="428.654" />
+        j'ai rien reçu donc euh
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="429.898" endTime="438.502">
+        <Sync time="429.898" />
+        et puis euh c'est pas ça mais euh
+        <Event desc="clic de souris d'ordinateur" type="noise" extent="instantaneous" />
+        + c'est bien beau le Luxembourg mais euh + vous savez comment vous y rendre
+        <Sync time="437.945" />
+        &lt; vous avez
+      </Turn>
+      <Turn speaker="spk2" startTime="438.502" endTime="439.813">
+        <Sync time="438.502" />
+        il fallait &gt; prendre le train hein
+      </Turn>
+      <Turn speaker="spk1" startTime="439.813" endTime="454.752">
+        <Sync time="439.813" />
+        ah ouais mais euh + euh vous non mais ça c'est sûr
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        mais euh avec le train euh euh si vous faîtes le trajet
+        <Sync time="449.524" />
+        tous les jours ce serait c'est c'est c'est quoique je vais pas dire que c'est impossible hein mais euh vous &lt; allez
+      </Turn>
+      <Turn speaker="spk2" startTime="454.752" endTime="458.673">
+        <Sync time="454.752" />
+        à force &gt; on se lasse on en a marre c'est sûr que c'est une corvée +
+      </Turn>
+      <Turn speaker="spk1" startTime="458.673" endTime="459.963">
+        <Sync time="458.673" />
+        ça fait loin hein le &lt; Luxembourg euh
+      </Turn>
+      <Turn speaker="spk2" startTime="459.963" endTime="460.449">
+        <Sync time="459.963" />
+        ça fait loin &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="460.449" endTime="463.012">
+        <Sync time="460.449" />
+        parce que déja aller par exemple à Thionville
+      </Turn>
+      <Turn speaker="spk2" startTime="463.012" endTime="463.646">
+        <Sync time="463.012" />
+        une heure
+      </Turn>
+      <Turn speaker="spk1" startTime="463.646" endTime="464.068">
+        <Sync time="463.646" />
+        en train
+      </Turn>
+      <Turn speaker="spk2" startTime="464.068" endTime="464.647">
+        <Sync time="464.068" />
+        une heure
+      </Turn>
+      <Turn speaker="spk1" startTime="464.647" endTime="471.56">
+        <Sync time="464.647" />
+        <Event desc="bruit indéterminé" type="noise" extent="instantaneous" />
+        il faut déja donc euh + et ça ils vous ont pas euh ils ont &lt; pas posé la question si vous aviez
+      </Turn>
+      <Turn speaker="spk2" startTime="471.56" endTime="476.552">
+        <Sync time="471.56" />
+        ben ils m'ont dit vous allez recevoir un &gt; vous allez recevoir un mail tout de suite de tests chronométrés
+        <Sync time="476.027" />
+        &lt; d'anglais et d'allemand
+      </Turn>
+      <Turn speaker="spk1" startTime="476.552" endTime="477.798">
+        <Sync time="476.552" />
+        donc c'est c'est &gt; quelle boîte d'intérim
+      </Turn>
+      <Turn speaker="spk2" startTime="477.798" endTime="478.604">
+        <Sync time="477.798" />
+        Adecco Adecco
+      </Turn>
+      <Turn speaker="spk1" startTime="478.604" endTime="479.048">
+        <Sync time="478.604" />
+        &lt; Adecco
+      </Turn>
+      <Turn speaker="spk2" startTime="479.048" endTime="480.287">
+        <Sync time="479.048" />
+        Luxembourg &gt; Luxembourg ville
+      </Turn>
+      <Turn speaker="spk1" startTime="480.287" endTime="483.735">
+        <Sync time="480.287" />
+        + vous (vous) êtes renseignée sur les trajets
+      </Turn>
+      <Turn speaker="spk2" startTime="483.735" endTime="487.264">
+        <Sync time="483.735" />
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+        j'ai regardé c'est vrai que ça fait plus d'une heure de train
+      </Turn>
+      <Turn speaker="spk1" startTime="487.264" endTime="491.3">
+        <Sync time="487.264" />
+        ah ouais non mais après parce que après ça dépend où vous allez travailler hein dans le Luxembourg
+      </Turn>
+      <Turn speaker="spk2" startTime="491.3" endTime="492.984">
+        <Sync time="491.3" />
+        là apparement c'est à Luxembourg ville
+      </Turn>
+      <Turn speaker="spk1" startTime="492.984" endTime="494.261">
+        <Sync time="492.984" />
+        c'est au centre ville de &lt; Luxembourg ville
+      </Turn>
+      <Turn speaker="spk2" startTime="494.261" endTime="497.822">
+        <Sync time="494.261" />
+        voilà &gt; la capitale +
+        <Event desc="clic de souris d'ordinateur" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="497.822" endTime="519.849">
+        <Sync time="497.822" />
+        ben moi j'ai hein je veux dire j'ai rien contre mais je veux dire si admettons vous euh hum + bon vous faîtes votre test
+        <Sync time="504.905" />
+        tout est bien et puis qu'ils ont un poste pour vous ça veut dire qu'il faut vous après euh au début vous pouvez faire
+        <Sync time="511.031" />
+        le trajet + mais si c'est une mission qui est assez longue il faut ça veut dire après il faut trouver un hébergement euh
+        <Sync time="517.216" />
+        + même si c'est euh &lt; à la frontière il faut trouver quelque chose
+      </Turn>
+      <Turn speaker="spk2" startTime="519.849" endTime="521.97">
+        <Sync time="519.849" />
+        il faut un logement à proximité à Thionville &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="521.97" endTime="522.3">
+        <Sync time="521.97" />
+        ah oui
+      </Turn>
+      <Turn speaker="spk2" startTime="522.3" endTime="522.675">
+        <Sync time="522.3" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="522.675" endTime="523.718">
+        <Sync time="522.675" />
+        ah oui oui parce que &lt; autrement
+      </Turn>
+      <Turn speaker="spk2" startTime="523.718" endTime="523.824">
+        <Sync time="523.718" />
+        c'est ça &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="523.824" endTime="524.303">
+        <Sync time="523.824" />
+        vous allez &lt; ***
+      </Turn>
+      <Turn speaker="spk2" startTime="524.303" endTime="525.546">
+        <Sync time="524.303" />
+        je vais ramer &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="525.546" endTime="535.551">
+        <Sync time="525.546" />
+        +
+        <Event desc="clic de souris d'ordinateur" type="noise" extent="instantaneous" />
+        vous l'aviez vu ça + le poste de secrétaire là +
+        <Comment desc="L1 montre l'annonce sur l'ordinateur à L2" />
+        celui-là
+        <Sync time="534.157" />
+        sur le site de la maison &lt; de l'emploi
+      </Turn>
+      <Turn speaker="spk2" startTime="535.551" endTime="535.979">
+        <Sync time="535.551" />
+        euh oui &gt; je l'ai vu
+      </Turn>
+      <Turn speaker="spk1" startTime="535.979" endTime="536.572">
+        <Sync time="535.979" />
+        vous l'avez vu
+      </Turn>
+      <Turn speaker="spk2" startTime="536.572" endTime="536.807">
+        <Sync time="536.572" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="536.807" endTime="537.967">
+        <Sync time="536.807" />
+        c'est quoi alors
+      </Turn>
+      <Turn speaker="spk2" startTime="537.967" endTime="538.462">
+        <Sync time="537.967" />
+        <Event desc="bruit de bouche" type="noise" extent="instantaneous" />
+        &lt; euh c'était
+      </Turn>
+      <Turn speaker="spk1" startTime="538.462" endTime="538.909">
+        <Sync time="538.462" />
+        pas mal non plus &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="538.909" endTime="540.519">
+        <Sync time="538.909" />
+        niveau B.T.S.
+        <Comment desc="sigle=Brevet de Technicien Supérieur" />
+        &lt; exigé
+      </Turn>
+      <Turn speaker="spk1" startTime="540.519" endTime="541.672">
+        <Sync time="540.519" />
+        bac à bac plus deux
+      </Turn>
+      <Turn speaker="spk2" startTime="541.672" endTime="544.069">
+        <Sync time="541.672" />
+        ah c'est pas le même c'est pas ça
+      </Turn>
+      <Turn speaker="spk1" startTime="544.069" endTime="546.681">
+        <Sync time="544.069" />
+        bonne maîtrise de ben vous pouvez hein
+      </Turn>
+      <Turn speaker="spk2" startTime="546.681" endTime="551.535">
+        <Sync time="546.681" />
+        c'était non c'était B.T.S. euh exigé et c'était bonne connaissance d'anglais et de l'allemand
+      </Turn>
+      <Turn speaker="spk1" startTime="551.535" endTime="555.867">
+        <Sync time="551.535" />
+        c'est encore ¤P2¤ pour faire du secrétariat courant + donc hein
+      </Turn>
+      <Turn speaker="spk2" startTime="555.867" endTime="556.488">
+        <Sync time="555.867" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="556.488" endTime="557.409">
+        <Sync time="556.488" />
+        c'est bon là hein
+      </Turn>
+      <Turn speaker="spk2" startTime="557.409" endTime="557.821">
+        <Sync time="557.409" />
+        hum oui
+      </Turn>
+      <Turn speaker="spk1" startTime="557.821" endTime="562.019">
+        <Sync time="557.821" />
+        bonne maîtrise de l'orthographe et de la grammaire maîtrise de word et excel
+      </Turn>
+      <Turn speaker="spk2" startTime="562.019" endTime="562.557">
+        <Sync time="562.019" />
+        oui il y a pas &lt; de oui
+      </Turn>
+      <Turn speaker="spk1" startTime="562.557" endTime="571.794">
+        <Sync time="562.557" />
+        oui hein &gt; bac + d'accord ou bac plus deux ou bonne expérience vous avez euh vous avez le bac dans ce domaine-là
+      </Turn>
+      <Turn speaker="spk2" startTime="571.794" endTime="572.103">
+        <Sync time="571.794" />
+        c'est vrai
+      </Turn>
+      <Turn speaker="spk1" startTime="572.103" endTime="575.796">
+        <Sync time="572.103" />
+        vous commencez à avoir un peu d'expérience donc on va y aller hein &lt; on va le faire
+      </Turn>
+      <Turn speaker="spk2" startTime="575.796" endTime="576.782">
+        <Sync time="575.796" />
+        on va tenter &gt; bien sûr
+      </Turn>
+      <Turn speaker="spk1" startTime="576.782" endTime="586.2">
+        <Sync time="576.782" />
+        alors C.V. plus lettre de motivation exigés + alors alors alors alors alors moi j'ai repris hein votre lettre la dernière fois &lt; *
+      </Turn>
+      <Turn speaker="spk2" startTime="586.2" endTime="586.441">
+        <Sync time="586.2" />
+        elle était &gt; pas bien
+      </Turn>
+      <Turn speaker="spk1" startTime="586.441" endTime="587.254">
+        <Sync time="586.441" />
+        ah ça &lt; veut
+      </Turn>
+      <Turn speaker="spk2" startTime="587.254" endTime="587.472">
+        <Sync time="587.254" />
+        si &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="587.472" endTime="588.653">
+        <Sync time="587.472" />
+        pas dire que c'était pas bien &lt; mais c'était
+      </Turn>
+      <Turn speaker="spk2" startTime="588.653" endTime="589.09">
+        <Sync time="588.653" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="589.09" endTime="597.939">
+        <Sync time="589.09" />
+        pas votre lettre elle était faite beaucoup plus pour euh comment dire pour euh +
+        <Sync time="595.281" />
+        ben pour un une un poste de secrétariat
+      </Turn>
+      <Turn speaker="spk2" startTime="597.939" endTime="598.224">
+        <Sync time="597.939" />
+        hum ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="598.224" endTime="604.767">
+        <Sync time="598.224" />
+        vous vous listez en fait euh
+        <Sync time="600.298" />
+        + m- moi je pense qu'il faut que ce soit plus pointu vous listez tout ce que vous &lt; avez
+      </Turn>
+      <Turn speaker="spk2" startTime="604.767" endTime="608.111">
+        <Sync time="604.767" />
+        c'est vrai &gt; que c'est pas évident quand on a un cursus de secrétaire et de hein c'est &lt; pas facile hein
+      </Turn>
+      <Turn speaker="spk1" startTime="608.111" endTime="611.002">
+        <Sync time="608.111" />
+        oui mais &gt; il faut voilà quand vous voy- vous il faut faire une lettre
+      </Turn>
+      <Turn speaker="spk2" startTime="611.002" endTime="611.245">
+        <Sync time="611.002" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="611.245" endTime="619.875">
+        <Sync time="611.245" />
+        pour chaque par exemple là on va en faire une + on va en faire une ensemble + donc attendez
+        <Event desc="bruit de bouche" type="noise" extent="instantaneous" />
+        procédons + par là
+      </Turn>
+      <Turn speaker="spk2" startTime="619.875" endTime="620.375">
+        <Sync time="619.875" />
+        voilà
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="620.375" endTime="637.844">
+        <Sync time="620.375" />
+        là voilà alors l'offre c'est la numéro quoi
+        <Sync time="623.344" />
+        soixante-dix-neuf donc on va se la garder donc + donc comme ça parce que là il faut postuler hein vous avez euh voilà
+        <Sync time="630.359" />
+        ///
+        <Sync time="635.641" />
+        /donc,*/ ça jusque là c'est bon madame monsieur &lt; on est d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="637.844" endTime="639.75">
+        <Sync time="637.844" />
+        c'est pas compliqué &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="639.75" endTime="668.649">
+        <Sync time="639.75" />
+        on est d'accord ce que je vais seulement faire je viens de le mettre justement à la corbeille votre C.V. j'ai fait du ménage dans mes
+        <Sync time="646.797" />
+        j'ai tellement ici de bazarre sur mon + mon bureau de temps en temps
+        <Sync time="652.665" />
+        ///
+        <Event desc="clics de souris d'ordinateur" type="noise" extent="instantaneous" />
+        <Sync time="656.532" />
+        voilà alors alors alors
+        <Sync time="659.005" />
+        +
+        <Comment desc="L1 écrit sur une feuille un exemple de lettre de motivation" />
+        voilà donc madame monsieur
+        <Sync time="663.157" />
+        on va mettre lors il faut toujours expliquer hein comment vous avez eu l'offre
+      </Turn>
+      <Turn speaker="spk2" startTime="668.649" endTime="669.537">
+        <Sync time="668.649" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="669.537" endTime="701.211">
+        <Sync time="669.537" />
+        lors d'une consultation + du site + de la maison de l'emploi
+        <Sync time="675.865" />
+        ///
+        <Comment desc="L1 écrit" />
+        <Sync time="681.175" />
+        j'ai pris + connaissance + de l'offre de secrétaire /// que vous proposez
+        <Sync time="697.352" />
+        voilà ça ça explique où est-ce que vous avez eu cette offre-là
+      </Turn>
+      <Turn speaker="spk2" startTime="701.211" endTime="701.861">
+        <Sync time="701.211" />
+        voilà par quel moyen
+      </Turn>
+      <Turn speaker="spk1" startTime="701.861" endTime="702.173">
+        <Sync time="701.861" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="702.173" endTime="702.68">
+        <Sync time="702.173" />
+        je l'ai &gt; euh
+      </Turn>
+      <Turn speaker="spk1" startTime="702.68" endTime="723.396">
+        <Sync time="702.68" />
+        voilà bien + euh alors + maintenant + vous avez plusieurs possiblilités
+        <Sync time="710.785" />
+        vous vous pouvez euh donc hein on va dire que voilà cette offre elle vous intéresse que vous avez envie de déposer votre candidature
+        <Sync time="716.438" />
+        et il faut s'appuyez aussi bien sur l'expérience les compétences que vous avez que sur votre formation
+        <Sync time="722.318" />
+        hein d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="723.396" endTime="723.754">
+        <Sync time="723.396" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="723.754" endTime="739.205">
+        <Sync time="723.754" />
+        alors on va mettre + de formation
+        <Sync time="726.006" />
+        + euh + on va mettre de formation secrétaire non c'est pas beau ça
+        <Event desc="L1 rature ce qu'elle a écrit" type="noise" extent="instantaneous" />
+        <Sync time="734.068" />
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+        euh + titulaire
+      </Turn>
+      <Turn speaker="spk2" startTime="739.205" endTime="740.002">
+        <Sync time="739.205" />
+        titulaire
+      </Turn>
+      <Turn speaker="spk1" startTime="740.002" endTime="741.784">
+        <Sync time="740.002" />
+        voilà
+        <Sync time="740.398" />
+        d'une &lt; qualification
+      </Turn>
+      <Turn speaker="spk2" startTime="741.784" endTime="742.023">
+        <Sync time="741.784" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="742.023" endTime="785.737">
+        <Sync time="742.023" />
+        dans le secrétariat titulaire d'une qualification en secrétariat +
+        <Event desc="bruit de bouche" type="noise" extent="instantaneous" />
+        et et j- + d'une + expérience
+        <Event desc="nExpeRia~s" type="pronounce" extent="previous" />
+        <Sync time="755.435" />
+        + dans ce domaine + je vous transmets + ma canditature + bien + après on peut développer
+        <Sync time="774.335" />
+        en un peu hein par rapport à ce que vous vous aviez noté dans votre courrier
+        <Sync time="779.034" />
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+        là on peut mettre en effet euh lors je sais pas par exemple lors de mes postes précédents
+      </Turn>
+      <Turn speaker="spk2" startTime="785.737" endTime="786.207">
+        <Sync time="785.737" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="786.207" endTime="799.619">
+        <Sync time="786.207" />
+        j'ai eu l'occasion puisque là qu'est-ce qu'il(s) nous demande(nt) il(s) nous demande(nt) euh du secrétariat courant
+        <Sync time="790.527" />
+        de la maîtrise de word et d'excel
+        <Sync time="792.431" />
+        donc il faut s'appuyer sur + ce qu'eux demandent + eux ce qu'ils veulent voir les gens qui ont envie de recruter
+      </Turn>
+      <Turn speaker="spk2" startTime="799.619" endTime="799.879">
+        <Sync time="799.619" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="799.879" endTime="804.448">
+        <Sync time="799.879" />
+        c'est de voir + dans votre courrier des choses qui sont en lien avec ce qu'ils recherchent
+      </Turn>
+      <Turn speaker="spk2" startTime="804.448" endTime="805.198">
+        <Sync time="804.448" />
+        avec ce qu'il veulent &lt; voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="805.198" endTime="806.369">
+        <Sync time="805.198" />
+        voilà &gt; avec ce qu'ils recherchent
+      </Turn>
+      <Turn speaker="spk2" startTime="806.369" endTime="807.439">
+        <Sync time="806.369" />
+        quelque chose de compatible
+      </Turn>
+      <Turn speaker="spk1" startTime="807.439" endTime="807.855">
+        <Sync time="807.439" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="807.855" endTime="807.986">
+        <Sync time="807.855" />
+        voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="807.986" endTime="819.392">
+        <Sync time="807.986" />
+        à la limite je veux dire si vous avez d'autres + d'autres expériences d'autres compétences
+        <Sync time="813.777" />
+        vous pouvez les noter mais il faut quand même toujours noter dans votre lettre quelque chose qui est en rapport avec ce que vous &lt; cherchez
+      </Turn>
+      <Turn speaker="spk2" startTime="819.392" endTime="819.777">
+        <Sync time="819.392" />
+        avec ce &gt; que je &lt; (re)cherche
+      </Turn>
+      <Turn speaker="spk1" startTime="819.777" endTime="828.657">
+        <Sync time="819.777" />
+        d'accord &gt; et pas forcé- et pas noyer cette information-là
+        <Sync time="823.907" />
+        avec plein d'autres parce que après euh en fait euh elles et ben elles sont noyées ces &lt; informations pour l'idée qu'on ait * voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="828.657" endTime="833.285">
+        <Sync time="828.657" />
+        oui + parce qu'il y a une confusion ça engendre une confusion &gt; ensuite par &lt; rapport à
+      </Turn>
+      <Turn speaker="spk1" startTime="833.285" endTime="834.04">
+        <Sync time="833.285" />
+        voilà &gt; ce que la lettre que vous &lt; avez
+      </Turn>
+      <Turn speaker="spk2" startTime="834.04" endTime="834.602">
+        <Sync time="834.04" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="834.602" endTime="852.175">
+        <Sync time="834.602" />
+        faite elle hum elle comment dire voilà
+        <Sync time="838.344" />
+        vous mettez à plat tout ce que vous avez déjà fait donc en fait + c'est bien pourquoi pas mais ça votre C.V. le fait déjà
+        <Sync time="844.579" />
+        ça mais euh le fait de de mettre toutes ces informations ça noie les informations essentielles
+        <Sync time="850.935" />
+        en lien avec le poste
+      </Turn>
+      <Turn speaker="spk2" startTime="852.175" endTime="852.676">
+        <Sync time="852.175" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="852.676" endTime="856.91">
+        <Sync time="852.676" />
+        toutes les autres informations tous ce ils vont les retrouver sur votre C.V. d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="856.91" endTime="857.379">
+        <Sync time="856.91" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="857.379" endTime="867.431">
+        <Sync time="857.379" />
+        alors en effet je regarde commment on a mis na na na
+        <Sync time="861.369" />
+        ah alors en effet lors de mes postes précédents + donc déjà ça veut dire que vous avez eu plusieurs postes
+      </Turn>
+      <Turn speaker="spk2" startTime="867.431" endTime="868.071">
+        <Sync time="867.431" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="868.071" endTime="904.13">
+        <Sync time="868.071" />
+        hein + lors de mes postes précédents
+        <Sync time="870.525" />
+        <Event desc="bruit de bouche" type="noise" extent="instantaneous" />
+        euh j'ai eu à effectuer +
+        <Event desc="elle écrit" type="noise" extent="instantaneous" />
+        <Sync time="877.085" />
+        <Event desc="bruit de bouche" type="noise" extent="instantaneous" />
+        + que je fasse pas de faute
+        <Event desc="rires" type="noise" extent="next" />
+        j'ai eu à effectuer euh + des taches + très diversifiées +
+        <Sync time="891.391" />
+        en lien + avec + en lien avec euh mon poste on va rechanger hein s'il faut de secrétaire
+        <Sync time="901.676" />
+        et puis on va lister par rapport à ce qu'ils demandent
+      </Turn>
+      <Turn speaker="spk2" startTime="904.13" endTime="904.409">
+        <Sync time="904.13" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="904.409" endTime="909.155">
+        <Sync time="904.409" />
+        donc vous avez fait tout ce qui était courrier saisie hein toutes ces &lt; choses-là
+      </Turn>
+      <Turn speaker="spk2" startTime="909.155" endTime="909.9">
+        <Sync time="909.155" />
+        voilà &gt; des choses comme &lt; ça
+      </Turn>
+      <Turn speaker="spk1" startTime="909.9" endTime="911.632">
+        <Sync time="909.9" />
+        alors &gt; gestion du &lt; courrier
+      </Turn>
+      <Turn speaker="spk2" startTime="911.632" endTime="913.328">
+        <Sync time="911.632" />
+        traitement de texte &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="913.328" endTime="914.212">
+        <Sync time="913.328" />
+        voilà +
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

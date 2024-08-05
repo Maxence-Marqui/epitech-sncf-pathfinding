@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Cannelle" audio_filename="Ferdinand3_Can7mn11s.wave" version="3" version_date="170808">
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Ferdinand" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="CB 07/17 - EC 8/8/2017"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="431.956" topic="to1">
+<Turn startTime="0" endTime="6.13" speaker="spk1">
+<Sync time="0"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+ 
+<Event desc="b" type="noise" extent="begin"/>
+ allez Ferdinand nous sommes le six mars 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ deux mille un
+</Turn>
+<Turn speaker="spk2" startTime="6.13" endTime="7.007">
+<Sync time="6.13"/>
+mmh mmh
+</Turn>
+<Turn speaker="spk1" startTime="7.007" endTime="9.734">
+<Sync time="7.007"/>
+* bon on va se dépêcher parce qu'après il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ la cantine hein
+</Turn>
+<Turn speaker="spk2" startTime="9.734" endTime="11.78">
+<Sync time="9.734"/>
+*** + 
+</Turn>
+<Turn speaker="spk1" startTime="11.78" endTime="13.106">
+<Sync time="11.78"/>
+on regarde les petits livres ?
+</Turn>
+<Turn speaker="spk2" startTime="13.106" endTime="14.056">
+<Sync time="13.106"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="14.056" endTime="15.67">
+<Sync time="14.056"/>
+non tu veux regarder les grands ?
+</Turn>
+<Turn speaker="spk2" startTime="15.67" endTime="16.165">
+<Sync time="15.67"/>
+*
+</Turn>
+<Turn speaker="spk1" startTime="16.165" endTime="17.464">
+<Sync time="16.165"/>
+tu voulais regarder ceux-là ? 
+</Turn>
+<Turn speaker="spk2" startTime="17.464" endTime="18.843">
+<Sync time="17.464"/>
+*
+</Turn>
+<Turn speaker="spk1 spk2" startTime="18.843" endTime="19.529">
+<Sync time="18.843"/>
+<Who nb="1"/>
+c'est ceux-là
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="19.529" endTime="22.441">
+<Sync time="19.529"/>
+que tu voulais regarder d'accord 
+<Event desc="b" type="noise" extent="previous"/>
+ j'ai compris + 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="22.441" endTime="23.65">
+<Sync time="22.441"/>
+<Who nb="1"/>
+alors je vais te
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="23.65" endTime="30.973">
+<Sync time="23.65"/>
+"La toutoune de Julien" tu voulais ? ah d'accord + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="29.486"/>
+je vais te lire "La toutoune de Julien" ?
+</Turn>
+<Turn speaker="spk2" startTime="30.973" endTime="31.952">
+<Sync time="30.973"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="31.952" endTime="36.427">
+<Sync time="31.952"/>
+tu vas ouvrir le livre à la première page + 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="36.427" endTime="37.569">
+<Sync time="36.427"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="37.569" endTime="40.827">
+<Sync time="37.569"/>
+voilà 
+<Event desc="b" type="noise" extent="previous"/>
+ elle est là la première page tu vois c'est écrit un
+</Turn>
+<Turn speaker="spk2" startTime="40.827" endTime="42.498">
+<Sync time="40.827"/>
+mmh mmh + 
+</Turn>
+<Turn speaker="spk1" startTime="42.498" endTime="71.27">
+<Sync time="42.498"/>
+Julien et son grand frère Nicolas
+<Sync time="45.239"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+ sont habillés bien chaudement pour aller à l'école + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="50.011"/>
+avant de partir maman ferme la porte à clé + 
+<Event desc="tx" type="noise" extent="instantaneous"/>
+ + 
+<Sync time="56.531"/>
+dehors Julien et Nicolas donne la main à leur maman +
+<Sync time="62.033"/>
+Julien est content parce qu'il sent des gouttes de pluie sur sa figure + 
+<Sync time="67.439"/>
+Julien aime bien marcher sous la pluie + 
+</Turn>
+<Turn speaker="spk2" startTime="71.27" endTime="72.945">
+<Sync time="71.27"/>
+mmh mmh + 
+</Turn>
+<Turn speaker="spk1" startTime="72.945" endTime="86.154">
+<Sync time="72.945"/>
+tu peux tourner la page + 
+<Event desc="pap" type="noise" extent="previous"/>
+
+<Sync time="77.859"/>
+Julien s'arrête il dit
+<Sync time="80.255"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ maman maman maman ma toutoune j'ai oublié ma toutoune
+<Sync time="83.746"/>
+je veux retourner à la maison + 
+</Turn>
+<Turn speaker="spk2" startTime="86.154" endTime="88.287">
+<Sync time="86.154"/>
+oh + 
+</Turn>
+<Turn speaker="spk1" startTime="88.287" endTime="99.788">
+<Sync time="88.287"/>
+Julien Nicolas et maman
+<Sync time="90.175"/>
+retournent vite à la maison
+<Sync time="92.264"/>
+pour chercher la toutoune de Julien + 
+<Sync time="95.578"/>
+maman dit dépêchons-nous nous allons être en retard à l'école + 
+</Turn>
+<Turn speaker="spk2" startTime="99.788" endTime="105.509">
+<Sync time="99.788"/>
+mmh mmh + 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="105.509" endTime="112.839">
+<Sync time="105.509"/>
+à la maison Julien et Nicolas cherchent partout
+<Sync time="109.176"/>
+ils regardent même sous les lits
+<Sync time="111.762"/>
+pas de toutoune
+</Turn>
+<Turn speaker="spk2" startTime="112.839" endTime="113.785">
+<Sync time="112.839"/>
+oh
+</Turn>
+<Turn speaker="spk1" startTime="113.785" endTime="137.677">
+<Sync time="113.785"/>
+Nicolas cherche dans la salle de bain
+<Sync time="116.281"/>
+pas de toutoune + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="121.68"/>
+Julien regarde dans le lit préparé pour le bébé qui va bientôt arriver
+<Sync time="126.334"/>
+pas de toutoune + 
+<Sync time="128.898"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Nicolas appelle Julien
+<Sync time="130.712"/>
+viens je l'ai retrouvée ta toutoune
+<Sync time="132.783"/>
+elle était là sur la chaise de la salle à manger
+<Sync time="135.61"/>
+Julien est content + 
+</Turn>
+<Turn speaker="spk2" startTime="137.677" endTime="140.769">
+<Sync time="137.677"/>
+mmh + 
+<Event desc="pap" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="140.769" endTime="160.005">
+<Sync time="140.769"/>
+maman attend dans l'entrée 
+<Sync time="143.008"/>
+elle regarde sa montre
+<Sync time="144.805"/>
+maman appelle
+<Sync time="145.677"/>
+Julien Nicolas venez vite + 
+<Sync time="149.918"/>
+Nicolas marche vite devant maman
+<Sync time="152.509"/>
+Julien suce sa toutoune
+<Sync time="154.88"/>
+maman le tire par la main
+<Sync time="156.389"/>
+pour qu'il avance un peu plus vite + 
+</Turn>
+<Turn speaker="spk2" startTime="160.005" endTime="161.894">
+<Sync time="160.005"/>
+
+<Event desc="pap" type="noise" extent="begin"/>
+ bientôt fini 
+<Event desc="pap" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="161.894" endTime="175.342">
+<Sync time="161.894"/>
+Julien et Nicolas sont arrivés devant l'école
+<Sync time="164.95"/>
+maman les embrasse avant de les quitter
+<Sync time="167.269"/>
+en disant
+<Sync time="168.411"/>
+il est tard
+<Sync time="169.166"/>
+aujourd'hui je n'ai pas le temps de vous accompagner dans votre classe
+<Sync time="172.2"/>
+entrez vite tous seuls
+<Sync time="173.638"/>
+à ce soir 
+<Comment desc="longue prononciation"/>
+ + 
+</Turn>
+<Turn speaker="spk2" startTime="175.342" endTime="179.066">
+<Sync time="175.342"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ + 
+</Turn>
+<Turn speaker="spk1" startTime="179.066" endTime="180.055">
+<Sync time="179.066"/>
+c'est fini
+</Turn>
+<Turn speaker="spk2" startTime="180.055" endTime="181.786">
+<Sync time="180.055"/>
+*** + 
+</Turn>
+<Turn speaker="spk1" startTime="181.786" endTime="184.717">
+<Sync time="181.786"/>
+tu veux raconter à ton tour ? 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="183.218"/>
+eh ben tu as encore perdu des dents eh
+</Turn>
+<Turn speaker="spk1 spk2" startTime="184.717" endTime="186.035">
+<Sync time="184.717"/>
+<Who nb="1"/>
+Ferdinand 
+<Event desc="rire" type="noise" extent="previous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="186.035" endTime="187.284">
+<Sync time="186.035"/>
+
+<Event desc="n" type="noise" extent="instantaneous"/>
+ Julien 
+</Turn>
+<Turn speaker="spk1" startTime="187.284" endTime="189.083">
+<Sync time="187.284"/>
+"La toutoune de Julien"
+</Turn>
+<Turn speaker="spk2" startTime="189.083" endTime="190.356">
+<Sync time="189.083"/>
+la toutoune Julien 
+<Event desc="pap" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="190.356" endTime="194.979">
+<Sync time="190.356"/>
+alors tu sais 
+<Event desc="tse" type="pronounce" extent="previous"/>
+ va bien falloir que tu parles très fort
+<Sync time="192.18"/>
+dans le ma- pour qu'on t'entende bien dans le magnétophone après d'accord ? 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="194.979" endTime="201.109">
+<Sync time="194.979"/>
+ouais 
+<Event desc="b" type="noise" extent="previous"/>
+ + 
+<Event desc="pap" type="noise" extent="previous"/>
+
+<Sync time="199.498"/>
+la toutoune de Julien
+</Turn>
+<Turn speaker="spk1" startTime="201.109" endTime="201.555">
+<Sync time="201.109"/>
+mmh mmh
+</Turn>
+<Turn speaker="spk2" startTime="201.555" endTime="211.134">
+<Sync time="201.555"/>
+*** de Ju- de Julien 
+<Sync time="204.887"/>
+avec 
+<Event desc="tutu" type="pronounce" extent="instantaneous"/>
+ 
+<Comment desc="interprétation = toutoune ?"/>
+
+<Sync time="206.107"/>
+*** après maman elle 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ferme dans la clé la porte
+</Turn>
+<Turn startTime="211.134" endTime="213.887" speaker="spk1">
+<Sync time="211.134"/>
+voilà la maman ferme la porte
+</Turn>
+<Turn speaker="spk1 spk2" startTime="213.887" endTime="214.971">
+<Sync time="213.887"/>
+<Who nb="1"/>
+avec la clé
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="214.971" endTime="216.477">
+<Sync time="214.971"/>
+écoute bien la maman
+</Turn>
+<Turn speaker="spk1 spk2" startTime="216.477" endTime="217.471">
+<Sync time="216.477"/>
+<Who nb="1"/>
+ferme la porte
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="217.471" endTime="218.491">
+<Sync time="217.471"/>
+avec la clé
+</Turn>
+<Turn speaker="spk1" startTime="218.491" endTime="219.352">
+<Sync time="218.491"/>
+d'accord 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="219.352" endTime="225.816">
+<Sync time="219.352"/>
+après 
+<Event desc="aplE" type="pronounce" extent="previous"/>
+
+<Sync time="220.43"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ mmh 
+<Comment desc="longue prononciation"/>
+ comment il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle 
+<Event desc="SapEl" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="225.816" endTime="226.643">
+<Sync time="225.816"/>
+Nicolas
+</Turn>
+<Turn speaker="spk2" startTime="226.643" endTime="228.096">
+<Sync time="226.643"/>
+Nicolas et 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="228.096" endTime="228.755">
+<Sync time="228.096"/>
+Julien
+</Turn>
+<Turn speaker="spk2" startTime="228.755" endTime="234.75">
+<Sync time="228.755"/>
+et Juli- Julien dit *** j'ai perdu ma 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="234.75" endTime="235.264">
+<Sync time="234.75"/>
+alors là
+</Turn>
+<Turn speaker="spk1 spk2" startTime="235.264" endTime="236.113">
+<Sync time="235.264"/>
+<Who nb="1"/>
+il deman- il dit
+<Who nb="2"/>
+toutoune
+</Turn>
+<Turn speaker="spk1" startTime="236.113" endTime="241.637">
+<Sync time="236.113"/>
+pas qu'il a perdu sa toutoune
+<Sync time="237.897"/>
+il dit qu'il aime bien 
+<Sync time="239.949"/>
+quand il y a la pluie 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="241.637" endTime="243.141">
+<Sync time="241.637"/>
+il aime bien marcher
+</Turn>
+<Turn speaker="spk1" startTime="243.141" endTime="244.533">
+<Sync time="243.141"/>
+voilà il aime bien marcher
+</Turn>
+<Turn speaker="spk1 spk2" startTime="244.533" endTime="245.015">
+<Sync time="244.533"/>
+<Who nb="1"/>
+sous la
+<Who nb="2"/>
+sous la
+</Turn>
+<Turn speaker="spk2" startTime="245.015" endTime="245.697">
+<Sync time="245.015"/>
+pluie 
+<Event desc="puji" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="245.697" endTime="247.906">
+<Sync time="245.697"/>
+mmh mmh il aime bien marcher sous la
+</Turn>
+<Turn speaker="spk1 spk2" startTime="247.906" endTime="248.233">
+<Sync time="247.906"/>
+<Who nb="1"/>
+pluie
+<Who nb="2"/>
+la 
+</Turn>
+<Turn speaker="spk2" startTime="248.233" endTime="258.151">
+<Sync time="248.233"/>
+pluie 
+<Event desc="puji" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="249.868"/>
+et maintenant *** + 
+<Sync time="256.859"/>
+Martin il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit 
+</Turn>
+<Turn speaker="spk1" startTime="258.151" endTime="260.367">
+<Sync time="258.151"/>
+c'est euh euh euh Julien
+</Turn>
+<Turn speaker="spk2" startTime="260.367" endTime="264.096">
+<Sync time="260.367"/>
+Julien il dit maman j'ai perdu ma toutoune
+</Turn>
+<Turn speaker="spk1" startTime="264.096" endTime="265.588">
+<Sync time="264.096"/>
+il a oublié sa toutoune
+</Turn>
+<Turn speaker="spk2" startTime="265.588" endTime="268.643">
+<Sync time="265.588"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="268.643" endTime="268.979">
+<Sync time="268.643"/>
+il a 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="268.979" endTime="269.788">
+<Sync time="268.979"/>
+<Who nb="1"/>
+oublié
+<Who nb="2"/>
+oublié
+</Turn>
+<Turn speaker="spk2" startTime="269.788" endTime="271.191">
+<Sync time="269.788"/>
+sa toutoune
+</Turn>
+<Turn speaker="spk2 spk1" startTime="271.191" endTime="271.594">
+<Sync time="271.191"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="271.594" endTime="282.083">
+<Sync time="271.594"/>
+*** sa toutoune il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va à la maison *
+<Sync time="274.459"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va vite chercher 
+<Event desc="SERse" type="pronounce" extent="previous"/>
+ son son /toutou, doudou/ ***
+<Sync time="277.737"/>
+mais maman elle 
+<Event desc="E" type="pronounce" extent="previous"/>
+ dit vite vite vite *** sur l'école
+</Turn>
+<Turn speaker="spk1" startTime="282.083" endTime="285.279">
+<Sync time="282.083"/>
+voilà la maman dit dépêche-toi on va être en retard à l'école
+</Turn>
+<Turn speaker="spk2" startTime="285.279" endTime="292.134">
+<Sync time="285.279"/>
+mmh + après ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ cherchent partout
+<Sync time="290.224"/>
+Nicolas et 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="292.134" endTime="292.708">
+<Sync time="292.134"/>
+Julien
+</Turn>
+<Turn speaker="spk2" startTime="292.708" endTime="295.726">
+<Sync time="292.708"/>
+et Julien ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ cherchent 
+<Event desc="sERS" type="pronounce" extent="previous"/>
+ dans sa ***
+<Sync time="295.418"/>
+et il(s) 
+<Event desc="i" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="295.726" endTime="296.51">
+<Sync time="295.726"/>
+<Who nb="1"/>
+cherche(nt)
+<Who nb="2"/>
+il(s) cherche(nt)
+</Turn>
+<Turn speaker="spk2" startTime="296.51" endTime="297.319">
+<Sync time="296.51"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="297.319" endTime="298.089">
+<Sync time="297.319"/>
+il(s) cherche(nt)
+</Turn>
+<Turn speaker="spk2" startTime="298.089" endTime="299.154">
+<Sync time="298.089"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="299.154" endTime="300.109">
+<Sync time="299.154"/>
+sous les lits
+</Turn>
+<Turn speaker="spk2" startTime="300.109" endTime="304.005">
+<Sync time="300.109"/>
+sous 
+<Event desc="s@" type="pronounce" extent="previous"/>
+ le lit
+<Sync time="301.061"/>
+*** chercher 
+<Event desc="SERse" type="pronounce" extent="previous"/>
+ euh 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ euh 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="304.005" endTime="305.841">
+<Sync time="304.005"/>
+il(s) cherche(nt) dans la salle de bain 
+</Turn>
+<Turn speaker="spk2" startTime="305.841" endTime="315.132">
+<Sync time="305.841"/>
+dans la salle de bain ***
+</Turn>
+<Turn speaker="spk1" startTime="315.132" endTime="317.25">
+<Sync time="315.132"/>
+doucement il(s) regarde(nt) dans le lit de bébé 
+</Turn>
+<Turn speaker="spk2" startTime="317.25" endTime="319.635">
+<Sync time="317.25"/>
+il(s) regarde(nt) 
+<Event desc="dr2gaR" type="pronounce" extent="previous"/>
+ dans le lit bébé qui
+</Turn>
+<Turn speaker="spk1" startTime="319.635" endTime="321.18">
+<Sync time="319.635"/>
+il y a pas de toutoune
+</Turn>
+<Turn speaker="spk2" startTime="321.18" endTime="330.228">
+<Sync time="321.18"/>
+il y a pas de toutoune 
+<Event desc="tutu" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="322.484"/>
+après *** oh viens j'ai 
+<Event desc="jE" type="pronounce" extent="previous"/>
+ trouvé *** 
+<Sync time="326.403"/>
+*** 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ *** de la chaise 
+<Event desc="SEs" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="330.228" endTime="334.833">
+<Sync time="330.228"/>
+voilà Nicolas appelle Julien 
+<Sync time="332.36"/>
+parce qu'il a retrouvé la toutoune
+<Sync time="334.105"/>
+sous la chaise
+</Turn>
+<Turn speaker="spk2" startTime="334.833" endTime="340.709">
+<Sync time="334.833"/>
+la chaise 
+<Event desc="sEs" type="pronounce" extent="previous"/>
+
+<Sync time="336.464"/>
+*** 
+<Event desc="b" type="noise" extent="previous"/>
+ *** 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="340.709" endTime="341.563">
+<Sync time="340.709"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+attends 
+<Event desc="ta~" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="ta" type="pronounce" extent="instantaneous"/>
+ 
+<Event desc="ta" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="341.563" endTime="344.156">
+<Sync time="341.563"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ parle douce- lentement parce que sinon je te comprends pas
+</Turn>
+<Turn speaker="spk2" startTime="344.156" endTime="344.743">
+<Sync time="344.156"/>
+mmh mmh 
+</Turn>
+<Turn speaker="spk1" startTime="344.743" endTime="348.014">
+<Sync time="344.743"/>
+alors reprends en parlant lentement 
+</Turn>
+<Turn speaker="spk2" startTime="348.014" endTime="351.841">
+<Sync time="348.014"/>
+euh 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="351.841" endTime="355.083">
+<Sync time="351.841"/>
+alors maman dit elle appelle Julien et Nicolas
+</Turn>
+<Turn speaker="spk2" startTime="355.083" endTime="358.607">
+<Sync time="355.083"/>
+elle appelle *** 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="358.607" endTime="359.117">
+<Sync time="358.607"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+voilà
+</Turn>
+<Turn speaker="spk2" startTime="359.117" endTime="366.198">
+<Sync time="359.117"/>
+*** après *** à l'école très vite
+<Sync time="365.747"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ après
+</Turn>
+<Turn speaker="spk1" startTime="366.198" endTime="368.308">
+<Sync time="366.198"/>
+alors Nicolas marche vite
+</Turn>
+<Turn speaker="spk1 spk2" startTime="368.308" endTime="369.046">
+<Sync time="368.308"/>
+<Who nb="1"/>
+pour aller à
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="369.046" endTime="370.486">
+<Sync time="369.046"/>
+écoute moi bien puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ après tu reprends
+</Turn>
+<Turn speaker="spk2" startTime="370.486" endTime="370.923">
+<Sync time="370.486"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="370.923" endTime="376.58">
+<Sync time="370.923"/>
+Nicolas marche vite pour aller à l'école 
+<Sync time="373.927"/>
+et Julien traine
+</Turn>
+<Turn speaker="spk2" startTime="376.58" endTime="377.57">
+<Sync time="376.58"/>
+traine
+</Turn>
+<Turn speaker="spk1" startTime="377.57" endTime="379.685">
+<Sync time="377.57"/>
+* la maman le tire par la main 
+</Turn>
+<Turn speaker="spk2" startTime="379.685" endTime="384.123">
+<Sync time="379.685"/>
+*** elle tire par la main parce qu'il 
+<Event desc="paRski" type="pronounce" extent="previous"/>
+ *** il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va vite ***
+</Turn>
+<Turn speaker="spk1" startTime="384.123" endTime="387.209">
+<Sync time="384.123"/>
+voilà elle le tire la par la main pour qu'il avance plus vite
+</Turn>
+<Turn speaker="spk2" startTime="387.209" endTime="387.834">
+<Sync time="387.209"/>
+ouais 
+</Turn>
+<Turn speaker="spk1" startTime="387.834" endTime="388.782">
+<Sync time="387.834"/>
+mmh mmh 
+</Turn>
+<Turn speaker="spk2" startTime="388.782" endTime="410.693">
+<Sync time="388.782"/>
+voilà c'est fini *** fait un bisou
+<Sync time="395.739"/>
+* maintenant il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit 
+<Sync time="397.294"/>
+mais maintenant vous *** à l'école 
+<Sync time="399.708"/>
+vous-même 
+<Event desc="vumE" type="pronounce" extent="previous"/>
+ *** parce que 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+<Sync time="401.236"/>
+parce que je peux pas *** dans l'école
+<Sync time="405.346"/>
+*** après elle
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit *** à demain *** dans l'école dedans
+</Turn>
+<Turn speaker="spk1" startTime="410.693" endTime="413.002">
+<Sync time="410.693"/>
+alors ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ disent pas à demain elle dit à ce soir la maman
+</Turn>
+<Turn speaker="spk2" startTime="413.002" endTime="413.364">
+<Sync time="413.002"/>
+à ce 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="413.364" endTime="413.751">
+<Sync time="413.364"/>
+<Who nb="1"/>
+soir 
+<Event desc="SwaR" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="413.751" endTime="414.524">
+<Sync time="413.751"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dorment pas à l'école
+</Turn>
+<Turn speaker="spk2" startTime="414.524" endTime="414.919">
+<Sync time="414.524"/>
+
+<Event desc="n" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="414.919" endTime="417.339">
+<Sync time="414.919"/>
+alors la maman embrasse Julien et Nicolas 
+</Turn>
+<Turn speaker="spk2" startTime="417.339" endTime="417.902">
+<Sync time="417.339"/>
+mmh mmh
+</Turn>
+<Turn speaker="spk1" startTime="417.902" endTime="422.031">
+<Sync time="417.902"/>
+devant l'école
+<Sync time="419.262"/>
+parce qu'elle a pas le temps de les amener dans la classe 
+</Turn>
+<Turn speaker="spk2" startTime="422.031" endTime="422.677">
+<Sync time="422.031"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="422.677" endTime="425.422">
+<Sync time="422.677"/>
+et elle leur dit à ce soir rentrez vite tous seuls
+</Turn>
+<Turn speaker="spk2" startTime="425.422" endTime="428.195">
+<Sync time="425.422"/>
+voilà + 
+<Sync time="427.415"/>
+et c'est fini 
+</Turn>
+<Turn speaker="spk1" startTime="428.195" endTime="431.387">
+<Sync time="428.195"/>
+c'est bien Ferdinand c'est bien 
+<Sync time="430.037"/>
+tu voulais t'écouter un petit peu ? 
+</Turn>
+<Turn speaker="spk2" startTime="431.387" endTime="431.956">
+<Sync time="431.387"/>
+oui 
+<Event desc="conv" type="noise" extent="end"/>
+ 
+<Event desc="b" type="noise" extent="end"/>
+
+<Sync time="431.927"/>
+$$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

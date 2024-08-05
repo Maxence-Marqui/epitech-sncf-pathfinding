@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="SOW Youma" audio_filename="valentine3_sow.wav" version="21" version_date="100901">
+<Topics>
+<Topic id="to1" desc="Valentine3_YS04/09/2008-EC1/9/2010"/>
+</Topics>
+<Speakers>
+<Speaker id="spk70" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk71" name="Valentine" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="310.395" topic="to1">
+<Turn startTime="0" endTime="7.539" speaker="spk70">
+<Sync time="0"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+ alors Valentine le ¤C¤ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Valentine alors
+<Sync time="5.558"/>
+tu 
+<Event desc="mic" type="noise" extent="end"/>
+ te souviens 
+<Event desc="tsuvje~" type="pronounce" extent="previous"/>
+ la semaine dernière ? alors
+</Turn>
+<Turn speaker="spk71 spk70" startTime="7.539" endTime="8.054">
+<Sync time="7.539"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+l'histoire
+</Turn>
+<Turn speaker="spk70" startTime="8.054" endTime="9.127">
+<Sync time="8.054"/>
+c'était
+</Turn>
+<Turn speaker="spk71" startTime="9.127" endTime="10.544">
+<Sync time="9.127"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ oui
+</Turn>
+<Turn speaker="spk70" startTime="10.544" endTime="11.979">
+<Sync time="10.544"/>
+"Le dîner de Bébé-Leïla" 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk71" startTime="11.979" endTime="12.205">
+<Sync time="11.979"/>
+oui
+</Turn>
+<Turn speaker="spk70" startTime="12.205" endTime="19.299">
+<Sync time="12.205"/>
+hein ? 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ pas te la 
+<Event desc="tla" type="pronounce" extent="previous"/>
+ raconter
+<Sync time="15.293"/>
+toi tu vas me la 
+<Event desc="mla" type="pronounce" extent="previous"/>
+ raconter d'accord ? tu te souviens ?
+</Turn>
+<Turn speaker="spk71" startTime="19.299" endTime="20.236">
+<Sync time="19.299"/>
+euh non
+</Turn>
+<Turn speaker="spk70 spk71" startTime="20.236" endTime="20.394">
+<Sync time="20.236"/>
+<Who nb="1"/>
+tu
+<Who nb="2"/>
+je
+</Turn>
+<Turn speaker="spk71" startTime="20.394" endTime="20.769">
+<Sync time="20.394"/>
+crois pas
+</Turn>
+<Turn speaker="spk70" startTime="20.769" endTime="25.077">
+<Sync time="20.769"/>
+tu tu crois pas même si tu 
+<Event desc="mic" type="noise" extent="begin"/>
+ regardes les images 
+<Event desc="mic" type="noise" extent="end"/>
+ ça t'aidera pas ?
+</Turn>
+<Turn speaker="spk71" startTime="25.077" endTime="26.26">
+<Sync time="25.077"/>
+euh
+</Turn>
+<Turn speaker="spk70" startTime="26.26" endTime="47.297">
+<Sync time="26.26"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="next"/>
+ écoute on va essayer d'abord
+<Sync time="28.055"/>
+je te 
+<Event desc="St2" type="pronounce" extent="previous"/>
+ je te 
+<Event desc="St2" type="pronounce" extent="previous"/>
+ je te 
+<Event desc="St2" type="pronounce" extent="previous"/>
+ la raconte pas
+<Sync time="29.604"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et on voit hein ? si vraiment euh tu t'en souviens vraiment plus du tout
+<Sync time="34.137"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ là je te 
+<Event desc="St2" type="pronounce" extent="previous"/>
+ je te 
+<Event desc="St2" type="pronounce" extent="previous"/>
+ la raconterai
+<Sync time="36.123"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ je te 
+<Event desc="St2" type="pronounce" extent="previous"/>
+ rappelle quand même les personnages
+<Sync time="38.119"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Dorothée Karim 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ Bébé-Leïla
+<Sync time="42.686"/>
+et 
+<Event desc="b" type="noise" extent="previous"/>
+ la maman 
+<Comment desc="L'adulte désigne les personnages en les montrant sur les médaillons"/>
+
+<Sync time="44.37"/>
+alors là sur 
+<Event desc="b" type="noise" extent="begin"/>
+ cette image 
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ qu'est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ tu vois ?
+</Turn>
+<Turn speaker="spk71" startTime="47.297" endTime="50.664">
+<Sync time="47.297"/>
+euh il y a 
+<Event desc="ja " type="pronounce" extent="previous"/>
+ Bébé-Leïla qui pleure
+</Turn>
+<Turn speaker="spk70 spk71" startTime="50.664" endTime="51.444">
+<Sync time="50.664"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et Karim
+</Turn>
+<Turn speaker="spk71" startTime="51.444" endTime="53.162">
+<Sync time="51.444"/>
+essaie de la consoler
+</Turn>
+<Turn speaker="spk71 spk70" startTime="53.162" endTime="53.756">
+<Sync time="53.162"/>
+<Who nb="1"/>
+il n'y arrive
+<Who nb="2"/>
+voilà
+</Turn>
+<Turn speaker="spk71" startTime="53.756" endTime="54.116">
+<Sync time="53.756"/>
+pas
+</Turn>
+<Turn speaker="spk70" startTime="54.116" endTime="66.762">
+<Sync time="54.116"/>
+très bien 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ voilà Bébé-Leïla pleure
+<Sync time="57.014"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Karim essaie de la consoler mais il n'y arrive pas 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ +
+<Sync time="64.912"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ alors et là ?
+</Turn>
+<Turn speaker="spk71" startTime="66.762" endTime="78.137">
+<Sync time="66.762"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ euh 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ + il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Karim si elle a mal
+<Sync time="73.124"/>
+mais Bébé-Leïla 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ euh elle ne sait pas encore parler
+</Turn>
+<Turn speaker="spk70" startTime="78.137" endTime="91.536">
+<Sync time="78.137"/>
+voilà 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Karim demande à Bébé-Leïla si elle a mal
+<Sync time="81.731"/>
+mais Bébé-Leïla 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ne sait pas encore parler
+<Sync time="85.289"/>
+parce que c'est un bébé hein ?
+<Sync time="87.612"/>
+elle est encore trop petite 
+<Event desc="ptit" type="pronounce" extent="previous"/>
+ pour parler
+<Sync time="89.328"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et là que fait Karim ?
+</Turn>
+<Turn speaker="spk71" startTime="91.536" endTime="97.206">
+<Sync time="91.536"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ regarde si il 
+<Comment desc="Interprétation = elle"/>
+ a fait pipi
+<Sync time="93.941"/>
+mais 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ la couche de Bébé-Leïla elle est toute sèche
+</Turn>
+<Turn speaker="spk70" startTime="97.206" endTime="104.994">
+<Sync time="97.206"/>
+elle est toute sèche très bien oui 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ +
+<Sync time="100.945"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et là que fait Karim ?
+</Turn>
+<Turn speaker="spk71" startTime="104.994" endTime="107.342">
+<Sync time="104.994"/>
+euh il appelle sa soeur 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk70" startTime="107.342" endTime="108.894">
+<Sync time="107.342"/>
+non c'est pas sa soeur
+</Turn>
+<Turn speaker="spk71" startTime="108.894" endTime="110.863">
+<Sync time="108.894"/>
+ah c'est oui c'est vrai c'est sa euh
+</Turn>
+<Turn speaker="spk70" startTime="110.863" endTime="112.029">
+<Sync time="110.863"/>
+c'est une amie
+</Turn>
+<Turn speaker="spk71" startTime="112.029" endTime="112.645">
+<Sync time="112.029"/>
+c'est sa
+</Turn>
+<Turn speaker="spk70 spk71" startTime="112.645" endTime="112.926">
+<Sync time="112.645"/>
+<Who nb="1"/>
+sa
+<Who nb="2"/>
+copine
+</Turn>
+<Turn speaker="spk70" startTime="112.926" endTime="115.696">
+<Sync time="112.926"/>
+copine 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ qui s'appelle ?
+</Turn>
+<Turn speaker="spk71" startTime="115.696" endTime="116.18">
+<Sync time="115.696"/>
+Dorothée
+</Turn>
+<Turn speaker="spk70" startTime="116.18" endTime="119.165">
+<Sync time="116.18"/>
+Dorothée 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ voilà et pourquoi est-ce qu'il l'appelle ?
+</Turn>
+<Turn speaker="spk71" startTime="119.165" endTime="122.135">
+<Sync time="119.165"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ parce que il n'y arrive pas à la consoler
+</Turn>
+<Turn speaker="spk70" startTime="122.135" endTime="136.016">
+<Sync time="122.135"/>
+voilà il a besoin d'aide
+<Sync time="124.011"/>
+hein ? parce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Bébé-Leïla continue à pleurer
+<Sync time="127.335"/>
+et Karim ne sait vraiment pas ce qu'elle 
+<Event desc="skEl" type="pronounce" extent="previous"/>
+ a
+<Sync time="129.925"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ donc là 
+<Event desc="pap" type="noise" extent="previous"/>
+ Dorothée arrive 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et 
+<Event desc="b" type="noise" extent="previous"/>
+ que dit-elle ? 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk71" startTime="136.016" endTime="137.967">
+<Sync time="136.016"/>
+euh elle a sûrement faim
+</Turn>
+<Turn speaker="spk70" startTime="137.967" endTime="146.482">
+<Sync time="137.967"/>
+voilà Dorothée dit à Karim que Bébé-Leïla a sûrement faim
+<Sync time="143.173"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et quand Bébé-Leïla a faim qu'est-ce qu'il faut faire 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ?
+</Turn>
+<Turn speaker="spk71" startTime="146.482" endTime="147.371">
+<Sync time="146.482"/>
+lui donner à manger
+</Turn>
+<Turn speaker="spk70" startTime="147.371" endTime="153.933">
+<Sync time="147.371"/>
+très bien il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut 
+<Event desc="mic" type="noise" extent="previous"/>
+ lui donner à manger 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+<Sync time="149.974"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ alors là + que se passe-t-il ?
+</Turn>
+<Turn speaker="spk71" startTime="153.933" endTime="156.967">
+<Sync time="153.933"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ euh 
+<Event desc="i" type="pronounce" extent="next"/>
+ il 
+<Event desc="ch" type="pronounce" extent="previous"/>
+ K- 
+<Event desc="ch" type="pronounce" extent="previous"/>
+ Karim 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk70" startTime="156.967" endTime="157.302">
+<Sync time="156.967"/>
+hum
+</Turn>
+<Turn speaker="spk71" startTime="157.302" endTime="166.497">
+<Sync time="157.302"/>
+apporte la 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ casserole 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ remplie de purée
+<Sync time="161.642"/>
+que 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ la maman 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ a fait 
+<Comment desc="sic"/>
+ avant de partir au marché
+</Turn>
+<Turn speaker="spk70" startTime="166.497" endTime="176.167">
+<Sync time="166.497"/>
+voilà 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ donc Karim prend la petite casserole de purée
+<Sync time="170.551"/>
+que sa maman a chauffée avant de partir au supermarché +
+</Turn>
+<Turn speaker="spk71" startTime="176.167" endTime="177.956">
+<Sync time="176.167"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et hum
+</Turn>
+<Turn speaker="spk70" startTime="177.956" endTime="179.214">
+<Sync time="177.956"/>
+et alors Bébé-Leïla ?
+</Turn>
+<Turn speaker="spk71" startTime="179.214" endTime="181.053">
+<Sync time="179.214"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ quand elle voit 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk70" startTime="181.053" endTime="181.662">
+<Sync time="181.053"/>
+hum hum
+</Turn>
+<Turn speaker="spk71" startTime="181.662" endTime="183.591">
+<Sync time="181.662"/>
+la casserole remplie de purée 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk70" startTime="183.591" endTime="183.833">
+<Sync time="183.591"/>
+hum
+</Turn>
+<Turn speaker="spk71" startTime="183.833" endTime="188.394">
+<Sync time="183.833"/>
+elle tape 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ sur la table en chantant boulou boulou
+</Turn>
+<Turn speaker="spk70" startTime="188.394" endTime="199.798">
+<Sync time="188.394"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ très bien oui + elle voit la purée elle rit +
+<Sync time="193.424"/>
+et elle tape sur la table en chantant boulou boulou
+<Sync time="196.949"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et que dit Karim ?
+</Turn>
+<Turn speaker="spk71" startTime="199.798" endTime="204.507">
+<Sync time="199.798"/>
+euh 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut attendre un peu
+<Sync time="202.692"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle est encore trop chaude
+</Turn>
+<Turn speaker="spk70" startTime="204.507" endTime="214.232">
+<Sync time="204.507"/>
+oui la purée est encore trop chaude et Bébé-Leïla risque de se brûler la langue
+<Sync time="208.512"/>
+hein ? 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ + 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ alors que fait Dorothée ?
+</Turn>
+<Turn speaker="spk71" startTime="214.232" endTime="217.014">
+<Sync time="214.232"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle coupe les morceaux de viande dans l'assiette
+</Turn>
+<Turn speaker="spk70" startTime="217.014" endTime="219.285">
+<Sync time="217.014"/>
+voilà et que dit-elle à Bébé-Leïla ?
+</Turn>
+<Turn speaker="spk71" startTime="219.285" endTime="222.97">
+<Sync time="219.285"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ si tu manges bien ta viande 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ je 
+<Event desc="b" type="noise" extent="begin"/>
+ te 
+<Event desc="Zt9" type="pronounce" extent="previous"/>
+ raconterai une histoire 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk70" startTime="222.97" endTime="227.868">
+<Sync time="222.97"/>
+très bien 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ mais que fait Bébé-Leïla sur cette image ?
+</Turn>
+<Turn speaker="spk71" startTime="227.868" endTime="241.327">
+<Sync time="227.868"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle euh elle est p- elle a pas envie de
+<Sync time="231.291"/>
+que on lui raconte une histoire
+<Sync time="232.863"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle a envie 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ que + euh elle a envie 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ de faire des bêtises
+</Turn>
+<Turn speaker="spk70" startTime="241.327" endTime="249.94">
+<Sync time="241.327"/>
+voilà 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle ne veut pas qu'on lui raconte une histoire mais
+<Sync time="245.895"/>
+elle a envie de faire 
+<Event desc="dfER" type="pronounce" extent="previous"/>
+ des bêtises 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ et alors ?
+</Turn>
+<Turn speaker="spk71" startTime="249.94" endTime="258.402">
+<Sync time="249.94"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle a l- jeté 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ /lancé dans, l'assiette en/ l'air
+<Sync time="253.489"/>
+et elle rit 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ en voyant tous les morceaux de viande sur la table
+</Turn>
+<Turn speaker="spk70" startTime="258.402" endTime="270.149">
+<Sync time="258.402"/>
+voilà très bien voilà elle a lancé son assiette en l'air
+<Sync time="261.409"/>
+et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ elle rit en voyant les morceaux de viande partout sur la table 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+<Sync time="266.836"/>
+alors là que fait Dorothée ?
+</Turn>
+<Turn speaker="spk71" startTime="270.149" endTime="279.415">
+<Sync time="270.149"/>
+euh 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ 
+<Comment desc="Interprétation = elle"/>
+ donne
+<Sync time="272.066"/>
+une cuillère de purée euh 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ + au bébé
+</Turn>
+<Turn speaker="spk70" startTime="279.415" endTime="283.734">
+<Sync time="279.415"/>
+hum elle fait manger la purée à Bébé-Leïla
+<Sync time="282.114"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et que fait Karim ?
+</Turn>
+<Turn speaker="spk71" startTime="283.734" endTime="288.785">
+<Sync time="283.734"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se dépêche 
+<Event desc="sdepES" type="pronounce" extent="previous"/>
+ de ramasser les morceaux de viande
+<Sync time="287.215"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et les poser sur 
+<Comment desc="Interprétation = dans"/>
+ l'assiette
+</Turn>
+<Turn speaker="spk70" startTime="288.785" endTime="291.807">
+<Sync time="288.785"/>
+très bien 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ et là ?
+</Turn>
+<Turn speaker="spk71" startTime="291.807" endTime="295.772">
+<Sync time="291.807"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et là la maman arrive de Karim 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk70" startTime="295.772" endTime="296.951">
+<Sync time="295.772"/>
+elle était où la maman ?
+</Turn>
+<Turn speaker="spk71" startTime="296.951" endTime="297.522">
+<Sync time="296.951"/>
+au marché
+</Turn>
+<Turn speaker="spk70" startTime="297.522" endTime="300.398">
+<Sync time="297.522"/>
+elle était au marché donc elle rentre à la maison
+</Turn>
+<Turn speaker="spk71" startTime="300.398" endTime="305.243">
+<Sync time="300.398"/>
+avec un yaourt rose euh 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ dans le panier ça sera 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ le dessert de Bébé-Leïla
+</Turn>
+<Turn speaker="spk70" startTime="305.243" endTime="310.395">
+<Sync time="305.243"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ très bien c'est très bien on va arrêter là hein ? 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ 
+<Event desc="conv" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Cannelle" audio_filename="Akoub16_Can8mn25s.wave" version="4" version_date="170807">
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Akoub" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="Autre enfant" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="topic#1"/>
+<Topic id="to2" desc="CB 06/17 - EC 7/8/2017"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="505.438" topic="to2">
+<Turn startTime="0" endTime="8.346" speaker="spk1">
+<Sync time="0"/>
+###  
+</Turn>
+<Turn speaker="spk1" startTime="8.346" endTime="19.66">
+<Sync time="8.346"/>
+euh Akoub 
+<Event desc="b" type="noise" extent="begin"/>
+ trente novembre quatre-vingt dix neuf /// 
+<Event desc="b" type="noise" extent="end"/>
+
+<Sync time="17.679"/>
+tu me laisses la place s'il te plait ? 
+</Turn>
+<Turn speaker="spk2" startTime="19.66" endTime="19.9">
+<Sync time="19.66"/>
+j-
+</Turn>
+<Turn speaker="spk1 spk2" startTime="19.9" endTime="21.147">
+<Sync time="19.9"/>
+<Who nb="1"/>
+tu me rends ma place
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="21.147" endTime="21.968">
+<Sync time="21.147"/>
+ouais s'il te plait 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="21.968" endTime="22.755">
+<Sync time="21.968"/>
+<Who nb="1"/>
+merci
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="22.755" endTime="29.864">
+<Sync time="22.755"/>
+* + + 
+<Event desc="b" type="noise" extent="previous"/>
+ *** 
+<Event desc="b" type="noise" extent="previous"/>
+ 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="29.864" endTime="31.788">
+<Sync time="29.864"/>
+voilà je pose les affaires pour qu'on ait de la place 
+</Turn>
+<Turn speaker="spk2" startTime="31.788" endTime="32.717">
+<Sync time="31.788"/>
+on va faire quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="32.717" endTime="36.687">
+<Sync time="32.717"/>
+ha ha nous on va reracon- oh je t'ai coincé le doigt ? aïe aïe aïe 
+</Turn>
+<Turn speaker="spk2" startTime="36.687" endTime="37.422">
+<Sync time="36.687"/>
+mais ça fait rien
+</Turn>
+<Turn speaker="spk1" startTime="37.422" endTime="38.6">
+<Sync time="37.422"/>
+c'est vrai ? excuse-moi Akoub
+</Turn>
+<Turn startTime="38.6" endTime="39.38" speaker="spk2 spk1">
+<Sync time="38.6"/>
+<Who nb="1"/>
+j'ai pas mal
+<Who nb="2"/>
+j'ai pas fait
+</Turn>
+<Turn speaker="spk1" startTime="39.38" endTime="44.096">
+<Sync time="39.38"/>
+*** j'ai pas fait attention + 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="42.408"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ alors attends les images on va les mettre de côté 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="44.096" endTime="47.655">
+<Sync time="44.096"/>
+c'est bon c'est bon c'est bon 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ + 
+</Turn>
+<Turn speaker="spk1" startTime="47.655" endTime="54.105">
+<Sync time="47.655"/>
+oui ben essaye de colorier aussi après 
+<Sync time="49.753"/>
+et j'écrirai tu écriras 
+<Event desc="tekRiRa" type="pronounce" extent="previous"/>
+ ton nom aussi en t'appliquant bien + 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="54.105" endTime="57.373">
+<Sync time="54.105"/>
+alors 
+<Event desc="b" type="noise" extent="begin"/>
+ Akoub + Akoub 
+</Turn>
+<Turn speaker="spk2" startTime="57.373" endTime="58.943">
+<Sync time="57.373"/>
+on va faire ça ?
+</Turn>
+<Turn speaker="spk1" startTime="58.943" endTime="64.696">
+<Sync time="58.943"/>
+allez tu me la racontes une autre fois et la prochaine fois
+<Sync time="61.775"/>
+on commencera à écrire le texte du livre
+</Turn>
+<Turn speaker="spk2" startTime="64.696" endTime="65.721">
+<Sync time="64.696"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="65.721" endTime="80.652">
+<Sync time="65.721"/>
+ça va être un grand travail ça hein d'accord 
+<Sync time="68.84"/>
+c'est toi qui me diras ce que tu veux écrire comme texte +
+<Sync time="72.274"/>
+et moi je l'écrirai 
+<Event desc="b" type="noise" extent="end"/>
+
+<Sync time="74.018"/>
+et si tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ envie tu le recopieras
+<Sync time="75.988"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ sinon c'est moi qui l'écrirai dans 
+<Event desc="b" type="noise" extent="end"/>
+ le petit livre +
+<Sync time="78.939"/>
+d'accord Akoub 
+<Event desc="b" type="noise" extent="previous"/>
+ ?
+</Turn>
+<Turn speaker="spk2" startTime="80.652" endTime="83.672">
+<Sync time="80.652"/>
+
+<Event desc="r" type="noise" extent="instantaneous"/>
+ et faut faire longtemps pour faire un livre 
+<Event desc="liv" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="83.672" endTime="98.276">
+<Sync time="83.672"/>
+ah 
+<Comment desc="longue prononciation"/>
+ ça va prendre du temps 
+<Sync time="85.381"/>
+faut tout colorier après faudra coller tout dans le livre 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="88.365"/>
+après faudra écrire le texte sur le livre faudra donner un titre à l'histoire
+<Sync time="91.757"/>
+faudra décorer la p- page de couverture 
+<Sync time="94.576"/>
+Ouyouyouyouyou + 
+</Turn>
+<Turn speaker="spk3" startTime="98.276" endTime="100.777">
+<Sync time="98.276"/>
+*** 
+<Event desc="n" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="100.777" endTime="103.551">
+<Sync time="100.777"/>
+c'est bien applique-toi bien c'est très bien
+<Sync time="102.805"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="103.551" endTime="104.356">
+<Sync time="103.551"/>
+<Who nb="1"/>
+on y va Akoub
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="104.356" endTime="105.189">
+<Sync time="104.356"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="105.189" endTime="118.86">
+<Sync time="105.189"/>
+mais on se raconte d'abord bien l'histoire pour bien 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="107.958"/>
+savoir ce qu'il se 
+<Event desc="skis" type="pronounce" extent="previous"/>
+ passe dans 
+<Comment desc="longue prononciation"/>
+
+<Sync time="110.049"/>
+ce qu'il 
+<Event desc="ski" type="pronounce" extent="previous"/>
+ se passera dans ton livre
+<Sync time="111.123"/>
+alors 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ on y va ?
+<Sync time="112.713"/>
+tu fais la première page deuxième page troisième page *
+<Sync time="115.141"/>
+première image deuxième image troisième image quatrième image cinquième image sixième image
+</Turn>
+<Turn speaker="spk2" startTime="118.86" endTime="121.317">
+<Sync time="118.86"/>
+je sais cent plus cent ça fait combien + 
+</Turn>
+<Turn speaker="spk1" startTime="121.317" endTime="122.752">
+<Sync time="121.317"/>
+ah bon ? ça fait combien ?
+</Turn>
+<Turn speaker="spk2" startTime="122.752" endTime="123.186">
+<Sync time="122.752"/>
+deux cents
+</Turn>
+<Turn speaker="spk1" startTime="123.186" endTime="128.963">
+<Sync time="123.186"/>
+c'est bien
+<Sync time="124.021"/>
+alors on y va Akoub + 
+<Sync time="126.342"/>
+on y va pour la première image ?
+<Sync time="127.977"/>
+tu me racontes 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="128.963" endTime="129.782">
+<Sync time="128.963"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+*** je te la
+</Turn>
+<Turn speaker="spk1" startTime="129.782" endTime="131.154">
+<Sync time="129.782"/>
+raconte moi une fois encore 
+</Turn>
+<Turn speaker="spk2" startTime="131.154" endTime="132.074">
+<Sync time="131.154"/>
+tu me la racontes 
+<Event desc="Rako~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="132.074" endTime="147.991">
+<Sync time="132.074"/>
+d'accord ah je te la raconte une fois 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="134.057"/>
+alors c'est l'histoire d'une petite fille 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="136.347"/>
+et sa maman 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ lui demande d'aller acheter du pain
+<Sync time="140.84"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ + 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ pendant que ses petits frères mettent la table 
+<Sync time="144.937"/>
+elle lui donne le porte monnaie rouge 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="147.627"/>
+où elle
+</Turn>
+<Turn speaker="spk1 spk3" startTime="147.991" endTime="149.3">
+<Sync time="147.991"/>
+<Who nb="1"/>
+*** de l'argent
+<Who nb="2"/>
+*** 
+<Event desc="pi" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="149.3" endTime="150.467">
+<Sync time="149.3"/>
+*** 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ + 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="150.467" endTime="167.676">
+<Sync time="150.467"/>
+le chien attend pour sortir lui aussi 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ + 
+<Sync time="155.922"/>
+la petite fille sort avec son chien 
+<Sync time="158.397"/>
+pour aller acheter du pain + 
+<Sync time="160.671"/>
+elle tient le chien par la * pardon elle tient son chien en laisse
+<Sync time="164.51"/>
+et traverse la rue 
+<Event desc="Ru" type="pronounce" extent="previous"/>
+ pendant que le petit bonhomme est vert 
+</Turn>
+<Turn speaker="spk2" startTime="167.676" endTime="172.382">
+<Sync time="167.676"/>
+*** et le petit bonhomme il est rouge 
+<Event desc="Ruz" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="172.382" endTime="175.642">
+<Sync time="172.382"/>
+ah bah quand on traverse il faut que le petit bonhomme soit vert + 
+</Turn>
+<Turn speaker="spk2" startTime="175.642" endTime="176.675">
+<Sync time="175.642"/>
+le rouge 
+<Event desc="Ruz" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="176.675" endTime="182.631">
+<Sync time="176.675"/>
+ah non s'il est rouge regarde 
+<Event desc="R@gaR" type="pronounce" extent="previous"/>
+ là
+<Sync time="178.265"/>
+il est rouge le petit bonhomme et ce sont les voitures qui roulent +
+</Turn>
+<Turn speaker="spk2" startTime="182.631" endTime="183.442">
+<Sync time="182.631"/>
+*
+</Turn>
+<Turn speaker="spk1" startTime="183.442" endTime="184.342">
+<Sync time="183.442"/>
+d'accord ? 
+</Turn>
+<Turn speaker="spk2" startTime="184.342" endTime="185.62">
+<Sync time="184.342"/>
+en vérité ?
+</Turn>
+<Turn speaker="spk1" startTime="185.62" endTime="196.091">
+<Sync time="185.62"/>
+ah non en vérité c'est ça 
+<Sync time="187.471"/>
+tu pensais que quand le petit bonhomme était rouge tu pouvais traverser ?
+<Sync time="190.531"/>
+et non parce que ça veut dire que le feu il devient *** il est vert 
+<Sync time="193.851"/>
+et quand le feu est vert 
+<Event desc="b" type="noise" extent="previous"/>
+ les voitures passent 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="196.091" endTime="196.887">
+<Sync time="196.091"/>
+nan
+</Turn>
+<Turn speaker="spk1" startTime="196.887" endTime="201.341">
+<Sync time="196.887"/>
+regarde là le feu est vert toutes les voitures passent + 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="201.341" endTime="202.051">
+<Sync time="201.341"/>
+*
+</Turn>
+<Turn speaker="spk1" startTime="202.051" endTime="213.361">
+<Sync time="202.051"/>
+oh * oui
+<Sync time="203.157"/>
+c'est le faut pas regarder le feu + euh là il faut regarder le petit bonhomme
+<Sync time="207.584"/>
+le feu rouge pour les voitures
+<Sync time="209.769"/>
+ça veut dire que les voitures doivent 
+<Event desc="b" type="noise" extent="previous"/>
+ s'arrêter 
+<Sync time="211.367"/>
+et alors les piétons peuvent traverser
+</Turn>
+<Turn speaker="spk2" startTime="213.361" endTime="214.256">
+<Sync time="213.361"/>
+
+<Event desc="n" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk1" startTime="214.256" endTime="222.997">
+<Sync time="214.256"/>
+quand le feu est vert ce sont les voitures qui traversent +
+<Sync time="217.976"/>
+qui roulent et les piétons doivent attendre +
+<Sync time="220.916"/>
+mais quand le petit bonhomme + est
+</Turn>
+<Turn speaker="spk1 spk2" startTime="222.997" endTime="223.601">
+<Sync time="222.997"/>
+<Who nb="1"/>
+vert
+<Who nb="2"/>
+vert
+</Turn>
+<Turn speaker="spk1" startTime="223.601" endTime="231.211">
+<Sync time="223.601"/>
+ça veut dire que les piétons peuvent traverser
+<Sync time="225.543"/>
+et quand le petit bonhomme est rouge 
+<Sync time="227.347"/>
+ça veut dire que ce sont les voitures 
+<Event desc="b" type="noise" extent="begin"/>
+
+<Sync time="229.533"/>
+euh les piétons 
+<Event desc="b" type="noise" extent="end"/>
+ qui doivent s'arrêter 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="231.211" endTime="231.657">
+<Sync time="231.211"/>
+<Who nb="1"/>
+i-
+<Who nb="2"/>
+ils peuvent
+</Turn>
+<Turn speaker="spk1" startTime="231.657" endTime="288.606">
+<Sync time="231.657"/>
+pas traverser + parce que les voitures roulent leur feu est vert
+<Sync time="235.209"/>
+le grand feu c'est pour les voitures 
+<Sync time="236.868"/>
+et les petits bonhommes c'est pour les gens qui traversent + 
+<Sync time="240.599"/>
+d'accord Akoub ? + 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="242.612"/>
+alors je reprends + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="244.732"/>
+la petite fille traverse la rue 
+<Sync time="246.132"/>
+avec son en tenant son chien en laisse + 
+<Sync time="249.035"/>
+et sur le trottoir d'en face
+<Sync time="250.949"/>
+un petit copain lui dit 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="252.737"/>
+bonjour de la main 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ + 
+<Sync time="255.214"/>
+ils rentrent tous les deux dans la boulangerie + 
+<Sync time="259.454"/>
+la petite fille choisit deux baguettes
+<Sync time="261.419"/>
+elle donne l'argent à la dame + 
+<Event desc="b" type="noise" extent="begin"/>
+
+<Sync time="263.795"/>
+en sortant de la boulangerie ils posent le pain et les baguettes 
+<Event desc="b" type="noise" extent="end"/>
+
+<Sync time="268.089"/>
+et le porte monnaie sur un banc 
+<Sync time="270.193"/>
+et jouent un petit peu aux billes sur le trottoir + 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="273.909"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ pendant ce temps le 
+<Event desc="b" type="noise" extent="end"/>
+ petit bonhomme /est en, étant/ rouge 
+<Sync time="277.074"/>
+les *** 
+<Event desc="b" type="noise" extent="begin"/>
+ attendent pour traverser 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="280.528"/>
+quand ils ont fini de jouer 
+<Sync time="282.469"/>
+le petit garçon reprend son pain pour rentrer chez lui
+<Sync time="285.31"/>
+et la petite fille traverse la rue 
+<Event desc="Ru" type="pronounce" extent="previous"/>
+
+<Sync time="287.811"/>
+puisque le bonhomme 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="288.606" endTime="289.742">
+<Sync time="288.606"/>
+<Who nb="1"/>
+est ***
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="289.742" endTime="290.81">
+<Sync time="289.742"/>
+en mangeant un bout de pain
+</Turn>
+<Turn speaker="spk3" startTime="290.81" endTime="292.139">
+<Sync time="290.81"/>
+*** 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="292.139" endTime="293.248">
+<Sync time="292.139"/>
+son chien la suit 
+</Turn>
+<Turn speaker="spk2" startTime="293.248" endTime="294.446">
+<Sync time="293.248"/>
+*** 
+<Event desc="pif" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="294.446" endTime="309.787">
+<Sync time="294.446"/>
+son chien la suit en tenant dans sa gueule le porte monnaie rouge +
+<Sync time="298.905"/>
+la petite fille arrive chez elle 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="300.754"/>
+elle rend le porte monnaie rouge à sa ma-
+<Sync time="302.441"/>
+à sa mère + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="304.307"/>
+comme il est déjà 
+<Event desc="b" type="noise" extent="begin"/>
+ un peu tard 
+<Sync time="305.704"/>
+ses deux petits frères ont commencé ont déjà commencé à manger 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="309.787" endTime="311.124">
+<Sync time="309.787"/>
+parce que il est midi et demi
+</Turn>
+<Turn speaker="spk1" startTime="311.124" endTime="313.055">
+<Sync time="311.124"/>
+il est midi et demi + 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="313.055" endTime="314.222">
+<Sync time="313.055"/>
+je connais 
+<Event desc="skone" type="pronounce" extent="previous"/>
+ l'heure
+</Turn>
+<Turn speaker="spk1" startTime="314.222" endTime="315.976">
+<Sync time="314.222"/>
+ouais je vois ça +
+</Turn>
+<Turn speaker="spk2" startTime="315.976" endTime="316.618">
+<Sync time="315.976"/>
+mmh
+</Turn>
+<Turn speaker="spk1" startTime="316.618" endTime="318.305">
+<Sync time="316.618"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ tu me racontes /toi, tout/ aussi ?
+</Turn>
+<Turn speaker="spk3" startTime="318.305" endTime="320.925">
+<Sync time="318.305"/>
+*** 
+<Event desc="pif" type="pronounce" extent="previous"/>
+ un gris
+</Turn>
+<Turn speaker="spk1 spk3" startTime="320.925" endTime="322.304">
+<Sync time="320.925"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+j'en ai pas de gris
+</Turn>
+<Turn speaker="spk1" startTime="322.304" endTime="323.114">
+<Sync time="322.304"/>
+prends autre chose c'est
+</Turn>
+<Turn speaker="spk1 spk2" startTime="323.114" endTime="323.373">
+<Sync time="323.114"/>
+<Who nb="1"/>
+pas grave 
+<Who nb="2"/>
+c'est 
+</Turn>
+<Turn speaker="spk2" startTime="323.373" endTime="327.667">
+<Sync time="323.373"/>
+Gabriel 
+<Event desc="?" type="lexical" extent="previous"/>
+ qui a 
+<Event desc="kila" type="pronounce" extent="previous"/>
+ du gris
+<Sync time="325.016"/>
+alors tu prends un un crayon de papier 
+</Turn>
+<Turn speaker="spk1" startTime="327.667" endTime="330.894">
+<Sync time="327.667"/>
+voilà exactement prends un crayon à papier + 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="330.894" endTime="332.25">
+<Sync time="330.894"/>
+je fais toujours ça
+</Turn>
+<Turn speaker="spk1" startTime="332.25" endTime="337.139">
+<Sync time="332.25"/>
+tu as raison 
+<Event desc="b" type="noise" extent="begin"/>
+ + 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors tu y vas Akoub ? + 
+</Turn>
+<Turn speaker="spk2" startTime="337.139" endTime="342.886">
+<Sync time="337.139"/>
+c'était une fille 
+<Event desc="Bruitage autre enfant" type="noise" extent="begin"/>
+
+<Sync time="339.43"/>
+une fille *** 
+</Turn>
+<Turn speaker="spk1" startTime="342.886" endTime="345.1">
+<Sync time="342.886"/>
+tu l'avais appelée comment la dernière fois ?
+</Turn>
+<Turn speaker="spk2" startTime="345.1" endTime="346.071">
+<Sync time="345.1"/>
+Florène
+</Turn>
+<Turn speaker="spk1" startTime="346.071" endTime="348.261">
+<Sync time="346.071"/>
+voilà tu veux continuer à l'appeler Florène ?
+</Turn>
+<Turn speaker="spk3" startTime="348.261" endTime="350.398">
+<Sync time="348.261"/>
+je 
+<Event desc="z@" type="pronounce" extent="previous"/>
+ sais pas *** 
+</Turn>
+<Turn speaker="spk1" startTime="350.398" endTime="354.605">
+<Sync time="350.398"/>
+alors vas-y tu peux dire 
+<Event desc="bruitage autre enfant" type="noise" extent="end"/>
+ c'est l'histoire d'une petite fille qui s'appelle Florène 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="354.605" endTime="359.345">
+<Sync time="354.605"/>
+c'était une *** qui s'appelait Florène 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="359.345" endTime="360.347">
+<Sync time="359.345"/>
+mmh mmh
+</Turn>
+<Turn speaker="spk2" startTime="360.347" endTime="365.614">
+<Sync time="360.347"/>
+sa maman *** 
+<Comment desc="bruitage autre enfant"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="365.614" endTime="367.722">
+<Sync time="365.614"/>
+non tu peux dire sa maman ça va être plus simple
+</Turn>
+<Turn speaker="spk2" startTime="367.722" endTime="374.633">
+<Sync time="367.722"/>
+sa maman mmh lui donne le porte le porte-monnaie + 
+</Turn>
+<Turn speaker="spk1" startTime="374.633" endTime="376.517">
+<Sync time="374.633"/>
+il faut dire pourquoi elle lui donne le porte-monnaie
+</Turn>
+<Turn speaker="spk2" startTime="376.517" endTime="378.021">
+<Sync time="376.517"/>
+pour acheter 
+<Event desc="aste" type="pronounce" extent="previous"/>
+ du pain 
+</Turn>
+<Turn speaker="spk1" startTime="378.021" endTime="380.089">
+<Sync time="378.021"/>
+ah ouais + 
+</Turn>
+<Turn speaker="spk2" startTime="380.089" endTime="385.945">
+<Sync time="380.089"/>
+Florène + il traverse 
+<Comment desc="intervention d'un autre enfant"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="385.945" endTime="387.225">
+<Sync time="385.945"/>
+chut 
+<Comment desc="longue prononciation"/>
+ 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="387.225" endTime="387.905">
+<Sync time="387.225"/>
+<Who nb="1"/>
+alors 
+<Who nb="2"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que
+</Turn>
+<Turn speaker="spk1" startTime="387.905" endTime="389.24">
+<Sync time="387.905"/>
+Florène traverse
+</Turn>
+<Turn speaker="spk2" startTime="389.24" endTime="392.416">
+<Sync time="389.24"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que le le feu rouge est vert 
+</Turn>
+<Turn speaker="spk1" startTime="392.416" endTime="394.174">
+<Sync time="392.416"/>
+le bonhomme est vert 
+</Turn>
+<Turn speaker="spk2" startTime="394.174" endTime="394.682">
+<Sync time="394.174"/>
+bonhomme
+</Turn>
+<Turn speaker="spk1" startTime="394.682" endTime="397.418">
+<Sync time="394.682"/>
+le feu est rouge et le petit bonhomme est vert + 
+</Turn>
+<Turn speaker="spk2" startTime="397.418" endTime="402.078">
+<Sync time="397.418"/>
+le + le feu est rouge 
+<Event desc="conv" type="noise" extent="previous"/>
+ mais le petit 
+<Event desc="ti" type="pronounce" extent="previous"/>
+ bonhomme est vert
+</Turn>
+<Turn speaker="spk1 spk2" startTime="402.078" endTime="402.741">
+<Sync time="402.078"/>
+<Who nb="1"/>
+d'accord
+<Who nb="2"/>
+son
+</Turn>
+<Turn speaker="spk2" startTime="402.741" endTime="407.286">
+<Sync time="402.741"/>
+copain + il dit avec sa main bonjour 
+</Turn>
+<Turn speaker="spk1" startTime="407.286" endTime="409.456">
+<Sync time="407.286"/>
+ouais 
+<Comment desc="longue prononciation"/>
+ + 
+</Turn>
+<Turn speaker="spk2" startTime="409.456" endTime="417.146">
+<Sync time="409.456"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ il rentre 
+<Event desc="Ra~" type="pronounce" extent="previous"/>
+ dans la dans la boulangerie 
+<Event desc="bRula~ZRi" type="pronounce" extent="previous"/>
+ + 
+<Sync time="413.213"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il demande deux baguettes *** te plait
+</Turn>
+<Turn speaker="spk1" startTime="417.146" endTime="423.22">
+<Sync time="417.146"/>
+mmh mmh *** + 
+<Sync time="419.915"/>
+alors faudra dire qu'elle rentre dans la boulangerie avec son copain
+</Turn>
+<Turn speaker="spk1 spk2" startTime="423.22" endTime="423.711">
+<Sync time="423.22"/>
+<Who nb="1"/>
+hein parce que
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="423.711" endTime="426.234">
+<Sync time="423.711"/>
+son copain achète aussi du pain + 
+</Turn>
+<Turn speaker="spk2" startTime="426.234" endTime="434.38">
+<Sync time="426.234"/>
+elle rentre 
+<Event desc="Ra~" type="pronounce" extent="previous"/>
+ avec son copain + 
+<Sync time="430.843"/>
+et il demande deux pains euh s'il vous plait 
+</Turn>
+<Turn speaker="spk1" startTime="434.38" endTime="437.34">
+<Sync time="434.38"/>
+mmh mmh + 
+</Turn>
+<Turn speaker="spk2" startTime="437.34" endTime="447.43">
+<Sync time="437.34"/>
+/comme, quand/ le monsieur et le feu rouge est vert 
+<Sync time="441.216"/>
+et le monsieur * est rouge pour l'instant on attend pour jouer aux billes 
+<Event desc="bi" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="447.43" endTime="455.248">
+<Sync time="447.43"/>
+alors pendant que le feu est vert et que le petit bonhomme est rouge
+<Sync time="452.404"/>
+Florène et son copain jouent aux billes
+</Turn>
+<Turn speaker="spk2" startTime="455.248" endTime="458.245">
+<Sync time="455.248"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ Florène et son copain jouent aux billes 
+<Event desc="bi" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="458.245" endTime="459.455">
+<Sync time="458.245"/>
+mmh mmh 
+</Turn>
+<Turn speaker="spk2" startTime="459.455" endTime="465.787">
+<Sync time="459.455"/>
+Florène + le chien 
+<Event desc="sje~" type="pronounce" extent="previous"/>
+ tient le porte-monnaie dans sa gueule
+</Turn>
+<Turn speaker="spk1" startTime="465.787" endTime="468.419">
+<Sync time="465.787"/>
+le chien tient le porte-monnaie sans sa gueule 
+<Sync time="467.302"/>
+et qu'est ce qu'ils 
+<Event desc="kEski" type="pronounce" extent="previous"/>
+ font alors tous les
+</Turn>
+<Turn speaker="spk1 spk2" startTime="468.419" endTime="469.26">
+<Sync time="468.419"/>
+<Who nb="1"/>
+deux
+<Who nb="2"/>
+Florène
+</Turn>
+<Turn speaker="spk2" startTime="469.26" endTime="472.983">
+<Sync time="469.26"/>
++ 
+<Event desc="b" type="noise" extent="previous"/>
+ mange 
+<Event desc="ma~z" type="pronounce" extent="previous"/>
+ un petit pain
+</Turn>
+<Turn speaker="spk1" startTime="472.983" endTime="474.817">
+<Sync time="472.983"/>
+elle mange un petit bout de pain
+</Turn>
+<Turn speaker="spk2" startTime="474.817" endTime="478.934">
+<Sync time="474.817"/>
+mange un pe- un pe- pain
+</Turn>
+<Turn speaker="spk1" startTime="478.934" endTime="482.052">
+<Sync time="478.934"/>
+et qu'est ce qu'elle fait en mangeant un bout de pain ? + 
+</Turn>
+<Turn speaker="spk2" startTime="482.052" endTime="483.259">
+<Sync time="482.052"/>
+ils traversent 
+</Turn>
+<Turn speaker="spk1" startTime="483.259" endTime="486.799">
+<Sync time="483.259"/>
+ah elle traverse la route en mangeant un bout de pain
+</Turn>
+<Turn speaker="spk2" startTime="486.799" endTime="492.277">
+<Sync time="486.799"/>
+elle traverse 
+<Event desc="tRavER" type="pronounce" extent="previous"/>
+ *** 
+<Event desc="conv" type="noise" extent="previous"/>
+ elle 
+<Event desc="i" type="pronounce" extent="previous"/>
+ mange du pain 
+</Turn>
+<Turn speaker="spk1" startTime="492.277" endTime="494.151">
+<Sync time="492.277"/>
+d'accord + 
+</Turn>
+<Turn speaker="spk2" startTime="494.151" endTime="501.236">
+<Sync time="494.151"/>
+il arrive à la maison 
+<Sync time="495.803"/>
+ses frères ont déjà 
+<Event desc="lao~" type="pronounce" extent="previous"/>
+ commencé à manger 
+<Sync time="499.468"/>
+parce que 
+<Event desc="pask@" type="pronounce" extent="previous"/>
+ il est midi et demi 
+</Turn>
+<Turn speaker="spk1" startTime="501.236" endTime="503.171">
+<Sync time="501.236"/>
+bien 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="503.171" endTime="505.438">
+<Sync time="503.171"/>
+*** 
+<Sync time="505.262"/>
+$$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

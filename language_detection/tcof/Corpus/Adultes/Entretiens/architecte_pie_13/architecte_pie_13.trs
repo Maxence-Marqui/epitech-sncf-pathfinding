@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Pierre" audio_filename="architecte_pie_13.wav" version="11" version_date="140304">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" type="male" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="611.593">
+      <Turn speaker="spk1" startTime="0.0" endTime="4.79">
+        <Sync time="0.0" />
+        celle-ci elle est fixe
+        <Sync time="1.431" />
+        celle-ci elle s'ouvre
+        <Sync time="4.141" />
+        comme ça
+      </Turn>
+      <Turn speaker="spk2" startTime="4.79" endTime="5.67">
+        <Sync time="4.79" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="5.67" endTime="9.893">
+        <Sync time="5.67" />
+        et celle-ci elle s'ouvre comme ça
+        <Sync time="8.662" />
+        <Event desc="coup sur la table" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="9.893" endTime="13.599">
+        <Sync time="9.893" />
+        oui mais elle s'ouvre sur rien en fait
+        <Sync time="12.209" />
+        il y a rien derrière
+      </Turn>
+      <Turn speaker="spk1" startTime="13.599" endTime="16.085">
+        <Sync time="13.599" />
+        ah non il y a rien il y aura un garde-corps
+      </Turn>
+      <Turn speaker="spk3" startTime="16.085" endTime="18.341">
+        <Sync time="16.085" />
+        là il y aura un garde-corps parce que là il y est pas le garde-corps
+      </Turn>
+      <Turn speaker="spk1" startTime="18.341" endTime="26.367">
+        <Sync time="18.341" />
+        effectivement bonne remarque je l'ai effacé tout à l'heure en plus
+        <Sync time="21.511" />
+        parce que je l'avais prolongé jusqu'au bout mais oui il y a un garde-corps ici
+      </Turn>
+      <Turn speaker="spk3" startTime="26.367" endTime="35.102">
+        <Sync time="26.367" />
+        d'accord
+        <Sync time="29.175" />
+        ///
+      </Turn>
+      <Turn speaker="spk1" startTime="35.102" endTime="38.232">
+        <Sync time="35.102" />
+        parce que sur cet élément-là faire de l'ouvrant ça va être compliqué
+      </Turn>
+      <Turn speaker="spk3" startTime="38.232" endTime="39.338">
+        <Sync time="38.232" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="39.338" endTime="49.755">
+        <Sync time="39.338" />
+        donc je préfèrais euh me limiter à celui-ci pour une raison enfin au niveau du coût
+        <Sync time="44.083" />
+        et puis au niveau esthétique je trouvais que ça marchait mieux +++
+      </Turn>
+      <Turn speaker="spk3" startTime="49.755" endTime="55.082">
+        <Sync time="49.755" />
+        euh et question que je me pose bêtement est-ce que les deux-là c'est pas suffisant en ouvrant ou est-ce qu'il y a
+      </Turn>
+      <Turn speaker="spk1" startTime="55.082" endTime="62.792">
+        <Sync time="55.082" />
+        c'était vraiment pour avoir un ouvrant sur la façade là sur ce cette face ouest
+        <Sync time="59.672" />
+        où euh parce qu'en fait les vents viennent de l'ouest
+        <Sync time="61.979" />
+        &lt; le plus souvent
+      </Turn>
+      <Turn speaker="spk3" startTime="62.792" endTime="63.32">
+        <Sync time="62.792" />
+        ouais &gt;
+        <Sync time="62.914" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="63.32" endTime="66.983">
+        <Sync time="63.32" />
+        donc euh si on veut créer un flux d'air c'est plus intéressant +
+      </Turn>
+      <Turn speaker="spk3" startTime="66.983" endTime="72.502">
+        <Sync time="66.983" />
+        d'accord donc euh *** oui la partie oscillante peut être aussi intéressante
+      </Turn>
+      <Turn speaker="spk1" startTime="72.502" endTime="77.792">
+        <Sync time="72.502" />
+        oui alors oscillo-battant pourquoi parce que il faut pouvoir au moins accéder pour nettoyer quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="77.792" endTime="78.857">
+        <Sync time="77.792" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="78.857" endTime="87.083">
+        <Sync time="78.857" />
+        ne serait-ce que pour aller nettoyer celle-ci alors bon vous pourriez faire par en bas
+        <Sync time="82.259" />
+        mais au moins vous prenez par l'extérieur euh vous vous appuyez sur le garde-corps avec une
+      </Turn>
+      <Turn speaker="spk3" startTime="87.083" endTime="88.171">
+        <Sync time="87.083" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="88.171" endTime="94.283">
+        <Sync time="88.171" />
+        avec une canne vous pouvez au moins aller entretenir quoi si il y a pas d'ouvrant sur la face
+        <Sync time="91.794" />
+        c'est quand même un peu un peu raide
+      </Turn>
+      <Turn speaker="spk3" startTime="94.283" endTime="100.944">
+        <Sync time="94.283" />
+        euh avec tout ça je veux j- tu as toujours pas la solution pour les brises-soleil pour le soleil
+      </Turn>
+      <Turn speaker="spk1" startTime="100.944" endTime="105.654">
+        <Sync time="100.944" />
+        euh si alors c'est des je vous avais on avait dit qu'on mettait des brises-soleil
+        <Sync time="105.49" />
+        &lt; euh
+      </Turn>
+      <Turn speaker="spk3" startTime="105.654" endTime="106.282">
+        <Sync time="105.654" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="106.282" endTime="107.024">
+        <Sync time="106.282" />
+        des B.S.O. quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="107.024" endTime="109.57">
+        <Sync time="107.024" />
+        oui
+        <Sync time="107.902" />
+        et comme je les enfin
+        <Sync time="109.077" />
+        &lt; je les
+      </Turn>
+      <Turn speaker="spk1" startTime="109.57" endTime="112.054">
+        <Sync time="109.57" />
+        bah &gt;
+        <Sync time="109.686" />
+        vous les voyez pas c'est normal parce qu'ils sont rangés
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="112.054" endTime="113.081">
+        <Sync time="112.054" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="113.081" endTime="117.07">
+        <Sync time="113.081" />
+        ils seront cachés derrière le bardage +
+      </Turn>
+      <Turn speaker="spk3" startTime="117.07" endTime="118.748">
+        <Sync time="117.07" />
+        d'accord
+        <Sync time="118.246" />
+        &lt; ouais ouais ***
+      </Turn>
+      <Turn speaker="spk2" startTime="118.748" endTime="119.812">
+        <Sync time="118.748" />
+        ils sont là quoi dessus &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="119.812" endTime="120.759">
+        <Sync time="119.812" />
+        &lt; voilà ils sont
+      </Turn>
+      <Turn speaker="spk3" startTime="120.759" endTime="121.326">
+        <Sync time="120.759" />
+        *** coffre &gt;
+        <Sync time="120.88" />
+        &lt; d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="121.326" endTime="122.874">
+        <Sync time="121.326" />
+        il y a un coffre qui sera au-dessus &gt;
+        <Sync time="122.159" />
+        et ils descendent
+      </Turn>
+      <Turn speaker="spk3" startTime="122.874" endTime="126.951">
+        <Sync time="122.874" />
+        d'accord et il y en a alors euh
+        <Sync time="126.032" />
+        &lt; ici
+      </Turn>
+      <Turn speaker="spk1" startTime="126.951" endTime="129.109">
+        <Sync time="126.951" />
+        il y en aura &gt;
+        <Sync time="127.166" />
+        &lt; sur sur des
+      </Turn>
+      <Turn speaker="spk3" startTime="129.109" endTime="131.019">
+        <Sync time="129.109" />
+        des euh là et là &gt;
+        <Sync time="130.112" />
+        &lt; d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="131.019" endTime="142.482">
+        <Sync time="131.019" />
+        et puis euh &gt;
+        <Sync time="131.517" />
+        là
+        <Sync time="132.202" />
+        moi je l- euh c'est ce que je pensais demander au chiffrage demander
+        <Sync time="135.424" />
+        aussi ici si jamais euh vous regardez la télé vous voulez pas être ébloui ou
+        <Sync time="140.355" />
+        enfin vous avez dit que la télé serait pas dans la
+        <Sync time="142.164" />
+        &lt; pièce là
+      </Turn>
+      <Turn speaker="spk3" startTime="142.482" endTime="144.482">
+        <Sync time="142.482" />
+        non il y a pas de &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="144.482" endTime="150.68">
+        <Sync time="144.482" />
+        j'avais prévu juste sur l'extension du B.S.O. et partout ailleurs on avait dit aucune occultation
+      </Turn>
+      <Turn speaker="spk3" startTime="150.68" endTime="154.048">
+        <Sync time="150.68" />
+        alors justement ça on est revenu un
+        <Sync time="152.471" />
+        &lt; petit peu dessus on est revenu en arrière
+      </Turn>
+      <Turn speaker="spk1" startTime="154.048" endTime="155.713">
+        <Sync time="154.048" />
+        ah vous êtes revenu en arrière &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="155.713" endTime="171.249">
+        <Sync time="155.713" />
+        alors il nous faut quand même euh
+        <Event desc="bruit de crayon sur la table" type="noise" extent="instantaneous" />
+        <Sync time="162.584" />
+        alors dans une unité de euh dans un esprit d'unité ici c'est soit un B.S.O. soit euh un volet ici
+      </Turn>
+      <Turn speaker="spk1" startTime="171.249" endTime="174.036">
+        <Sync time="171.249" />
+        en pour par raport à quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="174.036" endTime="179.306">
+        <Sync time="174.036" />
+        par rapport si ici on a que du B.S.O. est-ce que ici on peut mettre du volet simple est-ce que
+      </Turn>
+      <Turn speaker="spk1" startTime="179.306" endTime="187.822">
+        <Sync time="179.306" />
+        il faut s'imaginer que euh l'extension va trancher de toute façon donc il y a
+        <Sync time="183.994" />
+        pas besoin d'essayer sur la partie existante de euh de rajouter
+      </Turn>
+      <Turn speaker="spk3" startTime="187.822" endTime="188.239">
+        <Sync time="187.822" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="188.239" endTime="194.529">
+        <Sync time="188.239" />
+        les mêmes euh on aura déjà les si on change les menuiseries euh je vous avais dit
+        <Sync time="192.473" />
+        on pouvait même imaginer qu'elles soient pas de la même couleur
+      </Turn>
+      <Turn speaker="spk3" startTime="194.529" endTime="195.041">
+        <Sync time="194.529" />
+        &lt; hum
+      </Turn>
+      <Turn speaker="spk1" startTime="195.041" endTime="196.478">
+        <Sync time="195.041" />
+        sur l'extension &gt;
+        <Sync time="195.392" />
+        enfin je ne sais plus si je vous l'avais dit
+      </Turn>
+      <Turn speaker="spk3" startTime="196.478" endTime="196.865">
+        <Sync time="196.478" />
+        hum non
+      </Turn>
+      <Turn speaker="spk1" startTime="196.865" endTime="200.865">
+        <Sync time="196.865" />
+        mais on pourrait imaginer euh qu'elles soient pas de la même couleur ça ça choquerait pas
+      </Turn>
+      <Turn speaker="spk3" startTime="200.865" endTime="204.92">
+        <Sync time="200.865" />
+        ouais donc je pense que là il nous faut euh il nous faut un volet pour
+        <Sync time="204.564" />
+        &lt; que l'ocultation
+      </Turn>
+      <Turn speaker="spk1" startTime="204.92" endTime="206.413">
+        <Sync time="204.92" />
+        euh une occultation &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="206.413" endTime="210.929">
+        <Sync time="206.413" />
+        autant l'occultation dans les chambres on va la faire par des des des rideaux intérieurs
+      </Turn>
+      <Turn speaker="spk1" startTime="210.929" endTime="211.594">
+        <Sync time="210.929" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk3" startTime="211.594" endTime="217.529">
+        <Sync time="211.594" />
+        euh autant sur là parce que c'est une bonne exposition euh quand même euh sur l'ouest en été
+        <Sync time="217.344" />
+        &lt; euh
+      </Turn>
+      <Turn speaker="spk1" startTime="217.529" endTime="218.237">
+        <Sync time="217.529" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="218.237" endTime="224.693">
+        <Sync time="218.237" />
+        si on peut je dirais baiss- de baisser les les volets et laisser la fenêtre ouverte pour
+        <Sync time="224.379" />
+        &lt; justement
+      </Turn>
+      <Turn speaker="spk1" startTime="224.693" endTime="233.664">
+        <Sync time="224.693" />
+        et &gt;
+        <Sync time="224.814" />
+        vous voulez un volet roulant ou un volet euh
+        <Sync time="227.47" />
+        +++
+        <Event desc="coup sur la table" type="noise" extent="instantaneous" />
+        parce que je vais retomber dans le problème du volet roulant euh
+      </Turn>
+      <Turn speaker="spk3" startTime="233.664" endTime="235.47">
+        <Sync time="233.664" />
+        l'histoire de l'épaisseur
+        <Sync time="234.855" />
+        &lt; de euh
+      </Turn>
+      <Turn speaker="spk1" startTime="235.47" endTime="242.018">
+        <Sync time="235.47" />
+        bah soit &gt;
+        <Sync time="236.213" />
+        euh soit il fait si on veut pas qu'il soit apparent soit on fait de l'épaisseur
+        <Sync time="240.1" />
+        de euh de l'isolation extérieure
+      </Turn>
+      <Turn speaker="spk3" startTime="242.018" endTime="242.492">
+        <Sync time="242.018" />
+        &lt; hum
+      </Turn>
+      <Turn speaker="spk1" startTime="242.492" endTime="252.19">
+        <Sync time="242.492" />
+        soit &gt;
+        <Sync time="242.715" />
+        faut le euh faut réduire la la surface de vitrage
+        <Sync time="246.258" />
+        et le mettre dans le le mettre là dans la hauteur
+        <Sync time="248.996" />
+        ce qui est pas
+        <Sync time="251.451" />
+        ce qui est pas génial
+      </Turn>
+      <Turn speaker="spk3" startTime="252.19" endTime="258.605">
+        <Sync time="252.19" />
+        hum
+        <Sync time="252.978" />
+        par contre quand on avait regardé j'avais regardé sur les B.S.O. ça faisait du seize
+      </Turn>
+      <Turn speaker="spk1" startTime="258.605" endTime="274.095">
+        <Sync time="258.605" />
+        alors par contre on peut mettre un B.S.O. on on pourrait mettre un B.S.O. tout à fait
+        <Sync time="264.169" />
+        ce qui finalement est pas illogique parce que euh un volet vraiment euh euh occultant
+        <Sync time="270.663" />
+        total ça n'a d'intérêt que dans une chambre là c'est pas vraiment une chambre
+        <Sync time="273.961" />
+        &lt; donc euh
+      </Turn>
+      <Turn speaker="spk3" startTime="274.095" endTime="274.798">
+        <Sync time="274.095" />
+        non &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="274.798" endTime="275.378">
+        <Sync time="274.798" />
+        &lt; le brise soleil
+      </Turn>
+      <Turn speaker="spk3" startTime="275.378" endTime="279.059">
+        <Sync time="275.378" />
+        non &gt;
+        <Sync time="276.592" />
+        ça serait
+      </Turn>
+      <Turn speaker="spk1" startTime="279.059" endTime="289.855">
+        <Sync time="279.059" />
+        ça serait pas mal ///
+      </Turn>
+      <Turn speaker="spk3" startTime="289.855" endTime="305.371">
+        <Sync time="289.855" />
+        et l'autre inquiétude elle est ///
+        <Sync time="299.829" />
+        euh + l'autre inquiétude elle est ici sur cette fenêtre là
+      </Turn>
+      <Turn speaker="spk1" startTime="305.371" endTime="305.811">
+        <Sync time="305.371" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" startTime="305.811" endTime="323.043">
+        <Sync time="305.811" />
+        en cas d'absence n'importe qui peut rentrer ici et regarder ce qui se ce qu'il y a à l'intérieur
+        <Sync time="310.821" />
+        on n'est pas donc il faudrait je pense ici sur cette euh euh fenêtre là
+        <Sync time="316.067" />
+        qui sera pourait être plus petite aussi
+        <Sync time="318.463" />
+        euh avoir un un volet ici
+      </Turn>
+      <Turn speaker="spk1" startTime="323.043" endTime="334.52">
+        <Sync time="323.043" />
+        O.K. alors là par contre du coup on est plein nord c'est juste pour pas qu'on voie parce que là du
+        <Sync time="330.813" />
+        coup une occultation euh intérieure euh plein nord euh
+      </Turn>
+      <Turn speaker="spk3" startTime="334.52" endTime="336.512">
+        <Sync time="334.52" />
+        on me dira on peut faire une occultation intérieure
+      </Turn>
+      <Turn speaker="spk1" startTime="336.512" endTime="337.262">
+        <Sync time="336.512" />
+        après c'est vrai que c'est
+        <Sync time="337.04" />
+        &lt; dans une cuisine c'est pas génial
+      </Turn>
+      <Turn speaker="spk3" startTime="337.262" endTime="338.7">
+        <Sync time="337.262" />
+        c'est dans la cuisine c'est la cuisine &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="338.7" endTime="339.364">
+        <Sync time="338.7" />
+        c'est pas très propre
+      </Turn>
+      <Turn speaker="spk3" startTime="339.364" endTime="339.911">
+        <Sync time="339.364" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="339.911" endTime="344.785">
+        <Sync time="339.911" />
+        parce que même des stores en lamelles en intérieur ils vont être un peu
+        <Sync time="344.695" />
+        &lt; gras
+      </Turn>
+      <Turn speaker="spk3" startTime="344.785" endTime="364.084">
+        <Sync time="344.785" />
+        ouais &gt;
+        <Sync time="345.295" />
+        à moins de partir sur la solution euh des
+        <Sync time="350.216" />
+        qu'ils ont chez où il y a la surcouche sur les fenêtres avec les les petites euh
+        <Sync time="360.527" />
+        de chez ¤S1¤ comment il s'appelle euh
+      </Turn>
+      <Turn speaker="spk1" startTime="364.084" endTime="364.685">
+        <Sync time="364.084" />
+        ¤S1¤
+      </Turn>
+      <Turn speaker="spk3" startTime="364.685" endTime="367.72">
+        <Sync time="364.685" />
+        ¤S1¤ là ++
+      </Turn>
+      <Turn speaker="spk1" startTime="367.72" endTime="368.7">
+        <Sync time="367.72" />
+        euh
+      </Turn>
+      <Turn speaker="spk2" startTime="368.7" endTime="369.8">
+        <Sync time="368.7" />
+        c'est quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="369.8" endTime="370.827">
+        <Sync time="369.8" />
+        euh
+        <Sync time="370.483" />
+        &lt; ça se rajoute oui c'est ce qui se
+      </Turn>
+      <Turn speaker="spk1" startTime="370.827" endTime="373.42">
+        <Sync time="370.827" />
+        oui c'est ce qu'il y a là les s- &gt;
+        <Sync time="372.487" />
+        les stores intégrés
+      </Turn>
+      <Turn speaker="spk3" startTime="373.42" endTime="374.95">
+        <Sync time="373.42" />
+        oui intégrés
+      </Turn>
+      <Turn speaker="spk1" startTime="374.95" endTime="376.689">
+        <Sync time="374.95" />
+        ah ouais mais attention là c'est pas le même prix
+      </Turn>
+      <Turn speaker="spk3" startTime="376.689" endTime="380.814">
+        <Sync time="376.689" />
+        hum
+        <Sync time="378.5" />
+        mais bon moi c'est j'ai ce souci
+        <Sync time="380.622" />
+        &lt; ici
+      </Turn>
+      <Turn speaker="spk1" startTime="380.814" endTime="381.857">
+        <Sync time="380.814" />
+        juste sur &gt;
+        <Sync time="381.354" />
+        celle là alors
+      </Turn>
+      <Turn speaker="spk3" startTime="381.857" endTime="388.907">
+        <Sync time="381.857" />
+        c'est que sur ici euh quelqu'un qui on est en cas d'absence quelqu'un peut venir ici aller bien
+      </Turn>
+      <Turn speaker="spk1" startTime="388.907" endTime="389.84">
+        <Sync time="388.907" />
+        et regarder la
+        <Sync time="389.674" />
+        &lt; cuisine
+      </Turn>
+      <Turn speaker="spk3" startTime="389.84" endTime="395.894">
+        <Sync time="389.84" />
+        regarder &gt;
+        <Sync time="390.447" />
+        tout à l'intérieur parce qu'enfin du coup ++
+      </Turn>
+      <Turn speaker="spk1" startTime="395.894" endTime="396.763">
+        <Sync time="395.894" />
+        euh
+        <Sync time="396.341" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="396.763" endTime="398.297">
+        <Sync time="396.763" />
+        et puis &gt;
+        <Sync time="397.168" />
+        l'assurance
+        <Sync time="397.492" />
+        &lt; pourrait très bien dire euh
+      </Turn>
+      <Turn speaker="spk1" startTime="398.297" endTime="399.846">
+        <Sync time="398.297" />
+        bah &gt;
+        <Sync time="399.109" />
+        là là et là quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="399.846" endTime="400.383">
+        <Sync time="399.846" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="400.383" endTime="403.75">
+        <Sync time="400.383" />
+        bah moi je p- je partais sur du vitrage anti-effraction hein
+      </Turn>
+      <Turn speaker="spk3" startTime="403.75" endTime="404.77">
+        <Sync time="403.75" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="404.77" endTime="413.691">
+        <Sync time="404.77" />
+        après euh +++
+        <Sync time="409.091" />
+        le le fait de cacher bon bah je je je prends note et puis je vais réfléchir à comment on peut travailler ça
+      </Turn>
+      <Turn speaker="spk3" startTime="413.691" endTime="416.131">
+        <Sync time="413.691" />
+        hum +
+      </Turn>
+      <Turn speaker="spk1" startTime="416.131" endTime="428.484">
+        <Sync time="416.131" />
+        parce que un b- même là si on est sur un B.S.O. euh
+        <Sync time="420.061" />
+        ils peuvent euh enfin ils peuvent le bouger de l'extérieur pour voir dedans hein +++
+      </Turn>
+      <Turn speaker="spk3" startTime="428.484" endTime="429.527">
+        <Sync time="428.484" />
+        c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="429.527" endTime="431.688">
+        <Sync time="429.527" />
+        c'est c'est c'est une persienne à l'extérieur hum
+        <Sync time="431.155" />
+        &lt; le B.S.O. donc euh
+      </Turn>
+      <Turn speaker="spk2" startTime="431.688" endTime="432.156">
+        <Sync time="431.688" />
+        hum
+      </Turn>
+      <Turn speaker="spk3" startTime="432.156" endTime="433.081">
+        <Sync time="432.156" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="433.081" endTime="436.081">
+        <Sync time="433.081" />
+        on peut la bouger avec les mains pour la pour voir ce qui se passe
+      </Turn>
+      <Turn speaker="spk3" startTime="436.081" endTime="441.275">
+        <Sync time="436.081" />
+        ça dépend des des qu- ça dépend des qualités des B.S.O. il y a différents
+        <Sync time="439.282" />
+        types de B.S.O. il y en a qui sont quand même plus
+      </Turn>
+      <Turn speaker="spk1" startTime="441.275" endTime="446.63">
+        <Sync time="441.275" />
+        il y en a plus rigides mais bon ça n'empêche que euh c'est pas un volet roulant
+        <Sync time="444.444" />
+        c'est enfin même un volet roulant ça euh
+        <Sync time="446.488" />
+        &lt; ça repose que dix kilos au mètre carré
+      </Turn>
+      <Turn speaker="spk3" startTime="446.63" endTime="450.985">
+        <Sync time="446.63" />
+        parce que les lames les lames s'emboitent les uns dans les autres &gt;
+        <Sync time="449.525" />
+        quand elles sont en occlusion
+      </Turn>
+      <Turn speaker="spk1" startTime="450.985" endTime="460.824">
+        <Sync time="450.985" />
+        bah ça c'est un volet roulant qui a un qui peut être ouvert
+        <Sync time="455.437" />
+        c'est euh un truc un peu batard euh et c'est le c'est plus cher qu'un B.S.O.
+      </Turn>
+      <Turn speaker="spk3" startTime="460.824" endTime="471.995">
+        <Sync time="460.824" />
+        hum parce que bon B.S.O. j'ai vu pas mal de de choses euh des qualités très très
+        <Sync time="467.511" />
+        différentes donc j'ai vu des B.S.O. qui sont donc suspendus par les fils
+      </Turn>
+      <Turn speaker="spk1" startTime="471.995" endTime="474.35">
+        <Sync time="471.995" />
+        hum
+        <Sync time="472.847" />
+        et il y en a qui ont des rails
+        <Sync time="473.846" />
+        &lt; comme un volet roulant
+      </Turn>
+      <Turn speaker="spk3" startTime="474.35" endTime="477.931">
+        <Sync time="474.35" />
+        et il y en a &gt;
+        <Sync time="474.816" />
+        qui ont des rails il y en a même qui ont un système de de chaîne
+      </Turn>
+      <Turn speaker="spk1" startTime="477.931" endTime="478.383">
+        <Sync time="477.931" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk3" startTime="478.383" endTime="480.125">
+        <Sync time="478.383" />
+        de chaîne donc là c'est plus
+      </Turn>
+      <Turn speaker="spk1" startTime="480.125" endTime="482.706">
+        <Sync time="480.125" />
+        moi je voyais plus un système avec rail
+      </Turn>
+      <Turn speaker="spk3" startTime="482.706" endTime="498.135">
+        <Sync time="482.706" />
+        oui +++
+        <Sync time="486.818" />
+        donc là moi j'ai vu enfin j'av- j'avais trouvé deux
+        <Sync time="491.59" />
+        les deux fabricants c'étaient des suisses tous les deux
+        <Sync time="493.535" />
+        je les ai pas ramenés ici je les ai sur l'ordinateur
+      </Turn>
+      <Turn speaker="spk1" startTime="498.135" endTime="508.608">
+        <Sync time="498.135" />
+        donc occultation depuis terrasse
+        <Sync time="502.009" />
+        ///
+      </Turn>
+      <Turn speaker="spk3" startTime="508.608" endTime="514.673">
+        <Sync time="508.608" />
+        si vous voulez je vous enverrai les liens pour les B.S. pour ce que j'avais repéré
+        <Sync time="512.192" />
+        moi comme style de B.S.O. euh
+        <Sync time="514.602" />
+        &lt; mais bon après euh
+      </Turn>
+      <Turn speaker="spk1" startTime="514.673" endTime="515.286">
+        <Sync time="514.673" />
+        hum bien sûr &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="515.286" endTime="532.861">
+        <Sync time="515.286" />
+        après je sais pas du tout au point de vue cotation ce que ça ce que ça fait
+        <Sync time="519.724" />
+        ///
+        <Sync time="523.636" />
+        et je crois que c'est les deux c'était les deux entreprises suisses en plus
+        <Sync time="525.926" />
+        ///
+      </Turn>
+      <Turn speaker="spk1" startTime="532.861" endTime="542.142">
+        <Sync time="532.861" />
+        O.K.
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        <Sync time="534.22" />
+        ///
+        <Sync time="537.639" />
+        donc euh
+        <Sync time="539.828" />
+        oui et puis pourquoi vous vouliez le réduire
+        <Sync time="541.71" />
+        &lt; la
+      </Turn>
+      <Turn speaker="spk3" startTime="542.142" endTime="549.929">
+        <Sync time="542.142" />
+        euh &gt;
+        <Sync time="542.399" />
+        ici alors euh d'un élément là on pourrait on avait déjà prévu ça à l'origine là de réduire donc euh de
+      </Turn>
+      <Turn speaker="spk1" startTime="549.929" endTime="550.897">
+        <Sync time="549.929" />
+        réduire fen-
+      </Turn>
+      <Turn speaker="spk3" startTime="550.897" endTime="551.635">
+        <Sync time="550.897" />
+        &lt; ici de quelques centimètres
+      </Turn>
+      <Turn speaker="spk1" startTime="551.635" endTime="555.893">
+        <Sync time="551.635" />
+        parce qu'on avait fait pour qu'elle ait un effet ici de bandeau &gt;
+        <Sync time="553.552" />
+        et comme elle était assez haute
+      </Turn>
+      <Turn speaker="spk3" startTime="555.893" endTime="558.893">
+        <Sync time="555.893" />
+        euh c'est nous c'était par rapport nous aux éléments hauts
+      </Turn>
+      <Turn speaker="spk1" startTime="558.893" endTime="559.646">
+        <Sync time="558.893" />
+        &lt; d'accord ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="559.646" endTime="559.99">
+        <Sync time="559.646" />
+        on pouvait mettre &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="559.99" endTime="561.506">
+        <Sync time="559.99" />
+        réduire larg- oh d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="561.506" endTime="565.848">
+        <Sync time="561.506" />
+        hein on avait prévu de réduire ça donc après point de vue esthétique faut voir ce que ça donne
+      </Turn>
+      <Turn speaker="spk1" startTime="565.848" endTime="569.248">
+        <Sync time="565.848" />
+        cuisine pour ajouter des élément hauts
+      </Turn>
+      <Turn speaker="spk3" startTime="569.248" endTime="572.791">
+        <Sync time="569.248" />
+        ouais de soixante centimètres
+        <Sync time="571.264" />
+        &lt; et
+      </Turn>
+      <Turn speaker="spk1" startTime="572.791" endTime="574.474">
+        <Sync time="572.791" />
+        parce que vous avez toute la zone là &gt;
+        <Sync time="573.211" />
+        pour faire des éléments hauts
+      </Turn>
+      <Turn speaker="spk3" startTime="574.474" endTime="611.593">
+        <Sync time="574.474" />
+        aussi oui mais c- +++
+        <Sync time="577.797" />
+        et ce qu'on euh je
+        <Sync time="582.668" />
+        euh
+        <Sync time="585.482" />
+        et ce que je suis en train de voir aussi c'est que je voudrais peut-être pas
+        <Sync time="589.306" />
+        que on rentre direct qu'on ait la la grande vue direct on n'a pas de de sas je veux dire
+        <Sync time="596.358" />
+        si il y a quelqu'un qui vient faire un démarchage quelque chose je veux dire on voit tout de suite
+        <Sync time="600.123" />
+        on est directement en plein dedans donc euh moi ici je pensais faire un retour
+        <Sync time="607.006" />
+        là de deux cents cent vingt
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

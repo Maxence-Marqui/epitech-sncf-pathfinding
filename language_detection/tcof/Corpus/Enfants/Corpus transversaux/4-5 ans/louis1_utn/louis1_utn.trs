@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Claire Wolfarth" audio_filename="louis1_utn.wav" version="7" version_date="140520">
+<Topics>
+<Topic id="to1" desc="Wolfarth 2013 / GN - 05/2014"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Louis" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="244.785" topic="to1">
+<Turn startTime="0" endTime="1.78" speaker="spk1">
+<Sync time="0"/>
+tu m'expliques ton livre ?
+</Turn>
+<Turn speaker="spk2" startTime="1.78" endTime="6.07">
+<Sync time="1.78"/>
+oui 
+<Comment desc="son très faible"/>
+ + /les, des/ avions regarde ça veut dire
+</Turn>
+<Turn speaker="spk1" startTime="6.07" endTime="7.26">
+<Sync time="6.07"/>
+c'est un avion ?
+</Turn>
+<Turn speaker="spk2" startTime="7.26" endTime="7.97">
+<Sync time="7.26"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="7.97" endTime="10.34">
+<Sync time="7.97"/>
+et à l'intérieur du livre il y a
+<Event desc="ja" type="pronounce" extent="previous"/>
+ quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="10.34" endTime="18.61">
+<Sync time="10.34"/>
++ ben d'abord ça commence par des points +
+</Turn>
+<Turn speaker="spk1" startTime="18.61" endTime="21.52">
+<Sync time="18.61"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ ouais c'est des jolis points
+</Turn>
+<Turn speaker="spk2" startTime="21.52" endTime="30.33">
+<Sync time="21.52"/>
+mais ça *** ça et il y a
+<Event desc="ja" type="pronounce" extent="previous"/>
+ différentes pages
+<Event desc="paS" type="pronounce" extent="previous"/>
+
+<Sync time="27.365"/>
+ça commence par là 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="30.33" endTime="32.91">
+<Sync time="30.33"/>
+et il y a
+<Event desc="ja" type="pronounce" extent="previous"/>
+ quoi sur cette page ?
+</Turn>
+<Turn speaker="spk2" startTime="32.91" endTime="52.972">
+<Sync time="32.91"/>
++ ça c'est euh euh + 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ben je vais commencer par la dépanneuse
+<Sync time="50.162"/>
+c'est une dépanneuse qui dépanne une voiture
+</Turn>
+<Turn speaker="spk1" startTime="52.972" endTime="55.152">
+<Sync time="52.972"/>
+ah oui pourquoi elle dépanne la voiture ?
+</Turn>
+<Turn speaker="spk2" startTime="55.152" endTime="58.392">
+<Sync time="55.152"/>
+parce que elle a fait un accident
+</Turn>
+<Turn speaker="spk1" startTime="58.392" endTime="60.872">
+<Sync time="58.392"/>
+ah c'est pas bien d'avoir des accidents hein ?
+</Turn>
+<Turn speaker="spk2" startTime="60.872" endTime="61.512">
+<Sync time="60.872"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="61.512" endTime="74.172">
+<Sync time="61.512"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="l'enfant tourne la page" type="noise" extent="instantaneous"/>
+
+<Sync time="69.724"/>
+tu es
+<Event desc="te" type="pronounce" extent="previous"/>
+ pas obligé de rester sur la même page hein tu peux aller à une autre page si tu veux Louis 
+</Turn>
+<Turn speaker="spk2" startTime="74.172" endTime="78.612">
+<Sync time="74.172"/>
+et après ça continue par là il y a
+<Event desc="ja" type="pronounce" extent="previous"/>
+ eu du feu
+</Turn>
+<Turn speaker="spk1" startTime="78.612" endTime="80.822">
+<Sync time="78.612"/>
+et c'est qui qui a éteint le feu ?
+</Turn>
+<Turn speaker="spk2" startTime="80.822" endTime="82.772">
+<Sync time="80.822"/>
+les pompiers
+</Turn>
+<Turn speaker="spk1" startTime="82.772" endTime="85.032">
+<Sync time="82.772"/>
+et ils
+<Event desc="i" type="pronounce" extent="previous"/>
+ travaillent bien les pompiers ?
+</Turn>
+<Turn speaker="spk2" startTime="85.032" endTime="85.562">
+<Sync time="85.032"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="85.562" endTime="89.262">
+<Sync time="85.562"/>
+et ils éteignent 
+<Comment desc="sic"/>
+ le feu avec quoi ici ?
+</Turn>
+<Turn speaker="spk2" startTime="89.262" endTime="93.752">
+<Sync time="89.262"/>
+avec des tuyaux et d- et de l'eau
+</Turn>
+<Turn speaker="spk1" startTime="93.752" endTime="97.312">
+<Sync time="93.752"/>
+et là il fait quoi le pompier ici ?
+</Turn>
+<Turn speaker="spk2" startTime="97.312" endTime="112.686">
+<Sync time="97.312"/>
+ben il donne le bébé à la maman
+<Sync time="101.674"/>
+
+<Event desc="souffle  en émettant le phonème [e] " type="noise" extent="instantaneous"/>
+ + 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+<Sync time="110.196"/>
+là c'est le garage
+<Event desc="garache" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="112.686" endTime="113.816">
+<Sync time="112.686"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="113.816" endTime="115.548">
+<Sync time="113.816"/>
+qu'est-ce qu'elle a fait cette voiture ?
+</Turn>
+<Turn speaker="spk1" startTime="115.548" endTime="118.376">
+<Sync time="115.548"/>
+mais tu te rappelles où c'est que tu l'as déjà vue la voiture ?
+</Turn>
+<Turn speaker="spk2" startTime="118.376" endTime="133.178">
+<Sync time="118.376"/>
+euh oui
+<Comment desc="prononciation trainante sur la voyelle finalle"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ euh *** je vais regarder + 
+<Event desc="b" type="noise" extent="end"/>
+
+<Sync time="129.713"/>
+ah oui je l'ai
+<Event desc="Zle" type="pronounce" extent="previous"/>
+ déjà
+<Event desc="dZa" type="pronounce" extent="previous"/>
+ vu là
+</Turn>
+<Turn speaker="spk1" startTime="133.178" endTime="138.198">
+<Sync time="133.178"/>
+c'est la voiture qui a été prise par la dépanneuse au début du livre
+</Turn>
+<Turn speaker="spk2" startTime="138.198" endTime="144.718">
+<Sync time="138.198"/>
+hé oui alors qu'est-ce qu'elle a fait cette voiture comme accident ?
+</Turn>
+<Turn speaker="spk1" startTime="144.718" endTime="146.238">
+<Sync time="144.718"/>
+ah ben ça je sais pas
+</Turn>
+<Turn speaker="spk2" startTime="146.238" endTime="148.818">
+<Sync time="146.238"/>
+oh elle a du foncer dans quelque chose 
+</Turn>
+<Turn speaker="spk1" startTime="148.818" endTime="151.318">
+<Sync time="148.818"/>
+ah ben oui tu as
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu elle est toute abîmée devant
+</Turn>
+<Turn speaker="spk2" startTime="151.318" endTime="157.322">
+<Sync time="151.318"/>
+ouais et et un pare-brise et et deux pare-brises cassés
+</Turn>
+<Turn speaker="spk1" startTime="157.322" endTime="157.967">
+<Sync time="157.322"/>
+ouais 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="157.967" endTime="159.15">
+<Sync time="157.967"/>
+<Who nb="1"/>
+et le moteur 
+<Who nb="2"/>
+eh ben il a eu un
+</Turn>
+<Turn speaker="spk2" startTime="159.15" endTime="160.087">
+<Sync time="159.15"/>
+tout abîmé
+<Event desc="abije" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="160.087" endTime="163.184">
+<Sync time="160.087"/>
+ouais il a eu un grand accident le monsieur qui avait la voiture hein
+</Turn>
+<Turn speaker="spk2" startTime="163.184" endTime="171.818">
+<Sync time="163.184"/>
+oui oh
+<Comment desc="soupir"/>
+ ça ça c'est la dépanneuse qui é- qui était là
+</Turn>
+<Turn speaker="spk1" startTime="171.818" endTime="178.246">
+<Sync time="171.818"/>
+oui + 
+<Event desc="l?enfant tourne la page" type="noise" extent="begin"/>
+ 
+<Event desc="l?enfant tourne la page" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="178.246" endTime="180.778">
+<Sync time="178.246"/>
+alors là c'est le chantier 
+</Turn>
+<Turn speaker="spk1" startTime="180.778" endTime="183.468">
+<Sync time="180.778"/>
+et ils construisent quoi sur le chantier ?
+</Turn>
+<Turn speaker="spk2" startTime="183.468" endTime="186.218">
+<Sync time="183.468"/>
+une maison
+</Turn>
+<Turn speaker="spk1" startTime="186.218" endTime="188.421">
+<Sync time="186.218"/>
+ah c'est une grande maison dis donc tu as
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu ?
+</Turn>
+<Turn speaker="spk2" startTime="188.421" endTime="192.914">
+<Sync time="188.421"/>
+ouais 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ je pense qu'on compte faire un appartement 
+</Turn>
+<Turn speaker="spk1" startTime="192.914" endTime="196.338">
+<Sync time="192.914"/>
+tu crois que c'est un appartement ça qu'ils 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ sont en train de construire ? 
+</Turn>
+<Turn speaker="spk2" startTime="196.338" endTime="204.629">
+<Sync time="196.338"/>
+non je crois
+<Event desc="Zkrwa" type="pronounce" extent="previous"/>
+ que ça
+<Event desc="ksa" type="pronounce" extent="instantaneous"/>
+ va être une je crois
+<Event desc="Zkrwa" type="pronounce" extent="previous"/>
+ que ça
+<Event desc="ksa" type="pronounce" extent="instantaneous"/>
+ va être une grande maison
+<Sync time="201.184"/>
+je crois
+<Event desc="Zkrwa" type="pronounce" extent="previous"/>
+ que ça
+<Event desc="ksa" type="pronounce" extent="instantaneous"/>
+ va être une grande maison ça
+</Turn>
+<Turn speaker="spk1" startTime="204.629" endTime="205.177">
+<Sync time="204.629"/>
+hmm
+</Turn>
+<Turn speaker="spk2" startTime="205.177" endTime="206.293">
+<Sync time="205.177"/>
+qu'ils vont construire
+</Turn>
+<Turn speaker="spk1" startTime="206.293" endTime="209.15">
+<Sync time="206.293"/>
+ben oui tu as
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu regarde il y a déjà un grand escalier qui monte
+</Turn>
+<Turn speaker="spk2" startTime="209.15" endTime="212.62">
+<Sync time="209.15"/>
+ouais et qui va monter après jusque là
+</Turn>
+<Turn speaker="spk1" startTime="212.62" endTime="214.05">
+<Sync time="212.62"/>
+ah ouais c'est grand hein 
+</Turn>
+<Turn speaker="spk2" startTime="214.05" endTime="217.49">
+<Sync time="214.05"/>
+ouais 
+<Event desc="pleurs de bébé " type="noise" extent="begin"/>
+ 
+<Event desc="voix" type="noise" extent="instantaneous"/>
+
+<Sync time="215.63"/>
+comme notre escalier à nous 
+<Event desc="pleurs de bébé " type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="217.49" endTime="219.26">
+<Sync time="217.49"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="219.26" endTime="240.733">
+<Sync time="219.26"/>
+
+<Event desc="voix" type="noise" extent="instantaneous"/>
+ qu'est-ce qu'elle s'est fait ? +
+<Sync time="229.013"/>
+Nina ? 
+<Event desc="pleurs d'un bébé" type="noise" extent="instantaneous"/>
+
+<Sync time="236.283"/>
+oh /je vais te dire, je vais voir/ ce qu'elle s'est fait
+<Sync time="238.61"/>
+tu m'attends ?
+</Turn>
+<Turn speaker="spk1" startTime="240.733" endTime="244.785">
+<Sync time="240.733"/>
+oui je t'attends
+</Turn>
+</Section>
+</Episode>
+</Trans>

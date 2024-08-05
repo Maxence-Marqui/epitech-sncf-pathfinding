@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Vanessa Morel, Audrey Claudon" audio_filename="moustapha1_abd.wav" version="21" version_date="110418">
+<Topics>
+<Topic id="to1" desc="VM-AC08/04/2008-YS31/08/2010-EC18/4/2011"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Moustafa" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="501.787" topic="to1">
+<Turn startTime="0" endTime="0.672" speaker="spk1 spk2">
+<Sync time="0"/>
+<Who nb="1"/>
+ voiture
+<Who nb="2"/>
+
+<Event desc="un autre adulte parle" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="0.672" endTime="7.085">
+<Sync time="0.672"/>
+viens on va s'amuser
+<Sync time="4.191"/>
+ah passe moi le camion de police 
+<Event desc="dpolis" type="pronounce" extent="previous"/>
+ 
+<Event desc="un autre adulte parle" type="noise" extent="end"/>
+
+<Sync time="5.653"/>
+il est où le camion de police 
+<Event desc="dpolis" type="pronounce" extent="previous"/>
+ ?
+</Turn>
+<Turn speaker="spk1" startTime="7.085" endTime="8.357">
+<Sync time="7.085"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="8.357" endTime="14.543">
+<Sync time="8.357"/>
+non ça c- ça c'est les pompiers ça
+<Sync time="10.752"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu 
+<Event desc="sonnerie du jouet" type="noise" extent="begin"/>
+ 
+<Sync time="11.111"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ de la petite musique allez
+</Turn>
+<Turn speaker="spk1" startTime="14.543" endTime="17.786">
+<Sync time="14.543"/>
+et le camion et le camion ***
+</Turn>
+<Turn speaker="spk2" startTime="17.786" endTime="29.034">
+<Sync time="17.786"/>
+ça c'est un 
+<Comment desc="sic"/>
+ remorque
+<Sync time="19.445"/>
+c'est pour transporter les voitures tu vois ?
+<Sync time="21.798"/>
+quand elles sont abîmées on les met sur la remorque
+<Sync time="24.801"/>
+et on roule comme ça
+</Turn>
+<Turn speaker="spk1" startTime="29.034" endTime="30.67">
+<Sync time="29.034"/>
+ça sonne ça sonne là
+</Turn>
+<Turn speaker="spk2" startTime="30.67" endTime="38.41">
+<Sync time="30.67"/>
+oui oui c'est le camion de police 
+<Event desc="dpolis" type="pronounce" extent="previous"/>
+
+<Sync time="32.393"/>
+il arrive il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va
+<Sync time="34.107"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ une urgence
+<Sync time="34.788"/>
+alors il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ doit se dépêcher 
+<Event desc="sdepeSe" type="pronounce" extent="previous"/>
+  + 
+<Event desc="sonnerie du jouet" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="38.41" endTime="41.69">
+<Sync time="38.41"/>
+regarde la 
+<Comment desc="sic"/>
+ camion il est de
+</Turn>
+<Turn speaker="spk2" startTime="41.69" endTime="42.237">
+<Sync time="41.69"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="42.237" endTime="43.703">
+<Sync time="42.237"/>
+le camion ici
+</Turn>
+<Turn speaker="spk2" startTime="43.703" endTime="53.278">
+<Sync time="43.703"/>
+ouais ça c'est un camion ça
+<Sync time="45.916"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ quoi sinon ? +
+<Sync time="49.091"/>
+regarde 
+<Event desc="RgaR" type="pronounce" extent="previous"/>
+ elle est où ta voiture ?
+<Sync time="51.728"/>
+laquelle tu préfères ?
+</Turn>
+<Turn speaker="spk1" startTime="53.278" endTime="57.098">
+<Sync time="53.278"/>
+non je je préfère la voiture ça
+</Turn>
+<Turn speaker="spk2" startTime="57.098" endTime="59.829">
+<Sync time="57.098"/>
+celle de police ? la voiture de police ?
+</Turn>
+<Turn speaker="spk1" startTime="59.829" endTime="62.337">
+<Sync time="59.829"/>
+la voiture de police ça
+</Turn>
+<Turn speaker="spk2" startTime="62.337" endTime="64.014">
+<Sync time="62.337"/>
+et ça c'est quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="64.014" endTime="66.308">
+<Sync time="64.014"/>
+la voiture de ca- camion
+</Turn>
+<Turn speaker="spk2" startTime="66.308" endTime="69.335">
+<Sync time="66.308"/>
+
+<Event desc="sonnerie jouet" type="noise" extent="begin"/>
+ ça oh non c'est un camion mais c'est un camion de quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="69.335" endTime="70.431">
+<Sync time="69.335"/>
+ça sonne
+</Turn>
+<Turn speaker="spk2" startTime="70.431" endTime="70.712">
+<Sync time="70.431"/>
+oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="70.712" endTime="71.591">
+<Sync time="70.712"/>
+<Who nb="1"/>
+ça sonne
+<Who nb="2"/>
+ça sonne
+</Turn>
+<Turn speaker="spk1" startTime="71.591" endTime="73.105">
+<Sync time="71.591"/>
+ça sonne la voiture
+</Turn>
+<Turn speaker="spk2" startTime="73.105" endTime="74.645">
+<Sync time="73.105"/>
+tu aimes 
+<Event desc="tEm" type="pronounce" extent="previous"/>
+ bien ce bruit ? 
+<Event desc="sonnerie jouet" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="74.645" endTime="79.926">
+<Sync time="74.645"/>
+j'aime 
+<Event desc="zEm" type="pronounce" extent="previous"/>
+ bien ce bruit *** 
+<Event desc="tyR" type="pronounce" extent="previous"/>
+
+<Sync time="76.977"/>
+et ça j'aime 
+<Event desc="ze" type="pronounce" extent="previous"/>
+ bien ça ça
+</Turn>
+<Turn speaker="spk2" startTime="79.926" endTime="81.06">
+<Sync time="79.926"/>
+c'est quoi ça ?
+</Turn>
+<Turn speaker="spk1" startTime="81.06" endTime="84.214">
+<Sync time="81.06"/>
+c'est mon 
+<Event desc="n@" type="pronounce" extent="previous"/>
+ camion ça + 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="84.214" endTime="94.018">
+<Sync time="84.214"/>
+hum tu me laisses 
+<Event desc="mlEs" type="pronounce" extent="previous"/>
+ jouer avec toi ?
+<Sync time="86.914"/>
+je peux 
+<Event desc="Zp2" type="pronounce" extent="previous"/>
+ jouer avec toi ? +
+<Sync time="90.477"/>
+on va où là ? avec le camion ? je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ où ?
+</Turn>
+<Turn speaker="spk1" startTime="94.018" endTime="94.998">
+<Sync time="94.018"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="94.998" endTime="96.135">
+<Sync time="94.998"/>
+je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ où avec le camion ?
+</Turn>
+<Turn speaker="spk1" startTime="96.135" endTime="101.479">
+<Sync time="96.135"/>
+avec le camion c'est de tu tu vas monter dans le camion 
+<Event desc="lkamjo~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="101.479" endTime="101.822">
+<Sync time="101.479"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+ah mais
+</Turn>
+<Turn speaker="spk2" startTime="101.822" endTime="112.107">
+<Sync time="101.822"/>
+je suis 
+<Event desc="SHi" type="pronounce" extent="previous"/>
+ trop grande pour monter dans le camion 
+<Event desc="lkamjo~" type="pronounce" extent="previous"/>
+
+<Sync time="103.484"/>
+je peux 
+<Event desc="Sp2" type="pronounce" extent="previous"/>
+ pas remonter dans le camion 
+<Event desc="lkamjo~" type="pronounce" extent="previous"/>
+
+<Sync time="106.081"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ que les petits tous petits qui montent dans le camion
+<Sync time="109.066"/>
+et toi tu vas monter dans le camion 
+<Event desc="lkamjo~" type="pronounce" extent="previous"/>
+ toi aussi ?
+</Turn>
+<Turn speaker="spk1" startTime="112.107" endTime="116.173">
+<Sync time="112.107"/>
+/moi,non/ je vais 
+<Event desc="zve" type="pronounce" extent="previous"/>
+ conduire de avec le monsieur
+</Turn>
+<Turn speaker="spk2" startTime="116.173" endTime="118.048">
+<Sync time="116.173"/>
+quel monsieur ?
+</Turn>
+<Turn speaker="spk1" startTime="118.048" endTime="124.486">
+<Sync time="118.048"/>
+ben là ben là on re- on *** 
+<Event desc="R@vi" type="pronounce" extent="previous"/>
+ on *** 
+<Event desc="R@vi" type="pronounce" extent="previous"/>
+ de
+<Sync time="122.79"/>
+par 
+<Event desc="pa" type="pronounce" extent="previous"/>
+ là de par 
+<Event desc="pa" type="pronounce" extent="previous"/>
+ là
+</Turn>
+<Turn speaker="spk2" startTime="124.486" endTime="129.541">
+<Sync time="124.486"/>
+là de par là on revient par donc vous revenez 
+<Event desc="Rv@ne" type="pronounce" extent="previous"/>
+ de par là ? c'est ça ?
+</Turn>
+<Turn speaker="spk1" startTime="129.541" endTime="134.98">
+<Sync time="129.541"/>
+ça ? *** +
+</Turn>
+<Turn speaker="spk2" startTime="134.98" endTime="143.325">
+<Sync time="134.98"/>
+oh la petite 
+<Event desc="tit" type="pronounce" extent="previous"/>
+ voiture elle passe sous le tunnel
+<Sync time="137.662"/>
+elle est où ? elle est cachée maintenant 
+<Event desc="me~na~" type="pronounce" extent="previous"/>
+ on la voit plus
+<Sync time="140.863"/>
+ah la voilà
+</Turn>
+<Turn speaker="spk1" startTime="143.325" endTime="147.117">
+<Sync time="143.325"/>
+/il 
+<Event desc="i" type="pronounce" extent="previous"/>
+, et/ le camion il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ saute
+</Turn>
+<Turn speaker="spk2" startTime="147.117" endTime="148.635">
+<Sync time="147.117"/>
+le camion il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="148.635" endTime="150.157">
+<Sync time="148.635"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait mal
+</Turn>
+<Turn speaker="spk2" startTime="150.157" endTime="162.396">
+<Sync time="150.157"/>
+pourquoi il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait mal ? + 
+<Sync time="155.989"/>
+non c'est pas de ce 
+<Event desc="ds2" type="pronounce" extent="previous"/>
+ côté qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ faut 
+<Event desc="ra~se" type="pronounce" extent="instantaneous"/>
+ 
+<Comment desc="interprétation = avancer ?"/>
+ la voiture
+<Sync time="158.088"/>
+c'est de l'autre 
+<Event desc="dlot" type="pronounce" extent="previous"/>
+ côté par en haut
+</Turn>
+<Turn speaker="spk1" startTime="162.396" endTime="163.63">
+<Sync time="162.396"/>
+par en-dessous 
+<Event desc="asu" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="163.63" endTime="165.195">
+<Sync time="163.63"/>
+par par quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="165.195" endTime="166.941">
+<Sync time="165.195"/>
+par en-dessous 
+<Event desc="atsu" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="166.941" endTime="177.254">
+<Sync time="166.941"/>
+j'ai pas compris + 
+<Comment desc="L'enfant joue avec le camion"/>
+
+<Sync time="172.051"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ du mal à la faire rentrer euh
+<Sync time="173.436"/>
+peut-être 
+<Event desc="ptEtR" type="pronounce" extent="previous"/>
+ elle est trop grosse ? +
+</Turn>
+<Turn speaker="spk1" startTime="177.254" endTime="180.131">
+<Sync time="177.254"/>
+*** le camion il
+</Turn>
+<Turn speaker="spk2" startTime="180.131" endTime="190.552">
+<Sync time="180.131"/>
+il est coincé attends attends je * 
+<Event desc="Z" type="pronounce" extent="previous"/>
+ je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ la sortir
+<Sync time="182.357"/>
+laisse moi faire voila ça y est elle est passée
+<Sync time="186.427"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu hein ? +
+</Turn>
+<Turn speaker="spk1" startTime="190.552" endTime="192.285">
+<Sync time="190.552"/>
+et ça c'est mon camion
+</Turn>
+<Turn speaker="spk2" startTime="192.285" endTime="199.216">
+<Sync time="192.285"/>
+non c'est pas un autre 
+<Event desc="not" type="pronounce" extent="previous"/>
+ camion c'est c'est la remorque
+<Sync time="195.525"/>
+allez mets-la moi de- dessus
+</Turn>
+<Turn speaker="spk2" startTime="199.216" endTime="200.404">
+<Sync time="199.216"/>
+
+<Event desc="sonnerie du jouet" type="noise" extent="next"/>
+ tu me la 
+<Event desc="mla" type="pronounce" extent="previous"/>
+ mets sur mon voilà
+</Turn>
+<Turn speaker="spk1 spk2" startTime="200.404" endTime="201.112">
+<Sync time="200.404"/>
+<Who nb="1"/>
+ça sonne
+<Who nb="2"/>
+c'est comme ça
+</Turn>
+<Turn speaker="spk1" startTime="201.112" endTime="202.485">
+<Sync time="201.112"/>
+ça sonne la voiture
+</Turn>
+<Turn speaker="spk2" startTime="202.485" endTime="211.222">
+<Sync time="202.485"/>
+ben ouais puisque tu l'as touchée
+<Sync time="204.169"/>
+si tu touches la voiture eh ben elle sonne  +
+<Sync time="208.539"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu ?
+</Turn>
+<Turn speaker="spk1" startTime="211.222" endTime="212.521">
+<Sync time="211.222"/>
+il a sonné 
+</Turn>
+<Turn speaker="spk2" startTime="212.521" endTime="214.531">
+<Sync time="212.521"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="214.531" endTime="215.634">
+<Sync time="214.531"/>
+et ça c'est quoi ça ? 
+<Event desc="sonnerie du jouet" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="215.634" endTime="226.201">
+<Sync time="215.634"/>
+ça ? c'est euh un petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ cabriolet
+<Sync time="219.308"/>
+quand il fait chaud on va dans la voiture
+<Sync time="221.906"/>
+tu vois comme ça quand on roule vite on sent le vent
+</Turn>
+<Turn speaker="spk2 spk1" startTime="226.201" endTime="226.954">
+<Sync time="226.201"/>
+<Who nb="1"/>
+et /la, là/
+<Who nb="2"/>
+eh oui
+</Turn>
+<Turn speaker="spk1" startTime="226.954" endTime="227.767">
+<Sync time="226.954"/>
+et la voiture
+</Turn>
+<Turn speaker="spk1 spk2" startTime="227.767" endTime="228.095">
+<Sync time="227.767"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait chaud
+</Turn>
+<Turn speaker="spk2" startTime="228.095" endTime="230.442">
+<Sync time="228.095"/>
+ou il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait froid aujourd'hui ?
+</Turn>
+<Turn speaker="spk1" startTime="230.442" endTime="239.525">
+<Sync time="230.442"/>
+la voiture elle est +
+<Sync time="233.831"/>
+la voiture i- il il attend /deux, dix/ minutes dix minutes dix minutes
+</Turn>
+<Turn speaker="spk2" startTime="239.525" endTime="241.76">
+<Sync time="239.525"/>
+qui a attendu ? la voiture ?
+</Turn>
+<Turn speaker="spk1" startTime="241.76" endTime="248.318">
+<Sync time="241.76"/>
+non non la la voiture il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il est *** de ça
+</Turn>
+<Turn speaker="spk2" startTime="248.318" endTime="253.368">
+<Sync time="248.318"/>
+il est comme je *** il est comme quoi ? +
+</Turn>
+<Turn speaker="spk1" startTime="253.368" endTime="255.499">
+<Sync time="253.368"/>
+je me mets comme 
+<Event desc="ko " type="pronounce" extent="previous"/>
+ ça
+</Turn>
+<Turn speaker="spk2 spk1" startTime="255.499" endTime="255.702">
+<Sync time="255.499"/>
+<Who nb="1"/>
+ha
+<Who nb="2"/>
+comme 
+<Event desc="ko" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="255.702" endTime="257.393">
+<Sync time="255.702"/>
+
+ça pour tomber
+</Turn>
+<Turn speaker="spk2" startTime="257.393" endTime="268.995">
+<Sync time="257.393"/>
+ah ouais on les met comme ça
+<Sync time="259.894"/>
+mais si tu euh si tu la mets comme ça
+<Sync time="261.834"/>
+les voitures elles peuvent pas entrer dedans
+<Sync time="264.347"/>
+tu veux mettre où la voiture ? + 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="268.995" endTime="269.307">
+<Sync time="268.995"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+tu as 
+<Event desc="ta " type="pronounce" extent="previous"/>
+ vu
+</Turn>
+<Turn speaker="spk2" startTime="269.307" endTime="275.276">
+<Sync time="269.307"/>
+
+
+c'est un garage ça faut les mettre 
+<Event desc="mEt" type="pronounce" extent="previous"/>
+ comme ça à l'endroit +
+</Turn>
+<Turn speaker="spk1" startTime="275.276" endTime="277.72">
+<Sync time="275.276"/>
+regarde 
+<Event desc="R@ga" type="pronounce" extent="previous"/>
+ ça sonne
+</Turn>
+<Turn speaker="spk2" startTime="277.72" endTime="286.349">
+<Sync time="277.72"/>
+non ça sonne pas là
+<Sync time="279.401"/>
+faut que tu appuies 
+<Event desc="ktapwHi" type="pronounce" extent="previous"/>
+ sur les roues
+<Sync time="280.401"/>
+appuie sur les roues + 
+<Event desc="sonnerie jouet" type="noise" extent="begin"/>
+
+<Sync time="285.396"/>
+qu'est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ tu fais là ? 
+<Event desc="sonnerie jouet" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="286.349" endTime="288.193">
+<Sync time="286.349"/>
+hum la police 
+<Event desc="sonnerie jouet" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="288.193" endTime="290.912">
+<Sync time="288.193"/>
+ah non c'est pas la police c'est les pompiers
+</Turn>
+<Turn speaker="spk1" startTime="290.912" endTime="292.693">
+<Sync time="290.912"/>
+c'est ***
+</Turn>
+<Turn speaker="spk2" startTime="292.693" endTime="293.252">
+<Sync time="292.693"/>
+c'est quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="293.252" endTime="295.908">
+<Sync time="293.252"/>
+arrêtez arrêtez arrêtez
+</Turn>
+<Turn speaker="spk2" startTime="295.908" endTime="297.126">
+<Sync time="295.908"/>
+c'est qui qui dit ça ?
+</Turn>
+<Turn speaker="spk1" startTime="297.126" endTime="299.955">
+<Sync time="297.126"/>
+*** arrêtez arrêtez
+</Turn>
+<Turn speaker="spk2" startTime="299.955" endTime="300.766">
+<Sync time="299.955"/>
+qui qui dit ça ?
+</Turn>
+<Turn speaker="spk1" startTime="300.766" endTime="304.748">
+<Sync time="300.766"/>
+a- arrêtez la maison 
+<Event desc="sonnerie jouet" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk2" startTime="304.748" endTime="323.465">
+<Sync time="304.748"/>
+c'est la police qui dit arrêtez
+<Sync time="306.849"/>
+c'est pas les pompiers
+<Sync time="308.318"/>
+les pompiers et eux ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ viennent pour éteindre un feu
+<Sync time="311.924"/>
+quand il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ du feu tu vois dans une maison
+<Sync time="313.891"/>
+et ben eux ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ mettent de l'eau dessus
+<Sync time="315.789"/>
+sur la maison 
+<Event desc="lmezo~" type="pronounce" extent="previous"/>
+ /// 
+<Comment desc="L'enfant joue"/>
+
+<Event desc="sonnerie jouet" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="323.465" endTime="328.746">
+<Sync time="323.465"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ arrêtez la voiture arrêtez la voiture
+</Turn>
+<Turn speaker="spk2" startTime="328.746" endTime="335.562">
+<Sync time="328.746"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont arrêter la voiture ? /// 
+<Comment desc="L'enfant joue"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="335.562" endTime="340.598">
+<Sync time="335.562"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont arrêter euh la voiture
+<Sync time="337.851"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ils vont arrêter *** voiture
+</Turn>
+<Turn speaker="spk2" startTime="340.598" endTime="341.878">
+<Sync time="340.598"/>
+mais non mais non
+</Turn>
+<Turn speaker="spk1" startTime="341.878" endTime="343.695">
+<Sync time="341.878"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont pas arrêter de
+</Turn>
+<Turn speaker="spk1 spk2" startTime="343.695" endTime="344.461">
+<Sync time="343.695"/>
+<Who nb="1"/>
+***
+
+
+<Who nb="2"/>
+faut faut que
+</Turn>
+<Turn speaker="spk2" startTime="344.461" endTime="350.19">
+<Sync time="344.461"/>
+faut que nous on s'échappe
+<Sync time="346.013"/>
+comme ça ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont pas nous suivre
+<Sync time="347.581"/>
+faut qu'on roule vite vite 
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="350.19" endTime="350.565">
+<Sync time="350.19"/>
+<Who nb="1"/>
+comme ça
+<Who nb="2"/>
+oh non
+</Turn>
+<Turn speaker="spk2" startTime="350.565" endTime="354.091">
+<Sync time="350.565"/>
+
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont pas nous attraper d'accord ?
+</Turn>
+<Turn speaker="spk1" startTime="354.091" endTime="362.214">
+<Sync time="354.091"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ *** 
+<Event desc="na" type="pronounce" extent="previous"/>
+ fait mal lui
+<Sync time="355.943"/>
+*** dans l'eau dans l'eau froide
+<Sync time="360.092"/>
+pour mettre 
+<Event desc="mEt" type="pronounce" extent="previous"/>
+ dans la maison
+</Turn>
+<Turn speaker="spk2" startTime="362.214" endTime="365.124">
+<Sync time="362.214"/>
+ouais pour mettre 
+<Event desc="mEt" type="pronounce" extent="previous"/>
+ dans la maison de l'eau froide
+</Turn>
+<Turn speaker="spk1" startTime="365.124" endTime="369.293">
+<Sync time="365.124"/>
+je 
+<Event desc="z@" type="pronounce" extent="previous"/>
+ *** 
+<Event desc="se" type="pronounce" extent="previous"/>
+ pas
+<Sync time="366.464"/>
+je 
+<Event desc="z@" type="pronounce" extent="previous"/>
+ suis pas dans la voiture 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="369.293" endTime="369.985">
+<Sync time="369.293"/>
+<Who nb="1"/>
+tu es où ?
+<Who nb="2"/>
+on a
+</Turn>
+<Turn speaker="spk1" startTime="369.985" endTime="374.127">
+<Sync time="369.985"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il a pas de tapis 
+<Event desc="dtapi" type="pronounce" extent="previous"/>
+ tapis volant
+</Turn>
+<Turn speaker="spk2" startTime="374.127" endTime="376.791">
+<Sync time="374.127"/>
+c'est pas grave on (n') a pas besoin de tapis 
+<Event desc="dtapi" type="pronounce" extent="previous"/>
+ volant
+<Sync time="375.882"/>
+viens viens je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ te montrer 
+<Event desc="tmo~tRe" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="376.791" endTime="378.15">
+<Sync time="376.791"/>
+tapis volant ?
+</Turn>
+<Turn speaker="spk2" startTime="378.15" endTime="387.382">
+<Sync time="378.15"/>
+tapis volant c'est la feuille
+<Sync time="379.602"/>
+c'est la feuille le tapis volant d'accord ? +
+<Sync time="383.462"/>
+allez assieds-toi
+<Sync time="384.862"/>
+c'est parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu Aladin ce matin c'est pour ça ?
+</Turn>
+<Turn speaker="spk1" startTime="387.382" endTime="388.826">
+<Sync time="387.382"/>
+attends il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va monter
+</Turn>
+<Turn speaker="spk2" startTime="388.826" endTime="393.332">
+<Sync time="388.826"/>
+nous on (n') est nous on (n') est pas Aladin +
+</Turn>
+<Turn speaker="spk1" startTime="393.332" endTime="394.509">
+<Sync time="393.332"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va sauter
+</Turn>
+<Turn speaker="spk2" startTime="394.509" endTime="399.932">
+<Sync time="394.509"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va sauter 
+<Event desc="sot@" type="pronounce" extent="previous"/>
+ ?
+<Sync time="395.337"/>
+oh la la attention attention hein ? ah ben c'est bon
+</Turn>
+<Turn speaker="spk1" startTime="399.932" endTime="403.179">
+<Sync time="399.932"/>
+attends va sauter *** 
+<Event desc="bb" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="403.179" endTime="404.186">
+<Sync time="403.179"/>
+<Who nb="1"/>
+non non non ***
+
+<Who nb="2"/>
+*** 
+<Event desc="bb" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="404.186" endTime="409.112">
+<Sync time="404.186"/>
+attention juste 
+<Event desc="dZys" type="pronounce" extent="previous"/>
+ doucement hein ?
+<Sync time="406.138"/>
+sinon il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va euh se faire 
+<Event desc="sfER" type="pronounce" extent="previous"/>
+ mal
+</Turn>
+<Turn speaker="spk1" startTime="409.112" endTime="411.711">
+<Sync time="409.112"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ 
+<Event desc="ro~t" type="pronounce" extent="instantaneous"/>
+ pas de parapluie 
+<Event desc="paRapi" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="411.711" endTime="413.534">
+<Sync time="411.711"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ rentre comment ?
+</Turn>
+<Turn speaker="spk1" startTime="413.534" endTime="416.174">
+<Sync time="413.534"/>
+il rentre 
+<Event desc="ire~" type="pronounce" extent="previous"/>
+ pas le parapluie 
+<Event desc=" paRapy" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="416.174" endTime="422.045">
+<Sync time="416.174"/>
+ah non il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ /veut, peut/ pas rentrer par en dessous 
+<Event desc="dsu" type="pronounce" extent="previous"/>
+ +
+<Sync time="419.81"/>
+trop gros il est trop gros hein ?
+</Turn>
+<Turn speaker="spk1" startTime="422.045" endTime="425.737">
+<Sync time="422.045"/>
+il est trop gros il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait mal
+<Sync time="424.661"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait mal
+</Turn>
+<Turn speaker="spk2" startTime="425.737" endTime="427.292">
+<Sync time="425.737"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait mal à qui ?
+</Turn>
+<Turn speaker="spk1" startTime="427.292" endTime="429.412">
+<Sync time="427.292"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait mal 
+<Event desc="ma ?" type="pronounce" extent="previous"/>
+ le camion
+</Turn>
+<Turn speaker="spk2" startTime="429.412" endTime="430.943">
+<Sync time="429.412"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="430.943" endTime="434.772">
+<Sync time="430.943"/>
+le camion le camion il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait ***
+</Turn>
+<Turn speaker="spk2" startTime="434.772" endTime="438.53">
+<Sync time="434.772"/>
+ça c'est une 
+<Comment desc="sic"/>
+ camion de pompier 
+<Event desc="dpo~pje" type="pronounce" extent="previous"/>
+ ça + 
+<Event desc="sonnerie jouet" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="438.53" endTime="444.032">
+<Sync time="438.53"/>
+non il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sonne 
+<Event desc="so~?" type="pronounce" extent="previous"/>
+ pas 
+<Event desc="sonnerie jouet" type="noise" extent="begin"/>
+
+<Sync time="440.62"/>
+arrêtez arrête
+</Turn>
+<Turn speaker="spk2" startTime="444.032" endTime="444.861">
+<Sync time="444.032"/>
+si il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sonne
+</Turn>
+<Turn speaker="spk2" startTime="444.861" endTime="445.939">
+<Sync time="444.861"/>
+faut que tu appuies 
+<Event desc="ktapi" type="pronounce" extent="previous"/>
+ sur les roues de
+</Turn>
+<Turn speaker="spk2 spk1" startTime="445.939" endTime="447.314">
+<Sync time="445.939"/>
+<Who nb="1"/>
+devant ***
+<Who nb="2"/>
+ar- arrêtez
+</Turn>
+<Turn speaker="spk1" startTime="447.314" endTime="453.659">
+<Sync time="447.314"/>
+arrêtez arrêtez + arrêtez arrêtez arrêtez 
+<Event desc="sonnerie jouet" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="453.659" endTime="459.64">
+<Sync time="453.659"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ 
+<Comment desc="Interprétation = elles"/>
+ sont où les roues de 
+<Event desc="d" type="pronounce" extent="previous"/>
+ devant ? + 
+<Event desc="sonnerie jouet" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="459.64" endTime="462.937">
+<Sync time="459.64"/>
+*** ça sonne
+</Turn>
+<Turn speaker="spk2" startTime="462.937" endTime="465.656">
+<Sync time="462.937"/>
+faut pas que tu 
+<Event desc="kty" type="pronounce" extent="previous"/>
+ le jettes comme ça
+</Turn>
+<Turn speaker="spk1 spk2" startTime="465.656" endTime="466.344">
+<Sync time="465.656"/>
+<Who nb="1"/>
+hum
+<Who nb="2"/>
+elle 
+<Comment desc="sic"/>
+ t'a rien
+</Turn>
+<Turn speaker="spk2" startTime="466.344" endTime="469.135">
+<Sync time="466.344"/>
+il t'a rien fait le camion
+<Sync time="467.801"/>
+pourquoi tu le jettes ?
+</Turn>
+<Turn speaker="spk1" startTime="469.135" endTime="470.325">
+<Sync time="469.135"/>
+je 
+<Event desc="z@" type="pronounce" extent="previous"/>
+ le jette 
+<Event desc="zEt" type="pronounce" extent="previous"/>
+ pas mais
+</Turn>
+<Turn speaker="spk2 spk1" startTime="470.325" endTime="471.638">
+<Sync time="470.325"/>
+<Who nb="1"/>
+mais si tu le jettes
+
+<Who nb="2"/>
+ je je
+</Turn>
+<Turn speaker="spk1" startTime="471.638" endTime="473.23">
+<Sync time="471.638"/>
+non je 
+<Event desc="z@" type="pronounce" extent="previous"/>
+ jette 
+<Event desc="lzEt" type="pronounce" extent="previous"/>
+ pas
+</Turn>
+<Turn speaker="spk2" startTime="473.23" endTime="475.924">
+<Sync time="473.23"/>
+ah si tu l'as jeté +
+</Turn>
+<Turn speaker="spk1" startTime="475.924" endTime="480.471">
+<Sync time="475.924"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ *** la voil- regarde 
+<Event desc="R@gad" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="480.471" endTime="481.341">
+<Sync time="480.471"/>
+de quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="481.341" endTime="487.111">
+<Sync time="481.341"/>
+il a couru 
+<Event desc="kuly" type="pronounce" extent="previous"/>
+ il a couru de dans de ça
+</Turn>
+<Turn speaker="spk2" startTime="487.111" endTime="487.361">
+<Sync time="487.111"/>
+qui ?
+</Turn>
+<Turn speaker="spk1" startTime="487.361" endTime="489.454">
+<Sync time="487.361"/>
+ça la voit-
+</Turn>
+<Turn speaker="spk2" startTime="489.454" endTime="490.566">
+<Sync time="489.454"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="490.566" endTime="491.656">
+<Sync time="490.566"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="491.656" endTime="495.114">
+<Sync time="491.656"/>
+<Who nb="1"/>
+mais pourquoi la voiture
+<Who nb="2"/>
+ *** +
+</Turn>
+<Turn speaker="spk2" startTime="495.114" endTime="499.024">
+<Sync time="495.114"/>
+elle a couru la voiture ? + 
+<Event desc="l'adulte et l'enfant manipulent des petites voitures" type="noise" extent="end"/>
+
+<Sync time="497.786"/>
+tu vas où comme ça ? 
+<Comment desc="l'enfant se déplace"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="499.024" endTime="500.89">
+<Sync time="499.024"/>
+attends 
+<Event desc="ta~" type="pronounce" extent="previous"/>
+ attends je 
+<Event desc="bruit de porte" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="500.89" endTime="501.787">
+<Sync time="500.89"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+mais reste ici  
+<Event desc="bruit de porte" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

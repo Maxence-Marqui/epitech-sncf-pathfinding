@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="" audio_filename="pedi_gra_06.wav" version="19" version_date="131019">
+<Speakers>
+<Speaker id="spk1" name="L1" scope="local"/>
+<Speaker id="spk2" name="L2" scope="local"/>
+<Speaker id="spk3" name="L3" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="743.171">
+<Turn speaker="spk1" startTime="0" endTime="10.274">
+<Sync time="0"/>
+
+<Comment desc="le bébé pleure, ils entrent dans le cabinet"/>
+
+<Sync time="7.73"/>
+alors qu'est-ce qu'il se passe <Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk2" startTime="10.274" endTime="52.354">
+<Sync time="10.274"/>
+alors qu'est-ce qu'il se passe 
+<Comment desc="il s'approche du bureau"/>
+ on a on a fait les radios euh que vous aviez prescrites il y a deux jours et puis apparemment bien euh on est allés encore au kiné ce matin et euh hier elle avait de la température elle était à trente-huit ce matin elle avait encore trente-huit 
+<Event desc="le bébé pousse un cri" type="noise" extent="instantaneous"/>
+
+<Sync time="28.959"/>
+elle n'a quasiment pas mangé hier elle euh elle dort quasiment toute la journée ou alors quand elle est réveillée elle gémit tout le temps 
+<Sync time="37.41"/>
+et puis il y a surtout euh euh moi cette euh cette sensation un petit peu de spasme que le kiné m'a m'a fait remarquer c'est pour ça que qu'il qu'il m'a demandé finalement de venir vous revoir euh donc euh respiration spastique et euh
+</Turn>
+<Turn speaker="spk1" startTime="52.354" endTime="52.535">
+<Sync time="52.354"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="52.535" endTime="54.494">
+<Sync time="52.535"/>
+euh elle arrive pas à pleurer réellement &lt; euh
+</Turn>
+<Turn speaker="spk1" startTime="54.494" endTime="58.353">
+<Sync time="54.494"/>
+c'est bien &gt; donc vous la mettez sur la table de l'examen 
+</Turn>
+<Turn speaker="spk2" startTime="58.353" endTime="59.416">
+<Sync time="58.353"/>
+voilà 
+<Comment desc="il pose le bébé sur la table"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="59.416" endTime="68.119">
+<Sync time="59.416"/>
+<Event desc="pause" type="noise" extent="instantaneous"/> 
+<Comment desc="il cherche son matériel"/>
+ et vous la déshabillez 
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+ elle doit elle a pas bien bu ce matin
+</Turn>
+<Turn speaker="spk2" startTime="68.119" endTime="75.822">
+<Sync time="68.119"/>
+euh ce matin très tra- très tardivement parce qu'avant donc elle a rien voulu boire du tout donc je l'ai emmené à la maman qui (lui) a donné le sein
+</Turn>
+<Turn speaker="spk1" startTime="75.822" endTime="76.197">
+<Sync time="75.822"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="76.197" endTime="80.275">
+<Sync time="76.197"/>
+ça a été à peu près quand même <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Comment desc="il déshabille le bébé"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="80.275" endTime="82.134">
+<Sync time="80.275"/>
+vous l'avez emmenée à la maternité
+</Turn>
+<Turn speaker="spk2" startTime="82.134" endTime="85.228">
+<Sync time="82.134"/>
+oui je l'ai emmenée à la mat 
+<Event desc="apocope de maternité" type="lexical" extent="instantaneous"/>
+ parce que moi ma femme travaille aujourd'hui
+</Turn>
+<Turn speaker="spk1" startTime="85.228" endTime="86.509">
+<Sync time="85.228"/>
+d'accord elle travaille toute la journée
+</Turn>
+<Turn speaker="spk2" startTime="86.509" endTime="87.822">
+<Sync time="86.509"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="87.822" endTime="94.087">
+<Sync time="87.822"/>
+d'accord <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Comment desc="il attend que le bébé soit déshabillé"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="94.087" endTime="95.541">
+<Sync time="94.087"/>
+je la laisse en body ou
+</Turn>
+<Turn speaker="spk1" startTime="95.541" endTime="125.463">
+<Sync time="95.541"/>
+oui elle est bien comme ça <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Comment desc="le docteur consulte son ordinateur"/>
+ le dix-neuf je l'avais vue et elle avait surtout un gros rhume <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Comment desc="il commence à ausculter le bébé"/>
+ la fièvre n'existait pas au départ
+</Turn>
+<Turn speaker="spk2" startTime="125.463" endTime="125.713">
+<Sync time="125.463"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="125.713" endTime="127.119">
+<Sync time="125.713"/>
+elle est venue secondairement
+</Turn>
+<Turn speaker="spk2" startTime="127.119" endTime="134.244">
+<Sync time="127.119"/>
+ouais oui oui <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="134.244" endTime="136.603">
+<Sync time="134.244"/>
+hier déjà elle buvait mal
+</Turn>
+<Turn speaker="spk2" startTime="136.603" endTime="138.971">
+<Sync time="136.603"/>
+euh hier surtout
+</Turn>
+<Turn speaker="spk1" startTime="138.971" endTime="146.819">
+<Sync time="138.971"/>
+depuis hier <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Sync time="139.507"/>
+les sécrétions sont propres bon point
+</Turn>
+<Turn speaker="spk2" startTime="146.819" endTime="240.327">
+<Sync time="146.819"/>
+ouais
+<Sync time="147.54"/>
+
+<Event desc="le bébé tousse et pleure" type="noise" extent="instantaneous"/>
+
+<Sync time="189.483"/>
+d'accord allez 
+<Sync time="191.736"/>
+
+<Event desc="le bébé pleure et tousse" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="240.327" endTime="243.466">
+<Sync time="240.327"/>
+cette nuit elle a beaucoup toussé comme ça
+</Turn>
+<Turn speaker="spk2" startTime="243.466" endTime="244.347">
+<Sync time="243.466"/>
+oui 
+<Event desc="le bébé tousse et pleure" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="244.347" endTime="245.687">
+<Sync time="244.347"/>
+le célestène est fini 
+<Event desc="le bébé tousse et pleure" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="245.687" endTime="249.98">
+<Sync time="245.687"/>
+euh non il en reste encore un petit peu <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Comment desc="fin de l'auscultationl"/>
+
+<Event desc="le bébé pleure" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="249.98" endTime="251.388">
+<Sync time="249.98"/>
+alors on va le continuer
+</Turn>
+<Turn speaker="spk2" startTime="251.388" endTime="251.854">
+<Sync time="251.388"/>
+hum hum 
+<Event desc="le bébé pleure" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="251.854" endTime="267.723">
+<Sync time="251.854"/>
+il faut qu'elle prenne un antibiotique parce que si elle pleure comme ça c'est qu'elle a mal à l'oreille à droite <Event desc="pause" type="noise" extent="instantaneous"/> et puis pour diminuer cet euh ce spasme respiratoire on va lui donner cette <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/> euh de Babyhaler
+</Turn>
+<Turn speaker="spk2" startTime="267.723" endTime="270.565">
+<Sync time="267.723"/>
+d'accord 
+<Event desc="le bébé tousse et pleure" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="270.565" endTime="271.533">
+<Sync time="270.565"/>
+allez-y 
+<Comment desc="à L3"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="271.533" endTime="276.347">
+<Sync time="271.533"/>
+hé bien elle a causé hein c'est ce que tu souhaitais
+</Turn>
+<Turn speaker="spk3" startTime="276.347" endTime="277.201">
+<Sync time="276.347"/>
+hé hé hé
+</Turn>
+<Turn speaker="spk2" startTime="277.201" endTime="278.459">
+<Sync time="277.201"/>
+l'entendre parler
+</Turn>
+<Turn speaker="spk3" startTime="278.459" endTime="279.221">
+<Sync time="278.459"/>
+oui hé hé 
+</Turn>
+<Turn speaker="spk2" startTime="279.221" endTime="281.976">
+<Sync time="279.221"/>
+est-ce que c'est vraiment 
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+ elle que je voulais entendre je suis pas certain hein
+</Turn>
+<Turn speaker="spk1" startTime="281.976" endTime="282.776">
+<Sync time="281.976"/>
+si un &lt; peu
+</Turn>
+<Turn speaker="spk3" startTime="282.776" endTime="292.081">
+<Sync time="282.776"/>
+un peu &gt; un peu quand même hé hé <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="285.022"/>
+
+<Event desc="le bébé crie" type="noise" extent="next"/>
+ 
+<Comment desc="le docteur met un inhalateur au bébé pour qu'il respire mieux, ce qui change les pleurs du bébé"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="292.081" endTime="299.729">
+<Sync time="292.081"/>
+
+<Event desc="le bébé pleure" type="noise" extent="instantaneous"/>
+ quand elle pleure après deux bouffées vous la laissez respirer sept fois hein regardez la valve
+</Turn>
+<Turn speaker="spk2" startTime="299.729" endTime="310.564">
+<Sync time="299.729"/>
+ouais très bien <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="300.474"/>
+
+<Event desc="le bébé pleure" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="310.564" endTime="312.868">
+<Sync time="310.564"/>
+quand elle pleure <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/> 
+<Event desc="le bébé pleure" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="312.868" endTime="313.633">
+<Sync time="312.868"/>
+d'accord 
+<Event desc="le bébé pleure" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="313.633" endTime="316.701">
+<Sync time="313.633"/>
+voilà maintenant vous la prenez dans vos bras vous la rhabillez 
+<Event desc="le bébé pleure" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="316.701" endTime="325.942">
+<Sync time="316.701"/>
+hum hum 
+<Event desc="le bébé gémit et tousse" type="noise" extent="instantaneous"/>
+ <Event desc="pause" type="noise" extent="instantaneous"/> chut donc ce sera avec de la ventoline
+</Turn>
+<Turn speaker="spk1" startTime="325.942" endTime="331.36">
+<Sync time="325.942"/>
+avec de la ventoline 
+<Event desc="le bébé tousse" type="noise" extent="instantaneous"/>
+ deux bouffées quatre fois par jour et au besoin même en plus dans la nuit
+</Turn>
+<Turn speaker="spk2" startTime="331.36" endTime="331.813">
+<Sync time="331.36"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="331.813" endTime="340.89">
+<Sync time="331.813"/>
+si elle tousse <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Sync time="332.697"/>
+
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="340.89" endTime="344.739">
+<Sync time="340.89"/>
+et puis il y avait u- une inquiétude par rapport à ma femme aussi c'est par rapport à la radio hier
+</Turn>
+<Turn speaker="spk1" startTime="344.739" endTime="345.372">
+<Sync time="344.739"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="345.372" endTime="359.613">
+<Sync time="345.372"/>
+euh 
+<Event desc="le bébé pleure" type="noise" extent="instantaneous"/>
+ la le manipulateur radio ne lui a pas protégé notamment les ovaires alors euh est-ce que ça se fait systématiquement ou c'est vraiment bien cadré il y a pas de risque(s) particulier(s) euh
+</Turn>
+<Turn speaker="spk1" startTime="359.613" endTime="378.789">
+<Sync time="359.613"/>
+euh ils ont des appareils radiologiques maintenant
+<Sync time="363.604"/>
+qui sont qui donnent beaucoup beaucoup moins de rayons disons qu'il y a euh disons vingt ans hein
+<Sync time="369.771"/>
+euh avant c'était une catastrophe les quantités qu'on mettait
+<Sync time="375.284"/>
+et par exemple 
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+ c'était une catastrophe quand on faisait de la radioscopie
+</Turn>
+<Turn speaker="spk2" startTime="378.789" endTime="379.065">
+<Sync time="378.789"/>
+
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+ hum
+</Turn>
+<Turn speaker="spk1" startTime="379.065" endTime="390.241">
+<Sync time="379.065"/>
+voilà 
+<Sync time="381.253"/>
+maintenant euh c'est des ces appareils euh c'est des clichés numérisés c'est vraiment du tellement faible 
+<Event desc="le bébé tousse" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="390.241" endTime="392.452">
+<Sync time="390.241"/>
+oui et puis c'est très très cadré euh
+</Turn>
+<Turn speaker="spk1" startTime="392.452" endTime="421.111">
+<Sync time="392.452"/>
+très cadré qu'a priori euh 
+<Event desc="le bébé gémit et tousse" type="noise" extent="instantaneous"/>
+ ça (ne) m'inquiète pas /donc,qu'/ ils n'ont pas à mon avis pris de grands grands risques en faisant ça <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="399.562"/>
+
+<Comment desc="le docteur consulte son ordinateur "/>
+
+<Event desc="le bébé gémit" type="noise" extent="previous"/>
+
+<Sync time="417.01"/>
+quand j'ai vu le quand je l'ai vu le dix-neuf j'avais donné le célestène pour quatre jours 
+<Event desc="le bébé tousse" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="421.111" endTime="421.832">
+<Sync time="421.111"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="421.832" endTime="426.017">
+<Sync time="421.832"/>
+il faudra en réalité donner deux jours de plus parce que ce serait aujourd'hui le dernier
+</Turn>
+<Turn speaker="spk2" startTime="426.017" endTime="426.737">
+<Sync time="426.017"/>
+oui ouais ouais oui
+</Turn>
+<Turn speaker="spk1" startTime="426.737" endTime="428.113">
+<Sync time="426.737"/>
+donc il faudra donner deux jours &lt; de plus
+</Turn>
+<Turn speaker="spk2" startTime="428.113" endTime="428.854">
+<Sync time="428.113"/>
+deux jours de plus &gt; O.K.
+</Turn>
+<Turn speaker="spk1" startTime="428.854" endTime="429.451">
+<Sync time="428.854"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="429.451" endTime="433.851">
+<Sync time="429.451"/>
+donc toujours deux fois par jour deux fois 
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+ deux fois quarante gouttes
+</Turn>
+<Turn speaker="spk1" startTime="433.851" endTime="445.263">
+<Sync time="433.851"/>
+deux fois quarante gouttes <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+ allez ne pleure pas 
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="445.263" endTime="449.852">
+<Sync time="445.263"/>
+ça y est c'est fini <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="449.852" endTime="454.412">
+<Sync time="449.852"/>
+et alors cet après-midi vous allez retourner à la maternité pour que la maman lui donne le sein
+</Turn>
+<Turn speaker="spk2" startTime="454.412" endTime="456.641">
+<Sync time="454.412"/>
+ben je vais déjà lui donner un petit pot euh 
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="456.641" endTime="456.95">
+<Sync time="456.641"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="456.95" endTime="457.481">
+<Sync time="456.95"/>
+vers &lt; les quatre heures
+</Turn>
+<Turn speaker="spk1" startTime="457.481" endTime="458.614">
+<Sync time="457.481"/>
+hum &gt; c'est bien oui
+</Turn>
+<Turn speaker="spk2" startTime="458.614" endTime="460.359">
+<Sync time="458.614"/>
+et puis je vais essayer ben d'attendre la maman
+</Turn>
+<Turn speaker="spk1" startTime="460.359" endTime="462.419">
+<Sync time="460.359"/>
+d'accord elle sort à quelle 
+<Event desc="le bébé gémit" type="noise" extent="instantaneous"/>
+ heure du boulot
+</Turn>
+<Turn speaker="spk2" startTime="462.419" endTime="472.532">
+<Sync time="462.419"/>
+
+<Event desc="le bébé gémit et tousse" type="noise" extent="instantaneous"/>
+ ben là il y avait plus grand monde dans le service 
+<Event desc="le bébé gémit et tousse" type="noise" extent="instantaneous"/>
+ donc euh elle sortira peut-être plus tôt normalement c'est dix-neuf heures trente mais là je pense qu'elle va sortir vers euh vers cinq heures
+</Turn>
+<Turn speaker="spk1" startTime="472.532" endTime="478.732">
+<Sync time="472.532"/>
+
+<Comment desc="le docteur tape sur le clavier"/>
+
+<Sync time="476.528"/>
+alors ce Babyhaler elle en a pas hein &lt; vous en avez pas
+</Turn>
+<Turn speaker="spk2" startTime="478.732" endTime="483.135">
+<Sync time="478.732"/>
+non non non &gt; moi je peux juste avoir des avec des aérosols
+</Turn>
+<Turn speaker="spk1" startTime="483.135" endTime="485.016">
+<Sync time="483.135"/>
+hof euh il vaut mieux qu'il l'ait
+</Turn>
+<Turn speaker="spk2" startTime="485.016" endTime="486.124">
+<Sync time="485.016"/>
+des <Event desc="suite de syllabes incompréhensibles" type="pronounce" extent="instantaneous"/> des choses comme ça &lt; ouais
+</Turn>
+<Turn speaker="spk1" startTime="486.124" endTime="488.886">
+<Sync time="486.124"/>
+d'accord &gt; oui oui pas de Babyhaler 
+</Turn>
+<Turn speaker="spk2" startTime="488.886" endTime="489.277">
+<Sync time="488.886"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="489.277" endTime="498.103">
+<Sync time="489.277"/>
+et puis après ça dedans vous mettrez de la ventoline deux bouffées le matin à midi 
+<Sync time="495.455"/>
+et deux à quatre heures et le soir pardon
+</Turn>
+<Turn speaker="spk2" startTime="498.103" endTime="499.442">
+<Sync time="498.103"/>
+d'accord
+</Turn>
+<Turn speaker="spk1" startTime="499.442" endTime="505.333">
+<Sync time="499.442"/>
+et si dans la nuit elle tousse beaucoup 
+<Sync time="503.124"/>
+vous pouvez en redonner deux bouffées 
+<Event desc="le bébé pousse un cri" type="noise" extent="instantaneous"/>
+ en plus
+</Turn>
+<Turn speaker="spk2" startTime="505.333" endTime="505.952">
+<Sync time="505.333"/>
+O.K.
+</Turn>
+<Turn speaker="spk1" startTime="505.952" endTime="510.507">
+<Sync time="505.952"/>
+et ça pour à peu près huit jours
+</Turn>
+<Turn speaker="spk2" startTime="510.507" endTime="511.702">
+<Sync time="510.507"/>
+d'accord
+</Turn>
+<Turn speaker="spk1" startTime="511.702" endTime="523.285">
+<Sync time="511.702"/>
+donc ça ça va lutter contre le spasme qui gênait le kiné 
+<Sync time="514.876"/>
+et puis l'autre aspect c'est qu'elle reste fébrile 
+<Sync time="518.566"/>
+et que vous la 
+<Event desc="le bébé pousse un cri" type="noise" extent="instantaneous"/>
+ /décrivez,décriviez/ bien comme ayant mal et ça c'est son oreille
+</Turn>
+<Turn speaker="spk2" startTime="523.285" endTime="523.821">
+<Sync time="523.285"/>
+&lt; d'accord
+</Turn>
+<Turn speaker="spk1" startTime="523.821" endTime="528.456">
+<Sync time="523.821"/>
+c'est &gt; des complications classiques au cours de ces rhinopharyngites de l'enfant 
+<Event desc="le bébé pousse un cri" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="528.456" endTime="529.773">
+<Sync time="528.456"/>
+d'accord
+</Turn>
+<Turn speaker="spk1" startTime="529.773" endTime="535.789">
+<Sync time="529.773"/>
+et il faut donc lui donner pour ça du panotile 
+<Event desc="le bébé pousse un cri" type="noise" extent="instantaneous"/>
+ dans les deux oreilles le matin et le soir
+</Turn>
+<Turn speaker="spk2" startTime="535.789" endTime="536.428">
+<Sync time="535.789"/>
+hum hum <Event desc="pause" type="noise" extent="instantaneous"/>
+</Turn>
+<Turn speaker="spk1" startTime="536.428" endTime="561.634">
+<Sync time="536.428"/>
+
+<Comment desc="le docteur écrit"/>
+
+<Sync time="539.139"/>
+pendant quatre jours 
+<Sync time="541.537"/>
+et puis je suis obligé de donner une antibiothérapie avec cette fièvre 
+<Event desc="le bébé tousse" type="noise" extent="instantaneous"/>
+ qui dure et qui est due à son otite c'est l'augmentin amoxicilline acide clavulonique 
+<Sync time="552.507"/>
+ça se donne par des doses kilo une dose six <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="556.481"/>
+
+<Event desc="le docteur tape sur le clavier" type="noise" extent="instantaneous"/>
+
+<Sync time="558.705"/>
+trois fois par jour matin midi et le soir
+</Turn>
+<Turn speaker="spk2" startTime="561.634" endTime="562.233">
+<Sync time="561.634"/>
+hum hum
+</Turn>
+<Turn speaker="spk1" startTime="562.233" endTime="564.456">
+<Sync time="562.233"/>
+pendant sept jours
+</Turn>
+<Turn speaker="spk2" startTime="564.456" endTime="568.657">
+<Sync time="564.456"/>
+pendant sept jours <Event desc="pause" type="noise" extent="instantaneous"/> 
+</Turn>
+<Turn speaker="spk1" startTime="568.657" endTime="585.551">
+<Sync time="568.657"/>
+
+<Comment desc="dit à voix basse"/>
+ trois fois six dix-huit que multiplie sept deux fois sept quatorze un flacon suffit 
+<Event desc="le bébé tousse" type="noise" extent="instantaneous"/>
+ <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Sync time="578.976"/>
+et puis comme c'est une situation encore un petit peu tendue vous me redonnez un petit coup de fil demain 
+<Sync time="583.506"/>
+
+<Event desc="le bébé pousse un cri" type="noise" extent="instantaneous"/>
+ qu'on fasse le point demain par téléphone
+</Turn>
+<Turn speaker="spk2" startTime="585.551" endTime="591.995">
+<Sync time="585.551"/>
+d'accord <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Sync time="590.117"/>
+je continue euh le kiné quand même hein
+</Turn>
+<Turn speaker="spk1" startTime="591.995" endTime="597.385">
+<Sync time="591.995"/>
+oh oui oui oui ça ça lui fera du bien euh quitte à aller même avec le le Babyhaler chez &lt; le kiné
+</Turn>
+<Turn speaker="spk2" startTime="597.385" endTime="598.769">
+<Sync time="597.385"/>
+le Babyhaler &gt; ouais ouais
+</Turn>
+<Turn speaker="spk1" startTime="598.769" endTime="600.001">
+<Sync time="598.769"/>
+parce qu'il pourrait l'aider
+</Turn>
+<Turn speaker="spk2" startTime="600.001" endTime="600.743">
+<Sync time="600.001"/>
+d'accord
+</Turn>
+<Turn speaker="spk1" startTime="600.743" endTime="604.687">
+<Sync time="600.743"/>
+le kiné pourra l'utiliser vous donner des conseils 
+<Event desc="le bébé pousse un cri" type="noise" extent="instantaneous"/>
+ parce qu'ils ont l'habitude 
+</Turn>
+<Turn speaker="spk2" startTime="604.687" endTime="608.066">
+<Sync time="604.687"/>
+ouais c'est à l'achat ou c'est à la location le Babyhaler
+</Turn>
+<Turn speaker="spk1" startTime="608.066" endTime="609.977">
+<Sync time="608.066"/>
+euh c'est à l'achat 
+</Turn>
+<Turn speaker="spk2" startTime="609.977" endTime="610.326">
+<Sync time="609.977"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="610.326" endTime="612.826">
+<Sync time="610.326"/>
+avec une partie remboursée sécurité sociale
+</Turn>
+<Turn speaker="spk2" startTime="612.826" endTime="621.698">
+<Sync time="612.826"/>
+d'accord <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Comment desc="il met le manteau au bébé"/>
+ 
+<Sync time="619.4"/>
+brumisateur est-ce que ça a un intérêt particulier
+</Turn>
+<Turn speaker="spk1" startTime="621.698" endTime="655.302">
+<Sync time="621.698"/>
+euh je crois pas trop
+<Sync time="623.847"/>
+non je crois pas trop
+<Sync time="627.228"/>
+
+<Comment desc="le docteur tape sur l'ordinateur"/>
+ <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Sync time="629.771"/>
+<Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/> plus plus et puis <Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/>
+<Sync time="633.628"/>
+<Comment desc="pause longue" /> 
+<Comment desc="le docteur fait l'ordonnance"/>
+
+<Event desc="bruit de froissement de papiers" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="655.302" endTime="655.95">
+<Sync time="655.302"/>
+merci
+</Turn>
+<Turn speaker="spk1" startTime="655.95" endTime="656.455">
+<Sync time="655.95"/>
+voilà
+</Turn>
+<Turn speaker="spk2" startTime="656.455" endTime="657.732">
+<Sync time="656.455"/>
+je vous règle là ou il y a plus qu'à &lt; avancer
+</Turn>
+<Turn speaker="spk1" startTime="657.732" endTime="658.639">
+<Sync time="657.732"/>
+c'est &gt; en carte
+</Turn>
+<Turn speaker="spk2" startTime="658.639" endTime="659.501">
+<Sync time="658.639"/>
+euh non &lt; en chèque
+</Turn>
+<Turn speaker="spk1" startTime="659.501" endTime="660.169">
+<Sync time="659.501"/>
+chèque &gt;
+</Turn>
+<Turn speaker="spk2" startTime="660.169" endTime="660.457">
+<Sync time="660.169"/>
+en chèque
+</Turn>
+<Turn speaker="spk1" startTime="660.457" endTime="662.743">
+<Sync time="660.457"/>
+non ben vous le faîtes ici là non il y a plus personne
+</Turn>
+<Turn speaker="spk2" startTime="662.743" endTime="663.134">
+<Sync time="662.743"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="663.134" endTime="667.726">
+<Sync time="663.134"/>
+pensez-vous <Event desc="pause" type="noise" extent="instantaneous"/> il faut pas rêver 
+</Turn>
+<Turn speaker="spk2" startTime="667.726" endTime="668.264">
+<Sync time="667.726"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="668.264" endTime="672.264">
+<Sync time="668.264"/>
+elles ont beaucoup bossé ces temps-ci nos collaboratrices &lt; hein
+</Turn>
+<Turn speaker="spk2" startTime="672.264" endTime="678.49">
+<Sync time="672.264"/>
+<Event desc="syllabe incompréhensible" type="pronounce" extent="instantaneous"/> &gt; <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Sync time="673.622"/>
+
+<Event desc="le docteur fait du rangement" type="noise" extent="instantaneous"/>
+ alors 
+</Turn>
+<Turn speaker="spk1" startTime="678.49" endTime="716.282">
+<Sync time="678.49"/>
+ça fait trente et un 
+<Sync time="679.994"/>
+<Comment desc="pause longue" /> 
+<Comment desc="L2 remplit un chèque et range ses affaires"/>
+
+<Sync time="714.523"/>
+
+<Event desc="bruit de râclement de chaise" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="716.282" endTime="718.199">
+<Sync time="716.282"/>
+les ordonnances vous me les avez données je me rappelle plus
+</Turn>
+<Turn speaker="spk1" startTime="718.199" endTime="718.797">
+<Sync time="718.199"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="718.797" endTime="719.933">
+<Sync time="718.797"/>
+les ordonnances vous me les avez données
+</Turn>
+<Turn speaker="spk1" startTime="719.933" endTime="721.252">
+<Sync time="719.933"/>
+tout est dans le carnet
+</Turn>
+<Turn speaker="spk2" startTime="721.252" endTime="740.992">
+<Sync time="721.252"/>
+d'accord merci c'est bon <Event desc="pause" type="noise" extent="instantaneous"/> toc <Event desc="pause" type="noise" extent="instantaneous"/> merci <Event desc="pause" type="noise" extent="instantaneous"/> tenez
+<Sync time="734.84"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="740.992" endTime="741.969">
+<Sync time="740.992"/>
+à demain au téléphone
+</Turn>
+<Turn speaker="spk2" startTime="741.969" endTime="742.607">
+<Sync time="741.969"/>
+au revoir
+</Turn>
+<Turn speaker="spk1" startTime="742.607" endTime="743.171">
+<Sync time="742.607"/>
+au revoir
+</Turn>
+</Section>
+</Episode>
+</Trans>

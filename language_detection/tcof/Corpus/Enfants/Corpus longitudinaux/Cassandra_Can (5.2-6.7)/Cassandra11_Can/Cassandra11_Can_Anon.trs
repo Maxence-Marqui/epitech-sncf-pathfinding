@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Cannelle" audio_filename="Cassandra11_Can10mn1s.wave" version="3" version_date="170808">
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Cassandra" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="Autre enfant" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="CB 07/17 - EC 8/8/2017"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="600.501" topic="to1">
+<Turn startTime="0" endTime="12.508" speaker="spk1">
+<Sync time="0"/>
+### alors Cassandra nous sommes le sept novembre deux mille 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="9.383"/>
+et on va prendre 
+<Event desc="b" type="noise" extent="begin"/>
+ ceux-là 
+</Turn>
+<Turn speaker="spk3" startTime="12.508" endTime="14.201">
+<Sync time="12.508"/>
+*** 
+</Turn>
+<Turn speaker="spk1" startTime="14.201" endTime="15.277">
+<Sync time="14.201"/>
+toi tu les prendras une
+</Turn>
+<Turn speaker="spk1 spk3" startTime="15.277" endTime="16.608">
+<Sync time="15.277"/>
+<Who nb="1"/>
+prochaine fois 
+<Event desc="sonnerie de téléphone" type="noise" extent="begin"/>
+
+<Who nb="2"/>
+*** 
+<Event desc="sonnerie de téléphone" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="16.608" endTime="17.725">
+<Sync time="16.608"/>
+*** 
+<Event desc="sonnerie de téléphone" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="17.725" endTime="51.039">
+<Sync time="17.725"/>
+ah bah je te les montrerai la prochaine fois si tu veux
+<Sync time="19.985"/>
+d'accord Walid ? 
+<Event desc="sonnerie de téléphone" type="noise" extent="instantaneous"/>
+
+<Sync time="21.753"/>
+alors celui-là c'est "Le nouveau dentifrice de Mélanie" + 
+<Sync time="25.316"/>
+
+<Event desc="sonnerie de téléphone" type="noise" extent="instantaneous"/>
+ "Boum Badaboum" 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ "Lucie 
+<Event desc="sonnerie de téléphone" type="noise" extent="begin"/>
+ et son chien" 
+<Event desc="sonnerie de téléphone" type="noise" extent="end"/>
+ + 
+<Sync time="32.708"/>
+"La voiture téléguidée de Vincent" + 
+<Sync time="36.142"/>
+"Christophe joue à Zorro" 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="38.812"/>
+et "La toutoune de Julien" + 
+<Sync time="43.26"/>
+alors lequel est-ce que tu choisirais ? + 
+<Sync time="46.713"/>
+tu me dis si tu 
+<Event desc="sty" type="pronounce" extent="previous"/>
+ veux que je te redise les titres hein + 
+</Turn>
+<Turn speaker="spk2" startTime="51.039" endTime="51.814">
+<Sync time="51.039"/>
+boum badoum
+</Turn>
+<Turn speaker="spk1" startTime="51.814" endTime="59.292">
+<Sync time="51.814"/>
+"Boum Badaboum" ? + 
+<Sync time="53.187"/>
+
+<Comment desc="L'adulte s'adresse à un autre enfant"/>
+ va vite /vas-y, va vite/ Walid
+<Sync time="54.499"/>
+tu reviens vite attends on reprend les autres livres ?
+<Sync time="57.165"/>
+tu me redonnes les autres livres euh Cassandra
+</Turn>
+<Turn speaker="spk2" startTime="59.292" endTime="63.555">
+<Sync time="59.292"/>
+mmh + 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="63.555" endTime="71.593">
+<Sync time="63.555"/>
+voilà 
+<Comment desc="longue prononciation"/>
+ + voilà voilà + 
+<Event desc="b" type="noise" extent="previous"/>
+ hop là
+<Sync time="70.232"/>
+je vais te lire "Boum Badaboum" ?
+</Turn>
+<Turn speaker="spk2" startTime="71.593" endTime="72.065">
+<Sync time="71.593"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="72.065" endTime="114.97">
+<Sync time="72.065"/>
+c'est toi qui tourneras les pages d'accord ? 
+<Event desc="b" type="noise" extent="previous"/>
+ + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="79.197"/>
+Sophie joue à la course de pneus avec son copain Jérôme + 
+<Sync time="83.84"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Sophie court plus vite que Jérôme
+<Sync time="87.983"/>
+mais elle ne voit pas le gros caillou qui est devant son pied + 
+<Event desc="conv" type="noise" extent="begin"/>
+ 
+<Event desc="bruit de pas" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="conv" type="noise" extent="end"/>
+
+<Sync time="99.068"/>
+boum badaboum 
+<Sync time="100.379"/>
+### 
+<Comment desc="l'adulte parle à un autre enfant"/>
+
+<Sync time="110.261"/>
+boum badaboum Sophie est tombée par terre à plat ventre
+</Turn>
+<Turn speaker="spk3" startTime="114.97" endTime="116.151">
+<Sync time="114.97"/>
+boum badaboum
+</Turn>
+<Turn speaker="spk1" startTime="116.151" endTime="163.379">
+<Sync time="116.151"/>
+Sophie regarde son genou qui saigne un peu 
+<Sync time="119.642"/>
+elle dit à Jérôme 
+<Event desc="b" type="noise" extent="previous"/>
+ ### 
+<Event desc="conv" type="noise" extent="previous"/>
+
+<Sync time="125.544"/>
+elle dit à Jérôme garde mon pneu je vais me faire soigner + 
+<Event desc="conv" type="noise" extent="previous"/>
+
+<Sync time="133.06"/>
+Sophie entre dans le préau pour se faire soigner + 
+<Event desc="r" type="noise" extent="instantaneous"/>
+
+<Sync time="137.472"/>
+Madame Lise met du produit sur un coton + 
+<Sync time="140.913"/>
+Sophie a un peu peur elle demande ça va piquer ? + 
+<Sync time="145.207"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+ Madame Lise répond non Sophie ne t'inquiète pas le médicament ne pique pas + 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+<Sync time="152.7"/>
+Madame Lise nettoie le genou de Sophie 
+<Sync time="156.911"/>
+sans appuyer trop fort avec le coton +
+<Sync time="160.423"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ le médicament ne pique pas 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="163.379" endTime="209.663">
+<Sync time="163.379"/>
+Sophie dit 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ ça fait froid 
+<Comment desc="longue prononciation"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+<Sync time="167.435"/>
+chut ### 
+<Comment desc="l'adulte parle à un autre enfant"/>
+
+<Sync time="171.036"/>
+Madame Lise met un pansement à Sophie 
+<Sync time="173.296"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ et elle lui dit 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ ### 
+<Comment desc="l'adulte parle à un autre enfant"/>
+ + 
+<Sync time="178.22"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Madame Lise met un pansement à Sophie
+<Sync time="180.06"/>
+et elle lui dit tu vois Sophie c'est fini je ne t'ai pas fait mal
+<Sync time="185.448"/>
++ Sophie baisse sa robe avant de retourner jouer dans la cour + 
+<Sync time="194.625"/>
+Sophie retrouve Jérôme dans la cour + 
+<Sync time="197.862"/>
+Sophie relève sa robe en disant 
+<Sync time="200.635"/>
+tu vois Jérôme Madame Lise m'a mis un pansement et je n'ai pas eu mal
+<Sync time="205.212"/>
+maintenant on va courir moins vite + 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="209.663" endTime="210.656">
+<Sync time="209.663"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="210.656" endTime="212.416">
+<Sync time="210.656"/>
+Sophie a repris son pneu 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="212.416" endTime="213.443">
+<Sync time="212.416"/>
+<Who nb="1"/>
+elle recommence la
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="213.443" endTime="214.509">
+<Sync time="213.443"/>
+course avec Jérôme
+</Turn>
+<Turn speaker="spk2" startTime="214.509" endTime="219.295">
+<Sync time="214.509"/>
+*** la course 
+<Event desc="kuR" type="pronounce" extent="previous"/>
+ avec Jérôme 
+<Event desc="ZeRo" type="pronounce" extent="previous"/>
+ + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="218.258"/>
+"Boum Badaboum" 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="219.295" endTime="222.125">
+<Sync time="219.295"/>
+oui * 
+<Event desc="b" type="noise" extent="previous"/>
+ tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ trop petite quand tu t'asseois sur les fesses ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="222.125" endTime="222.736">
+<Sync time="222.125"/>
+la maman 
+</Turn>
+<Turn speaker="spk1" startTime="222.736" endTime="223.014">
+<Sync time="222.736"/>
+ouais
+</Turn>
+<Turn speaker="spk2" startTime="223.014" endTime="230.213">
+<Sync time="223.014"/>
+la maman 
+<Event desc="b" type="noise" extent="previous"/>
+ + 
+<Event desc="b" type="noise" extent="previous"/>
+ elle lui dit *** 
+<Event desc="b" type="noise" extent="previous"/>
+ *** 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="230.213" endTime="230.745">
+<Sync time="230.213"/>
+
+<Comment desc="L'adulte s'adresse à un autre enfant"/>
+ tu vas à l'étude ? 
+</Turn>
+<Turn speaker="spk2" startTime="230.745" endTime="231.673">
+<Sync time="230.745"/>
+"Boom Badaboom" 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="231.673" endTime="233.684">
+<Sync time="231.673"/>
+d'accord 
+<Event desc="ch" type="noise" extent="previous"/>
+
+<Sync time="232.592"/>
+allez chut 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="233.684" endTime="241.993">
+<Sync time="233.684"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ *** beaucoup de chocolats 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ ***
+</Turn>
+<Turn speaker="spk1" startTime="241.993" endTime="250.235">
+<Sync time="241.993"/>
+tu as beaucoup de chocolats dans tes poches ? + dans ton cartable ?
+<Sync time="245.624"/>
+pour le goûter ? + non ?
+<Sync time="248.17"/>
+elle va te donner des chocolats ? + 
+</Turn>
+<Turn speaker="spk3" startTime="250.235" endTime="250.979">
+<Sync time="250.235"/>
+dehors 
+<Event desc="dooR" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="250.979" endTime="290.357">
+<Sync time="250.979"/>
+dehors d'accord 
+<Event desc="ch" type="pronounce" extent="previous"/>
+
+<Sync time="251.906"/>
+allez maintenant c'est Cassandra qui raconte + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="256.419"/>
+
+<Comment desc="autre enfant qui parle"/>
+ + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="263.779"/>
+alors tu lis pas hein parce que tu sais pas encore lire hein tout à fait hein
+<Sync time="266.854"/>
+tu sais lire que des petits trucs encore hein
+<Sync time="268.975"/>
+tu me racontes l'histoire tu te souviens comment 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ on faisait l'année dernière 
+<Comment desc="autre enfant qui parle en même temps"/>
+ + 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="273.117"/>
+alors qu- dis-moi ce qu'il se passe 
+<Event desc="skispas" type="pronounce" extent="previous"/>
+ sur l'image 
+<Event desc="conv" type="noise" extent="previous"/>
+ chut 
+<Comment desc="longue prononciation"/>
+
+<Sync time="275.581"/>
+oui 
+<Event desc="ch" type="pronounce" extent="previous"/>
+ 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ qu'est ce qu'il se passe 
+<Event desc="keskispas" type="pronounce" extent="previous"/>
+ sur l'image ? /// 
+<Event desc="conv" type="noise" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="282.299"/>
+laisse le texte c'est moi qui l'ai lu d'accord hein ? + 
+<Sync time="285.568"/>
+d'accord Cassandra ? + 
+<Sync time="289.099"/>
+alors qu'est ce que fait S-
+</Turn>
+<Turn speaker="spk1" startTime="290.357" endTime="302.569">
+<Sync time="290.357"/>
+qu'est ce que font Sophie et Jérôme ? 
+<Event desc="un enfant chantonne" type="noise" extent="begin"/>
+
+<Sync time="299.85"/>
+qu'est ce que font Sophie 
+<Sync time="300.88"/>
+et Jérôme ?
+<Sync time="301.499"/>
+
+<Event desc="chantonne" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="302.569" endTime="312.933">
+<Sync time="302.569"/>
+hein Cassandra ? /// 
+<Event desc="b" type="noise" extent="previous"/>
+ 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+<Sync time="308.443"/>
+tu t'en souviens plus ? 
+<Comment desc="un autre enfant parle"/>
+ regarde
+<Sync time="311.153"/>
+ils jouent chut Walid je 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="312.933" endTime="313.655">
+<Sync time="312.933"/>
+<Who nb="1"/>
+vais me fâcher
+<Who nb="2"/>
+ils jouent
+</Turn>
+<Turn speaker="spk2" startTime="313.655" endTime="314.88">
+<Sync time="313.655"/>
+à la course 
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="314.88" endTime="318.032">
+<Sync time="314.88"/>
+ah 
+<Comment desc="longue prononciation"/>
+ bah tu vois ils jouent à la course de pneus
+</Turn>
+<Turn speaker="spk2" startTime="318.032" endTime="320.312">
+<Sync time="318.032"/>
+ils jouent à la course 
+<Event desc="kuR" type="pronounce" extent="previous"/>
+ de pneus
+</Turn>
+<Turn speaker="spk1" startTime="320.312" endTime="327.648">
+<Sync time="320.312"/>
+d'accord + 
+<Event desc="conv" type="noise" extent="previous"/>
+
+<Sync time="326.024"/>
+alors il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ Sophie et Jérôme
+</Turn>
+<Turn speaker="spk2" startTime="327.648" endTime="331.485">
+<Sync time="327.648"/>
+* Sophie ne voyait pas la pierre 
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="331.485" endTime="337.8">
+<Sync time="331.485"/>
+ouais 
+<Comment desc="longue prononciation"/>
+ + 
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="337.8" endTime="338.8">
+<Sync time="337.8"/>
+euh 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="338.8" endTime="341.109">
+<Sync time="338.8"/>
+la * pierre qui est devant son pied
+</Turn>
+<Turn speaker="spk2" startTime="341.109" endTime="345.146">
+<Sync time="341.109"/>
+elle ne voit pas la grosse pierre qui est devant son pied
+</Turn>
+<Turn speaker="spk1" startTime="345.146" endTime="351.838">
+<Sync time="345.146"/>
+ah oui + 
+<Event desc="conv" type="noise" extent="previous"/>
+
+<Sync time="347.685"/>
+elle court plus vite que Jérôme
+<Sync time="349.649"/>
+et elle ne voit pas le gros caillou
+</Turn>
+<Turn speaker="spk2" startTime="351.838" endTime="357.998">
+<Sync time="351.838"/>
+elle court plus vite que Jérôme mais elle ne voit pas le gros caillou qu'elle a devant son pied 
+</Turn>
+<Turn speaker="spk1" startTime="357.998" endTime="363.836">
+<Sync time="357.998"/>
+c'est bien Cassandra + 
+<Event desc="conv" type="noise" extent="previous"/>
+ 
+<Event desc="bb" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="363.836" endTime="368.051">
+<Sync time="363.836"/>
+boum badaboum + 
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="368.051" endTime="372.481">
+<Sync time="368.051"/>
+qu'est ce qu'il 
+<Event desc="kesski" type="pronounce" extent="previous"/>
+ s'est passé ? + 
+<Event desc="conv" type="noise" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="372.481" endTime="382.609">
+<Sync time="372.481"/>
+Sophie 
+<Comment desc="Un autre enfant intervient"/>
+ 
+<Event desc="conv" type="noise" extent="previous"/>
+ Sophie /// 
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="382.609" endTime="383.889">
+<Sync time="382.609"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ tombée par terre ? 
+</Turn>
+<Turn speaker="spk2" startTime="383.889" endTime="385.604">
+<Sync time="383.889"/>
+Sophie est tombée 
+</Turn>
+<Turn speaker="spk1" startTime="385.604" endTime="392.781">
+<Sync time="385.604"/>
+oui 
+<Comment desc="longue prononciation"/>
+ + 
+<Comment desc="conv"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="392.781" endTime="396.951">
+<Sync time="392.781"/>
+Sophie elle montre 
+<Event desc="mo~kR" type="pronounce" extent="previous"/>
+ son gros bobo à Jérôme 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="396.951" endTime="401.203">
+<Sync time="396.951"/>
+ah oui elle voit que son genou saigne un peu + 
+</Turn>
+<Turn speaker="spk2" startTime="401.203" endTime="403.871">
+<Sync time="401.203"/>
+elle voit que son genou saigne un peu 
+</Turn>
+<Turn speaker="spk1" startTime="403.871" endTime="418.275">
+<Sync time="403.871"/>
+mmh mmh + 
+<Event desc="conv" type="noise" extent="previous"/>
+
+<Sync time="408.468"/>
+ah si tu as fini de raconter tu peux tourner la page Cassandra + 
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="418.275" endTime="421.548">
+<Sync time="418.275"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ * ici je vais me faire soigner
+</Turn>
+<Turn speaker="spk1" startTime="421.548" endTime="437.472">
+<Sync time="421.548"/>
+ouais elle dit à Jérôme garde mon pneu je vais me faire soigner /// 
+<Sync time="432.493"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ c'est Madame Lise + 
+</Turn>
+<Turn speaker="spk2" startTime="437.472" endTime="440.342">
+<Sync time="437.472"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ elle met du sirop
+</Turn>
+<Turn speaker="spk1" startTime="440.342" endTime="441.807">
+<Sync time="440.342"/>
+du sirop tu crois ?
+</Turn>
+<Turn speaker="spk2" startTime="441.807" endTime="442.918">
+<Sync time="441.807"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="442.918" endTime="444.786">
+<Sync time="442.918"/>
+oh le sirop c'est pour le boire 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="444.786" endTime="445.631">
+<Sync time="444.786"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="445.631" endTime="447.225">
+<Sync time="445.631"/>
+elle met du produit 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="447.225" endTime="452.269">
+<Sync time="447.225"/>
+elle met du produit un peu de produit sur le coton 
+</Turn>
+<Turn speaker="spk1" startTime="452.269" endTime="460.604">
+<Sync time="452.269"/>
+mmh mmh 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ///
+<Sync time="458.527"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ici qu'est ce qu'elle a Sophie ? 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="460.604" endTime="467.698">
+<Sync time="460.604"/>
+Sophie + elle dit
+<Sync time="464.829"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+ est ce que ça va faire mal ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="conv" type="pronounce" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="467.698" endTime="473.582">
+<Sync time="467.698"/>
+
+<Comment desc="autre enfant qui parle"/>
+
+<Event desc="ch" type="pronounce" extent="begin"/>
+ chut oui j'arrive 
+<Event desc="ch" type="pronounce" extent="end"/>
+ 
+<Comment desc="autre enfant qui parle"/>
+ + 
+<Sync time="472.449"/>
+***
+</Turn>
+<Turn speaker="spk2" startTime="473.582" endTime="480.186">
+<Sync time="473.582"/>
+et 
+<Event desc="b" type="noise" extent="previous"/>
+ euh + Madame + 
+</Turn>
+<Turn speaker="spk1" startTime="480.186" endTime="481.068">
+<Sync time="480.186"/>
+Lise
+</Turn>
+<Turn speaker="spk2" startTime="481.068" endTime="487.307">
+<Sync time="481.068"/>
+Madame Lise + dit non ça ne va pas piquer
+</Turn>
+<Turn speaker="spk1" startTime="487.307" endTime="495.911">
+<Sync time="487.307"/>
+d'accord 
+<Comment desc="longue prononciation"/>
+ + 
+<Event desc="b" type="noise" extent="previous"/>
+ 
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="495.911" endTime="499.016">
+<Sync time="495.911"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ * 
+<Event desc="sonnerie de téléphone" type="noise" extent="instantaneous"/>
+ ça pique pas + 
+</Turn>
+<Turn speaker="spk1" startTime="499.016" endTime="507.88">
+<Sync time="499.016"/>
+ah oui qui est-ce qui dit ça ? + 
+<Event desc="sonnerie de téléphone" type="noise" extent="previous"/>
+
+<Sync time="502.548"/>
+Madame Lise ? ah tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ dû mal à te souvenir
+<Sync time="505.224"/>
+Madame Lise nettoie le genou de Sophie 
+</Turn>
+<Turn speaker="spk2" startTime="507.88" endTime="511.667">
+<Sync time="507.88"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+ Madame Lise nettoie le genou 
+<Event desc="sonnerie de téléphone" type="noise" extent="begin"/>
+ de Sophie 
+<Event desc="sonnerie de téléphone" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="511.667" endTime="514.78">
+<Sync time="511.667"/>
+mmh mmh et le médicament ne pique pas 
+</Turn>
+<Turn speaker="spk2" startTime="514.78" endTime="520.413">
+<Sync time="514.78"/>
+et le médicament ne pique pas + 
+<Comment desc="autre enfant qui parle"/>
+ +
+</Turn>
+<Turn speaker="spk1" startTime="520.413" endTime="532.176">
+<Sync time="520.413"/>
+heu attends Walid deux petites minutes dès qu'on finit je vais te dire ce qu'il 
+<Event desc="skil" type="pronounce" extent="previous"/>
+ faut faire + 
+<Sync time="531.733"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ *
+</Turn>
+<Turn speaker="spk2" startTime="532.176" endTime="541.293">
+<Sync time="532.176"/>
+Madame Lise met un pansement sur un pansement 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ dans sur la jambe de Sophie 
+</Turn>
+<Turn speaker="spk1" startTime="541.293" endTime="548.014">
+<Sync time="541.293"/>
+mmh mmh très bien + 
+</Turn>
+<Turn speaker="spk2" startTime="548.014" endTime="559.775">
+<Sync time="548.014"/>
+
+<Event desc="conv" type="noise" extent="end"/>
+ avant que je refais la course elle baisse sa robe + 
+<Sync time="554.49"/>
+e- elle remonte 
+<Event desc="remOt" type="pronounce" extent="previous"/>
+ sa robe elle montre à + 
+</Turn>
+<Turn speaker="spk1" startTime="559.775" endTime="560.759">
+<Sync time="559.775"/>
+Jérôme
+</Turn>
+<Turn speaker="spk2" startTime="560.759" endTime="563.866">
+<Sync time="560.759"/>
+Jérôme son pansement 
+<Event desc="pe~sma~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="563.866" endTime="564.36">
+<Sync time="563.866"/>
+mmh mmh
+</Turn>
+<Turn speaker="spk2" startTime="564.36" endTime="566.199">
+<Sync time="564.36"/>
+et j'ai même pas eu mal
+</Turn>
+<Turn speaker="spk1" startTime="566.199" endTime="571.846">
+<Sync time="566.199"/>
+ouais et elle dit je n'ai même pas eu mal + 
+<Event desc="b" type="noise" extent="previous"/>
+ 
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="571.846" endTime="573.305">
+<Sync time="571.846"/>
+oh j'ai pas *** 
+<Comment desc="interprétation = fini"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="573.305" endTime="577.847">
+<Sync time="573.305"/>
+ah d'accord d'accord 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ alors tu reviens en arrière si tu n'as pas fini + 
+</Turn>
+<Turn speaker="spk2" startTime="577.847" endTime="584.43">
+<Sync time="577.847"/>
+on va rejouer à la course 
+<Event desc="kuR" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="previous"/>
+ mais on court + plus lentement 
+</Turn>
+<Turn speaker="spk1" startTime="584.43" endTime="587.406">
+<Sync time="584.43"/>
+voilà elle demande à Jérôme de courir moins vite
+</Turn>
+<Turn speaker="spk2" startTime="587.406" endTime="590.066">
+<Sync time="587.406"/>
+et voilà 
+<Comment desc="longue prononciation"/>
+ c'est fini
+</Turn>
+<Turn speaker="spk1" startTime="590.066" endTime="592.932">
+<Sync time="590.066"/>
+ah bah qu'est-ce qu'elle fait Sophie ? Elle a repris son pneu 
+</Turn>
+<Turn speaker="spk2" startTime="592.932" endTime="596.885">
+<Sync time="592.932"/>
+elle a 
+<Event desc="b" type="noise" extent="begin"/>
+ repris son pneu pour refaire la course
+</Turn>
+<Turn speaker="spk1" startTime="596.885" endTime="597.788">
+<Sync time="596.885"/>
+c'est bien 
+<Comment desc="longue prononciation"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="597.788" endTime="598.612">
+<Sync time="597.788"/>
+*** d'écouter
+</Turn>
+<Turn speaker="spk1" startTime="598.612" endTime="600.501">
+<Sync time="598.612"/>
+tu as envie de t'écouter c'est bien Cassandra 
+<Event desc="b" type="noise" extent="end"/>
+
+<Sync time="600.406"/>
+$$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

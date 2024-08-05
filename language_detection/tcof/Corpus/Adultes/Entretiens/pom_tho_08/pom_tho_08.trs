@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="" audio_filename="pom_tho_08.wav" version="8" version_date="131019">
+<Speakers>
+<Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="307.166">
+<Turn startTime="0" endTime="6.527" speaker="spk1">
+<Sync time="0"/>
+bon alors racontez-moi comment se passe une journée euh dans une caserne de pompiers
+</Turn>
+<Turn speaker="spk2" startTime="6.527" endTime="135.355">
+<Sync time="6.527"/>
+alors une journée <Event desc="pause" type="noise" extent="instantaneous"/> dans une caserne de pompiers donc ça ça dépend des casernes moi où je suis c'était à sept heures et demie donc euh la relève de la garde <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Sync time="17.126"/>
+donc euh à sept heures et demie euh tout le monde va dans le hall de départ donc il y a un officier ou un sous-officier qui est le chef de garde donc qui vient voir les sapeurs et dit euh le programme de la journée <Event desc="pause" type="noise" extent="instantaneous"/> donc euh
+<Sync time="32.131"/>
+après ça il y a la vérification de tous les véhicules <Event desc="pause" type="noise" extent="instantaneous"/> donc qui se passe de sept heures et demie à huit heures en général donc euh par exemple euh la vérification euh du V.S.A.B. 
+<Comment desc="sigle = Véhicule de Secours aux Asphyxiés et Blessés"/>
+ donc véhicule de secours et d'assistance euh aux victimes <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="46.254"/>
+il y a la vérification de l'E.P.A. 
+<Event desc="abréviation de Echelle Pivotante automatique" type="lexical" extent="instantaneous"/>
+ donc c'est une échelle pivotante automatique du F.P.T. 
+<Comment desc="sigle = Fourgon Pompe-Tonne"/>
+ fourgon pompe-tonne donc euh tout le matériel de chaque véhicule est sorti <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="56.756"/>
+donc euh il y a une fiche avec l'inventaire de euh combien on doit trouver euh par exemple dans le F.P.T. combien de tuyaux combien de lances combien de dévidoirs euh tout ce qui va bien <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="68.373"/>
+ensuite euh il y a sport donc euh les lundi c'est la piscine <Event desc="pause" type="noise" extent="instantaneous"/> pour ceux qui veulent 
+<Event desc="v@j" type="pronounce" extent="previous"/>
+ ou si certains chefs de garde /les,nous/ obligent <Event desc="pause" type="noise" extent="instantaneous"/> sinon euh il y a le sport co sachant qu'il y a un gymnase euh dans la caserne donc c'est soit foot basket handball <Event desc="pause" type="noise" extent="instantaneous"/> jusque neuf heures 
+<Sync time="89.362"/>
+après de neuf heures à dix heures ben c'est euh la douche et le repos donc euh on peut boire un café euh manger des gâteaux fumer une cigarette <Event desc="pause" type="noise" extent="instantaneous"/> et à dix heures c'est les manoeuvres <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="101.984"/>
+donc euh en général c'est les manoeuvres incendies donc euh le chef de garde il décide euh ce qu'il veut faire comme ça en même temps c'est si jamais il y a certains sapeurs qui doivent euh faire des examens il fait euh <Event desc="pause" type="noise" extent="instantaneous"/> la validation des acquis donc euh à chaque manoeuvre il note et ce qui va pas ça recommence et ainsi de suite <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="124.756"/>
+donc ça c'est pour la matinée en sachant que à n'importe quel moment dans la journée il peut y avoir un départ d'un véhicule pour aller porter secours ou euh <Event desc="pause" type="noise" extent="instantaneous"/> ou pour divers interventions 
+</Turn>
+<Turn speaker="spk1" startTime="135.355" endTime="138.61">
+<Sync time="135.355"/>
+vous pouvez nous raconter comment se passe une intervention
+</Turn>
+<Turn speaker="spk2" startTime="138.61" endTime="307.166">
+<Sync time="138.61"/>
+ouais ben je vais vous raconter une intervention euh de secours à victime donc euh par exemple euh les sapeurs sont en train de faire des activités directes di- diverses donc il y en a qui nettoient les véhicules il y en a qui font euh divers choses 
+<Comment desc="sic"/>
+
+<Sync time="153.467"/>
+et euh d'un seul coup il y a euh une une sonnerie qui retentit <Event desc="pause" type="noise" extent="instantaneous"/> et euh il y a une personne au standard qui dit attention au départ euh V.S.A.V. 
+<Comment desc="sigle = Véhicule de Secours et d'Assistance aux Victimes"/>
+ un donc il dit les personnes à son bord et il dit pour euh <Event desc="pause" type="noise" extent="instantaneous"/> pour quelle euh intervention il part
+<Sync time="169.262"/>
+donc par exemple on va dire euh une intervention euh <Event desc="pause" type="noise" extent="instantaneous"/> intoxication euh médicamenteuse <Event desc="pause" type="noise" extent="instantaneous"/> donc euh il dit le personnel à son bord <Event desc="pause" type="noise" extent="instantaneous"/> donc le personnel a une fiche avec euh l'adresse <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Sync time="182.918"/>
+et le type d'incident donc /il,0/ se rend sur les lieux <Event desc="pause" type="noise" extent="instantaneous"/> avant il confirme euh une fois dans le véhicule euh le départ <Event desc="pause" type="noise" extent="instantaneous"/> donc euh au C.T.A. 
+<Comment desc="sigle = Centre de Traitement de l'Alerte"/>
+ c'est le centre de traitement et d'alerte <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="193.427"/>
+donc ici ça marche comme ça en Meuse <Event desc="pause" type="noise" extent="instantaneous"/> ensuite une fois arrivés sur les lieux euh <Event desc="pause" type="noise" extent="instantaneous"/> ils disent qu'ils sont bien arrivés sur les lieux donc ils prennent le matériel donc il y a le chef d'agrée
+<Sync time="205.643"/>
+donc le qui sera le le responsable de l'intervention <Event desc="pause" type="noise" extent="instantaneous"/> il y aura le conducteur et le servant <Event desc="pause" type="noise" extent="instantaneous"/> donc le servant il va prendre le sac de l'avant donc euh le sac de l'avant c'est il y a tout le matériel de premiers secours il va prendre euh <Event desc="pause" type="noise" extent="instantaneous"/> l'aspirateur à mucosités <Event desc="pause" type="noise" extent="instantaneous"/> et le D.S.A. 
+<Comment desc="sigle = Défibrillateur Semi-Automatique"/>
+ donc il vont se rendre sur les lieux <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="225.306"/>
+et euh porter secours à la personne tout en donnant euh des explications en cas où euh la situation elle évoluerait de la victime <Event desc="pause" type="noise" extent="instantaneous"/> donc euh si jamais il y a besoin il y a le Samu où ils peuvent rappeler du ren- du renfort <Event desc="pause" type="noise" extent="instantaneous"/> selon euh si jamais euh c'est une situation à multiples victimes <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Sync time="244.072"/>
+donc euh la première chose donc c'est la conscience de la victime <Event desc="pause" type="noise" extent="instantaneous"/> donc euh ben tout simplement en lui demandant euh de nous répondre en voyant euh si elle peut nous serrer les mains ou ouvrir les yeux <Event desc="pause" type="noise" extent="instantaneous"/> si elle a des réactions
+<Sync time="256.617"/>
+qu'elle a conscience que il y a il y a du monde autour d'elle <Event desc="pause" type="noise" extent="instantaneous"/> ensuite on vérifie euh les détresses respiratoires les détresses circulatoires donc là on a déjà fait un déjà un un bon bilan et ensuite il y a les différents bilans donc euh ce qui est euh le taux d'oxygène dans le sang <Event desc="pause" type="noise" extent="instantaneous"/> 
+<Sync time="275.101"/>
+euh la ventilation par minute la circulation par minute <Event desc="pause" type="noise" extent="instantaneous"/> et ensuite euh il y a selon les complications de la victime il y aura des moyens mis en place donc par exemple si la victime elle est euh au sol <Event desc="pause" type="noise" extent="instantaneous"/> qu'elle est consciente et qu'elle respire qu'elle a eu un malaise <Event desc="pause" type="noise" extent="instantaneous"/>
+<Sync time="292.784"/>
+eh ben on va utiliser par exemple euh <Event desc="pause" type="noise" extent="instantaneous"/> un un brancard avec un matelas coquille donc un matelas coquille ça va être un matelas où que avec une pompe <Event desc="pause" type="noise" extent="instantaneous"/> qu'on va gonfler qui va mouler le corps de la personne pour éviter qu'elle bouge lors du transport 
+</Turn>
+</Section>
+</Episode>
+</Trans>

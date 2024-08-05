@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="guyot0502" audio_filename="siderurgie_guy_10.wav" version="6" version_date="140422">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" type="female" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="465.308">
+      <Turn startTime="0.0" endTime="9.192" speaker="spk1" mode="spontaneous" fidelity="medium">
+        <Sync time="0.0" />
+        je fais partie de des gens qui ont
+        <Event desc="b" type="noise" extent="previous" />
+        démarré à- +
+        <Sync time="2.969" />
+        bon allez
+        <Event desc="b" type="noise" extent="instantaneous" />
+        on y va école communale
+        <Event desc="r" type="noise" extent="instantaneous" />
+        ///
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" channel="studio" startTime="9.192" endTime="10.419">
+        <Sync time="9.192" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="10.419" endTime="18.054">
+        <Sync time="10.419" />
+        <Event desc="rire" type="noise" extent="previous" />
+        + H.E.C.
+        <Event desc="épelé" type="pronounce" extent="previous" />
+        hautes études communales hein attention hein là j'ai obtenu
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        oh c'est enregistré
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="18.054" endTime="40.011" channel="studio">
+        <Sync time="18.054" />
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        là j'ai obtenu un C.E.P.
+        <Event desc="épelé" type="pronounce" extent="previous" />
+        un certificat d'études primaires
+        <Sync time="21.856" />
+        et ensuite euh ben écoute je me suis dirigé vers euh un apprentissage d'un- d'électricien auto
+        <Comment desc="abréviation d'automobile" />
+        dans un garage
+        <Event desc="r" type="noise" extent="instantaneous" />
+        +
+        <Sync time="32.501" />
+        le garage s'appelait euh ¤S1¤ et là pendant deux ans euh j'ai appris le métier d'électricien auto
+      </Turn>
+      <Turn speaker="spk2" startTime="40.011" endTime="40.73">
+        <Sync time="40.011" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="40.73" endTime="161.765">
+        <Sync time="40.73" />
+        j'ai passé un C.A.P.
+        <Comment desc="certificat d'aptitude professionnelle" />
+        + et obtenu le C.A.P.
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        et ensuite euh voyant que ce métier-là par rapport à d'autres n'était pas +
+        <Sync time="52.735" />
+        euh c'était un bon métier mais question de rentabilité
+        <Sync time="56.215" />
+        euh question de paiement question d'argent euh c'était pas
+        <Event desc="râclement" type="noise" extent="previous" />
+        ça m- j'étais pas satisfait voilà
+        <Sync time="63.027" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        donc euh je me suis dirigé au centre d'apprentissage de l'usine de ¤T1¤ et là j'ai re-préparé un C.A.P. de fondeur en deux ans à nouveau deux ans
+        <Sync time="73.59" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        donc ça m'amène à dix-huit ans ah le C.A.P. en question
+        <Event desc="b" type="noise" extent="instantaneous" />
+        je l'ai obtenu
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        <Sync time="78.612" />
+        + et euh dès dix-huit ans ben je suis rentré en activité au service haut fourneau puisque mon C.A.P. c'était un C.A.P. de fondeur
+        <Event desc="b" type="noise" extent="instantaneous" />
+        d'accord
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Sync time="89.153" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        donc
+        <Event desc="b" type="noise" extent="instantaneous" />
+        dix-huit ans et quelques mois je commence à travailler au haut fourneau
+        <Sync time="93.896" />
+        alors si tu veux que je te donne quand même quelques notions euh comment étaient euh comment les heures
+        <Sync time="99.832" />
+        de travail euh
+        <Event desc="b" type="noise" extent="instantaneous" />
+        on était donc en régime feu continu + feu continu il faut savoir
+        <Sync time="105.765" />
+        que la semaine était de sept jours
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        sept jours multiplié par huit cinquante six heures
+        <Event desc="i" type="noise" extent="instantaneous" />
+        ensuite on avait deux jours de repos +
+        <Sync time="116.927" />
+        euh la première semaine imagine que la première semaine on était de quatre heures à midi
+        <Sync time="121.101" />
+        quatre à douze donc pendant sept jours je travaillais de quatre à douze
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="126.642" />
+        on avait deux jours de repos et on ret- partait pour sept jours
+        <Event desc="tapottement" type="noise" extent="previous" />
+        de douze à vingt +
+        <Sync time="133.643" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        et ensuite on avait à nouveau deux jours de repos et on repartait pour sept jours à nouveau de vingt à quatre
+        <Sync time="141.956" />
+        là seulement on avait trois jours de repos
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        + en fait on était on travaillait sept jours notre semaine était de sept jours
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Sync time="151.573" />
+        mais il faut ramener en calender
+        <Sync time="154.028" />
+        c'est-à-dire que les jours de repos les deux jours de repos que je viens de te parler
+        <Sync time="159.332" />
+        pouvaient se situer dans une semaine
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" startTime="161.765" endTime="162.186">
+        <Sync time="161.765" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="162.186" endTime="237.081">
+        <Sync time="162.186" />
+        ça pouvait se situer le mardi
+        <Event desc="b" type="noise" extent="previous" />
+        ou le mercredi
+        <Event desc="b" type="noise" extent="previous" />
+        ce qui fait que calendèrement
+        <Event desc="b" type="noise" extent="previous" />
+        parlant on était à quarante-huit heures quand même dans la semaine d'accord
+        <Sync time="171.647" />
+        alors que on était parti pour sept jours bien
+        <Sync time="176.723" />
+        donc je démarre euh dix huit ans et quelques mois et je démarre + au service haut fourneau en ce qui me concerne
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        <Sync time="184.897" />
+        et
+        <Event desc="b" type="noise" extent="previous" />
+        de delà ben j'ai démarré euh troisième fondeur +
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Sync time="188.988" />
+        j'ai fait mes classes comme deuxième fond- euh troisième fondeur
+        <Sync time="193.98" />
+        c'est-à-dire que ben les anciens
+        <Sync time="196.252" />
+        euh se servent euh de toi comme mousse
+        <Sync time="199.295" />
+        faut pas avoir peur de balayer par
+        <Event desc="b" type="noise" extent="instantaneous" />
+        là ton C.A.P. ne compte pas
+        <Sync time="203.808" />
+        faut balayer là faut faire ci faut
+        <Event desc="b" type="noise" extent="previous" />
+        <Sync time="207.443" />
+        casser telle chose *** réparer on est le monsieur qui amène le sable aux ouvriers
+        <Event desc="b" type="noise" extent="previous" />
+        on est là pour euh
+        <Sync time="214.724" />
+        hein et puis très vite je deviens deuxième fondeur quand même alors là ça commence à être un peu plus intéressant
+        <Sync time="220.694" />
+        deuxième fondeur et par chance avant de partir au service militaire
+        <Event desc="b" type="noise" extent="previous" />
+        <Sync time="226.884" />
+        je suis
+        <Event desc="b" type="noise" extent="previous" />
+        premier fondeur j'arrive à à la place de premier
+        <Event desc="b" type="noise" extent="previous" />
+        fondeur + bien
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Sync time="235.18" />
+        je peux parler du service militaire &lt; qui
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" startTime="237.081" endTime="237.381">
+        <Sync time="237.081" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="237.381" endTime="239.143">
+        <Sync time="237.381" />
+        interrompt tout ça ça t'intéresse &lt; aussi
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" startTime="239.143" endTime="240.712">
+        <Sync time="239.143" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" channel="studio" startTime="240.712" endTime="379.309">
+        <Sync time="240.712" />
+        service militaire bien sûr
+        <Event desc="b" type="noise" extent="previous" />
+        je suis convoqué un jour là
+        <Event desc="b" type="noise" extent="instantaneous" />
+        enfin je - je vois en rentrant
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Sync time="245.564" />
+        j'étais de quatre heures à midi et je vois t- au loin
+        <Event desc="b" type="noise" extent="previous" />
+        ma mère avec euh un groupe de personnes là
+        <Sync time="250.224" />
+        qui étaient dans la grand rue là euh je dis tiens qu'est-ce qui se passe je rentrais en vélo
+        <Sync time="254.203" />
+        <Event desc="bb" type="noise" extent="previous" />
+        + je dis tiens il y a eu un accident et total euh non euh ben ma mère venait
+        <Sync time="259.186" />
+        de- mes parents venaient de recevoir le carton comme quoi
+        <Event desc="b" type="noise" extent="previous" />
+        j'étais convoqué tout de suite en Algérie
+        <Sync time="264.135" />
+        <Event desc="i" type="noise" extent="previous" />
+        donc voilà
+        <Event desc="b" type="noise" extent="previous" />
+        euh le quartier était en ébullition le ¤P1¤ s'en va en Algérie enfin bon voilà
+        <Event desc="r" type="noise" extent="instantaneous" />
+        <Sync time="271.889" />
+        et effectivement ben là
+        <Event desc="b" type="noise" extent="instantaneous" />
+        il y a une interruption
+        <Event desc="b" type="noise" extent="instantaneous" />
+        de vingt euh quatre même plus vingt cinq mois
+        <Sync time="280.675" />
+        dans mon métier de de m-
+        <Event desc="bg" type="noise" extent="previous" />
+        de métallo enfin de de s- de fondeur
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        +
+        <Sync time="287.059" />
+        je reviens du service militaire
+        <Sync time="289.146" />
+        que j'ai donc effectué tout en Algérie je reviens en- du
+        <Sync time="294.408" />
+        au service je reviens du service militaire et à nouveau je redémarre
+        <Sync time="299.61" />
+        comme troisième fondeur on redémarre euh hein c'était
+        <Event desc="rire" type="noise" extent="next" />
+        c'était la logique du moment hein t- tu avais beau avoir le C.A.P. en poche euh
+        <Sync time="309.56" />
+        bon il fallait manger
+        <Sync time="313.12" />
+        son sac de sel hein puisque tu veux des termes
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        les anciens ils disaient mange ton sac de sel on verra après bien bon
+        <Sync time="321.899" />
+        donc il faut attendre alors à nouveau les courses à nouveau euh préparer les chantiers apporter du sable apporter ci
+        <Sync time="328.858" />
+        va me chercher du bois parce que la coulée faut vite chauffer tout ça pour que tout soit sec
+        <Sync time="333.591" />
+        pour la coulée enfin bon je suis l'homme à tout faire
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        ça dure un petit moment et boum je redeviens deuxième fondeur à nouveau
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        <Sync time="342.712" />
+        très vite je quitte la place de deuxième fondeur et je deviens premier fondeur
+        <Sync time="347.817" />
+        tout ça pour quoi bah parce que il y a des gens qui partaient en retraite et euh fallait attendre son tour
+        <Sync time="353.47" />
+        et là euh on devient premier fondeur là je suis resté premier fondeur euh quatre cinq ans
+        <Sync time="360.182" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        et ensuite euh j'ai demandé à mon patron
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        <Sync time="365.163" />
+        la permission d'aller aux cours du soir
+        <Sync time="368.073" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        ce qui était quand même assez difficile d'aller aux cours du soir au moment-là
+        <Event desc="r" type="noise" extent="instantaneous" />
+        parce que naturellement les cours du soir se faisaient à partir de dix sept heures jusque vingt heures
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" channel="studio" startTime="379.309" endTime="379.848">
+        <Sync time="379.309" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" channel="studio" startTime="379.848" endTime="438.495">
+        <Sync time="379.848" />
+        et avec les tournées que je t'ai expliqué tout à l'heure
+        <Sync time="382.803" />
+        euh c'était pas trop facile mais bon tout le monde a joué le jeu les contremaîtres qui étaient
+        <Sync time="388.144" />
+        les ch- les contremaîtres euh ne ne ne f- mettaient un homme a- pendant que je partais
+        <Sync time="393.693" />
+        à ma place et euh ainsi de suite donc on y arrivait et en deux ans de temps
+        <Sync time="399.715" />
+        + je passe le brevet professionnel bon je sais plus quelle équivalence que ça a avec maintenant
+        <Event desc="bg" type="noise" extent="instantaneous" />
+        je sais plus quel équivalent
+        <Sync time="407.919" />
+        mais enfin bon j'ai l- le brevet professionnel pourquoi que je cherchais le brevet pros- professionnel
+        <Sync time="413.627" />
+        ben parce que je désirais avoir des des responsabilités moi je suis quelqu'un qui aime bien
+        <Sync time="419.29" />
+        avoir des responsabilités donc euh j'ai formulé la demande et au bout de deux ans j'ai obtenu
+        <Event desc="b" type="noise" extent="previous" />
+        ce sacré
+        <Event desc="b" type="noise" extent="previous" />
+        brevet professionnel
+        <Sync time="428.4" />
+        donc j'étais armé pour la suite quoi en gros
+        <Event desc="claquement" type="noise" extent="instantaneous" />
+        hein +
+        <Sync time="432.354" />
+        malgré que j'obtiens le brevet professionnel je deviens un ouvrier professionnel numéro trois
+      </Turn>
+      <Turn speaker="spk2" mode="spontaneous" fidelity="medium" startTime="438.495" endTime="438.884">
+        <Sync time="438.495" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" mode="spontaneous" fidelity="medium" startTime="438.884" endTime="465.308">
+        <Sync time="438.884" />
+        mais bon est-ce que ça parle toujours ça je ne sais pas
+        <Sync time="441.72" />
+        + ben c'était une classification dans dans les ouvriers y avait l'O.S.
+        <Sync time="446.79" />
+        l'ouvrier spécialisé O.S. un deux et ensuite tu avais l'O.P.
+        <Sync time="452.501" />
+        l'ouvrier professionnel le un le deux et le trois donc avec ce brevet professionnel je deviens + profe- ouvrier professionnel trois donc au maxi
+        <Event desc="b" type="noise" extent="instantaneous" />
+        +
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

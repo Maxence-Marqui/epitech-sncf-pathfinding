@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Joris" audio_filename="mrjc_lau_09.wav" version="6" version_date="140422">
+  <Speakers>
+    <Speaker id="spk1" name="L2" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L1" check="no" type="male" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" type="female" dialect="native" accent="" scope="local" />
+    <Speaker id="spk4" name="L4" check="no" type="male" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="610.891">
+      <Turn speaker="spk2" startTime="0.0" endTime="1.203">
+        <Sync time="0.0" />
+        <Event desc="conversation en fond" type="noise" extent="begin" />
+        O.K.
+      </Turn>
+      <Turn speaker="spk1" startTime="1.203" endTime="3.266">
+        <Sync time="1.203" />
+        quand même pas mal de choses déjà voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="3.266" endTime="11.172">
+        <Sync time="3.266" />
+        moi je veux je veux qu'on relise la liste des projets qu'on a
+        <Sync time="5.828" />
+        et on dit ceux qui sont déjà sûrs intéressants de garder
+        <Sync time="9.36" />
+        pour faire une thématique de &lt; jeux
+      </Turn>
+      <Turn speaker="spk1" startTime="11.172" endTime="11.328">
+        <Sync time="11.172" />
+        hum &gt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="11.328" endTime="11.798">
+        <Sync time="11.328" />
+        on verra ce qu'on fait
+      </Turn>
+      <Turn speaker="spk1" startTime="11.798" endTime="12.984">
+        <Sync time="11.798" />
+        le tout premier la pé-
+      </Turn>
+      <Turn speaker="spk2" startTime="12.984" endTime="14.173">
+        <Sync time="12.984" />
+        projet de vie &lt; projet professionnel projet universitaire
+      </Turn>
+      <Turn speaker="spk1" startTime="14.173" endTime="15.238">
+        <Sync time="14.173" />
+        projet professionnel ça c'est clair &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="15.238" endTime="17.222">
+        <Sync time="15.238" />
+        on le garde +
+      </Turn>
+      <Turn speaker="spk3" startTime="17.222" endTime="17.734">
+        <Sync time="17.222" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="17.734" endTime="21.421">
+        <Sync time="17.734" />
+        théatre écologie environnement +
+        <Sync time="20.718" />
+        je pense que oui
+      </Turn>
+      <Turn speaker="spk3" startTime="21.421" endTime="21.906">
+        <Sync time="21.421" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="21.906" endTime="22.358">
+        <Sync time="21.906" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="22.358" endTime="26.733">
+        <Sync time="22.358" />
+        je veux dire ça c'est clair
+        <Sync time="24.39" />
+        ¤T1¤ à mon avis il faut les associer sur autre chose
+      </Turn>
+      <Turn speaker="spk1" startTime="26.733" endTime="26.968">
+        <Sync time="26.733" />
+        euh
+      </Turn>
+      <Turn speaker="spk2" startTime="26.968" endTime="27.28">
+        <Sync time="26.968" />
+        c'est pas &lt; en *
+      </Turn>
+      <Turn speaker="spk1" startTime="27.28" endTime="30.343">
+        <Sync time="27.28" />
+        je pense &gt; que les équipes qu'on a en points d'interrogation il faut qu'on les garde de côté
+      </Turn>
+      <Turn speaker="spk2" startTime="30.343" endTime="30.701">
+        <Sync time="30.343" />
+        &lt; voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="30.701" endTime="33.031">
+        <Sync time="30.701" />
+        et &gt; sans rien pour l'instant leur demander
+      </Turn>
+      <Turn speaker="spk2" startTime="33.031" endTime="34.623">
+        <Sync time="33.031" />
+        ¤T2¤ journal journaliste photo
+      </Turn>
+      <Turn speaker="spk1" startTime="34.623" endTime="35.125">
+        <Sync time="34.623" />
+        c'est bon
+      </Turn>
+      <Turn speaker="spk2" startTime="35.125" endTime="53.579">
+        <Sync time="35.125" />
+        on est d'accord et
+        <Sync time="36.093" />
+        on sait ce qu'ils font +
+        <Sync time="37.62" />
+        ¤T3¤ transformation sociale
+        <Sync time="39.516" />
+        c'était euh l'équipe de ¤T3¤ ce qu'ils ont fait l'année dernière
+        <Sync time="42.234" />
+        moi je pense que eux il y a quelque chose mais il faut savoir euh il faut il faut euh
+        <Sync time="46.422" />
+        pareil pour projet camp B.D.
+        <Comment desc="sigle=Bande Dessinée" />
+        <Sync time="48.141" />
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+        rappelle-moi pour le euh le camp B.D. c'était ce que ce qu'ils racontaient dedans c'était
+        <Sync time="52.438" />
+        sur euh &lt; l'environnement
+      </Turn>
+      <Turn speaker="spk4" startTime="53.579" endTime="62.657">
+        <Sync time="53.579" />
+        ben euh &gt; il y a /de,deux/ ouais l'environnement en gros tout ça
+        <Sync time="55.532" />
+        bon après euh
+        <Sync time="56.439" />
+        c'est qu'il y a plusieurs plans je crois qu'il y a plusieurs thèmes euh en gros aussi /qui tiennent de,***/ l'environnement développement durable ///
+      </Turn>
+      <Turn speaker="spk2" startTime="62.657" endTime="66.142">
+        <Sync time="62.657" />
+        <Event desc="conversation en fond" type="noise" extent="instantaneous" />
+        ça a un un côté transformation sociale aussi
+      </Turn>
+      <Turn speaker="spk4" startTime="66.142" endTime="66.298">
+        <Sync time="66.142" />
+        &lt; hum
+      </Turn>
+      <Turn speaker="spk2" startTime="66.298" endTime="74.735">
+        <Sync time="66.298" />
+        je &gt; veux dire c'est euh + c'est dans une volonté de faire avancer les choses enfin de à mon avis ça nous rejoint
+        <Sync time="72.407" />
+        et Burkina tourisme solidaire
+      </Turn>
+      <Turn speaker="spk1" startTime="74.735" endTime="76.923">
+        <Sync time="74.735" />
+        ouai mais ça ça peut ça * enfin
+      </Turn>
+      <Turn speaker="spk2" startTime="76.923" endTime="107.797">
+        <Sync time="76.923" />
+        voilà ça ///
+        <Comment desc="prise de notes" />
+        <Sync time="88.875" />
+        <Event desc="inspiration profonde" type="noise" extent="instantaneous" />
+        alors pour vous comment on peut amener le côté projet de vie projet professionnel +
+        <Sync time="94.736" />
+        et euh + qu'est-ce qu'on fait derrière ça +
+        <Sync time="98.813" />
+        <Event desc="il pose un gobelet" type="noise" extent="instantaneous" />
+        il faut se rappeller hein le contexte projet de vie projet professionnel projet de territoire c'est + euh euh
+        <Sync time="104.252" />
+        réfléchir autour de l'emploi dans une optique d'installation de jeunes en milieu rural
+        <Event desc="bruit indéterminé" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="107.797" endTime="142.328">
+        <Sync time="107.797" />
+        je pense qu'il enfin qu'il faut qu'on montre ce qu'on a déjà travaillé dessus en fait
+        <Sync time="112.265" />
+        déjà il faut qu'on montre que
+        <Sync time="113.922" />
+        on (n') est pas juste on (n') a on (n') a pas sorti ce thème de notre euh de notre poche pour le fun
+        <Event desc="en" type="language" extent="previous" />
+        tu vois
+        <Sync time="118.39" />
+        qu'on a déjà travaillé dessus pourquoi on l'a pourquoi on l'a sorti pourquoi on a travaillé dessus aussi
+        <Sync time="122.813" />
+        + montrer comment on a travaillé dessus et pourquoi on a travaillé dessus
+        <Event desc="inspiration" type="noise" extent="instantaneous" />
+        ///
+        <Comment desc="prise de notes" />
+        <Sync time="133.813" />
+        <Event desc="inspiration profonde" type="noise" extent="instantaneous" />
+        et euh hum et les suites puisque on va on aura encore travaillé dessus d'ici là +
+      </Turn>
+      <Turn speaker="spk2" startTime="142.328" endTime="147.109">
+        <Sync time="142.328" />
+        alors ben je pense que tu as dit les bonnes les bonnes choses
+        <Sync time="144.766" />
+        comment /on fait ça,***/
+      </Turn>
+      <Turn speaker="spk1" startTime="147.109" endTime="147.656">
+        <Sync time="147.109" />
+        /comment,c'est bon/
+      </Turn>
+      <Turn speaker="spk2" startTime="147.656" endTime="152.594">
+        <Sync time="147.656" />
+        comment on le montre + ce qu'on a fait là comment on le retrace +
+      </Turn>
+      <Turn speaker="spk1" startTime="152.594" endTime="152.969">
+        <Sync time="152.594" />
+        &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="152.969" endTime="154.031">
+        <Sync time="152.969" />
+        et et &gt; dans le but de faire quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="154.031" endTime="179.53">
+        <Sync time="154.031" />
+        dans le but c'est de enfin c'est euh et euh
+        <Sync time="156.234" />
+        attends parce que du coup euh il y aura encore après derrière à
+        <Sync time="159.234" />
+        aller à l'application concrète parce que du coup euh
+        <Sync time="162.656" />
+        nous ce qu'on a fait dessus et pourquoi on a travaillé c'est ce qu'on a fait l'année dernière euh à ¤T4¤ +
+        <Sync time="167.921" />
+        les suites c'est ce qu'on va faire cette euh c'est ce qu'on va faire cette année
+        <Sync time="171.452" />
+        euh puisque c'est encore pas fait mais ça va être fait
+        <Sync time="174.764" />
+        et il y aura aussi des enfin plus
+        <Event desc="ply" type="pronounce" extent="previous" />
+        du concret avec des visites d'expériences du coup
+      </Turn>
+      <Turn speaker="spk4" startTime="179.53" endTime="184.795">
+        <Sync time="179.53" />
+        est-ce qu'on fait intervenir les gens sur la réflexion qu'on a eu
+        <Sync time="182.17" />
+        est-ce que euh il y aura on écrit une part où
+      </Turn>
+      <Turn speaker="spk2" startTime="184.795" endTime="209.358">
+        <Sync time="184.795" />
+        je sais pas justement on est là pour savoir euh
+        <Sync time="188.029" />
+        effectivement on veut parler et on veut montrer
+        <Sync time="190.67" />
+        qu'on a travaillé sur le projet de vie projet professionnel et territoire
+        <Sync time="193.592" />
+        comment on va (le) travailler et qu'est-ce qu'on va faire
+        <Sync time="196.514" />
+        on veut le le montrer pour moi l'idée c'est effectivement de montrer les choses sur lesquelles on travaille et après de rejoindre
+        <Sync time="202.686" />
+        donc euh c'est là le la passerelle par rapport à d'autres personnes qui ont travaillé au M.R.J.C
+        <Comment desc="sigle=Mouvement Rural de la Jeunesse Chrétienne" />
+        avant
+        <Sync time="207.045" />
+        comment eux ils ont abordé ça autour de projets
+      </Turn>
+      <Turn speaker="spk3" startTime="209.358" endTime="209.967">
+        <Sync time="209.358" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="209.967" endTime="211.562">
+        <Sync time="209.967" />
+        c'est peut-être là où il y a un problème de débat &lt; enfin je sais pas
+      </Turn>
+      <Turn speaker="spk1" startTime="211.562" endTime="212.498">
+        <Sync time="211.562" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="212.498" endTime="216.92">
+        <Sync time="212.498" />
+        mais comment on ex- comment on montre ça euh c'est ça c'est &lt; euh est-ce qu'on
+      </Turn>
+      <Turn speaker="spk1" startTime="216.92" endTime="219.326">
+        <Sync time="216.92" />
+        hum quel /maillon,moyen/ on peut faire &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="219.326" endTime="235.029">
+        <Sync time="219.326" />
+        comment on explique notre réflexion est-ce que c'est c'est on commence par voilà euh
+        <Sync time="223.794" />
+        c'est peut-être là où ça c'est le débat qu'on veut avoir et que qu'on on se retrouve
+        <Sync time="229.029" />
+        en
+        <Event desc="rire en fond" type="noise" extent="next" />
+        un point euh où on explique la toute la réflexion tu vois c'est peut-être le le le l'endroit cérébral quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="235.029" endTime="235.7">
+        <Sync time="235.029" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="235.7" endTime="246.387">
+        <Sync time="235.7" />
+        /pour moi,bon voilà/ et depuis quelques années on s'interroge là-dessus et c'est peut-être le truc prise de tête entre guillements
+        <Sync time="241.06" />
+        et euh il y a un moment donné il faut aussi montrer qu'on travaille sur des trucs où euh
+        <Sync time="244.168" />
+        que d'autres jeunes d'ailleurs ne se posent jamais la question
+      </Turn>
+      <Turn speaker="spk1" startTime="246.387" endTime="246.7">
+        <Sync time="246.387" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="246.7" endTime="259.044">
+        <Sync time="246.7" />
+        et là ben voilà bon je sais pas est-ce que c'est trop cérébral cette prise de tête
+        <Sync time="251.231" />
+        est-ce que faut que ça soit plus euh
+        <Sync time="254.919" />
+        je sais pas il faut qu'on ait une idée derrière ce truc-là
+        <Sync time="258.154" />
+        comment on amène le débat &lt; et derrière
+      </Turn>
+      <Turn speaker="spk1" startTime="259.044" endTime="260.372">
+        <Sync time="259.044" />
+        je oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="260.372" endTime="265.31">
+        <Sync time="260.372" />
+        est-ce qu'on ça se ça se poursuit par un truc un peu plus cool visite(s) d'expérience(s)
+      </Turn>
+      <Turn speaker="spk1" startTime="265.31" endTime="316.544">
+        <Sync time="265.31" />
+        hum moi je vais dans dans l'autre sens en fait
+        <Sync time="267.466" />
+        du coup de partir plutôt des visites d'expériences par exemple
+        <Event desc="toux en fond" type="noise" extent="previous" />
+        <Sync time="270.903" />
+        à l'intérieur pardon on on fixe un horaire précis par exemple pour ce truc pour les dix projets professionnels
+        <Sync time="276.216" />
+        les personnes qui sont là on divise en un deux trois groupes je sais pas
+        <Sync time="279.591" />
+        qui vont voir chaque groupe différent vont avoir une visite justement différente
+        <Sync time="283.576" />
+        et puis
+        <Event desc="bruit indéterminé" type="noise" extent="instantaneous" />
+        qu'est-ce qu'ils ont vu entendu et nous on explique nos réflexions dessus
+        <Sync time="287.295" />
+        quand =t= euh tout le monde se regroupe
+        <Sync time="288.279" />
+        et ça te permet donc du coup euh débattre sur ce qu'on a vu comment on l'a vu euh
+        <Sync time="293.014" />
+        et sur ce que par rapport à nous on fait euh comment on le fait
+        <Sync time="296.561" />
+        est-ce que ça correspond à ce qui a été fait euh je sais pas par les gens euh
+        <Sync time="300.436" />
+        comment est-ce que euh est-ce que
+        <Sync time="302.342" />
+        et puis on peut inviter aussi des gens à à venir déba- enfin ceux chez qui on est allé visiter
+        <Sync time="306.357" />
+        à venir débattre avec nous justement pour euh voir nos rapports nous avec eux et eux euh
+        <Sync time="312.482" />
+        et euh de sur quoi ils se démarquent ou pas enfin des choses comme ça
+      </Turn>
+      <Turn speaker="spk2" startTime="316.544" endTime="316.779">
+        <Sync time="316.544" />
+        qu'est- &lt; ce que vous en dites
+      </Turn>
+      <Turn speaker="spk4" startTime="316.779" endTime="317.388">
+        <Sync time="316.779" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="317.388" endTime="318.779">
+        <Sync time="317.388" />
+        bah ben moi je préfére du &lt; sens-là en fait
+      </Turn>
+      <Turn speaker="spk4" startTime="318.779" endTime="319.373">
+        <Sync time="318.779" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="319.373" endTime="323.904">
+        <Sync time="319.373" />
+        parce que + enfin ouais + enfin les gens ils se sentiront peut-être plus intéressés
+        <Event desc="e~tERse" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk4" startTime="323.904" endTime="324.264">
+        <Sync time="323.904" />
+        ben ils
+      </Turn>
+      <Turn speaker="spk3" startTime="324.264" endTime="326.576">
+        <Sync time="324.264" />
+        de savoir enfin ils savent de quoi on parle enfin
+      </Turn>
+      <Turn speaker="spk4" startTime="326.576" endTime="327.811">
+        <Sync time="326.576" />
+        * ils auraient une base &lt; en quelque sorte
+      </Turn>
+      <Turn speaker="spk3" startTime="327.811" endTime="328.669">
+        <Sync time="327.811" />
+        ouais voilà &gt;
+      </Turn>
+      <Turn speaker="spk4" startTime="328.669" endTime="334.31">
+        <Sync time="328.669" />
+        de par exemple quand ils visitent quelque chose où qu'ils vont euh en atelier(s) je sais pas * autre &lt; mais
+      </Turn>
+      <Turn speaker="spk1" startTime="334.31" endTime="334.544">
+        <Sync time="334.31" />
+        ouais ouais &gt; moi je &lt; *
+      </Turn>
+      <Turn speaker="spk2" startTime="334.544" endTime="336.841">
+        <Sync time="334.544" />
+        moi je sais &gt; pas du tout si ça va être euh c'est oui oui
+      </Turn>
+      <Turn speaker="spk4" startTime="336.841" endTime="338.122">
+        <Sync time="336.841" />
+        enfin bref ils auraient une base de pour
+      </Turn>
+      <Turn speaker="spk3" startTime="338.122" endTime="338.34">
+        <Sync time="338.122" />
+        hum
+      </Turn>
+      <Turn speaker="spk4" startTime="338.34" endTime="341.028">
+        <Sync time="338.34" />
+        pour les débats ils auraient euh
+        <Event desc="bruit de fond indéterminé" type="noise" extent="instantaneous" />
+        un fond quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="341.028" endTime="341.48">
+        <Sync time="341.028" />
+        hum
+      </Turn>
+      <Turn speaker="spk4" startTime="341.48" endTime="346.356">
+        <Sync time="341.48" />
+        ils comprendraient peut-être plus facilement + quelque chose qu'ils ont abordé ou
+      </Turn>
+      <Turn speaker="spk2" startTime="346.356" endTime="346.589">
+        <Sync time="346.356" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk4" startTime="346.589" endTime="358.639">
+        <Sync time="346.589" />
+        et après par rapport à ça ouais comme tu disais euh faire intervenir les anciens et
+        <Sync time="350.31" />
+        et eux comment euh il y a soix- cinquante ans comment ils voyaient la chose
+        <Sync time="353.592" />
+        est-ce qu'ils
+        <Event desc="rires en fond plus fort que L4" type="noise" extent="next" />
+        enfin *** comme tu disais ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="358.639" endTime="388.234">
+        <Sync time="358.639" />
+        donc on commence
+        <Sync time="359.92" />
+        ah moi je crois que c'est une bonne idée + ce truc
+        <Sync time="362.826" />
+        on commence par visite(s) point surveillance
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        visite(s) d'expérience(s)
+        <Sync time="368.061" />
+        c'est un peu l'introduction à ça quoi +
+        <Sync time="370.765" />
+        voir le truc euh donc il faut que ce soit quelqu'un qui /ait,est/ qui soit enfin dans cette euh réflexion de voilà projet de vie projet professionnel projet de territoire
+        <Sync time="380.109" />
+        pourquoi il est venu s'installer ici et dans quel sens +
+        <Sync time="383.281" />
+        et il y en a plusieurs possibles hein
+        <Sync time="385.812" />
+        je pense qu'il faut je pense qu'on peut pas les multiplier
+      </Turn>
+      <Turn speaker="spk1" startTime="388.234" endTime="389.156">
+        <Sync time="388.234" />
+        oui oui non mais oui c'est
+      </Turn>
+      <Turn speaker="spk2" startTime="389.156" endTime="395.656">
+        <Sync time="389.156" />
+        parce qu'il faut que ce soit un truc qu'on liste un truc et que ce soit l'introduction à /bon,*/ euh
+        <Sync time="394.203" />
+        alors peut-être après pendant la journée
+      </Turn>
+      <Turn speaker="spk1" startTime="395.656" endTime="396.125">
+        <Sync time="395.656" />
+        moi j'aimais bien &lt; j'aimais bien le
+      </Turn>
+      <Turn speaker="spk2" startTime="396.125" endTime="399.609">
+        <Sync time="396.125" />
+        il y a d'autres choses &gt; visitables mais qui qui ne font pas partie du débat
+      </Turn>
+      <Turn speaker="spk1" startTime="399.609" endTime="406.452">
+        <Sync time="399.609" />
+        moi j'aimais bien l'idée de confronter justement les différentes manières de
+        <Sync time="402.968" />
+        de s'insérer dans la vie active * c'est ça qui &lt; me
+      </Turn>
+      <Turn speaker="spk3" startTime="406.452" endTime="409.217">
+        <Sync time="406.452" />
+        mais &gt; peut-être que si on en fait plusieurs ça sera pas assez approfondi
+      </Turn>
+      <Turn speaker="spk1" startTime="409.217" endTime="412.014">
+        <Sync time="409.217" />
+        ouais c'est vrai c'est pas faux mais euh
+      </Turn>
+      <Turn speaker="spk3" startTime="412.014" endTime="414.639">
+        <Sync time="412.014" />
+        après c'est vrai que d'avoir différents points de vue ça peut être intéressant
+      </Turn>
+      <Turn speaker="spk1" startTime="414.639" endTime="416.686">
+        <Sync time="414.639" />
+        c'est ça c'est c'est là où je voyais le
+      </Turn>
+      <Turn speaker="spk2" startTime="416.686" endTime="418.701">
+        <Sync time="416.686" />
+        mais gens ils peuvent être là
+        <Sync time="417.889" />
+        ils peuvent &lt; être à une visite d'expérience
+      </Turn>
+      <Turn speaker="spk1" startTime="418.701" endTime="420.201">
+        <Sync time="418.701" />
+        oui ah oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="420.201" endTime="421.732">
+        <Sync time="420.201" />
+        et qu'il y ait d'autres per- d'autres personnes &lt; qui sont là
+      </Turn>
+      <Turn speaker="spk1" startTime="421.732" endTime="422.717">
+        <Sync time="421.732" />
+        comme ça ils peuvent en parler &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="422.717" endTime="423.029">
+        <Sync time="422.717" />
+        voilà &lt; euh
+      </Turn>
+      <Turn speaker="spk1" startTime="423.029" endTime="423.217">
+        <Sync time="423.029" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="423.217" endTime="427.592">
+        <Sync time="423.217" />
+        nous dans le village on a fait ça /et,on est/ là-bas
+        <Sync time="425.264" />
+        vous aurez l'occasion de venir voir parce que c'est une &lt; c'est une étape
+      </Turn>
+      <Turn speaker="spk1" startTime="427.592" endTime="429.217">
+        <Sync time="427.592" />
+        si vous voulez euh &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="429.217" endTime="434.889">
+        <Sync time="429.217" />
+        qu'on a organisée au pour les quatre-vingts ans
+        <Sync time="431.404" />
+        mais ça fait pas partie là on va pas tout *** si on se tape tout le village &lt; à visiter euh
+      </Turn>
+      <Turn speaker="spk3" startTime="434.889" endTime="438.717">
+        <Sync time="434.889" />
+        oui ben oui &gt;
+        <Event desc="murmures" type="noise" extent="instantaneous" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        +
+      </Turn>
+      <Turn speaker="spk2" startTime="438.717" endTime="452.358">
+        <Sync time="438.717" />
+        on peut à c- à c- à ce moment-là
+        <Sync time="441.139" />
+        partir d'une visite d'expérience et inviter des gens qui ont une expérience qu'ils soient euh plus âgés
+        <Sync time="446.827" />
+        un autre plus jeune euh d'insertion professionnelle sur un territoire
+        <Sync time="451.045" />
+        et euh voilà c'est le point de débat &lt; qui est donné
+      </Turn>
+      <Turn speaker="spk1" startTime="452.358" endTime="453.67">
+        <Sync time="452.358" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="453.67" endTime="453.968">
+        <Sync time="453.67" />
+        on peut faire ça
+      </Turn>
+      <Turn speaker="spk1" startTime="453.968" endTime="454.405">
+        <Sync time="453.968" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="454.405" endTime="458.422">
+        <Sync time="454.405" />
+        O.K. on met inviter euh +
+      </Turn>
+      <Turn speaker="spk1" startTime="458.422" endTime="460.03">
+        <Sync time="458.422" />
+        les différents acteurs et puis &lt; et puis même
+      </Turn>
+      <Turn speaker="spk2" startTime="460.03" endTime="461.203">
+        <Sync time="460.03" />
+        les différents acteurs euh &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="461.203" endTime="499.328">
+        <Sync time="461.203" />
+        dont les gens que nous on aura invités euh à au quatre-vingts ans il y aura sûrement aussi des personnes qui sont dans ce cas-là
+        <Sync time="467.062" />
+        qui ne des jeunes qui viennent de s'insérer dans la vie professionnelle ou des trucs comme ça
+        <Sync time="470.468" />
+        ou même des plus anciens qui euh on fait un un qui ont un parcours similaire ou des trucs comme ça
+        <Sync time="475.156" />
+        <Event desc="râclement de gorge" type="noise" extent="instantaneous" />
+        du coup on aurait de en plus d'autres réactions
+        <Event desc="toux" type="noise" extent="instantaneous" />
+        <Sync time="478.218" />
+        que la majorit- enfin +
+        <Event desc="bruit de bouche" type="noise" extent="instantaneous" />
+        il faut pas non plus se leurrer je pense que la majorité des personnes
+        <Sync time="481.937" />
+        enfin j'espère pas mais qui vont venir ce sera soit des jeunes euh
+        <Sync time="486.484" />
+        qui ont entre treize et seize dix-sept ans ou des plus enfin des personnes de votre âge + voire plus vieux
+        <Sync time="495.531" />
+        qui ont qui sont euh parents euh qui sont parents quoi donc euh
+      </Turn>
+      <Turn speaker="spk2" startTime="499.328" endTime="502.14">
+        <Sync time="499.328" />
+        de d'autres personnes qui vont faire quoi
+        <Sync time="501.296" />
+        qui vont venir à ce &lt; à cette journée
+      </Turn>
+      <Turn speaker="spk1" startTime="502.14" endTime="503.343">
+        <Sync time="502.14" />
+        oui qui vont venir à cette journée
+      </Turn>
+      <Turn speaker="spk2" startTime="503.343" endTime="504.89">
+        <Sync time="503.343" />
+        moi je pense que ***
+      </Turn>
+      <Turn speaker="spk1" startTime="504.89" endTime="507.389">
+        <Sync time="504.89" />
+        enfin oui il y aura beaucoup de type de personnes différentes mais justement c'est &lt; l'int-
+      </Turn>
+      <Turn speaker="spk2" startTime="507.389" endTime="512.748">
+        <Sync time="507.389" />
+        des mecs de la J.A.C.
+        <Comment desc="sigle=Jeunes Agriculteurs Catholiques" />
+        qui sont vachement intéressés par euh ce que c'est devenu
+        <Sync time="510.328" />
+        donc tu auras des vieux de soixante-dix ans qui seront là ce sera
+      </Turn>
+      <Turn speaker="spk1" startTime="512.748" endTime="515.703">
+        <Sync time="512.748" />
+        et en et en plus on aura des gens commme ça effectivement mais euh ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="515.703" endTime="517.592">
+        <Sync time="515.703" />
+        il y aura pas beaucoup d'ados à mon avis &lt; enfin
+      </Turn>
+      <Turn speaker="spk4" startTime="517.592" endTime="521.891">
+        <Sync time="517.592" />
+        je &gt; pense que ouais le + public ado
+        <Event desc="apocope d'adolescent" type="lexical" extent="previous" />
+        je sais pas s'il sera beaucoup présent euh
+      </Turn>
+      <Turn speaker="spk2" startTime="521.891" endTime="527.859">
+        <Sync time="521.891" />
+        ça dépend ça si le le l'* de de ¤T3¤ euh est vachement branché tout de suite
+        <Sync time="526.842" />
+        parce que il y a plein de jeunes hein
+      </Turn>
+      <Turn speaker="spk3" startTime="527.859" endTime="529.623">
+        <Sync time="527.859" />
+        ben ¤T3¤ oui il y a plein de jeunes
+      </Turn>
+      <Turn speaker="spk2" startTime="529.623" endTime="533.844">
+        <Sync time="529.623" />
+        euh et qui et qui sont lancés dans ce truc-là il peut y en avoir quand même pas mal de jeunes du secteur
+      </Turn>
+      <Turn speaker="spk3" startTime="533.844" endTime="534.155">
+        <Sync time="533.844" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="534.155" endTime="535.922">
+        <Sync time="534.155" />
+        maintenant euh
+        <Event desc="bruit indéterminé" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="535.922" endTime="540.61">
+        <Sync time="535.922" />
+        on aura beaucoup d'enfants de familles de trucs comme ça c'est sûr +
+      </Turn>
+      <Turn speaker="spk2" startTime="540.61" endTime="541.798">
+        <Sync time="540.61" />
+        moi je pense qu'il y aura beaucoup de familles
+      </Turn>
+      <Turn speaker="spk1" startTime="541.798" endTime="542.173">
+        <Sync time="541.798" />
+        &lt; hum
+      </Turn>
+      <Turn speaker="spk3" startTime="542.173" endTime="542.188">
+        <Sync time="542.173" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="542.188" endTime="551.86">
+        <Sync time="542.188" />
+        les réseaux &gt; le C.M.R.
+        <Comment desc="sigle=Chrétiens dans le Monde Rural" />
+        tous ces trucs tous ces gens
+        <Sync time="544.282" />
+        enfin on est d'accord pour ce truc-là parce qu'on a encore d'autres trucs à voir
+        <Sync time="546.969" />
+        donc on commence une visite d'expérience(s)
+        <Sync time="548.594" />
+        où on invite différents acteurs et différentes expériences des vieux des jeunes
+      </Turn>
+      <Turn speaker="spk1" startTime="551.86" endTime="552.86">
+        <Sync time="551.86" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="552.86" endTime="560.578">
+        <Sync time="552.86" />
+        qui euh + le but c'est d'avoir un point de débat à un moment
+        <Sync time="556.407" />
+        donc ça veut dire qu'on visite l'*
+        <Event desc="bruit d'objet tapé contre une table" type="noise" extent="instantaneous" />
+        on dit c'est une ferme c'est autre chose
+        <Sync time="558.688" />
+        et à un moment donné on s'arrête
+      </Turn>
+      <Turn speaker="spk1" startTime="560.578" endTime="560.797">
+        <Sync time="560.578" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="560.797" endTime="567.906">
+        <Sync time="560.797" />
+        et on débat sur plein d'autres choses +
+        <Sync time="565.22" />
+        O.K. donc je pense que ce truc-là on est bon là-dessus quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="567.906" endTime="568.548">
+        <Sync time="567.906" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" startTime="568.548" endTime="580.984">
+        <Sync time="568.548" />
+        donc là on se retrouve vieux et jeunes
+        <Sync time="570.437" />
+        tu vois il y a la parole de * et
+        <Event desc="bruit d'objet qui tape sur une table" type="noise" extent="instantaneous" />
+        d'eux
+        <Sync time="572.47" />
+        donc on on gère les deux quoi
+        <Sync time="574.437" />
+        + ensuite c'est /de,deux/ théâtre écologie +
+      </Turn>
+      <Turn speaker="spk1" startTime="580.984" endTime="582.046">
+        <Sync time="580.984" />
+        comment on se le fait
+      </Turn>
+      <Turn speaker="spk2" startTime="582.046" endTime="583.984">
+        <Sync time="582.046" />
+        pff ben eux c'est clair &lt; ça il faut
+      </Turn>
+      <Turn speaker="spk1" startTime="583.984" endTime="585.015">
+        <Sync time="583.984" />
+        peut-être &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="585.015" endTime="587.656">
+        <Sync time="585.015" />
+        se le * le se le jouer ils le jouent quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="587.656" endTime="610.891">
+        <Sync time="587.656" />
+        oui ben oui oui oui enfin du coup et moi pour ça j'y avais déjà réfléchi avant euh
+        <Sync time="591.75" />
+        c'est euh je pensais hum ils font leur pièce de théâtre
+        <Sync time="596.516" />
+        et euh du coup après il y a débat justement avec euh avec eux en tant que on va dire maîtres de conférence sur euh
+        <Sync time="604.687" />
+        eux leurs réflexions qu'ils ont eu pour arriver à cette pièce de théâtre et euh + qu- +
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="SOW Youma" audio_filename="garance5_sow.wav" version="13" version_date="100831">
+<Topics>
+<Topic id="to1" desc="Garance5_YS16/08/2008-EC31/8/2010"/>
+</Topics>
+<Speakers>
+<Speaker id="spk60" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk61" name="Garance" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="247.125" topic="to1">
+<Turn startTime="0" endTime="25.788" speaker="spk60">
+<Sync time="0"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+ Garance le ¤C¤ 
+<Event desc="mic" type="noise" extent="begin"/>
+ alors Garance 
+<Event desc="mic" type="noise" extent="end"/>
+
+<Sync time="5.373"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ tu te souviens 
+<Event desc="tsuvje~" type="pronounce" extent="previous"/>
+ de l'histoire
+<Sync time="6.805"/>
+"Les deux tortues de la cour"
+<Sync time="7.923"/>
+hein ? tu vas me la 
+<Event desc="mla" type="pronounce" extent="previous"/>
+ raconter 
+<Event desc="pap" type="noise" extent="begin"/>
+ hein ? 
+<Sync time="10.405"/>
+je te 
+<Event desc="Zt9" type="pronounce" extent="previous"/>
+ rappelle les personnages
+<Sync time="12.298"/>
+qu'on trouve dans l'histoire
+<Sync time="13.561"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Anaïs 
+<Event desc="pap" type="noise" extent="end"/>
+ Augustin Dorothée 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+<Sync time="18.991"/>
+Karim et le gardien 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors 
+<Event desc="mic" type="noise" extent="previous"/>
+ dis-moi sur cette image
+<Sync time="23.692"/>
+qu'est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ tu vois ? +
+</Turn>
+<Turn speaker="spk61" startTime="25.788" endTime="26.693">
+<Sync time="25.788"/>
+une caisse
+</Turn>
+<Turn speaker="spk60" startTime="26.693" endTime="31.093">
+<Sync time="26.693"/>
+voilà une caisse 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ + 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ quoi dans cette caisse ?
+</Turn>
+<Turn speaker="spk61" startTime="31.093" endTime="32.559">
+<Sync time="31.093"/>
+deux tortues
+</Turn>
+<Turn speaker="spk60" startTime="32.559" endTime="32.949">
+<Sync time="32.559"/>
+d'accord
+</Turn>
+<Turn speaker="spk61" startTime="32.949" endTime="33.752">
+<Sync time="32.949"/>
+comme ça 
+<Comment desc="Garance montre avec ses doigts le chiffre deux à l'adulte"/>
+
+</Turn>
+<Turn speaker="spk60" startTime="33.752" endTime="44.039">
+<Sync time="33.752"/>
+deux tortues oui deux très bien 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ + 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors + 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et là ? 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk61" startTime="44.039" endTime="46.03">
+<Sync time="44.039"/>
+elles sont dans leurs carapaces
+</Turn>
+<Turn speaker="spk60" startTime="46.03" endTime="51.469">
+<Sync time="46.03"/>
+oui elles sont dans leurs carapaces
+<Sync time="48.813"/>
+et tu te souviens 
+<Event desc="tsuvje~" type="pronounce" extent="previous"/>
+ de ce qui a écrit ?
+</Turn>
+<Turn speaker="spk61" startTime="51.469" endTime="53.587">
+<Sync time="51.469"/>
+le garage de Monsieur et Madame Tortue
+</Turn>
+<Turn speaker="spk60" startTime="53.587" endTime="55.621">
+<Sync time="53.587"/>
+voilà très bien et qui a écrit ?
+</Turn>
+<Turn speaker="spk61" startTime="55.621" endTime="56.352">
+<Sync time="55.621"/>
+les enfants
+</Turn>
+<Turn speaker="spk60" startTime="56.352" endTime="65.514">
+<Sync time="56.352"/>
+les enfants des Bleuets oui ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ont écrit
+<Sync time="58.753"/>
+garage de Monsieur et Madame Tortue +
+<Sync time="61.351"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="mic" type="noise" extent="next"/>
+ alors là sur cette image ? +
+</Turn>
+<Turn speaker="spk61" startTime="65.514" endTime="68.997">
+<Sync time="65.514"/>
+je 
+<Event desc="2" type="pronounce" extent="previous"/>
+ vois Anaïs et Karim qui rentrent de l'école 
+<Event desc="lekoj" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk60" startTime="68.997" endTime="74.169">
+<Sync time="68.997"/>
+voilà Anaïs et Karim rentrent de l'école
+<Sync time="71.928"/>
+très bien 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et que font-ils ?
+</Turn>
+<Turn speaker="spk61" startTime="74.169" endTime="80.363">
+<Sync time="74.169"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ demandent quelques 
+<Event desc="kEjK" type="pronounce" extent="previous"/>
+ feuilles de salade 
+<Event desc="sajad" type="pronounce" extent="previous"/>
+
+<Sync time="78.044"/>
+pour 
+<Event desc="pu" type="pronounce" extent="previous"/>
+ euh donner aux tortues
+</Turn>
+<Turn speaker="spk60" startTime="80.363" endTime="82.637">
+<Sync time="80.363"/>
+oui et ils demandent à qui ?
+</Turn>
+<Turn speaker="spk61" startTime="82.637" endTime="83.371">
+<Sync time="82.637"/>
+au gardien
+</Turn>
+<Turn speaker="spk60" startTime="83.371" endTime="88.633">
+<Sync time="83.371"/>
+au gardien très bien 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ + alors ?
+</Turn>
+<Turn speaker="spk61" startTime="88.633" endTime="91.973">
+<Sync time="88.633"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ leur 
+<Event desc="j9R" type="pronounce" extent="previous"/>
+ donne une salade 
+<Event desc="sajad" type="pronounce" extent="previous"/>
+ et avec une pomme
+</Turn>
+<Turn speaker="spk60" startTime="91.973" endTime="94.139">
+<Sync time="91.973"/>
+voilà et +
+</Turn>
+<Turn speaker="spk61 spk60" startTime="94.139" endTime="94.542">
+<Sync time="94.139"/>
+<Who nb="1"/>
+elle 
+<Event desc="e" type="pronounce" extent="previous"/>
+ est 
+<Event desc="je" type="pronounce" extent="previous"/>
+
+
+
+<Who nb="2"/>
+qu'est-ce qu'elle
+</Turn>
+<Turn speaker="spk60" startTime="94.542" endTime="96.358">
+<Sync time="94.542"/>
+a la pomme ?
+</Turn>
+<Turn speaker="spk61" startTime="96.358" endTime="97.539">
+<Sync time="96.358"/>
+elle 
+<Event desc="e" type="pronounce" extent="previous"/>
+ est 
+<Event desc="je" type="pronounce" extent="previous"/>
+ un petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ peu abîmée
+</Turn>
+<Turn speaker="spk60" startTime="97.539" endTime="104.776">
+<Sync time="97.539"/>
+elle est un petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ peu abîmée
+<Sync time="98.877"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et comme Anaïs et Karim sont polis
+<Sync time="102.575"/>
+qu'est-ce qu'ils disent au gardien ?
+</Turn>
+<Turn speaker="spk61" startTime="104.776" endTime="105.685">
+<Sync time="104.776"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ disent merci
+</Turn>
+<Turn speaker="spk60" startTime="105.685" endTime="113.177">
+<Sync time="105.685"/>
+ils di- ils remercient le gardien très bien
+<Sync time="107.825"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors là 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ voilà ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se retrouvent dans la cour
+<Sync time="111.932"/>
+hein ? et que font-ils ?
+</Turn>
+<Turn speaker="spk61" startTime="113.177" endTime="114.947">
+<Sync time="113.177"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ donnent à manger aux tortues
+</Turn>
+<Turn speaker="spk60" startTime="114.947" endTime="124.041">
+<Sync time="114.947"/>
+voilà ils donnent à manger aux tortues
+<Sync time="116.411"/>
+ils donnent les feuilles de salade et la pomme
+<Sync time="118.174"/>
+à Monsieur et Madame Tortue 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="120.187"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ donc Monsieur et Madame Tortue ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sortent
+</Turn>
+<Turn speaker="spk61 spk60" startTime="124.041" endTime="124.775">
+<Sync time="124.041"/>
+<Who nb="1"/>
+tête
+<Who nb="2"/>
+la tête
+</Turn>
+<Turn speaker="spk61" startTime="124.775" endTime="127.006">
+<Sync time="124.775"/>
+de leurs 
+<Event desc="j9R" type="pronounce" extent="previous"/>
+ carapaces avec leurs 
+<Event desc="j9R" type="pronounce" extent="previous"/>
+ pattes
+</Turn>
+<Turn speaker="spk60" startTime="127.006" endTime="135.03">
+<Sync time="127.006"/>
+avec leurs pattes aussi 
+<Event desc="pap" type="noise" extent="begin"/>
+ très bien 
+<Event desc="pap" type="noise" extent="end"/>
+ +
+<Sync time="129.925"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors que fait Karim là ?
+</Turn>
+<Turn speaker="spk61" startTime="135.03" endTime="139.929">
+<Sync time="135.03"/>
+euh là 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ramasse les saletés
+<Sync time="137.399"/>
+et les 
+<Event desc="e" type="pronounce" extent="previous"/>
+ crottes 
+<Event desc="ROt" type="pronounce" extent="previous"/>
+ dans un vieux seau
+</Turn>
+<Turn speaker="spk60 spk61" startTime="139.929" endTime="140.539">
+<Sync time="139.929"/>
+<Who nb="1"/>
+voilà
+<Who nb="2"/>
+rouge
+</Turn>
+<Turn speaker="spk60" startTime="140.539" endTime="148.398">
+<Sync time="140.539"/>
+oui il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ met les crottes
+<Sync time="143.13"/>
+et les saletés dans un vieux seau 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ + et
+</Turn>
+<Turn speaker="spk61 spk60" startTime="148.398" endTime="149.383">
+<Sync time="148.398"/>
+<Who nb="1"/>
+ça c'est du rouge
+<Who nb="2"/>
+Madame Tortue
+</Turn>
+<Turn speaker="spk60" startTime="149.383" endTime="156.517">
+<Sync time="149.383"/>
+co- oui Madame Tortue que fait-elle ? + elle est la première à manger tu
+</Turn>
+<Turn speaker="spk61 spk60" startTime="156.517" endTime="157.407">
+<Sync time="156.517"/>
+<Who nb="1"/>
+*** 
+<Event desc="ejesa ?" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+tu vois ?
+</Turn>
+<Turn speaker="spk61" startTime="157.407" endTime="159.861">
+<Sync time="157.407"/>
+elle 
+<Event desc="ej" type="pronounce" extent="previous"/>
+ prend une 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ une feuille de salade 
+<Event desc="sajad" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk60" startTime="159.861" endTime="167.192">
+<Sync time="159.861"/>
+oui elle commence tout de suite 
+<Event desc="tutsHit" type="pronounce" extent="previous"/>
+ à manger
+<Sync time="162.522"/>
+elle a pris une belle feuille de salade
+<Sync time="165.089"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors voilà qui arrive là ?
+</Turn>
+<Turn speaker="spk61" startTime="167.192" endTime="169.891">
+<Sync time="167.192"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ Augustin et Dorothée
+</Turn>
+<Turn speaker="spk60" startTime="169.891" endTime="175.068">
+<Sync time="169.891"/>
+voilà ils sont arrivés 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ qu'est-ce qu'ils ont apporté ?
+</Turn>
+<Turn speaker="spk61" startTime="175.068" endTime="178.31">
+<Sync time="175.068"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ont apporté des une épluchure de 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ carotte
+</Turn>
+<Turn speaker="spk61 spk60" startTime="178.31" endTime="178.632">
+<Sync time="178.31"/>
+<Who nb="1"/>
+à
+
+
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk61" startTime="178.632" endTime="179.8">
+<Sync time="178.632"/>
+Monsieur Tortue
+</Turn>
+<Turn speaker="spk60" startTime="179.8" endTime="184.459">
+<Sync time="179.8"/>
+très bien ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ ont apporté des épluchures de carotte
+<Sync time="182.696"/>
+pour Monsieur et Madame Tortue aussi
+</Turn>
+<Turn speaker="spk61" startTime="184.459" endTime="184.752">
+<Sync time="184.459"/>
+oui
+</Turn>
+<Turn speaker="spk60" startTime="184.752" endTime="189.557">
+<Sync time="184.752"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ hein ? 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et donc qui s'approche des épluchures de carotte ?
+</Turn>
+<Turn speaker="spk61" startTime="189.557" endTime="190.123">
+<Sync time="189.557"/>
+Monsieur
+</Turn>
+<Turn speaker="spk60" startTime="190.123" endTime="203.44">
+<Sync time="190.123"/>
+Monsieur Tortue oui 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ Madame Tortue continue à manger + la feuille de salade
+<Sync time="196.268"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et Monsieur Tortue s'approche 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ des épluchures de carotte 
+<Event desc="pap" type="noise" extent="begin"/>
+ + et 
+<Event desc="pap" type="noise" extent="end"/>
+ là ?
+</Turn>
+<Turn speaker="spk61" startTime="203.44" endTime="208.521">
+<Sync time="203.44"/>
+les enfants ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ disent 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ au 
+<Event desc="ch" type="pronounce" extent="previous"/>
+ revoir 
+<Event desc="waR" type="pronounce" extent="previous"/>
+ aux tortues
+<Sync time="205.913"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ disent nous aussi on va aller 
+<Event desc="aje" type="pronounce" extent="previous"/>
+ goûter
+</Turn>
+<Turn speaker="spk60" startTime="208.521" endTime="213.435">
+<Sync time="208.521"/>
+très bien 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et qu'est-ce qu'il reste dans la caisse ? 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk61" startTime="213.435" endTime="214.857">
+<Sync time="213.435"/>
+juste un trognon de pomme
+</Turn>
+<Turn speaker="spk60" startTime="214.857" endTime="222.757">
+<Sync time="214.857"/>
+juste un trognon de pomme
+<Sync time="216.109"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors Monsieur et Madame Tortue ont fini de manger 
+<Event desc="dma~Ze" type="pronounce" extent="previous"/>
+
+<Sync time="220.083"/>
+donc ils ont rentré leurs carapaces
+</Turn>
+<Turn speaker="spk61" startTime="222.757" endTime="223.18">
+<Sync time="222.757"/>
+et leurs 
+<Event desc="j9R" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk60 spk61" startTime="223.18" endTime="224.858">
+<Sync time="223.18"/>
+<Who nb="1"/>
+euh l- oui leurs têtes
+<Who nb="2"/>
+pattes euh têtes
+</Turn>
+<Turn speaker="spk60" startTime="224.858" endTime="226.452">
+<Sync time="224.858"/>
+pardon la tête et les pattes
+</Turn>
+<Turn speaker="spk61 spk60" startTime="226.452" endTime="227.862">
+<Sync time="226.452"/>
+<Who nb="1"/>
+dans -paces
+<Who nb="2"/>
+dans leurs carapaces
+</Turn>
+<Turn speaker="spk60" startTime="227.862" endTime="231.275">
+<Sync time="227.862"/>
+hein ? 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et donc les enfants
+</Turn>
+<Turn speaker="spk61" startTime="231.275" endTime="231.525">
+<Sync time="231.275"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk60 spk61" startTime="231.525" endTime="232.096">
+<Sync time="231.525"/>
+<Who nb="1"/>
+disent
+<Who nb="2"/>
+partent
+</Turn>
+<Turn speaker="spk60" startTime="232.096" endTime="247.125">
+<Sync time="232.096"/>
+voilà ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ partent eux aussi ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont goûter hum ? on arrête là
+<Sync time="237.771"/>
+je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ te raconter 
+<Event desc="tRaco~te" type="pronounce" extent="previous"/>
+
+<Sync time="238.505"/>
+une autre euh une nouvelle histoire la semaine prochaine
+<Sync time="240.211"/>
+d'accord ? je te 
+<Event desc="Zt2" type="pronounce" extent="previous"/>
+ ren-
+<Sync time="241.544"/>
+je te 
+<Event desc="Zt2" type="pronounce" extent="previous"/>
+ raconterai une nouvelle
+<Sync time="243.428"/>
+allez c'est bien tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ bien travaillé 
+<Event desc="mic" type="noise" extent="end"/>
+ 
+<Event desc="conv" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

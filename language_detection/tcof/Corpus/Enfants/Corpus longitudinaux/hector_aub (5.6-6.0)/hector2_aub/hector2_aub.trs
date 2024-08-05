@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Anaïs" audio_filename="hector2_aub.wav" version="10" version_date="140221">
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Hector" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="MS10/2012-ECFev2014"/>
+</Topics>
+<Episode>
+<Section type="report" startTime="0" endTime="408.426" topic="to1">
+<Turn startTime="0" endTime="3.109" speaker="spk1">
+<Sync time="0"/>
+alors on va lire un nouveau livre qui s'appelle
+</Turn>
+<Turn speaker="spk2" startTime="3.109" endTime="4.687">
+<Sync time="3.109"/>
+appelle 
+<Event desc="pEl" type="pronounce" extent="previous"/>
+ euh 
+</Turn>
+<Turn speaker="spk1" startTime="4.687" endTime="6.687">
+<Sync time="4.687"/>
+l'épée de bois
+</Turn>
+<Turn speaker="spk2" startTime="6.687" endTime="7.421">
+<Sync time="6.687"/>
+bois 
+</Turn>
+<Turn speaker="spk1" startTime="7.421" endTime="9.765">
+<Sync time="7.421"/>
+donc tu me racontes 
+<Event desc="Rako~ t" type="pronounce" extent="previous"/>
+ l'histoire
+</Turn>
+<Turn speaker="spk2" startTime="9.765" endTime="19.671">
+<Sync time="9.765"/>
+une fois il existait un bon roi avec une épée mais pas une épée en bois une épée en fer comme les autres
+</Turn>
+<Turn speaker="spk1" startTime="19.671" endTime="22.031">
+<Sync time="19.671"/>
+ben les épées les vraies épées en fait
+</Turn>
+<Turn speaker="spk2" startTime="22.031" endTime="23.315">
+<Sync time="22.031"/>
+ouais les vraies épées
+</Turn>
+<Turn speaker="spk1" startTime="23.315" endTime="24.406">
+<Sync time="23.315"/>
+c'est pas un jeu
+</Turn>
+<Turn speaker="spk2" startTime="24.406" endTime="33.469">
+<Sync time="24.406"/>
+bah oui
+<Sync time="25.813"/>
++ et tout le monde 
+<Event desc="lmo~d" type="pronounce" extent="previous"/>
+ allait chercher quelque chose peut-être au château
+</Turn>
+<Turn speaker="spk1" startTime="33.469" endTime="35.016">
+<Sync time="33.469"/>
+pour faire quoi ? 
+</Turn>
+<Turn speaker="spk2" startTime="35.016" endTime="37.109">
+<Sync time="35.016"/>
+bah pour se nourrir 
+<Event desc="snURiR" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.109" endTime="39.562">
+<Sync time="37.109"/>
+ah ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont chercher de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ nourriture euh 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.562" endTime="40.265">
+<Sync time="39.562"/>
+<Who nb="1"/>
+bah oui
+<Who nb="2"/>
+dans le château ?
+</Turn>
+<Turn speaker="spk2" startTime="40.265" endTime="51.093">
+<Sync time="40.265"/>
+
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ oui puisque peut-être il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ des marchés
+<Sync time="43.109"/>
+et un on fabriquait une épée en bois et beaucoup rigolaient avec son épée
+</Turn>
+<Turn speaker="spk1" startTime="51.093" endTime="52.547">
+<Sync time="51.093"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'amusent avec
+</Turn>
+<Turn speaker="spk2" startTime="52.547" endTime="66.532">
+<Sync time="52.547"/>
+ouais après il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ disait
+<Sync time="55.719"/>
+donne-moi une autre épée les épées c'est dangereux 
+<Sync time="60.454"/>
+et et il disa 
+<Comment desc="sic"/>
+ nan je veux 
+<Event desc="Zv9" type="pronounce" extent="previous"/>
+ je veux 
+<Event desc="Zv9" type="pronounce" extent="previous"/>
+ la garder cette épée
+</Turn>
+<Turn speaker="spk1" startTime="66.532" endTime="71.042">
+<Sync time="66.532"/>
+attends attends 
+<Event desc="ta~ " type="pronounce" extent="previous"/>
+ attends 
+<Event desc="ta~ " type="pronounce" extent="previous"/>
+ qui dit c'est le roi qui veut interdire la hum 
+</Turn>
+<Turn speaker="spk2" startTime="71.042" endTime="75.017">
+<Sync time="71.042"/>
+ouais il veut interdit ceux qui ont 
+<Event desc="zo~ " type="pronounce" extent="previous"/>
+ des épées 
+<Comment desc="sic"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="75.017" endTime="76.513">
+<Sync time="75.017"/>
+<Who nb="1"/>
+et alors qu'est ce qu'il a dit ?
+<Who nb="2"/>
+sauf lui
+</Turn>
+<Turn speaker="spk1" startTime="76.513" endTime="77.939">
+<Sync time="76.513"/>
+il a dit il dit quoi le 
+</Turn>
+<Turn speaker="spk2" startTime="77.939" endTime="85.08">
+<Sync time="77.939"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit * va donne-nous ton épée non je veux 
+<Event desc="Zv9" type="pronounce" extent="previous"/>
+ la garder
+</Turn>
+<Turn speaker="spk1" startTime="85.08" endTime="86.299">
+<Sync time="85.08"/>
+ah d'accord
+</Turn>
+<Turn speaker="spk2" startTime="86.299" endTime="91.159">
+<Sync time="86.299"/>
+et là /prenait, prenez/ son épée et maintenant 
+<Event desc="me~ tna~ " type="pronounce" extent="previous"/>
+ et met en prison
+</Turn>
+<Turn speaker="spk1" startTime="91.159" endTime="93.034">
+<Sync time="91.159"/>
+il l'a mis dans un cachot
+</Turn>
+<Turn speaker="spk2" startTime="93.034" endTime="94.815">
+<Sync time="93.034"/>
+ouais dans un cachot
+</Turn>
+<Turn speaker="spk1" startTime="94.815" endTime="102.394">
+<Sync time="94.815"/>
+tu vois quand il y a pas de fenêtre il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ pas hum donc un ch- un cachot 
+<Sync time="99.972"/>
+et c'est le roi qui a fait ça
+</Turn>
+<Turn speaker="spk2" startTime="102.394" endTime="108.144">
+<Sync time="102.394"/>
+c'est le roi qui l'a jeté dans dans un ca- cachot et /pris,prit/ son épée
+</Turn>
+<Turn speaker="spk1" startTime="108.144" endTime="110.956">
+<Sync time="108.144"/>
+
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ donc c'est un méchant roi
+</Turn>
+<Turn speaker="spk2" startTime="110.956" endTime="119.503">
+<Sync time="110.956"/>
+/non, oh/ tu vas voir ce qui 
+<Event desc="ski" type="pronounce" extent="previous"/>
+ va se passer 
+<Event desc="spase" type="pronounce" extent="previous"/>
+ après 
+<Event desc="b" type="noise" extent="previous"/>
+
+<Sync time="113.909"/>
+et le roi le regardait s'il était bien sage 
+</Turn>
+<Turn speaker="spk1" startTime="119.503" endTime="122.503">
+<Sync time="119.503"/>
+ah oui par la petite 
+<Event desc="ptit" type="pronounce" extent="previous"/>
+ porte tu peux le voir 
+<Event desc="lvwaR" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="122.503" endTime="138.831">
+<Sync time="122.503"/>
+
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ /// 
+<Event desc="b" type="noise" extent="next"/>
+ et peut-être 
+<Event desc="p9tEt" type="pronounce" extent="previous"/>
+ qu'il sera 
+<Sync time="131.628"/>
+mais après le libéreur 
+<Comment desc="sic"/>
+ de prison parce qu'il 
+<Event desc="paskil" type="pronounce" extent="previous"/>
+ est là
+</Turn>
+<Turn speaker="spk1" startTime="138.831" endTime="140.097">
+<Sync time="138.831"/>
+ils l'ont libéré ?
+</Turn>
+<Turn speaker="spk2" startTime="140.097" endTime="144.754">
+<Sync time="140.097"/>
+ouais et d- et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ disait tout à son ami
+</Turn>
+<Turn speaker="spk1" startTime="144.754" endTime="147.129">
+<Sync time="144.754"/>
+il lui a raconté toute l'histoire ?
+</Turn>
+<Turn speaker="spk2" startTime="147.129" endTime="176.129">
+<Sync time="147.129"/>
+ouais + il a 
+<Event desc="la" type="pronounce" extent="previous"/>
+ dit de fabriquer une épée en bois
+<Sync time="152.489"/>
+et et et j'étais en train de jouer 
+<Event desc="dZue" type="pronounce" extent="previous"/>
+ avec et et le roi il est venu et il a dit donne-nous ton épée 
+<Sync time="162.036"/>
+et et auss- et et et apr- et moi je disais 
+<Event desc="ZdizE" type="pronounce" extent="previous"/>
+ non 
+<Event desc="na~ " type="pronounce" extent="previous"/>
+ parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ je veux 
+<Event desc="Zv9" type="pronounce" extent="previous"/>
+ la garder 
+<Sync time="169.668"/>
+a- alors lui tu sais ce qu'il 
+<Event desc="skil" type="pronounce" extent="previous"/>
+ a fait il a pris mon épée et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ nous a il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ m'a jeté dans un cachot
+</Turn>
+<Turn speaker="spk1" startTime="176.129" endTime="177.941">
+<Sync time="176.129"/>
+ah c'est ce qu'il 
+<Event desc="ski" type="pronounce" extent="previous"/>
+ raconte à son ami ça ?
+</Turn>
+<Turn speaker="spk2" startTime="177.941" endTime="178.566">
+<Sync time="177.941"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="178.566" endTime="179.753">
+<Sync time="178.566"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="179.753" endTime="184.456">
+<Sync time="179.753"/>
++ et après tout le monde 
+<Event desc="lmo~d" type="pronounce" extent="previous"/>
+ racontait ça
+</Turn>
+<Turn speaker="spk1" startTime="184.456" endTime="186.175">
+<Sync time="184.456"/>
+tout le village 
+<Event desc="lvilaZ" type="pronounce" extent="previous"/>
+ en parle 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="186.175" endTime="187.581">
+<Sync time="186.175"/>
+<Who nb="1"/>
+ouais
+<Who nb="2"/>
+hum hum 
+</Turn>
+<Turn speaker="spk2" startTime="187.581" endTime="189.362">
+<Sync time="187.581"/>
+non tu v- tu veux dire tout le château 
+<Event desc="lSato" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="189.362" endTime="192.487">
+<Sync time="189.362"/>
+ah oui tout le château 
+<Event desc="lSato" type="pronounce" extent="previous"/>
+ tous les gens qui vivent dans le château 
+<Event desc="lSato" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="192.487" endTime="198.893">
+<Sync time="192.487"/>
+ou sinon se disputaient parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ il y en 
+<Event desc="ja~ " type="pronounce" extent="previous"/>
+ a i- qui le croyaient pas à les autres 
+<Comment desc="sic"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="198.893" endTime="200.581">
+<Sync time="198.893"/>
+il y en 
+<Event desc="ja~ " type="pronounce" extent="previous"/>
+ a qui croyaient pas les autres
+</Turn>
+<Turn speaker="spk2" startTime="200.581" endTime="204.799">
+<Sync time="200.581"/>
+et tout le monde 
+<Event desc="lmo~ d" type="pronounce" extent="previous"/>
+ parlait et tout le monde 
+<Event desc="lmo~d" type="pronounce" extent="previous"/>
+ se disputait
+</Turn>
+<Turn speaker="spk1" startTime="204.799" endTime="208.268">
+<Sync time="204.799"/>
+ah ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se disputent parce que il 
+<Event desc="paski" type="pronounce" extent="previous"/>
+ y en a qui sont qui croient que
+</Turn>
+<Turn speaker="spk1 spk2" startTime="208.268" endTime="208.518">
+<Sync time="208.268"/>
+<Who nb="1"/>
+que
+<Who nb="2"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="208.518" endTime="210.565">
+<Sync time="208.518"/>
+l'histoire est vraie et d'autres qui croient que c'est 
+<Event desc="kse" type="pronounce" extent="previous"/>
+ pas vrai
+</Turn>
+<Turn speaker="spk2" startTime="210.565" endTime="210.971">
+<Sync time="210.565"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="210.971" endTime="212.661">
+<Sync time="210.971"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="212.661" endTime="221.955">
+<Sync time="212.661"/>
+elle gronda 
+<Event desc="gRo~nda" type="pronounce" extent="previous"/>
+ euh il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ une femme gronda
+<Sync time="220.174"/>
+oh c'est le téléphone 
+<Event desc="ltelefOn" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="221.955" endTime="223.252">
+<Sync time="221.955"/>
+non 
+<Event desc="na~ " type="pronounce" extent="previous"/>
+c'est dans la rue
+</Turn>
+<Turn speaker="spk2" startTime="223.252" endTime="226.705">
+<Sync time="223.252"/>
+ah ah d'acc- non 
+<Event desc="na~ " type="pronounce" extent="previous"/>
+ il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ un /nouveau, autre/ téléphone
+</Turn>
+<Turn speaker="spk1" startTime="226.705" endTime="239.314">
+<Sync time="226.705"/>
+non 
+<Event desc="na~ " type="pronounce" extent="previous"/>
+ c'était dans dans la cour
+<Sync time="230.033"/>
+/// et dans et une grande une femme gronda un garde hum
+</Turn>
+<Turn speaker="spk2 spk1" startTime="239.314" endTime="240.944">
+<Sync time="239.314"/>
+<Who nb="1"/>
+ hum et bah je 
+<Who nb="2"/>
+et pourquoi elle gronde le garde ?
+</Turn>
+<Turn speaker="spk2" startTime="240.944" endTime="249.345">
+<Sync time="240.944"/>
+je je sais pas peut-être 
+<Event desc="ptEt" type="pronounce" extent="previous"/>
+ peut-être 
+<Event desc="ptEt" type="pronounce" extent="previous"/>
+ que lui il a dit que si 
+<Event desc="ksi" type="pronounce" extent="previous"/>
+ c'est vrai et
+<Sync time="245.595"/>
+et lui c'est p- elle voudr- et c'est pas vrai
+</Turn>
+<Turn speaker="spk1" startTime="249.345" endTime="250.814">
+<Sync time="249.345"/>
+ah ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont pas d'accord
+</Turn>
+<Turn speaker="spk2" startTime="250.814" endTime="251.564">
+<Sync time="250.814"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="251.564" endTime="253.689">
+<Sync time="251.564"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont 
+<Event desc="b" type="noise" extent="previous"/>
+ ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ pensent pas la même chose
+</Turn>
+<Turn speaker="spk2" startTime="253.689" endTime="269.159">
+<Sync time="253.689"/>
+et là hum celui 
+<Event desc="slyi" type="pronounce" extent="previous"/>
+ qui était jeté au cachot 
+<Event desc="b" type="noise" extent="previous"/>
+ dit pourquoi je peux 
+<Event desc="Zp9" type="pronounce" extent="previous"/>
+ pas être 
+<Event desc="Et" type="pronounce" extent="previous"/>
+ le roi
+<Sync time="260.674"/>
+hum rendez mon épée hum non 
+<Event desc="na~ " type="pronounce" extent="previous"/>
+ c'est que le roi qui a une ép- qui a une épée
+</Turn>
+<Turn speaker="spk1" startTime="269.159" endTime="272.874">
+<Sync time="269.159"/>
+ah en fait il l'a mis au cachot parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ le mé- le monsieur il avait une épée
+</Turn>
+<Turn speaker="spk2" startTime="272.874" endTime="273.33">
+<Sync time="272.874"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="273.33" endTime="276.486">
+<Sync time="273.33"/>
+et le roi il voulait être le seul à avoir une épée du royaume
+</Turn>
+<Turn speaker="spk2" startTime="276.486" endTime="277.174">
+<Sync time="276.486"/>
+ouais
+</Turn>
+<Turn speaker="spk1 spk2" startTime="277.174" endTime="279.363">
+<Sync time="277.174"/>
+<Who nb="1"/>
+il est jaloux en fait le roi 
+<Who nb="2"/>
+il dit
+</Turn>
+<Turn speaker="spk2" startTime="279.363" endTime="281.877">
+<Sync time="279.363"/>
+que les rois portent des épées
+</Turn>
+<Turn speaker="spk1" startTime="281.877" endTime="283.328">
+<Sync time="281.877"/>
+d'accord 
+</Turn>
+<Turn speaker="spk2" startTime="283.328" endTime="288.768">
+<Sync time="283.328"/>
+pourquoi je peux 
+<Event desc="Zp9" type="pronounce" extent="previous"/>
+ pas être le roi à votre place
+<Sync time="285.268"/>
+hum d'accord tu peux
+</Turn>
+<Turn speaker="spk1" startTime="288.768" endTime="291.05">
+<Sync time="288.768"/>
+
+<Event desc="rire" type="noise" extent="next"/>
+ ah bon tu crois qu'il lui a dit ça ?
+</Turn>
+<Turn speaker="spk2" startTime="291.05" endTime="296.954">
+<Sync time="291.05"/>
+et là peut-être 
+<Event desc="ptEt" type="pronounce" extent="previous"/>
+ le roi a dit c'est
+<Sync time="293.504"/>
+et déchirait tous les drapeaux
+</Turn>
+<Turn speaker="spk1" startTime="296.954" endTime="299.379">
+<Sync time="296.954"/>
+ça c'est le le garçon
+</Turn>
+<Turn speaker="spk2" startTime="299.379" endTime="299.786">
+<Sync time="299.379"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="299.786" endTime="301.286">
+<Sync time="299.786"/>
+qui prend l'épée du roi
+</Turn>
+<Turn speaker="spk2" startTime="301.286" endTime="304.458">
+<Sync time="301.286"/>
+*** il a nommé pendant ce temps 
+<Event desc="sta~ " type="pronounce" extent="previous"/>
+ le roi
+</Turn>
+<Turn speaker="spk1" startTime="304.458" endTime="306.333">
+<Sync time="304.458"/>
+ah il est devenu 
+<Event desc="dv@ny" type="pronounce" extent="previous"/>
+ le roi en fait ?
+</Turn>
+<Turn speaker="spk2" startTime="306.333" endTime="316.896">
+<Sync time="306.333"/>
+ouais et après déchira toutes les feuilles d- du hum de sol mais peut-être 
+<Event desc="p9tEt" type="pronounce" extent="previous"/>
+ qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ va être plus roi 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="316.896" endTime="319.177">
+<Sync time="316.896"/>
+<Who nb="1"/>
+plus roi
+<Who nb="2"/>
+ben il fait que des 
+<Event desc="kde" type="pronounce" extent="previous"/>
+ bêtises
+</Turn>
+<Turn speaker="spk2" startTime="319.177" endTime="324.614">
+<Sync time="319.177"/>
+et là il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ disait m- mon roi je te 
+<Event desc="Zt@" type="pronounce" extent="previous"/>
+ rends cette épée
+</Turn>
+<Turn speaker="spk1" startTime="324.614" endTime="327.27">
+<Sync time="324.614"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ il lui dit quoi ? j'ai pas compris
+</Turn>
+<Turn speaker="spk2" startTime="327.27" endTime="329.645">
+<Sync time="327.27"/>
+mon roi je te 
+<Event desc="Zt@" type="pronounce" extent="previous"/>
+ rend cette épée
+</Turn>
+<Turn speaker="spk1" startTime="329.645" endTime="332.713">
+<Sync time="329.645"/>
+ah donc il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ veut en fait il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ rend l'épée au roi pour euh
+</Turn>
+<Turn speaker="spk2" startTime="332.713" endTime="333.739">
+<Sync time="332.713"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="333.739" endTime="334.739">
+<Sync time="333.739"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ veut plus être roi ?
+</Turn>
+<Turn speaker="spk2" startTime="334.739" endTime="356.614">
+<Sync time="334.739"/>
+ben non 
+<Event desc="na~ " type="pronounce" extent="previous"/>
+ là peut-être 
+<Event desc="ptEt" type="pronounce" extent="previous"/>
+ qu- qu'il a dit arrête et là disait nouveau garde + nouveau garde
+<Sync time="346.255"/>
++ après 
+<Event desc="pRE" type="pronounce" extent="previous"/>
+ 
+<Event desc="eReSi" type="pronounce" extent="instantaneous"/>
+ pour euh pour peut-être /rendre, prendre/ son épée
+</Turn>
+<Turn speaker="spk1" startTime="356.614" endTime="357.208">
+<Sync time="356.614"/>
+qu'est ce qu'il fait ?
+</Turn>
+<Turn speaker="spk2" startTime="357.208" endTime="362.106">
+<Sync time="357.208"/>
+mais mais je sais pas très bien le dire mais
+</Turn>
+<Turn speaker="spk1" startTime="362.106" endTime="364.083">
+<Sync time="362.106"/>
+ah il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ réfléchit
+</Turn>
+<Turn speaker="spk2" startTime="364.083" endTime="367.271">
+<Sync time="364.083"/>
+ouais hum si il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ peut rendre son épée
+</Turn>
+<Turn speaker="spk1" startTime="367.271" endTime="371.24">
+<Sync time="367.271"/>
++ s'il la garde ou s'il la donne au garçon
+</Turn>
+<Turn speaker="spk2" startTime="371.24" endTime="378.131">
+<Sync time="371.24"/>
+ouais bah parce que en 
+<Event desc="paska~ " type="pronounce" extent="previous"/>
+ fait le garçon il a demandé 
+<Sync time="375.443"/>
+et renda son épée 
+<Comment desc="sic"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="378.131" endTime="379.678">
+<Sync time="378.131"/>
+il lui rend son épée
+</Turn>
+<Turn speaker="spk2" startTime="379.678" endTime="380.303">
+<Sync time="379.678"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="380.303" endTime="382.396">
+<Sync time="380.303"/>
+donc en fait le roi il est gentil
+</Turn>
+<Turn speaker="spk2" startTime="382.396" endTime="393.819">
+<Sync time="382.396"/>
+et construis- et n- et est nommé euh construiseur 
+<Comment desc="sic"/>
+ avec beaucoup de terre
+<Sync time="390.037"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ construisait plein de jouets 
+<Event desc="dZue" type="pronounce" extent="previous"/>
+ plein d'épées en bois 
+</Turn>
+<Turn speaker="spk1" startTime="393.819" endTime="397.069">
+<Sync time="393.819"/>
+constructeur de de d'objets en bois
+</Turn>
+<Turn speaker="spk2" startTime="397.069" endTime="397.756">
+<Sync time="397.069"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="397.756" endTime="402.131">
+<Sync time="397.756"/>
+ah parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ en fait il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ pouvait pas être roi mais euh à la place il a construit des jouets en bois
+</Turn>
+<Turn speaker="spk2" startTime="402.131" endTime="402.662">
+<Sync time="402.131"/>
+ouais 
+</Turn>
+<Turn speaker="spk1" startTime="402.662" endTime="404.771">
+<Sync time="402.662"/>
+d'accord 
+<Event desc="pap" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="404.771" endTime="407.334">
+<Sync time="404.771"/>
+et après c'est fini
+</Turn>
+<Turn speaker="spk1" startTime="407.334" endTime="408.426">
+<Sync time="407.334"/>
+c'est fini
+</Turn>
+</Section>
+</Episode>
+</Trans>

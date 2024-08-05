@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Corpus" audio_filename="sousse_bur.wav" version="9" version_date="110503">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="1797.84">
+      <Turn speaker="spk1" startTime="0.0" endTime="9.811">
+        <Sync time="0.0" />
+        un deux trois bon on va commencer tu vas me raconter en fait euh
+        <Sync time="5.299" />
+        pourquoi tu es venue en France en quelle année et quel âge tu avais
+        <Event desc="tave" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="9.811" endTime="41.39">
+        <Sync time="9.811" />
+        je viens de la Tunisie + de ¤T1¤ exactement au bord de la mer +
+        <Sync time="15.983" />
+        je suis venue en France parce que mon père il travaillait comme ébéniste + en France
+        <Sync time="21.442" />
+        et puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        la vie lui a plu + et puis il nous a fait venir
+        <Sync time="24.721" />
+        il a commencé par travailler à ¤T2¤ + il a quitté ¤T2¤ en soixante-six + pour s'installer à ¤T3¤
+        <Sync time="31.644" />
+        et puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        il a trouvé que la vie à ¤T3¤ était très très calme il a fait venir mon frère avec lui
+        <Sync time="36.811" />
+        et par la suite en soixante-sept + il s'est décidé de nous faire venir
+      </Turn>
+      <Turn speaker="spk1" startTime="41.39" endTime="42.937">
+        <Sync time="41.39" />
+        toute ta famille +
+      </Turn>
+      <Turn speaker="spk2" startTime="42.937" endTime="45.994">
+        <Sync time="42.937" />
+        donc maman + mon petit frère et moi
+      </Turn>
+      <Turn speaker="spk1" startTime="45.994" endTime="47.21">
+        <Sync time="45.994" />
+        tu avais
+        <Event desc="tave" type="pronounce" extent="previous" />
+        quel âge
+      </Turn>
+      <Turn speaker="spk2" startTime="47.21" endTime="74.312">
+        <Sync time="47.21" />
+        j'avais exactement vingt et un ans +
+        <Sync time="50.819" />
+        je et je me suis + d'ailleurs quand je suis arrivée à ¤T3¤ ça m'a pas plu du tout
+        <Sync time="56.394" />
+        parce que j'ai trouvé vraiment une ville très très froide pas chaleureuse du tout
+        <Sync time="61.457" />
+        les gens très froids personne ne regardait personne et je me suis pas plu du tout
+        <Sync time="66.193" />
+        je voulais retourner en Tunisie tout de suite
+        <Sync time="68.817" />
+        et mes parents ils m'ont pas ils n'ont pas accepté ils voulaient que je reste avec eux +
+        <Sync time="71.708" />
+        mais je ne me suis pas plu du tout
+      </Turn>
+      <Turn speaker="spk1" startTime="74.312" endTime="76.988">
+        <Sync time="74.312" />
+        tu faisais quoi en Tunisie + tu travaillais
+      </Turn>
+      <Turn speaker="spk2" startTime="76.988" endTime="94.613">
+        <Sync time="76.988" />
+        oui je travaillais comme secrétaire de direction + au garage ¤S1¤ /// depuis l'âge de dix-sept ans +
+        <Sync time="86.528" />
+        j'ai commencé par euh se- petite secrétaire et puis après j'ai monté en grade
+        <Sync time="91.035" />
+        j'avais toute la responsabilité après le patron +
+      </Turn>
+      <Turn speaker="spk1" startTime="94.613" endTime="96.668">
+        <Sync time="94.613" />
+        tu parlais le français et l'arabe tu as
+        <Event desc="ta" type="pronounce" extent="previous" />
+        été à l'école euh
+      </Turn>
+      <Turn speaker="spk2" startTime="96.668" endTime="107.333">
+        <Sync time="96.668" />
+        ah oui j'ai été à l'école franco-arabe +
+        <Sync time="99.372" />
+        au départ euh donc euh l'école euh publique et après j'ai été chez les soeurs dominicaines
+        <Sync time="105.138" />
+        j'ai terminé toutes mes études chez les soeurs
+      </Turn>
+      <Turn speaker="spk1" startTime="107.333" endTime="109.126">
+        <Sync time="107.333" />
+        donc tu as
+        <Event desc="ta" type="pronounce" extent="previous" />
+        fait des études d'arabe littéraire
+      </Turn>
+      <Turn speaker="spk2" startTime="109.126" endTime="109.488">
+        <Sync time="109.126" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="109.488" endTime="110.562">
+        <Sync time="109.488" />
+        classique et puis
+        <Event desc="pi" type="pronounce" extent="previous" />
+        euh
+      </Turn>
+      <Turn speaker="spk2" startTime="110.562" endTime="111.616">
+        <Sync time="110.562" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="111.616" endTime="112.288">
+        <Sync time="111.616" />
+        de français
+      </Turn>
+      <Turn speaker="spk2" startTime="112.288" endTime="113.569">
+        <Sync time="112.288" />
+        de français oui
+      </Turn>
+      <Turn speaker="spk1" startTime="113.569" endTime="114.101">
+        <Sync time="113.569" />
+        donc euh quand tu es &lt; arrivée en France
+      </Turn>
+      <Turn speaker="spk2" startTime="114.101" endTime="121.945">
+        <Sync time="114.101" />
+        c'est une langue &gt; qui m'a toujours t- plu j'ai toujours aimé le + la langue française +
+        <Sync time="119.351" />
+        j'ai toujours eu des bonnes notes j'ai toujours bien travaillé
+      </Turn>
+      <Turn speaker="spk1" startTime="121.945" endTime="125.193">
+        <Sync time="121.945" />
+        et quand tu es arrivée en France tu as
+        <Event desc="ta" type="pronounce" extent="previous" />
+        fait quoi alors puisque tu as lâché un boulot là-bas
+      </Turn>
+      <Turn speaker="spk2" startTime="125.193" endTime="178.683">
+        <Sync time="125.193" />
+        donc euh du fait que mes parents ils m'ont pas laissée retourner en Tunisie +
+        <Sync time="130.133" />
+        ben j'ai cherché du travail + et j'étais un petit peu déprimée aussi
+        <Sync time="135.193" />
+        parce que la vie n'est pas la même
+        <Sync time="137.57" />
+        j'arrive de la Tunisie au bord de la de ¤T1¤ que c'est le bord de la mer qu'on s'amusait bien
+        <Sync time="142.334" />
+        et tout ce n'était pas la vie de la fatma que avec ses foulards sur la tête ou le tchador
+        <Sync time="148.878" />
+        ou des choses comme ça pas du tout
+        <Sync time="150.256" />
+        j'étais une fille tout à fait libre +
+        <Sync time="153.129" />
+        j'ai fréquenté pas mal de gens de qui m'ont apporté énormément psychologiquement +
+        <Sync time="157.334" />
+        et + pour tout et c'était des gens bien des français comme des des tunisiens +
+        <Sync time="164.898" />
+        et *** quand je je me suis trouvée à ¤T3¤ je me suis trouvée vraiment bête parce que
+        <Sync time="169.803" />
+        je ne connaissais personne à part ma ma famille on était cinq personnes
+        <Sync time="174.74" />
+        et j'avais pas d'amis j'avais pas de j'avais pas de travail et rien du tout
+      </Turn>
+      <Turn speaker="spk1" startTime="178.683" endTime="180.386">
+        <Sync time="178.683" />
+        tu faisais quoi de tes journées +
+      </Turn>
+      <Turn speaker="spk2" startTime="180.386" endTime="181.645">
+        <Sync time="180.386" />
+        ben je lisais +
+      </Turn>
+      <Turn speaker="spk1" startTime="181.645" endTime="182.301">
+        <Sync time="181.645" />
+        tu lisais
+      </Turn>
+      <Turn speaker="spk2" startTime="182.301" endTime="189.222">
+        <Sync time="182.301" />
+        je lisais énormément + aussi bien que de la lecture euh banale que des beaux romans +
+      </Turn>
+      <Turn speaker="spk1" startTime="189.222" endTime="191.707">
+        <Sync time="189.222" />
+        et quand tu es arrivée en France tu savais que ce serait pour une longue période ou euh
+      </Turn>
+      <Turn speaker="spk2" startTime="191.707" endTime="202.777">
+        <Sync time="191.707" />
+        ah non absolument pas je suis venue en France pour un mois ou deux
+        <Sync time="195.288" />
+        d'ailleurs je n'ai jamais pris mon compte en Tunisie
+        <Sync time="198.644" />
+        du fait que je partais j'avais pris un mois de vacances et un mois sans solde
+      </Turn>
+      <Turn speaker="spk1" startTime="202.777" endTime="203.668">
+        <Sync time="202.777" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="203.668" endTime="212.714">
+        <Sync time="203.668" />
+        et je vous dis et j- + et j'ai toujours dit à tout le monde là-bas que je leur disais au revoir mais pas adieu +
+        <Sync time="210.324" />
+        je suis arrivée en France eh ben il fallait rester là
+      </Turn>
+      <Turn speaker="spk1" startTime="212.714" endTime="213.886">
+        <Sync time="212.714" />
+        et pourquoi il fallait rester
+      </Turn>
+      <Turn speaker="spk2" startTime="213.886" endTime="234.446">
+        <Sync time="213.886" />
+        il fallait rester parce que ma famille c'est une famille très très traditionnelle +
+        <Sync time="218.073" />
+        il fallait que la fille elle soit sous la coupe de son père et de ses frères
+        <Sync time="221.341" />
+        qu'ils fassent attention et tout ça et puis moi j'ai j'avais un caractère très très libre
+        <Sync time="225.142" />
+        et mes parents ne supportaient pas
+        <Sync time="226.665" />
+        ils avaient peur de me laisser partir en Tunisie à cause de ma liberté
+        <Sync time="230.502" />
+        que j'ai toujours considérée dans ma tête que j'étais libre +
+      </Turn>
+      <Turn speaker="spk1" startTime="234.446" endTime="236.236">
+        <Sync time="234.446" />
+        et donc ensuite tu as fait quoi tu as cherché du travail
+      </Turn>
+      <Turn speaker="spk2" startTime="236.236" endTime="304.182">
+        <Sync time="236.236" />
+        ensuite j'ai cherché du travail + j'ai je je connaissais personne
+        <Sync time="239.75" />
+        je ne savais pas à quelle porte qu'il fallait frapper
+        <Sync time="242.377" />
+        personne ne renseignait personne + et je me suis dit com- du fait que j'ai fait mes études chez les soeurs
+        <Sync time="247.705" />
+        j'ai été m'adresser à la mère supérieure à l'hôpital central +
+        <Sync time="252.452" />
+        et de là la mère supérieure elle m'a elle m'a guidée vers la maison Saint Charles +
+        <Sync time="257.705" />
+        parce que pour travailler à l'hôpital central il fallait avoir la nationalité française +
+        <Sync time="262.03" />
+        moi je l'avais pas + mais à la maison Saint Charles ils m'ont accepté comme aide euh soignante ///
+        <Sync time="269.596" />
+        et c'était pas mal du tout au départ bon c'était très très dur parce qu'il fallait soigner les + les personnes âgées +
+        <Sync time="277.205" />
+        les nettoyer et tout et je ne j'avais du vraiment du mal à l- supporter de nettoyer ces personnes-là et tout
+        <Sync time="285.362" />
+        et j'étais tout le temps pratiquement tous les jours malade avoir mal à l'estomac rendre tout ça
+        <Sync time="290.331" />
+        et grâce au professeur ¤N1¤ qui m'a convoquée dans son bureau
+        <Event desc="b" type="noise" extent="previous" />
+        <Sync time="293.934" />
+        pour savoir si j'ai fait des études si j'étais apte à les soigner à soigner être en-dessous de l'infirmière
+        <Sync time="299.909" />
+        et de là quand il a accept- il m'a acceptée dans son service
+      </Turn>
+      <Turn speaker="spk1" startTime="304.182" endTime="305.852">
+        <Sync time="304.182" />
+        et tu es restée combien de temps à son service
+      </Turn>
+      <Turn speaker="spk2" startTime="305.852" endTime="308.957">
+        <Sync time="305.852" />
+        a son service j'y suis restée trois ans ///
+      </Turn>
+      <Turn speaker="spk1" startTime="308.957" endTime="314.017">
+        <Sync time="308.957" />
+        pourquoi tu es pas repartie en Tunisie en fait
+        <Sync time="310.588" />
+        puisque tu étais majeure tu avais vingt et un ans là-bas la majorité c'est vingt et un ans aussi
+      </Turn>
+      <Turn speaker="spk2" startTime="314.017" endTime="349.548">
+        <Sync time="314.017" />
+        c'est marrant la majorité en Tunisie c'est elle est faite pour les garçons mais pas pour les filles +
+        <Sync time="318.454" />
+        dans le temps-là bon il y avait pas autant +
+        <Sync time="321.239" />
+        j'étais libre dans un sens mais dans l'autre sens il me fallait mes papiers
+        <Sync time="325.051" />
+        mes parents ils ont caché mon passeport ma carte d'identité tunisienne
+        <Sync time="328.689" />
+        et du fait que je n'avais pas d'argent + pour même prendre un billet
+        <Sync time="333.032" />
+        parce que j'aurais pu aller au consulat puis leur expliquer
+        <Sync time="335.704" />
+        mais pour me faire mes papiers mais du fait que je n'avais pas de d'argent pour pour faire ces papiers-là déjà d'une
+        <Sync time="343.423" />
+        et de deux pour payer un ben- un billet de bateau un billet d'avion + ça fait que j'ai resté bloquée +
+      </Turn>
+      <Turn speaker="spk1" startTime="349.548" endTime="351.634">
+        <Sync time="349.548" />
+        une fois que tu as travaillé tu as commencé à avoir de l'argent
+      </Turn>
+      <Turn speaker="spk2" startTime="351.634" endTime="380.799">
+        <Sync time="351.634" />
+        une fois que j'ai travaillé j'ai commencé à avoir de l'argent
+        <Sync time="353.903" />
+        puis + j'ai commencé à avoir ma liberté disons avec beaucoup énormément de mensonges
+        <Sync time="359.54" />
+        du fait que je travaillais du matin je disais que je travaillais toute la journée
+        <Sync time="364.51" />
+        parce que l'après-midi pour moi c'était ma liberté d'aller au cinéma d'aller boire un verre avec mes copines +
+        <Sync time="369.9" />
+        d'aller au restaurant + et et puis le temps il a commencé à couler puis j'ai commencé à m'habituer à à ¤T3¤
+        <Sync time="378.978" />
+        j'ai commencé à m'habituer aux gens
+      </Turn>
+      <Turn speaker="spk1" startTime="380.799" endTime="385.93">
+        <Sync time="380.799" />
+        c'est bizarre quand même puisque tu étais tu étais la la plus âgée
+        <Sync time="383.16" />
+        donc tu as quasiment élevé tes + tes deux frères
+      </Turn>
+      <Turn speaker="spk2" startTime="385.93" endTime="403.805">
+        <Sync time="385.93" />
+        eh ben moi de toute façon tu pourras dire que c'est des mensonges
+        <Sync time="389.207" />
+        mais j'ai élevé mon dernier petit frère j'avais cinq ans et demi
+        <Sync time="391.633" />
+        maman elle travaillait je on n'avait personne pour garder mes frères + ben c'était moi qui les gardais +
+        <Sync time="398.96" />
+        mes deux frères ils ont été à l'école avant moi + et j'ai été à l'école à neuf ans +
+      </Turn>
+      <Turn speaker="spk1" startTime="403.805" endTime="407.774">
+        <Sync time="403.805" />
+        donc on te donnait des responsabilités pour élever tes tes frères mais euh pas pour sortir
+      </Turn>
+      <Turn speaker="spk2" startTime="407.774" endTime="445.807">
+        <Sync time="407.774" />
+        ah non la fille euh d- dans la famille d'ailleurs +
+        <Sync time="411.463" />
+        j'étais la seule fille qui a fait des études maintenant il y en a énormément parce que la mentalité a changé
+        <Sync time="415.852" />
+        les filles elles se sont révoltées et tout +
+        <Sync time="419.151" />
+        mais je sais que j'étais très très révoltée mais j'étais la seule révoltée de la famille +
+        <Sync time="424.195" />
+        pour eux j'étais un peu la brebis galeuse
+        <Sync time="425.956" />
+        parce que ils ils voulaient pas accepter que je fasse des études que moi je voulais à tout prix faire des études
+        <Sync time="430.836" />
+        ils voulaient pas que je sorte euh en mini-jupe +
+        <Sync time="435.002" />
+        que c'était la mode dans les années soixante la mini jupe et moi je le faisais
+        <Sync time="438.836" />
+        et puis malgré tout ça je prenais des coups par maman + mais je n'hésitais pas à le faire ///
+      </Turn>
+      <Turn speaker="spk1" startTime="445.807" endTime="451.535">
+        <Sync time="445.807" />
+        et tu étais révoltée contre quoi contre la famille ou aussi contre ta religion
+        <Sync time="448.677" />
+        puisque tu étais musulmane et tu l'es encore d'ailleurs +
+      </Turn>
+      <Turn speaker="spk2" startTime="451.535" endTime="500.763">
+        <Sync time="451.535" />
+        moi j'estime la religion c'est dans le dans le coeur et dans la tête
+        <Sync time="454.12" />
+        chacun a sa religion + mais on n'est pas obligé de subir pour dire je suis musulmane
+        <Sync time="459.305" />
+        on peut être musulmane libre + croire en Dieu et puis pour tout le monde pareil
+        <Sync time="463.864" />
+        que ce soit pour les musulmans les juifs ou les catholiques c'est la même chose
+        <Sync time="467.346" />
+        Dieu il est pour tout pour moi personnellement Dieu il est pour tout le monde pareil + il y a pas de différence
+        <Sync time="472.689" />
+        mais de assumer toutes ces choses-là + la religion
+        <Sync time="477.119" />
+        mais ce que je n'assu- je ne supportais pas du tout et je le supporte toujours pas d'ailleurs
+        <Sync time="481.439" />
+        que on rajoute sur la religion +
+        <Sync time="484.033" />
+        dans le Coran c'est écrit une chose et puis les traditions ils rajoutent ils rajoutent sans arrêt
+        <Sync time="488.258" />
+        et dans ma famille c'est la pire des familles pour moi
+        <Sync time="491.152" />
+        parce que j'ai vécue dedans pe- peut-être il y en a des pires il y en a des moins pires
+        <Sync time="495.371" />
+        mais pour moi ma famille elle est elle est très dure + avec ses traditions
+      </Turn>
+      <Turn speaker="spk1" startTime="500.763" endTime="510.668">
+        <Sync time="500.763" />
+        c'est bizarre parce que tu critiques euh les traditions et euh et un peu ce que tu as vécu là-bas
+        <Sync time="505.169" />
+        mais c'est quand même ta plus belle période que tu as vécue en Tunisie quoi
+        <Sync time="507.246" />
+        depuis que tu es née jusqu'à ta à l'âge adulte non +
+      </Turn>
+      <Turn speaker="spk2" startTime="510.668" endTime="516.417">
+        <Sync time="510.668" />
+        oui parce que j'ai construit ma ma vie + dans ma tête de + de tous les jours
+      </Turn>
+      <Turn speaker="spk1" startTime="516.417" endTime="517.188">
+        <Sync time="516.417" />
+        tu faisais quoi là-bas
+      </Turn>
+      <Turn speaker="spk2" startTime="517.188" endTime="541.505">
+        <Sync time="517.188" />
+        j'ai + je construis ma vie du fait qu'on a on est dans un pays chaud déjà
+        <Sync time="522.252" />
+        il y a la mer il y a les amis + tout ça je n'ai j'avais mes fréquentations à moi
+        <Sync time="527.518" />
+        j'essayais de me relever la tête de ne pas être la femme soumise
+        <Sync time="531.721" />
+        sous la coupe de papa et de maman et des frères et soeurs et de toute la famille +
+        <Sync time="536.128" />
+        d'une et de deux je m'estimais comme + je me suis toujours considérée femme libre
+      </Turn>
+      <Turn speaker="spk1" startTime="541.505" endTime="543.661">
+        <Sync time="541.505" />
+        tu as pas voulu te marier là-bas +
+      </Turn>
+      <Turn speaker="spk2" startTime="543.661" endTime="551.959">
+        <Sync time="543.661" />
+        ah ben moi mon cousin il m'a demand-
+        <Sync time="545.928" />
+        ma famille ils m'ont fiancée avec un cousin à moi j'avais trois mois et mon cousin il avait dix-huit ans
+      </Turn>
+      <Turn speaker="spk1" startTime="551.959" endTime="553.068">
+        <Sync time="551.959" />
+        et alors
+      </Turn>
+      <Turn speaker="spk2" startTime="553.068" endTime="564.819">
+        <Sync time="553.068" />
+        et alors quand j'étais petite j'étais contente d'avoir un fiancé quatre cinq ans six ans euh
+        <Sync time="558.225" />
+        fiancé il m'achetait des glaces il m'achetait des bonbons et +
+        <Sync time="561.804" />
+        il m'achetait tout ce que je voulais il me sortait il me tenait par la main
+      </Turn>
+      <Turn speaker="spk1" startTime="564.819" endTime="565.893">
+        <Sync time="564.819" />
+        ça t'amusait quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="565.893" endTime="580.112">
+        <Sync time="565.893" />
+        ça m'a amusé d- d'avoir un fiancé qui fait que c'était une grande perche d'un mètre quatre vingt +
+        <Sync time="570.393" />
+        et que moi j'étais toute petite mais + en grandissant à l'âge de neuf ans je
+        <Sync time="575.362" />
+        quand ils ont dit on fait les fiançailles j'ai dit mais vous êtes complètement mabouls
+        <Sync time="578.705" />
+        il n'en n'est pas question +
+      </Turn>
+      <Turn speaker="spk1" startTime="580.112" endTime="581.551">
+        <Sync time="580.112" />
+        tu commençais à comprendre en fait
+      </Turn>
+      <Turn speaker="spk2" startTime="581.551" endTime="592.864">
+        <Sync time="581.551" />
+        ben ça c'est sûr + j'ai eu des amourettes
+        <Sync time="584.253" />
+        j'ai j'ai fréquenté j'ai flirté mais sans + euh sexualité sans rien mais j'ai je peux dire j'ai flirté +
+      </Turn>
+      <Turn speaker="spk1" startTime="592.864" endTime="595.496">
+        <Sync time="592.864" />
+        et quand tu es arrivée en France donc tu as travaillé à l'hôpital euh
+      </Turn>
+      <Turn speaker="spk2" startTime="595.496" endTime="624.994">
+        <Sync time="595.496" />
+        donc je travaillais bon ben par la suite comme je t'ai raconté
+        <Sync time="599.301" />
+        par la suite le docteur ¤N1¤ m'a pris à son service
+        <Sync time="602.38" />
+        j'étais + j'ai eu le il m'a fait passer un stage et j'ai fait l'aide soignante +
+        <Sync time="607.403" />
+        après ça me plaisait parce que je m'occupais des médicaments
+        <Sync time="609.864" />
+        je me d- occupais je m'occupais du des malades de tout ce qui leur le nécessaire les courriers
+        <Sync time="615.981" />
+        tout ça + et j'ai connu euh ton euh ¤P1¤ qui était ami un ami de longue date à mon frère
+        <Sync time="622.934" />
+        puis on a commencé à sortir ensemble
+      </Turn>
+      <Turn speaker="spk1" startTime="624.994" endTime="625.908">
+        <Sync time="624.994" />
+        un français
+      </Turn>
+      <Turn speaker="spk2" startTime="625.908" endTime="626.72">
+        <Sync time="625.908" />
+        un français
+      </Turn>
+      <Turn speaker="spk1" startTime="626.72" endTime="627.037">
+        <Sync time="626.72" />
+        <Event desc="rires" type="pronounce" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="627.037" endTime="630.928">
+        <Sync time="627.037" />
+        ce que les parents ils n'ont jamais accepté ni par religion ni par euh rien du tout +
+      </Turn>
+      <Turn speaker="spk1" startTime="630.928" endTime="635.475">
+        <Sync time="630.928" />
+        donc euh quand tu as commencé à travailler tu as commencé à prendre un appart. ou euh +
+        <Sync time="634.197" />
+        tu vivais encore avec tes parents +
+      </Turn>
+      <Turn speaker="spk2" startTime="635.475" endTime="666.359">
+        <Sync time="635.475" />
+        eh ben au départ quand on est arrivés à ¤T3¤ on avait un F2 + pour cinq personnes +
+        <Sync time="642.135" />
+        c'était pas très très rose +
+        <Sync time="643.85" />
+        par la la suite moi quand j'ai travaillé
+        <Sync time="645.665" />
+        j'ai commencé à travailler le deux mai mille neuf cent soixante sept +
+        <Sync time="649.762" />
+        à s- la maison Saint Charles euh rue ¤T4¤
+        <Sync time="652.958" />
+        et j'ai demandé à la propriétaire de + qui a loué l'appartement à mon père de me si elle a un appartement de libre
+        <Sync time="659.773" />
+        et elle m'a dit oui et elle avait un donc un de libre
+        <Sync time="662.12" />
+        on l'a pris mais pour moi c'était je l'ai pris avec mon frère qui est en-dessous de moi + &lt; pour vivre
+      </Turn>
+      <Turn speaker="spk1" startTime="666.359" endTime="667.392">
+        <Sync time="666.359" />
+        tu t'entends bien avec &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="667.392" endTime="704.224">
+        <Sync time="667.392" />
+        très très bien + on s'entendait très très bien on avait tous nos affaires ensemble
+        <Sync time="671.793" />
+        tout on était beaucoup plus amis que frère et soeur +
+        <Sync time="675.704" />
+        déjà d'une + de deux je l'ai aidé + énormément
+        <Sync time="678.929" />
+        il m'a aidée énormément psychologiquement aussi et on voulait vivre ensemble +
+        <Sync time="684.448" />
+        de dire on travaille tous les deux on met notre argent de côté pour se payer des voyages
+        <Sync time="689.424" />
+        on a fait des tas de projets ensemble
+        <Sync time="691.508" />
+        et mes parents n'ont pas accepté on a j'ai pris quand même l'appartement à mon nom je le payais
+        <Sync time="695.76" />
+        mais c'est mes parents qui vivaient dedans avec moi
+        <Sync time="698.762" />
+        et non mon frère mon frère il a resté au premier étage avec le petit +
+      </Turn>
+      <Turn speaker="spk1" startTime="704.224" endTime="709.506">
+        <Sync time="704.224" />
+        donc ensuite qu'est-ce que tu as fait tu as +
+        <Sync time="707.043" />
+        tu as été euh vivre avec euh ¤P1¤ ou euh
+      </Turn>
+      <Turn speaker="spk2" startTime="709.506" endTime="740.269">
+        <Sync time="709.506" />
+        ensuite euh j'ai commencé à fréquenter ¤P1¤ on s'est fréquenté quelques mois
+        <Sync time="714.331" />
+        et + il y a eu des gens donc des amis de mes parents qui m'ont vue avec
+        <Sync time="718.425" />
+        ils ont été rapporter la chose à mes à ma mère surtout
+        <Sync time="721.143" />
+        ma mère au lieu de ne rien dire à mon père elle a ameuté tout le monde
+        <Sync time="724.16" />
+        elle en a parlé puis ça a commencé la galère qui commençait
+        <Sync time="727.133" />
+        elle n'a jamais vou- pour elle j'ai fait le pire des péchés du fait que j'étais musulmane pratiquante
+        <Sync time="732.61" />
+        maintenant je suis toujours musulmane dans ma dans mon coeur +
+        <Sync time="736.66" />
+        mais musulmane à ma façon croire en Dieu et non à l'homme +
+      </Turn>
+      <Turn speaker="spk1" startTime="740.269" endTime="742.465">
+        <Sync time="740.269" />
+        donc tu t'es installée avec euh ¤P1¤ chez
+      </Turn>
+      <Turn speaker="spk2" startTime="742.465" endTime="755.742">
+        <Sync time="742.465" />
+        alors j'ai voulu m'installer avec ¤P1¤ j'en ai parlé à maman comme toutes les filles elle s-
+        <Sync time="746.42" />
+        je me suis dit bon avec maman ça ira beaucoup mieux les choses elle pourra adoucir la chose envers la famille et tout
+        <Sync time="751.356" />
+        mais maman elle a jamais accepté + et j'ai été obligée de partir +
+      </Turn>
+      <Turn speaker="spk1" startTime="755.742" endTime="757.356">
+        <Sync time="755.742" />
+        donc tu as été t'installer où
+      </Turn>
+      <Turn speaker="spk2" startTime="757.356" endTime="760.657">
+        <Sync time="757.356" />
+        j'ai été m'installer chez euh ¤P1¤ chez ses parents d'ailleurs
+      </Turn>
+      <Turn speaker="spk1" startTime="760.657" endTime="761.883">
+        <Sync time="760.657" />
+        et ils ont été comment avec toi
+      </Turn>
+      <Turn speaker="spk2" startTime="761.883" endTime="817.892">
+        <Sync time="761.883" />
+        très corrects très très gentils sa maman elle me servait de mère elle m'a c'était une femme formidable
+        <Sync time="767.173" />
+        je peux dire je n'ai jamais vu quelqu'un aussi indulgent + aussi gentil que cette femme-là +
+        <Sync time="773.622" />
+        elle était elle m'a appris l'indulgence elle m'a appris de ne pas juger l'autre
+        <Sync time="777.616" />
+        et pourtant dans la religion musulmane on ne doit pas juger
+        <Sync time="780.576" />
+        mais j'étais sous la l'influence de mes parents de la religion j'ai appris par mes parents
+        <Sync time="785.996" />
+        et je me suis rendue du- compte que par la suite que la la religion musulmane c'était une très très belle religion
+        <Sync time="791.981" />
+        parce que t- c'est l- la religion de l'indulgence du pardon + de donner +
+        <Sync time="796.64" />
+        de soigner le malade de s'occuper des personnes âgées
+        <Sync time="800.746" />
+        de faire attention à un enfant + et tout ça on me l'a pas appris +
+        <Sync time="805.904" />
+        mais je l'ai appris avec ma belle-mère donc qui était catholique +
+        <Sync time="809.694" />
+        et elle c'était pareil c'était une catholique dans son coeur et non dans à l'église +
+        <Sync time="813.98" />
+        elle ne croyait pas du tout au curé mais elle était vraiment croyante en Dieu
+      </Turn>
+      <Turn speaker="spk1" startTime="817.892" endTime="819.715">
+        <Sync time="817.892" />
+        donc tu es restée combien de temps chez eux
+      </Turn>
+      <Turn speaker="spk2" startTime="819.715" endTime="822.188">
+        <Sync time="819.715" />
+        chez ma belle-mère j'ai resté + trois ans
+      </Turn>
+      <Turn speaker="spk1" startTime="822.188" endTime="823.143">
+        <Sync time="822.188" />
+        ah trois ans quand même
+      </Turn>
+      <Turn speaker="spk2" startTime="823.143" endTime="835.299">
+        <Sync time="823.143" />
+        trois ans chez ma belle-mère on a fait trois enfants deux enfants +
+        <Sync time="826.482" />
+        donc j'ai fait l'aînée de mes filles la deuxième
+        <Sync time="829.908" />
+        et je me suis trouvée enceinte du troisième enfant et c'est de là qu'on a pris un appartement +
+      </Turn>
+      <Turn speaker="spk1" startTime="835.299" endTime="838.151">
+        <Sync time="835.299" />
+        et vous habitez où avant chez euh la belle-mère c'était où
+      </Turn>
+      <Turn speaker="spk2" startTime="838.151" endTime="841.145">
+        <Sync time="838.151" />
+        on habitait au vieux village euh derrière le vieux village
+      </Turn>
+      <Turn speaker="spk1" startTime="841.145" endTime="841.862">
+        <Sync time="841.145" />
+        à ¤T5¤
+      </Turn>
+      <Turn speaker="spk2" startTime="841.862" endTime="844.32">
+        <Sync time="841.862" />
+        à ¤T5¤ oui on est j'ai jamais quitté ¤T5¤
+      </Turn>
+      <Turn speaker="spk1" startTime="844.32" endTime="845.735">
+        <Sync time="844.32" />
+        et ensuite au bout de trois ans vous avez pris un appartement
+      </Turn>
+      <Turn speaker="spk2" startTime="845.735" endTime="865.019">
+        <Sync time="845.735" />
+        au bout de trois ans on a pris un appartement
+        <Sync time="847.52" />
+        parce que + on était obligés de le prendre parce que ça devenait un peu trop petit chez ma belle-mère +
+        <Sync time="853.42" />
+        mais quand je me suis trouvée toute seule dans l'appartement bon avec m- pas toute seule avec mes enfants
+        <Sync time="858.736" />
+        et mon mari eh ben j'ai déprimé parce que ma belle-mère elle me manquait +
+        <Sync time="862.928" />
+        sauf que tous les jours je retournais j'allais la voir
+      </Turn>
+      <Turn speaker="spk1" startTime="865.019" endTime="866.284">
+        <Sync time="865.019" />
+        tu allais la voir avec tes enfants
+      </Turn>
+      <Turn speaker="spk2" startTime="866.284" endTime="882.103">
+        <Sync time="866.284" />
+        avec mes enfants je prenais mes enfants j'allais la voir
+        <Sync time="869.056" />
+        elle a toujours été présente jusqu'au quatrième enfant
+        <Sync time="871.365" />
+        à mes accouchements que maman elle a été jamais été présente à un accouchement +
+        <Sync time="877.287" />
+        que ma belle-mère elle a toujours été avec moi elle a toujours été là présente +
+      </Turn>
+      <Turn speaker="spk1" startTime="882.103" endTime="884.66">
+        <Sync time="882.103" />
+        et tu as arrêté de travailler alors +
+      </Turn>
+      <Turn speaker="spk2" startTime="884.66" endTime="896.535">
+        <Sync time="884.66" />
+        de delà j'ai travaillé + au départ j'ai continué à travailler à partir du troisième j'ai
+        <Sync time="891.923" />
+        j'ai travaillé à mi-temps + et à partir du quatrième j'ai arrêté de travailler +
+      </Turn>
+      <Turn speaker="spk1" startTime="896.535" endTime="903.462">
+        <Sync time="896.535" />
+        et entre temps tu revoyais ta famille tes frères euh
+        <Comment desc="coupure dans l'enregistrement" />
+      </Turn>
+      <Turn speaker="spk2" startTime="903.462" endTime="923.785">
+        <Sync time="903.462" />
+        oui je l'ai revu c'est par hasard dans la rue on s'est rencontrés on s'est regardés
+        <Sync time="908.168" />
+        on s'est mis à pleurer puis on s'est mis l'un dans les bras de l'autre
+        <Sync time="911.141" />
+        et on a pleuré on s'est embrassés on j'étais heureuse
+        <Sync time="914.324" />
+        je n'ai jamais été aussi heureuse que le jour-là parce que je l'aimais énormément il m'aimait
+        <Sync time="918.166" />
+        il m'aime toujours énormément c'est + pour moi mon frère c'est ma moitié + c'est mon ami
+      </Turn>
+      <Turn speaker="spk1" startTime="923.785" endTime="925.492">
+        <Sync time="923.785" />
+        ils habitent où tes frères ils sont en France ou en Tunisie
+      </Turn>
+      <Turn speaker="spk2" startTime="925.492" endTime="937.957">
+        <Sync time="925.492" />
+        oui ils sont en France les deux +
+        <Sync time="927.496" />
+        il y en a un il habite à ¤T6¤ il travaille au + comme chauffeur de bus +
+        <Sync time="932.028" />
+        le plus jeune il travaille à la clinique euh
+        <Event desc="b" type="noise" extent="previous" />
+        d'¤T7¤ et puis il habite à ¤T8¤
+      </Turn>
+      <Turn speaker="spk1" startTime="937.957" endTime="938.94">
+        <Sync time="937.957" />
+        ils ont des enfants
+      </Turn>
+      <Turn speaker="spk2" startTime="938.94" endTime="950.351">
+        <Sync time="938.94" />
+        oui l'aîné donc le + mon ami mon frère + comme il dit elle dit la chanson
+        <Sync time="945.707" />
+        il a s- quatre + et le deuxième il en a cinq
+      </Turn>
+      <Turn speaker="spk1" startTime="950.351" endTime="952.662">
+        <Sync time="950.351" />
+        et ça fait combien de temps que tu es pas retournée en Tunisie
+        <Event desc="b" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="952.662" endTime="956.058">
+        <Sync time="952.662" />
+        eh ben depuis soixante-sept depuis que je suis arrivée en France j'ai jamais quitté la France
+      </Turn>
+      <Turn speaker="spk1" startTime="956.058" endTime="956.965">
+        <Sync time="956.058" />
+        soixante-seize
+      </Turn>
+      <Turn speaker="spk2" startTime="956.965" endTime="957.944">
+        <Sync time="956.965" />
+        soixante-sept
+      </Turn>
+      <Turn speaker="spk1" startTime="957.944" endTime="958.906">
+        <Sync time="957.944" />
+        ah soixante-sept
+      </Turn>
+      <Turn speaker="spk2" startTime="958.906" endTime="981.782">
+        <Sync time="958.906" />
+        le douze avril mille neuf cent
+        <Event desc="b" type="noise" extent="previous" />
+        soixante-sept +
+        <Sync time="961.448" />
+        mais je n'ai pas retourné en Tunisie pour la simple raison c'est pas que je ne voulais pas
+        <Sync time="966.289" />
+        j'aurais bien aimé emmener mes enfants y passer des vacances là-bas + mais
+        <Event desc="b" type="noise" extent="previous" />
+        c'est ma mère qui m'a faite jurer
+        <Sync time="972.97" />
+        et comme je suis croyante en Dieu comme je te l'ai dit tout à l'heure
+        <Sync time="976.293" />
+        ça fait que je n'irais pas en Tunisie tant qu'elle est du monde
+        <Sync time="978.792" />
+        je pense que maintenant mes parents ils sont décédés tous les deux
+      </Turn>
+      <Turn speaker="spk1" startTime="981.782" endTime="983.249">
+        <Sync time="981.782" />
+        il y a longtemps
+      </Turn>
+      <Turn speaker="spk2" startTime="983.249" endTime="989.68">
+        <Sync time="983.249" />
+        mon père ça fait +
+        <Event desc="b" type="noise" extent="previous" />
+        cinq ans + non quatre ans pardon et ma mère ça fait deux ans
+      </Turn>
+      <Turn speaker="spk1" startTime="989.68" endTime="991.162">
+        <Sync time="989.68" />
+        donc tu repenses que tu retourneras là-bas quand même
+      </Turn>
+      <Turn speaker="spk2" startTime="991.162" endTime="999.545">
+        <Sync time="991.162" />
+        oui je pense avec un de mes enfants on pourra retourner là-bas
+        <Sync time="993.972" />
+        puis j'emmènerais mes petits-enfants + parce que j'en ai six des petits-enfants +
+      </Turn>
+      <Turn speaker="spk1" startTime="999.545" endTime="1002.449">
+        <Sync time="999.545" />
+        et tu as la nationalité de française depuis quand alors
+      </Turn>
+      <Turn speaker="spk2" startTime="1002.449" endTime="1064.103">
+        <Sync time="1002.449" />
+        j'ai eu la nationalité s- française en quatre-vingt-deux
+        <Sync time="1006.248" />
+        voilà le problème c'est que j'ai
+        <Event desc="incompréhensible" type="pronounce" extent="previous" />
+        <Sync time="1008.35" />
+        j'allais dire qu'on a vécu dans le péché + c'est que j'ai eu six enfants sans être mariée +
+        <Sync time="1013.425" />
+        pour la simple raison que mes parents ils n'ont jamais accepté de +
+        <Sync time="1017.367" />
+        laisser la la personne qui travaillait à la municipalité de ¤T1¤
+        <Sync time="1021.156" />
+        c'était un cousin à mon père donner délivrer les papiers
+        <Sync time="1024.325" />
+        qu'il me fallait certificat de nationalité certificat de + euh célibataire
+        <Sync time="1030.277" />
+        et j'ai jamais eu et grâce euh à notre maire + cette année-là + c'était monsieur ¤N2¤
+        <Sync time="1037.855" />
+        lui il a tapé sur la table puis il a écrit lui-même
+        <Sync time="1040.241" />
+        il a demandé ces papiers-là on lui a délivré et là on a pu se marier en octobre
+        <Sync time="1043.725" />
+        le vingt-deux octobre mille neuf cent quatre-vingt-deux +
+        <Sync time="1048.637" />
+        et de delà bon j'ai fait tout de suite ma demande pour la sa-
+        <Sync time="1051.801" />
+        pour les papiers + pour la * pour le la nationalité française
+        <Sync time="1058.157" />
+        et ça a été très très vite ils m'ont délivré tout de suite les papiers il y avait pas de problème du tout +
+      </Turn>
+      <Turn speaker="spk1" startTime="1064.103" endTime="1065.917">
+        <Sync time="1064.103" />
+        tu as combien de petits enfants maintenant
+      </Turn>
+      <Turn speaker="spk2" startTime="1065.917" endTime="1071.321">
+        <Sync time="1065.917" />
+        et ben euh six et puis le septième il est en route pour le mois de février ou mars
+      </Turn>
+      <Turn speaker="spk1" startTime="1071.321" endTime="1076.596">
+        <Sync time="1071.321" />
+        et tes enfants ils font quoi + ils ont une profession ils sont étudiants ou +
+      </Turn>
+      <Turn speaker="spk2" startTime="1076.596" endTime="1079.324">
+        <Sync time="1076.596" />
+        j'ai + l'aînée elle est mère au foyer +
+      </Turn>
+      <Turn speaker="spk1" startTime="1079.324" endTime="1082.088">
+        <Sync time="1079.324" />
+        elle a combien d'enfants elle +
+      </Turn>
+      <Turn speaker="spk2" startTime="1082.088" endTime="1084.267">
+        <Sync time="1082.088" />
+        elle a eu quatre enfants +
+      </Turn>
+      <Turn speaker="spk1" startTime="1084.267" endTime="1085.08">
+        <Sync time="1084.267" />
+        ensuite
+      </Turn>
+      <Turn speaker="spk2" startTime="1085.08" endTime="1125.646">
+        <Sync time="1085.08" />
+        ensuite euh la deuxième elle est euh responsable chez ¤S2¤ +
+        <Sync time="1091.584" />
+        elle est responsable régionale + donc c'est elle attend son bébé son premier bébé
+        <Sync time="1096.075" />
+        le + troisième lui il travaille à l'¤S3¤ +
+        <Sync time="1101.998" />
+        il est célibataire endurci +
+        <Sync time="1103.712" />
+        le + quatrième il vit avec une fille il est boulanger chez ¤S4¤ il a deux enfants +
+        <Sync time="1113.115" />
+        la cinquième c'est une fille
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        elle elle travaille comme animatrice chez ¤S5¤
+        <Sync time="1119.883" />
+        et mon doudou le dernier il est à la faculté + il continue ses études +
+      </Turn>
+      <Turn speaker="spk1" startTime="1125.646" endTime="1127.911">
+        <Sync time="1125.646" />
+        et tous tes enfants habitent dans la région
+      </Turn>
+      <Turn speaker="spk2" startTime="1127.911" endTime="1145.013">
+        <Sync time="1127.911" />
+        j'en ai qu'une qui donc la + deuxième de mes filles qui habite à ¤T9¤ +
+        <Sync time="1132.519" />
+        elle a quitté la région elle se plaisait pas dans la région elle l'a quittée
+        <Sync time="1135.698" />
+        c'est son travail aussi qui l'a emmenée là-bas puis elle est très heureuse là-bas
+        <Sync time="1140.328" />
+        de temps en temps quand on a le temps on va la voir on passe quelques jours chez elle et on est contents de se revoir
+      </Turn>
+      <Turn speaker="spk1" startTime="1145.013" endTime="1146.333">
+        <Sync time="1145.013" />
+        donc tu la vois tout le temps de toute façon
+      </Turn>
+      <Turn speaker="spk2" startTime="1146.333" endTime="1154.816">
+        <Sync time="1146.333" />
+        oui ben euh tu elle me téléphone tous les jours on est toujours en contact
+        <Sync time="1150.363" />
+        non sincèrement j'ai une très très bonne entente avec mes enfants il y a aucun problème +
+      </Turn>
+      <Turn speaker="spk1" startTime="1154.816" endTime="1159.221">
+        <Sync time="1154.816" />
+        et euh avec euh + tes frères euh tu les vois aussi souvent ///
+      </Turn>
+      <Turn speaker="spk2" startTime="1159.221" endTime="1172.235">
+        <Sync time="1159.221" />
+        non on se voit pas très très souvent on peut pas dire qu'on se voit tout le temps tout le temps
+        <Sync time="1163.033" />
+        on est pas les uns sur les autres mais quand on se retrouve on est bien contents de se voir
+        <Sync time="1166.581" />
+        surtout un l'autre on ne on se voit pas pratiquement pas + on se fréquente pas non plus
+      </Turn>
+      <Turn speaker="spk1" startTime="1172.235" endTime="1174.297">
+        <Sync time="1172.235" />
+        tu as souvent des nouvelles de la Tunisie
+      </Turn>
+      <Turn speaker="spk2" startTime="1174.297" endTime="1176.438">
+        <Sync time="1174.297" />
+        oui par téléphone de temps en temps
+      </Turn>
+      <Turn speaker="spk1" startTime="1176.438" endTime="1177.574">
+        <Sync time="1176.438" />
+        tu appelle la famille qui est là-bas
+      </Turn>
+      <Turn speaker="spk2" startTime="1177.574" endTime="1181.567">
+        <Sync time="1177.574" />
+        ben oui quand j'ai envie d'avoir des nouvelles euh j'appelle autrement euh personne n'appelle
+      </Turn>
+      <Turn speaker="spk1" startTime="1181.567" endTime="1184.785">
+        <Sync time="1181.567" />
+        hum et tes enfants ils sont quoi ils sont musulmans chrétiens euh
+      </Turn>
+      <Turn speaker="spk2" startTime="1184.785" endTime="1235.201">
+        <Sync time="1184.785" />
+        alors mes enfants + ils sont ils ont le droit de choisir moi on m'a imposé une religion +
+        <Sync time="1190.831" />
+        je n'aime pas imposer des choses aux autres j'aime pas du fait qu'on m'a imposé pas mal de choses
+        <Sync time="1195.512" />
+        je n'aime pas imposer aux enfants de dire tu seras reli- de la religion de la religion catholique
+        <Sync time="1200.642" />
+        ou tu seras musulman non pas du tout + absolument pas +
+        <Sync time="1204.107" />
+        j'ai choisi déjà des prénoms + qui donnent un peu de là-bas un peu d'ici que c'est pas des prénoms euh olé olé
+        <Sync time="1211.437" />
+        mais pour ça je ne voulais pas la religion non pas du tout +
+        <Sync time="1215.655" />
+        maintenant ils sont grands ils peuvent choisir celui qui veut venir devenir musulman
+        <Sync time="1219.154" />
+        il a le choix celui qui veut devenir juif il a le choix + ou catholique + ils font ce qui les intéresse +
+        <Sync time="1225.934" />
+        d'ailleurs mes petits-enfants ils sont pas baptisés non plus +
+        <Sync time="1229.156" />
+        parce que j'estime qu'un être humain il a le choix de faire ce qu'il a envie de faire ///
+      </Turn>
+      <Turn speaker="spk1" startTime="1235.201" endTime="1237.873">
+        <Sync time="1235.201" />
+        et maintenant tu continues à travailler ou euh
+      </Turn>
+      <Turn speaker="spk2" startTime="1237.873" endTime="1249.664">
+        <Sync time="1237.873" />
+        ben j'ai repris le travail depuis mille neuf cent quatre vingt + janvier mille neuf cent quatre vingt +
+        <Sync time="1244.044" />
+        j'ai travaillé à temps complet puis depuis trois ans j'ai + je travaille à mi-temps +
+      </Turn>
+      <Turn speaker="spk1" startTime="1249.664" endTime="1250.858">
+        <Sync time="1249.664" />
+        et euh + ça
+      </Turn>
+      <Turn speaker="spk2" startTime="1250.858" endTime="1259.255">
+        <Sync time="1250.858" />
+        parce que pour moi le travail c'est la liberté +
+        <Sync time="1254.218" />
+        c'est une liberté d'esprit c'est une liberté d'argent
+        <Sync time="1256.3" />
+        c'est c'est le travail c'est la liberté * &lt; c'est pour un être humain
+      </Turn>
+      <Turn speaker="spk1" startTime="1259.255" endTime="1260.176">
+        <Sync time="1259.255" />
+        tu es autonome &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="1260.176" endTime="1260.483">
+        <Sync time="1260.176" />
+        comment
+      </Turn>
+      <Turn speaker="spk1" startTime="1260.483" endTime="1261.51">
+        <Sync time="1260.483" />
+        tu es autonome tu es libre en fait
+      </Turn>
+      <Turn speaker="spk2" startTime="1261.51" endTime="1270.682">
+        <Sync time="1261.51" />
+        je suis autonome je suis libre et je je fais ce que je veux avec mon argent +
+        <Sync time="1266.119" />
+        ben pas des bêtises automatiquement mais euh + c'est une liberté +
+      </Turn>
+      <Turn speaker="spk1" startTime="1270.682" endTime="1278.875">
+        <Sync time="1270.682" />
+        et dans ta vie il y a quelqu'un qui a vraiment beaucoup compté pour toi
+        <Sync time="1273.369" />
+        qui t'a un peu aidée euh + quand tu avais des des problèmes ou euh + qui t'a qui t'a élevée ou
+      </Turn>
+      <Turn speaker="spk2" startTime="1278.875" endTime="1345.808">
+        <Sync time="1278.875" />
+        il y a eu deux personnes + mais ça vient toujours euh je peux dire avant c'était une personne pour moi qui +
+        <Sync time="1286.405" />
+        qui a compté énormément et jusqu'à maintenant je l'oublierais jamais c'était ma grand-mère + la mère à ma mère +
+        <Sync time="1292.293" />
+        c'était une femme qui est restée veuf à l'âge de vingt ans vingt et un ans
+        <Sync time="1295.76" />
+        son mari est décédé elle l'a jamais remplacé
+        <Sync time="1297.495" />
+        elle a élevé ses enfants et pour moi c'était une femme qui était extraordinaire +
+        <Sync time="1302.573" />
+        elle était d'une gentillesse inouïe elle était sévère et gentille à la fois +
+        <Sync time="1306.902" />
+        c'était une femme formidable
+        <Sync time="1309.165" />
+        d'ailleurs cette femme-là + elle est venue en France malgré son son âge
+        <Sync time="1314.105" />
+        elle avait + soixante dix ans elle s'est dérangée de la Tunisie
+        <Sync time="1317.613" />
+        et comme elle a su que ma mère elle ne voulait pas que j'aille là-bas
+        <Sync time="1320.29" />
+        elle a dit si ma fille ma petite-fille elle ne peut pas venir me voir c'est moi qui va la voir
+        <Sync time="1325.383" />
+        et elle est venue en France pour me voir +
+        <Sync time="1328.161" />
+        et elle a accepté la situation que j'étais avec un français ça l'a pas dérangée
+        <Sync time="1331.708" />
+        la seule chose elle l'a regardé dans le yeux dans les yeux elle a dit que c'était un homme
+        <Sync time="1335.695" />
+        il baisse pas le les yeux c'est un homme
+        <Sync time="1337.879" />
+        et elle l'a accepté elle a accepté mes enfants et je +
+        <Sync time="1340.441" />
+        cette période-là je l'oublierais jamais parce que j'avais ma grand-mère
+        <Sync time="1343.44" />
+        je la voyais tous les jours + &lt; j'allais la chercher
+      </Turn>
+      <Turn speaker="spk1" startTime="1345.808" endTime="1347.949">
+        <Sync time="1345.808" />
+        elle est restée longtemps en France &gt; +
+      </Turn>
+      <Turn speaker="spk2" startTime="1347.949" endTime="1353.146">
+        <Sync time="1347.949" />
+        elle a resté deux ans en France et malheureusement elle est tombée gravement malade et elle est décédée
+      </Turn>
+      <Turn speaker="spk1" startTime="1353.146" endTime="1353.559">
+        <Sync time="1353.146" />
+        en France
+      </Turn>
+      <Turn speaker="spk2" startTime="1353.559" endTime="1419.071">
+        <Sync time="1353.559" />
+        non elle est est décédée trois jours après son arrivée en Tunisie
+        <Sync time="1358.84" />
+        parce qu'elle voulait à tout prix revoir ses le restant de la famille avant de mourir
+        <Sync time="1362.636" />
+        d'ailleurs quand elle est venue de la Tunisie elle était déjà malade +
+        <Sync time="1365.746" />
+        mais avec les médecins ici tout ça on est arrivé à la maintenir quand même deux ans +
+        <Sync time="1369.84" />
+        mais je lui ai promis si elle est malade qu'elle retournerait en Tunisie vivante
+        <Sync time="1373.372" />
+        et moi j'ai fait tout mon possible pour elle pour qu'elle puisse rentrer vivante en Tunisie
+        <Sync time="1377.277" />
+        pour voir toute la famille + et ça je pour moi c'est quelque chose d'extraordinaire
+        <Sync time="1382.542" />
+        que j'ai pu + faire parce que j'ai tenu ma promesse +
+        <Sync time="1385.51" />
+        et tenir sa promesse c'est quelque chose de bien ///
+        <Sync time="1392.46" />
+        et la deuxième personne c'est ma belle mère la façon qu'elle m'a accueillie chez elle comme une fille
+        <Sync time="1396.268" />
+        elle m'a pas rejetée du fait que maman elle a fait pas mal de cirque elle euh +
+        <Sync time="1401.164" />
+        de racisme et tout ça que ma belle mère pas du tout
+        <Sync time="1403.768" />
+        elle elle en avait rien à faire de tout ce qu'elle disait maman
+        <Sync time="1406.565" />
+        et tout ça et elle m'a acceptée elle m'a donné l'amour elle m'a do- tout donné +
+        <Sync time="1410.664" />
+        jusqu'à sa mort + et ça je l'oublierai pas non plus +
+        <Sync time="1414.847" />
+        puis la chose maintenant qui me rend vraiment heureuse c'est mes enfants et mes petits-enfants
+      </Turn>
+      <Turn speaker="spk1" startTime="1419.071" endTime="1421.68">
+        <Sync time="1419.071" />
+        et ton père tu en pensais quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="1421.68" endTime="1440.96">
+        <Sync time="1421.68" />
+        ton mon père c'était un homme qui + malheureusement + il était très très soumis à maman
+        <Sync time="1427.976" />
+        elle elle disait que tout ça venait de lui mais lui il disait toujours c'est ta mère c'est
+        <Event desc="b" type="noise" extent="previous" />
+        ça vient d'elle
+        <Sync time="1434.866" />
+        et là je me suis rendue compte après le décès de mon père que c'était ma mère qui menait la barque et non mon père
+      </Turn>
+      <Turn speaker="spk1" startTime="1440.96" endTime="1443.592">
+        <Sync time="1440.96" />
+        autrement tes parents ils vivaient où en France ou en Tunisie &lt; ils ont eu envie de
+      </Turn>
+      <Turn speaker="spk2" startTime="1443.592" endTime="1444.196">
+        <Sync time="1443.592" />
+        eh ben &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="1444.196" endTime="1445.277">
+        <Sync time="1444.196" />
+        rentrer quand même au bout d'un moment non
+      </Turn>
+      <Turn speaker="spk2" startTime="1445.277" endTime="1512.393">
+        <Sync time="1445.277" />
+        oui bien sûr et puis ils avaient leur maison +
+        <Sync time="1448.681" />
+        ils étaient pas à la rue non plus + ben ils ont vécu en ils vivaient en France trois mois
+        <Sync time="1453.181" />
+        ils vivaient en Tunisie trois mois
+        <Sync time="1455.026" />
+        et à la fin de leur vie eh ben je les ai eus souvent à la maison on s'est arrangé
+        <Sync time="1459.104" />
+        mais toujours pas pour moi j'avais toujours pas le droit d'aller en Tunisie mais moi je m'en foutais
+        <Sync time="1463.307" />
+        du fait que je voyais mes parents pour moi c'était le principal
+        <Sync time="1466.838" />
+        je les ai accueillis à la maison ils ont restés chez moi
+        <Sync time="1469.807" />
+        ils étaient malades je les ai soignés + et comme mon père il était malade il avait la maladie de Parkinson +
+        <Sync time="1476.195" />
+        ben il fallait fallait vraiment s'occuper de lui puis c'était quelqu'un de très très sensible +
+        <Sync time="1481.601" />
+        aussi alors il je pouvais pas le laisser seul +
+        <Sync time="1484.741" />
+        alors ça fait qu'il est parti là depuis *** il devait être parti en Tunisie pour des vacances
+        <Sync time="1489.366" />
+        comme toujours mais là-bas il est tombé malade et puis il est rentré dans un coma + profond
+        <Sync time="1494.023" />
+        puis ma foi il est parti + il est décédé
+        <Sync time="1496.115" />
+        décédé le premier octobre + et j'ai eu très très très mal
+        <Sync time="1502.085" />
+        mais je pensais pas que je prendrai euh aussi mal du fait que j'avais des enfants
+        <Sync time="1505.598" />
+        des petits-enfants tout ça mais il y avait quelque chose qui de moi qui est partie avec lui
+        <Sync time="1509.801" />
+        mais je l'oublie pas tous les jours je pense à lui
+      </Turn>
+      <Turn speaker="spk1" startTime="1512.393" endTime="1514.644">
+        <Sync time="1512.393" />
+        et il voulait mourir là-bas de toute façon
+      </Turn>
+      <Turn speaker="spk2" startTime="1514.644" endTime="1528.69">
+        <Sync time="1514.644" />
+        eh ben oui parce que mê- même moi si il décédait en France je l'aurais fait rapatrier
+        <Sync time="1519.127" />
+        parce qu'il + pour moi il était musulman pratiquant
+        <Sync time="1523.097" />
+        il avait ses traditions à lui tout ça et je l'aurais jamais fait enterrer en France + pour lui
+      </Turn>
+      <Turn speaker="spk1" startTime="1528.69" endTime="1529.066">
+        <Sync time="1528.69" />
+        &lt; et ta mère
+      </Turn>
+      <Turn speaker="spk2" startTime="1529.066" endTime="1566.168">
+        <Sync time="1529.066" />
+        moi j'aurais &gt; bien aimé qu'il soit enterré ici et que je puisse aller sur sa tombe
+        <Sync time="1532.33" />
+        ben ma mère après ça elle a fait une forte dépression nerveuse
+        <Sync time="1535.206" />
+        elle est revenue en France elle a été très très malade +
+        <Sync time="1538.814" />
+        et euh on est arrivé à la soigner je l'ai gardée mais elle se plaisait pas + avec moi
+        <Sync time="1542.674" />
+        elle voulait à à tout prix aller chez le plus jeune +
+        <Sync time="1545.391" />
+        parce qu'elle aimait bien sa femme et tout
+        <Sync time="1547.174" />
+        mais malheureusement pour elle elle a pas eu ce qu'elle voulait +
+        <Sync time="1549.835" />
+        elle elle voulait une fille musulmane qui s'occupait d'elle et tout
+        <Sync time="1553.234" />
+        mais ma be- belle soeur s'est pas occupée d'elle ils l'ont envoyée en Tunisie +
+        <Sync time="1557.843" />
+        on a pris quelqu'un pour la garder pour faire attention à elle et puis elle est décédée +
+        <Sync time="1562.609" />
+        au bout de de deux deux ans elle a rejoint mon père
+      </Turn>
+      <Turn speaker="spk1" startTime="1566.168" endTime="1573.12">
+        <Sync time="1566.168" />
+        euh tu en veux un autre et tu aurais préféré vivre en France avec ta famille
+        <Sync time="1570.074" />
+        ou euh + ben tu as vécu en France avec ta famille ou en Tunisie
+      </Turn>
+      <Turn speaker="spk2" startTime="1573.12" endTime="1636.507">
+        <Sync time="1573.12" />
+        en France parce qu'en Tunisie j'aurais pas pu vivre euh aussi large que qu'en France
+        <Sync time="1578.341" />
+        du fait que mes enfants ils sont très très gâtés c'est des enfants gâtés
+        <Sync time="1581.682" />
+        mes petits-enfants aussi qu'en Tunisie c'est pas le même train de vie +
+        <Sync time="1586.153" />
+        et rien que pour manger on est on est je j'ai jamais été privée là-bas
+        <Sync time="1589.65" />
+        mais c'est pas le même train de vie ça n'a rien à voir et puis mes enfants ils auraient pas pu supporter
+        <Sync time="1593.556" />
+        parce que en France + les familles ben on se voit on se dit bonjour on se +
+        <Sync time="1599.45" />
+        on s'invite les uns les autres qu'en Tunisie aussitôt qu'il y a une famille qui est installée tout le monde débarque
+        <Sync time="1604.056" />
+        à n'importe quelle heure et les gens ils se sentent chez eux du fait que
+        <Sync time="1607.919" />
+        j'ai ma une soeur qui a + qui a onze enfants là-bas +
+        <Sync time="1611.915" />
+        ça ne ça n'aurait jamais été et puis ça m'aurait pas intéressée du du fait que ces choses-là
+        <Sync time="1616.009" />
+        je les supportais déjà pas en étant jeune
+        <Sync time="1618.68" />
+        je vivais à part + alors mes enfants je pense pas qu'ils l'auraient acceptée cette vie-là non plus
+        <Sync time="1623.602" />
+        mais par contre mes enfants ils étaient en vacances en Tunisie
+        <Sync time="1626.133" />
+        c'est pas dans la famille mais ils ont été euh + avec des camps ils ça leur a plu +
+        <Sync time="1632.226" />
+        et je pense quand même que je retournerais en Tunisie avec mes enfants mes petits-enfants
+      </Turn>
+      <Turn speaker="spk1" startTime="1636.507" endTime="1637.712">
+        <Sync time="1636.507" />
+        tes enfants ils parlent l'arabe
+      </Turn>
+      <Turn speaker="spk2" startTime="1637.712" endTime="1664.039">
+        <Sync time="1637.712" />
+        ah non pas du tout ça n'a pas été facile pour leur apprendre l'arabe du fait que moi j'étais la seule
+        <Sync time="1642.321" />
+        mon mari français parlait pas l'arabe moi + parlant la + la langue française correctement
+        <Sync time="1648.323" />
+        je ne parlais pas l'arabe et ça m'arrive de parler un peu en arabe + avec mon frère quand on se trouve tout seuls
+        <Sync time="1653.806" />
+        mais + par respect pour mes enfants et mon mari +
+        <Sync time="1656.899" />
+        quand il y a mes on est tous autour de la table je ne parle jamais en arabe avec lui
+        <Sync time="1660.18" />
+        même si il se permet de me parler en arabe je réponds en français
+      </Turn>
+      <Turn speaker="spk1" startTime="1664.039" endTime="1665.789">
+        <Sync time="1664.039" />
+        ils ont jamais essayé d'apprendre l'arabe
+      </Turn>
+      <Turn speaker="spk2" startTime="1665.789" endTime="1683.444">
+        <Sync time="1665.789" />
+        ils ont essayé mais + le maître il est qu'ils ont eu +
+        <Sync time="1670.974" />
+        l'instituteur + qu'ils ont eu de tunisien il se prenait pour Dieu
+        <Sync time="1675.195" />
+        le Père du fait qu'en Tunisie on doit respecter l'instituteur
+        <Sync time="1679.178" />
+        ce qu'il dit ainsi de suite mes enfants ils n'ont pas pu supporter ça et puis ils ont refusé d'y aller et
+      </Turn>
+      <Turn speaker="spk1" startTime="1683.444" endTime="1687.007">
+        <Sync time="1683.444" />
+        un peu comme en France euh + au début du siècle ou euh
+      </Turn>
+      <Turn speaker="spk2" startTime="1687.007" endTime="1716.739">
+        <Sync time="1687.007" />
+        ben voilà justement + l'instituteur c'était quelque chose d'extraordinaire +
+        <Sync time="1692.617" />
+        alors le ce jeune-là il a gardé la mentalité-là
+        <Sync time="1695.695" />
+        mais il a oublié que c'est c'est des jeunes français qui voulaient apprendre l'arabe
+        <Sync time="1699.069" />
+        il aurait été un peu plus souple avec eux je j'en suis sûre ils auraient appris
+        <Sync time="1702.867" />
+        mais moi à la maison je ne pouvais pas leur apprendre parce que j'étais la seule qui parlait la langue-là +
+        <Sync time="1706.897" />
+        c'était pas facile avoir six enfants et essayer de leur apprendre l'arabe avec +
+        <Sync time="1712.179" />
+        je menais la barque à la maison il fallait tout faire leurs devoirs tout ça alors je pouvais pas
+      </Turn>
+      <Turn speaker="spk1" startTime="1716.739" endTime="1721.27">
+        <Sync time="1716.739" />
+        et ça te manque pas tu aurais pas aimé qu'un de tes fils ou de tes une de tes filles parle l'arabe
+      </Turn>
+      <Turn speaker="spk2" startTime="1721.27" endTime="1737.504">
+        <Sync time="1721.27" />
+        si j'aurais peut-être j'aurais aimé bon parler mais pfff
+        <Sync time="1725.117" />
+        je peux dire que je ne je n'y ai même pas pensé pas du tout +
+        <Sync time="1729.629" />
+        du fait qu'on se comprend on se comprend très très bien en français
+        <Sync time="1732.098" />
+        je vois pas où elle est l'utilité de se mettre à deux à parler
+        <Sync time="1734.711" />
+        une autre langue que les deux les autres sont autour de la table
+      </Turn>
+      <Turn speaker="spk1" startTime="1737.504" endTime="1740.441">
+        <Sync time="1737.504" />
+        ouais mais pour les traditions garder les traditions euh
+      </Turn>
+      <Turn speaker="spk2" startTime="1740.441" endTime="1744.284">
+        <Sync time="1740.441" />
+        ben les traditions je les ai pas aimées c'est pas pour les inculquer à mes enfants
+      </Turn>
+      <Turn speaker="spk1" startTime="1744.284" endTime="1746.486">
+        <Sync time="1744.284" />
+        ouais mais tu fais quand même euh certaines &lt; fêtes comme l'Aïd
+      </Turn>
+      <Turn speaker="spk2" startTime="1746.486" endTime="1778.405">
+        <Sync time="1746.486" />
+        oui l'Aïd &gt; tout ça parce que c'est dans le Coran +
+        <Sync time="1749.458" />
+        parce que ça c'est dans le Coran +
+        <Sync time="1751.568" />
+        l'Aïd les le l'Aïd El Kébir le la fête du sacrifice tout ça oui d'acc- je suis tout à fait d'accord
+        <Sync time="1758.673" />
+        pour montrer quand même je fais + la cuisine de de chez moi + aussi pour mes enfants
+        <Sync time="1764.38" />
+        pour qu'ils sachent ce que c'est aussi
+        <Sync time="1766.126" />
+        je veux pas les laisser ignorants euh se trouver avec un copain tunisien
+        <Sync time="1769.99" />
+        et se trouver tout bêtes qu'est-ce que qu'est ce que tu manges là qu'est-ce que c'est
+        <Sync time="1773.313" />
+        il y a certaines cuisines qu'ils aiment beaucoup
+        <Sync time="1775.268" />
+        il y a certaines cuisines qu'ils n'aiment pas du tout +
+      </Turn>
+      <Turn speaker="spk1" startTime="1778.405" endTime="1783.699">
+        <Sync time="1778.405" />
+        bientôt là c'est la période du Ramadan je crois que ça commence vers le cinq ou le sept décembre +
+        <Sync time="1782.253" />
+        tu continues à faire le Ramadan
+      </Turn>
+      <Turn speaker="spk2" startTime="1783.699" endTime="1788.591">
+        <Sync time="1783.699" />
+        non du fait que je mange du porc je j'estime que je n'ai pas à le faire +
+      </Turn>
+      <Turn speaker="spk1" startTime="1788.591" endTime="1791.932">
+        <Sync time="1788.591" />
+        ça te manques pas + tu l'as fait quand même pendant plus de vingt et un ans vingt-deux ans
+      </Turn>
+      <Turn speaker="spk2" startTime="1791.932" endTime="1797.84">
+        <Sync time="1791.932" />
+        je l'ai fait pendant non pas autant que ça quand même j'ai commencé à l'âge de huit ans + à le faire
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

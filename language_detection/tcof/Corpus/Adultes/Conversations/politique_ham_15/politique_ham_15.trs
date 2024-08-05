@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="coline" audio_filename="politique_HAM_15" version="8" version_date="180817">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="887.302">
+      <Turn speaker="spk1" startTime="0.0" endTime="2.514">
+        <Sync time="0.0" />
+        mais moi je sens tout le temps ton parfum vu qu'on est tout le temps à côté
+        <Event desc="bruits de vaisselle" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="2.514" endTime="4.033">
+        <Sync time="2.514" />
+        <Who nb="1" />
+        oui oui
+        <Event desc="bruits de vaisselle" type="noise" extent="previous" />
+        <Who nb="2" />
+        alors euh
+      </Turn>
+      <Turn speaker="spk1" startTime="4.033" endTime="8.734">
+        <Sync time="4.033" />
+        j'allais pas te dire tu sens bon alors que +
+        <Sync time="7.101" />
+        sinon je te le dis tous les jours
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="8.734" endTime="24.086">
+        <Sync time="8.734" />
+        d'ailleurs je j'en ai enfin j'ai j'ai demandé un autre pour Noël
+        <Sync time="12.386" />
+        + j'en ai un peu marre de celui-là
+        <Sync time="15.258" />
+        enfin c'é- c'était pas vraiment mon premier choix quoi +
+        <Sync time="18.672" />
+        il sent bon mais
+        <Sync time="19.823" />
+        + ben comme tu sais ils me les avaient tous euh
+      </Turn>
+      <Turn speaker="spk1" startTime="24.086" endTime="24.514">
+        <Sync time="24.086" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="24.514" endTime="39.347">
+        <Sync time="24.514" />
+        pris au moment du cambriolage
+        <Sync time="26.128" />
+        j'ai plus trop mille choix quoi
+        <Sync time="27.985" />
+        + je je laiss- je laisserai celui-là à la maison et je prendrai l'autre ici
+        <Sync time="33.806" />
+        + parce que bon c'est un peu chiant de toujours les
+        <Sync time="37.677" />
+        les ramener
+      </Turn>
+      <Turn speaker="spk1" startTime="39.347" endTime="48.183">
+        <Sync time="39.347" />
+        + hum +
+        <Sync time="41.687" />
+        <Event desc="boit de l'eau" type="noise" extent="begin" />
+        pareil Luc je me suis dit je vais peut-être lui acheter un parfum aussi
+      </Turn>
+      <Turn speaker="spk2" startTime="48.183" endTime="48.589">
+        <Sync time="48.183" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="48.589" endTime="52.695">
+        <Sync time="48.589" />
+        + il met toujours le même
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="52.695" endTime="53.879">
+        <Sync time="52.695" />
+        <Who nb="1" />
+        ouais quand tu
+        <Who nb="2" />
+        il a déjà
+      </Turn>
+      <Turn speaker="spk1" startTime="53.879" endTime="59.999">
+        <Sync time="53.879" />
+        trois flacons en plus du même tu en as il reste ça
+        <Event desc="rire de L2" type="noise" extent="instantaneous" />
+        <Sync time="57.159" />
+        tu en as il reste ça tu en as un il est neuf et il est en attente
+      </Turn>
+      <Turn speaker="spk2" startTime="59.999" endTime="62.762">
+        <Sync time="59.999" />
+        ouais quand tu as tes habitudes tu as du mal à changer
+      </Turn>
+      <Turn speaker="spk1" startTime="62.762" endTime="78.322">
+        <Sync time="62.762" />
+        mais vraiment genre tu as des flacons de déo partout
+        <Sync time="65.64" />
+        il en a un dans sa voiture il en a un dans sa chambre
+        <Sync time="67.377" />
+        il en a deux sur le meuble de la salle de bain
+        <Sync time="69.281" />
+        il en a trois encore euh sur le meuble tu sais des trucs neufs +
+        <Sync time="73.656" />
+        et il y en a un chez moi ///
+        <Sync time="77.389" />
+        le même
+      </Turn>
+      <Turn speaker="spk2" startTime="78.322" endTime="90.152">
+        <Sync time="78.322" />
+        <Event desc="rire" type="noise" extent="begin" />
+        c'est fou ça
+        <Sync time="80.176" />
+        + il y avait un lot dix déo pour
+        <Event desc="rire" type="noise" extent="end" />
+        ///
+      </Turn>
+      <Turn speaker="spk1" startTime="90.152" endTime="92.484">
+        <Sync time="90.152" />
+        c'est bizarre quand même moi j'aime pas garder la même chose tout le temps
+      </Turn>
+      <Turn speaker="spk2" startTime="92.484" endTime="95.395">
+        <Sync time="92.484" />
+        ouais j'aime bien changer aussi ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="95.395" endTime="98.966">
+        <Sync time="95.395" />
+        genre des déo
+        <Sync time="96.892" />
+        + ben un jour j'avais la fleur de tiaré là
+      </Turn>
+      <Turn speaker="spk2" startTime="98.966" endTime="99.272">
+        <Sync time="98.966" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="99.272" endTime="103.375">
+        <Sync time="99.272" />
+        après je mettais le truc à la noix de coco
+        <Sync time="101.374" />
+        et maintenant je mets le truc à l'amande
+      </Turn>
+      <Turn speaker="spk2" startTime="103.375" endTime="105.131">
+        <Sync time="103.375" />
+        + à l'amande douce
+      </Turn>
+      <Turn speaker="spk1" startTime="105.131" endTime="109.207">
+        <Sync time="105.131" />
+        euh de
+        <Sync time="107.062" />
+        + je sais pas où j'ai mis mon sac attends
+      </Turn>
+      <Turn speaker="spk2" startTime="109.207" endTime="110.291">
+        <Sync time="109.207" />
+        tout là-bas
+      </Turn>
+      <Turn speaker="spk1" startTime="110.291" endTime="112.144">
+        <Sync time="110.291" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        tout est dans mon sac
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="112.144" endTime="112.819">
+        <Sync time="112.144" />
+        ouais comme d'habitude
+      </Turn>
+      <Turn speaker="spk1" startTime="112.819" endTime="113.837">
+        <Sync time="112.819" />
+        ma maison
+      </Turn>
+      <Turn speaker="spk2" startTime="113.837" endTime="115.15">
+        <Sync time="113.837" />
+        + ta maison
+      </Turn>
+      <Turn speaker="spk1" startTime="115.15" endTime="119.925">
+        <Sync time="115.15" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        ///
+        <Comment desc="cherche les flacon de parfum" />
+        amande douce
+      </Turn>
+      <Turn speaker="spk2" startTime="119.925" endTime="122.027">
+        <Sync time="119.925" />
+        ah oui je l'avais déjà celui-là il sent trop bon
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="122.027" endTime="132.813">
+        <Sync time="122.027" />
+        <Event desc="pschit" type="noise" extent="instantaneous" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        /// je l'ai piqué à ma mère
+        <Sync time="127.818" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        parce que le mien il était vide alors euh
+        <Sync time="131.063" />
+        je me suis dit bon ben je vais prendre celui de ma mère
+      </Turn>
+      <Turn speaker="spk2" startTime="132.813" endTime="138.036">
+        <Sync time="132.813" />
+        non c'est agréable il est il est léger il est enfin il pique pas le nez quoi
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="138.036" endTime="138.29">
+        <Sync time="138.036" />
+        <Who nb="1" />
+        hum
+        <Who nb="2" />
+        il est
+      </Turn>
+      <Turn speaker="spk2" startTime="138.29" endTime="139.139">
+        <Sync time="138.29" />
+        il est doux
+      </Turn>
+      <Turn speaker="spk1" startTime="139.139" endTime="142.536">
+        <Sync time="139.139" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        + il est doux pour la peau
+      </Turn>
+      <Turn speaker="spk2" startTime="142.536" endTime="156.471">
+        <Sync time="142.536" />
+        oui
+        <Event desc="b" type="noise" extent="instantaneous" />
+        /// ouais ///
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="156.471" endTime="159.844">
+        <Sync time="156.471" />
+        <Event desc="soupir" type="noise" extent="instantaneous" />
+        bon ben il est l'heure de faire la vaisselle
+        <Sync time="158.695" />
+        + et de la ranger
+      </Turn>
+      <Turn speaker="spk2" startTime="159.844" endTime="160.789">
+        <Sync time="159.844" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        tu crois
+      </Turn>
+      <Turn speaker="spk1" startTime="160.789" endTime="162.392">
+        <Sync time="160.789" />
+        alors le sel moi je vais le mettre là
+      </Turn>
+      <Turn speaker="spk2" startTime="162.392" endTime="163.938">
+        <Sync time="162.392" />
+        <Event desc="b" type="noise" extent="previous" />
+        waouh
+      </Turn>
+      <Turn speaker="spk1" startTime="163.938" endTime="165.651">
+        <Sync time="163.938" />
+        ensuite euh
+      </Turn>
+      <Turn speaker="spk2" startTime="165.651" endTime="167.507">
+        <Sync time="165.651" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        pour une f- l'instant c'est juste
+      </Turn>
+      <Turn speaker="spk1" startTime="167.507" endTime="168.788">
+        <Sync time="167.507" />
+        <Event desc="bruit de casserole" type="noise" extent="previous" />
+        la casserole
+      </Turn>
+      <Turn speaker="spk2" startTime="168.788" endTime="172.144">
+        <Sync time="168.788" />
+        <Event desc="b" type="noise" extent="previous" />
+        le reste tu peux difficilement le ranger alors que c'est sale
+      </Turn>
+      <Turn speaker="spk1" startTime="172.144" endTime="172.985">
+        <Sync time="172.144" />
+        on va la ranger là
+      </Turn>
+      <Turn speaker="spk2" startTime="172.985" endTime="175.761">
+        <Sync time="172.985" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="175.761" endTime="177.026">
+        <Sync time="175.761" />
+        et ensuite euh
+      </Turn>
+      <Turn speaker="spk2" startTime="177.026" endTime="180.961">
+        <Sync time="177.026" />
+        + attends faut juste que je prenne un sachet poubelle
+      </Turn>
+      <Turn speaker="spk1" startTime="180.961" endTime="183.801">
+        <Sync time="180.961" />
+        <Event desc="b" type="noise" extent="previous" />
+        + j'ai pas envie
+      </Turn>
+      <Turn speaker="spk2" startTime="183.801" endTime="187.708">
+        <Sync time="183.801" />
+        + j'ai pas eu le temps ce matin alors je f- houlà d'ailleurs faut que j'en rachète
+      </Turn>
+      <Turn speaker="spk1" startTime="187.708" endTime="197.961">
+        <Sync time="187.708" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Event desc="bâillement" type="noise" extent="instantaneous" />
+        j'ai pas envie d'y aller
+        <Sync time="195.869" />
+        + heureusement qu'Annabelle elle a déjà tout fait
+      </Turn>
+      <Turn speaker="spk2" startTime="197.961" endTime="227.718">
+        <Sync time="197.961" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        feignasse
+        <Sync time="199.962" />
+        <Event desc="b" type="noise" extent="previous" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        oh c'est pas très utile ton truc
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="205.593" />
+        ///
+        <Event desc="sachet poubelle" type="noise" extent="previous" />
+        a voté
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="227.718" endTime="229.151">
+        <Sync time="227.718" />
+        tu as été voter dimanche toi
+      </Turn>
+      <Turn speaker="spk2" startTime="229.151" endTime="230.483">
+        <Sync time="229.151" />
+        <Event desc="sachet poubelle" type="noise" extent="previous" />
+        bien sûr
+      </Turn>
+      <Turn speaker="spk1" startTime="230.483" endTime="231.797">
+        <Sync time="230.483" />
+        c'est vrai
+      </Turn>
+      <Turn speaker="spk2" startTime="231.797" endTime="233.348">
+        <Sync time="231.797" />
+        <Event desc="bruit de vaisselle" type="noise" extent="previous" />
+        je suis une citoyenne
+      </Turn>
+      <Turn speaker="spk1" startTime="233.348" endTime="234.692">
+        <Sync time="233.348" />
+        modèle
+      </Turn>
+      <Turn speaker="spk2" startTime="234.692" endTime="235.258">
+        <Sync time="234.692" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="235.258" endTime="236.921">
+        <Sync time="235.258" />
+        moi j'ai perdu ma carte électorale
+      </Turn>
+      <Turn speaker="spk2" startTime="236.921" endTime="240.081">
+        <Sync time="236.921" />
+        pff
+        <Sync time="237.776" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        bravo
+      </Turn>
+      <Turn speaker="spk1" startTime="240.081" endTime="258.177">
+        <Sync time="240.081" />
+        je comptais y aller j'ai ouvert mon enveloppe
+        <Sync time="242.565" />
+        j'ai pris tous les papiers puis j'ai regardé
+        <Sync time="244.863" />
+        oh lui il fait peur alors je vais pas vot- voter pour lui
+        <Sync time="247.501" />
+        <Event desc="rire de L2" type="noise" extent="instantaneous" />
+        oh lui il a l'air sympa elle elle est bien
+        <Sync time="249.797" />
+        ah non lui il me fait trop peur oh non non non on dirait un psychopathe
+        <Sync time="253.698" />
+        <Event desc="b" type="noise" extent="instantaneous" />
+        oh mince
+        <Event desc="rire de L2" type="noise" extent="instantaneous" />
+        tu voulais la garder
+      </Turn>
+      <Turn speaker="spk2" startTime="258.177" endTime="266.488">
+        <Sync time="258.177" />
+        <Event desc="rire de L1" type="noise" extent="instantaneous" />
+        /// ouais non mais j'ai toujours voté pour l'instant hein
+        <Sync time="263.898" />
+        depuis que j'ai eu dix-huit ans à chaque fois j'y suis allée
+      </Turn>
+      <Turn speaker="spk1" startTime="266.488" endTime="271.38">
+        <Sync time="266.488" />
+        + non moi j'y ai été
+        <Event desc="sic" type="noise" extent="instantaneous" />
+        qu'une fois ou depuis que j'ai pu s- jusqu'à maintenant
+      </Turn>
+      <Turn speaker="spk2" startTime="271.38" endTime="272.799">
+        <Sync time="271.38" />
+        + ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="272.799" endTime="278.075">
+        <Sync time="272.799" />
+        + je te jure j'ai choisi et après je regardais et j'ai lu juste les points importants en fait de ce qu'ils pensaient
+      </Turn>
+      <Turn speaker="spk2" startTime="278.075" endTime="278.634">
+        <Sync time="278.075" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="278.634" endTime="290.34">
+        <Sync time="278.634" />
+        et dès qu'il y en avait qui avaient pas mis les points importants qui avaient juste du texte
+        <Sync time="282.159" />
+        je me suis dit eux ils cherchent trop compliqué ils v- ils facilitent pas la vie
+        <Sync time="286.149" />
+        c'est un peu des cons alors du coup ils vont pas faciliter la nôtre
+        <Sync time="288.812" />
+        alors je vais pas voter pour eux
+      </Turn>
+      <Turn speaker="spk2" startTime="290.34" endTime="293.149">
+        <Sync time="290.34" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        j'adore ton raisonnement
+      </Turn>
+      <Turn speaker="spk1" startTime="293.149" endTime="296.517">
+        <Sync time="293.149" />
+        + ben c'est vrai hein ils sont pas intelligents
+      </Turn>
+      <Turn speaker="spk2" startTime="296.517" endTime="298.066">
+        <Sync time="296.517" />
+        + ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="298.066" endTime="307.894">
+        <Sync time="298.066" />
+        et du coup ben au final j'en avais trois il y avait euh les écologistes
+        <Event desc="rire de L1 et L2" type="noise" extent="instantaneous" />
+        <Sync time="305.632" />
+        il y avait euh un vieux monsieur avec des lunettes rondes
+      </Turn>
+      <Turn speaker="spk2" startTime="307.894" endTime="310.401">
+        <Sync time="307.894" />
+        ouais ben Masseret pour le PS
+        <Event desc="Parti Socialiste" type="lexical" extent="instantaneous" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="310.401" endTime="312.567">
+        <Sync time="310.401" />
+        et il y avait euh Phili + ppot
+      </Turn>
+      <Turn speaker="spk2" startTime="312.567" endTime="314.067">
+        <Sync time="312.567" />
+        ah
+      </Turn>
+      <Turn speaker="spk1" startTime="314.067" endTime="317.017">
+        <Sync time="314.067" />
+        ben je voulais lire parce que Paul il m'a dit Paul il m'a harcelée
+      </Turn>
+      <Turn speaker="spk2" startTime="317.017" endTime="317.661">
+        <Sync time="317.017" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="317.661" endTime="323.431">
+        <Sync time="317.661" />
+        il m'a harcelée la veille des élections il me dit salut ça va euh
+        <Sync time="320.57" />
+        euh ça se passe bien la fac tu vois il a essayé de
+      </Turn>
+      <Turn speaker="spk2" startTime="323.431" endTime="323.836">
+        <Sync time="323.431" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="323.836" endTime="329.236">
+        <Sync time="323.836" />
+        et après il me dit +
+        <Sync time="325.349" />
+        tu voudras tu tu iras voter hein tu oublieras pas qu'il faut voter pour Philippot
+      </Turn>
+      <Turn speaker="spk2" startTime="329.236" endTime="331.139">
+        <Sync time="329.236" />
+        sérieux il t'a sorti ça
+      </Turn>
+      <Turn speaker="spk1" startTime="331.139" endTime="342.019">
+        <Sync time="331.139" />
+        ouais du coup ben moi très au courant je lui dis c'est qui lui
+        <Event desc="rire de L1 et L2" type="noise" extent="instantaneous" />
+        <Sync time="335.93" />
+        il me dit oh c'est un mec du FN
+        <Event desc="Front National" type="lexical" extent="instantaneous" />
+        il a des bonnes idées et tout
+        <Sync time="340.023" />
+        je lui fais ah +
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="342.019" endTime="342.315">
+        <Sync time="342.019" />
+        <Who nb="1" />
+        d'accord
+        <Who nb="2" />
+        non mais
+      </Turn>
+      <Turn speaker="spk2" startTime="342.315" endTime="362.09">
+        <Sync time="342.315" />
+        non mais un gars comme Paul
+        <Sync time="343.831" />
+        qui est quand même en licence d'histoire il de- il devrait quand même s'y connaitre un petit peu
+        <Sync time="347.201" />
+        qu'il puisse voter pour un parti comme le FN ça me dégoûte un petit peu quoi
+        <Sync time="350.354" />
+        c'est quand même c'est quand même un ancien SS
+        <Event desc="Schutzstaffel" type="lexical" extent="instantaneous" />
+        qui a créé le parti
+        <Sync time="353.958" />
+        enfin à partir de là
+        <Sync time="355.84" />
+        quand tu connais un peu l'histoire
+        <Sync time="356.89" />
+        tu as envie de te dire que c'est quand même pas un parti très honnête
+        <Sync time="360.243" />
+        et très euh bienveillant
+      </Turn>
+      <Turn speaker="spk1" startTime="362.09" endTime="371.753">
+        <Sync time="362.09" />
+        après du coup je lui ai dit ok
+        <Sync time="363.474" />
+        ah ok c'est c'est un mec de Marine Le Pen on verra
+        <Sync time="366.598" />
+        je vais lire son papier
+        <Sync time="367.509" />
+        puis après il me dit je te fais confiance
+        <Sync time="369.413" />
+        comme ça tu n'auras pas à porter le voile
+      </Turn>
+      <Turn speaker="spk2" startTime="371.753" endTime="374.064">
+        <Sync time="371.753" />
+        pff
+        <Event desc="bb" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="374.064" endTime="375.076">
+        <Sync time="374.064" />
+        je fais ah oui
+      </Turn>
+      <Turn speaker="spk2" startTime="375.076" endTime="377.471">
+        <Sync time="375.076" />
+        il est tellement endoctriné c'est un truc de malade
+      </Turn>
+      <Turn speaker="spk1" startTime="377.471" endTime="383.751">
+        <Sync time="377.471" />
+        puis après il m- et après il m'a dit
+        <Sync time="379.139" />
+        et puis tu ne mérites pas non plus d'être une soumise à ton mari
+        <Event desc="L2 verse de l'eau dans un verre" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="383.751" endTime="385.759">
+        <Sync time="383.751" />
+        pff
+        <Event desc="bb" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="385.759" endTime="402.765">
+        <Sync time="385.759" />
+        puis du coup moi j'ai pas répondu hein je je savais pas quoi lui mettre
+        <Sync time="388.287" />
+        et le lendemain matin +
+        <Sync time="389.992" />
+        il m'envoie un message il me dit coucou tu as fait ton devoir de citoyenne
+        <Sync time="393.188" />
+        + je fais euh pas encore mais je vais y aller
+        <Sync time="396.307" />
+        il me dit +
+        <Sync time="397.328" />
+        c'est bien et n'oublie pas c'est Philippot
+        <Sync time="399.323" />
+        + du coup je lui ai dit OK
+      </Turn>
+      <Turn speaker="spk2" startTime="402.765" endTime="407.743">
+        <Sync time="402.765" />
+        <Event desc="pf" type="noise" extent="instantaneous" />
+        non mais les types comme ça
+      </Turn>
+      <Turn speaker="spk1" startTime="407.743" endTime="413.116">
+        <Sync time="407.743" />
+        mais il était à fond dedans hein mais ses parents aussi ils sont à fond dedans
+        <Sync time="411.502" />
+        donc lui aussi il est à fond dedans
+      </Turn>
+      <Turn speaker="spk2" startTime="413.116" endTime="414.792">
+        <Sync time="413.116" />
+        ben toujours hein enfin en général tu es tu es
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="414.792" endTime="416.488">
+        <Sync time="414.792" />
+        <Who nb="1" />
+        tu es influencé par tes parents
+        <Who nb="2" />
+        puis disons que lui il
+      </Turn>
+      <Turn speaker="spk1" startTime="416.488" endTime="434.916">
+        <Sync time="416.488" />
+        lui en fait il il aime personne je pense
+        <Sync time="419.647" />
+        il aime pas ceux qui sont pas blancs +
+        <Sync time="422.756" />
+        donc chinois arabes cambodgiens tout tout
+        <Sync time="425.669" />
+        il aime pas euh encore moins les arabes
+        <Sync time="428.479" />
+        encore moins celles ou qui portent le voile
+        <Sync time="430.802" />
+        + ceux qui ont la kippa là les juifs
+        <Sync time="433.515" />
+        ou je sais pas
+      </Turn>
+      <Turn speaker="spk2" startTime="434.916" endTime="436.289">
+        <Sync time="434.916" />
+        ouais il est très tolérant quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="436.289" endTime="446.653">
+        <Sync time="436.289" />
+        non
+        <Event desc="b" type="noise" extent="instantaneous" />
+        les lesbiennes non plus
+        <Sync time="439.073" />
+        et les homosexuels non plus
+        <Sync time="440.13" />
+        et un jour j'étais dans le bus à côté de lui +
+        <Sync time="441.917" />
+        puis il commence à me dire oh là là les femmes voilées mais c'est du n'impor- il parlait fort hein
+      </Turn>
+      <Turn speaker="spk2" startTime="446.653" endTime="447.042">
+        <Sync time="446.653" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="447.042" endTime="448.236">
+        <Sync time="447.042" />
+        les femmes voilées mais c'est du
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="448.236" endTime="449.106">
+        <Sync time="448.236" />
+        <Who nb="1" />
+        n'importe quoi
+        <Who nb="2" />
+        pff
+      </Turn>
+      <Turn speaker="spk1" startTime="449.106" endTime="475.302">
+        <Sync time="449.106" />
+        faudrait interdire ça faudrait les
+        <Sync time="451.026" />
+        faudrait faudrait mais faudrait les punir qu'il me disait
+        <Sync time="453.695" />
+        et il me dit et le pire le pire le pire c'est les femmes voilées qui sont lesbiennes
+        <Sync time="458.037" />
+        alors elles faudrait les tuer
+        <Sync time="459.559" />
+        j'étais là j'étais là Paul mais
+        <Sync time="462.072" />
+        ok ok tu penses ça
+        <Sync time="463.832" />
+        je vais pas je vais pas t'interdire de penser ça mais parle pas aussi fort
+        <Sync time="467.164" />
+        tout le monde dans le bus qui nous regarde
+        <Sync time="469.286" />
+        tu sais moi je m'en fous
+        <Sync time="471.275" />
+        il pense ce qu'il veut euh
+        <Sync time="472.726" />
+        tu peux tu tu peux essayer de lui parler hein il changera pas d'avis
+      </Turn>
+      <Turn speaker="spk2" startTime="475.302" endTime="475.89">
+        <Sync time="475.302" />
+        ah oui ben
+        <Event desc="pf" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="475.89" endTime="478.811">
+        <Sync time="475.89" />
+        ça sert à rien de lui dire le contraire alors
+        <Event desc="pf" type="noise" extent="instantaneous" />
+        tu le laisses parler
+      </Turn>
+      <Turn speaker="spk2" startTime="478.811" endTime="479.668">
+        <Sync time="478.811" />
+        ah oui ils sont bornés
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="479.668" endTime="480.163">
+        <Sync time="479.668" />
+        <Who nb="1" />
+        les types comme ça
+        <Who nb="2" />
+        mais du coup
+      </Turn>
+      <Turn speaker="spk1" startTime="480.163" endTime="482.88">
+        <Sync time="480.163" />
+        j'ai pas envie qu'on qu'on croie que moi je passe je pense comme lui
+      </Turn>
+      <Turn speaker="spk2" startTime="482.88" endTime="492.72">
+        <Sync time="482.88" />
+        mais bien sûr +
+        <Sync time="485.139" />
+        pff +
+        <Sync time="486.157" />
+        non mais n- avoir un discours comme ça en
+        <Sync time="488.519" />
+        au vingt-et-unième siècle c'est un truc euh ça me dépasse quand même hein pff
+      </Turn>
+      <Turn speaker="spk1" startTime="492.72" endTime="501.516">
+        <Sync time="492.72" />
+        même les homosexuels +
+        <Sync time="494.592" />
+        le pire +
+        <Sync time="495.933" />
+        il en a parlé le plus
+        <Sync time="497.442" />
+        c'est quand c'était euh tu sais il y avait les manifestions contre euh
+        <Sync time="500.692" />
+        le mariage pour tous
+      </Turn>
+      <Turn speaker="spk2" startTime="501.516" endTime="502.076">
+        <Sync time="501.516" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="502.076" endTime="505.309">
+        <Sync time="502.076" />
+        non ou pour le mariage pour tous et pour ceux aussi qui veulent des enfants
+      </Turn>
+      <Turn speaker="spk2" startTime="505.309" endTime="506.508">
+        <Sync time="505.309" />
+        oui pour euh
+      </Turn>
+      <Turn speaker="spk1" startTime="506.508" endTime="508.125">
+        <Sync time="506.508" />
+        genre les homosexuels qui veulent des enfants
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="508.125" endTime="509.036">
+        <Sync time="508.125" />
+        <Who nb="1" />
+        ou euh
+        <Who nb="2" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="509.036" endTime="515.19">
+        <Sync time="509.036" />
+        et ben du coup euh il était là ouais c'est du n'importe quoi
+        <Sync time="512.795" />
+        c'est pas normal puis il est chrétien il a fait sa communion avec moi
+      </Turn>
+      <Turn speaker="spk2" startTime="515.19" endTime="515.774">
+        <Sync time="515.19" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="515.774" endTime="518.115">
+        <Sync time="515.774" />
+        donc euh c'est ça
+        <Sync time="516.611" />
+        + en fait il a tous les défauts
+      </Turn>
+      <Turn speaker="spk2" startTime="518.115" endTime="523.986">
+        <Sync time="518.115" />
+        + ben je suis chrétienne et s- p- oui je suis quand même pour
+        <Sync time="521.844" />
+        enfin je suis pas ho- je suis pas homophobe et je suis pour
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="523.986" endTime="526.759">
+        <Sync time="523.986" />
+        <Who nb="1" />
+        le mariage gay et
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Who nb="2" />
+        bah ouais moi je m'en fous
+      </Turn>
+      <Turn speaker="spk2" startTime="526.759" endTime="528.887">
+        <Sync time="526.759" />
+        enfin ça n'a rien à voir hein c'est pas
+      </Turn>
+      <Turn speaker="spk1" startTime="528.887" endTime="530.771">
+        <Sync time="528.887" />
+        moi je m'en fous
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="530.771" endTime="531.776">
+        <Sync time="530.771" />
+        <Who nb="1" />
+        c'est pas contradictoire
+        <Who nb="2" />
+        tout le monde pense ce qu'il veut
+      </Turn>
+      <Turn speaker="spk1" startTime="531.776" endTime="532.987">
+        <Sync time="531.776" />
+        tout le monde fait ce qu'il veut
+      </Turn>
+      <Turn speaker="spk2" startTime="532.987" endTime="538.86">
+        <Sync time="532.987" />
+        ben tu peux penser ce que tu veux mais il y a un moment ou
+        <Sync time="536.378" />
+        quand tu le clames haut et fort et que tu
+      </Turn>
+      <Turn speaker="spk1" startTime="538.86" endTime="540.356">
+        <Sync time="538.86" />
+        il le dit vraiment à tout le monde hein
+      </Turn>
+      <Turn speaker="spk2" startTime="540.356" endTime="540.982">
+        <Sync time="540.356" />
+        pff
+      </Turn>
+      <Turn speaker="spk1" startTime="540.982" endTime="548.372">
+        <Sync time="540.982" />
+        il le dit tout le temps qu'il est comme ça
+        <Event desc="soupir de L2" type="noise" extent="previous" />
+        <Sync time="542.557" />
+        + genre il y a une copine à moi Vanina
+        <Sync time="545.456" />
+        + je sais pas si tu l'as déjà vue
+        <Sync time="546.858" />
+        celle qui fume de trop
+      </Turn>
+      <Turn speaker="spk2" startTime="548.372" endTime="548.79">
+        <Sync time="548.372" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="548.79" endTime="551.941">
+        <Sync time="548.79" />
+        qui se plaint et qui est en dépression il y a rien qui va pour elle
+      </Turn>
+      <Turn speaker="spk2" startTime="551.941" endTime="552.301">
+        <Sync time="551.941" />
+        oui tu m'en avais
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="552.301" endTime="552.773">
+        <Sync time="552.301" />
+        <Who nb="1" />
+        parlé
+        <Who nb="2" />
+        ben elle elle a
+      </Turn>
+      <Turn speaker="spk1" startTime="552.773" endTime="579.379">
+        <Sync time="552.773" />
+        posté sur Facebook
+        <Sync time="554.118" />
+        donc euh enfin moi je trouve pas ça normal de
+        <Sync time="556.427" />
+        enfin nos avis politiques on les garde pour nous
+        <Sync time="558.756" />
+        elle a marqué oui tous ceux qui votent pour le FN c'est du n'importe quoi
+        <Sync time="562.312" />
+        vous avez pas eu d'éducation vous avez pas été à l'école
+        <Sync time="564.753" />
+        vous avez pas suivi l'histoire euh
+        <Sync time="567.649" />
+        il faut surtout pas voter pour un parti d'ex-
+        <Sync time="570.054" />
+        et vraiment extrême puisque euh
+        <Sync time="572.165" />
+        ça va mal finir c'est dangereux
+        <Sync time="575.069" />
+        elle marquait ça
+        <Sync time="576.789" />
+        sauf que du coup Paul ben Paul il lui a répondu
+      </Turn>
+      <Turn speaker="spk2" startTime="579.379" endTime="580.888">
+        <Sync time="579.379" />
+        bah oui forcément
+      </Turn>
+      <Turn speaker="spk1" startTime="580.888" endTime="584.883">
+        <Sync time="580.888" />
+        + elle a dit que tous ceux qui votaient pour le FN là
+      </Turn>
+      <Turn speaker="spk2" startTime="584.883" endTime="585.267">
+        <Sync time="584.883" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="585.267" endTime="605.82">
+        <Sync time="585.267" />
+        c'était juste un vote contestataire que c'était les gens pas intelligents qui faisaient ça
+        <Sync time="589.327" />
+        parce que après du coup bah
+        <Sync time="590.762" />
+        ils allaient passer par contestation machin
+        <Sync time="594.604" />
+        + et du coup Paul il a dit
+        <Sync time="596.918" />
+        que en gros si lui il votait pour le FN
+        <Sync time="600.17" />
+        c'est parce qu'il y croyait il croyait euh à leurs idées il croyait en ce parti
+        <Sync time="604.506" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="605.82" endTime="607.254">
+        <Sync time="605.82" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        mouais
+      </Turn>
+      <Turn speaker="spk1" startTime="607.254" endTime="613.479">
+        <Sync time="607.254" />
+        mais +
+        <Sync time="609.371" />
+        je te jure hein
+        <Sync time="610.04" />
+        au moment du bac il m'a aidée
+        <Sync time="611.167" />
+        pour les pour les révisions j'ai été chez lui
+      </Turn>
+      <Turn speaker="spk2" startTime="613.479" endTime="614.007">
+        <Sync time="613.479" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="614.007" endTime="629.803">
+        <Sync time="614.007" />
+        mais sa chambre je pensais vraiment qu'il y avait un poster de Marine Le Pen
+        <Sync time="616.942" />
+        une croix gammée et puis des trucs comme ça mais en fait non
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="620.396" />
+        je lui ai dit après je lui ai dit franchement
+        <Sync time="622.938" />
+        je suis déçue Paul
+        <Sync time="624.065" />
+        chez toi il n'y a pas de croix gammées
+        <Sync time="625.881" />
+        il y a pas Hitler il y a pas Marine Le Pen
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="629.803" endTime="633.223">
+        <Sync time="629.803" />
+        ben franchement euh vu ce qu'il pense
+        <Sync time="631.574" />
+        euh ça m'étonnerait même pas hein
+      </Turn>
+      <Turn speaker="spk1" startTime="633.223" endTime="636.876">
+        <Sync time="633.223" />
+        hum ah ben c'est pour ça je lui ai dit
+        <Sync time="635.143" />
+        puis il assume hein il assume complètement
+      </Turn>
+      <Turn speaker="spk1 spk2" startTime="636.876" endTime="637.984">
+        <Sync time="636.876" />
+        <Who nb="1" />
+        tout le monde le sait
+        <Who nb="2" />
+        et c- c-
+      </Turn>
+      <Turn speaker="spk2" startTime="637.984" endTime="639.521">
+        <Sync time="637.984" />
+        c'est ça ce qui me tue quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="639.521" endTime="642.385">
+        <Sync time="639.521" />
+        moi je enfin si j'avais les mêmes avis que lui
+      </Turn>
+      <Turn speaker="spk2" startTime="642.385" endTime="642.683">
+        <Sync time="642.385" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="642.683" endTime="648.152">
+        <Sync time="642.683" />
+        que je pensais vraiment ça je le dirais pas
+        <Sync time="645.119" />
+        et j'aurais peur de me faire tuer ou
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="648.152" endTime="673.059">
+        <Sync time="648.152" />
+        non mais c'est ça le problème avant euh les gens se cachaient
+        <Sync time="651.01" />
+        c'était c'était c'était honteux de voter pour le FN machin
+        <Sync time="654.027" />
+        maintenant ils le clament haut et fort ils ont plus du tout peur
+        <Sync time="656.544" />
+        plus du tout honte
+        <Sync time="657.449" />
+        alors que ils devraient enfin ça c'est pas c'est pas c'est pas un parti normal
+        <Sync time="660.135" />
+        c'est pas +
+        <Sync time="662.48" />
+        c'est totalement euh pff je sais pas
+        <Sync time="664.824" />
+        c'est c'est contraire à la république aux valeurs et tout enfin
+        <Event desc="bruit d'eau versée" type="noise" extent="instantaneous" />
+        +
+        <Sync time="670.768" />
+        moi ça me dégoute un peu quoi mais bon après euh
+      </Turn>
+      <Turn speaker="spk1" startTime="673.059" endTime="675.885">
+        <Sync time="673.059" />
+        moi je suis pas tout ce qui est politique
+      </Turn>
+      <Turn speaker="spk2" startTime="675.885" endTime="676.543">
+        <Sync time="675.885" />
+        ben
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="676.543" endTime="677.809">
+        <Sync time="676.543" />
+        <Who nb="1" />
+        moi je suis un peu
+        <Who nb="2" />
+        je sais c'est pas bien
+      </Turn>
+      <Turn speaker="spk1" startTime="677.809" endTime="690.527">
+        <Sync time="677.809" />
+        parce que Paul il m'a fait la morale
+        <Sync time="679.138" />
+        il m'a dit c'est pas bien tu as le droit de vote
+        <Sync time="680.94" />
+        dans d'autres pays c'est une dictature
+        <Sync time="683.11" />
+        dans d'autres pays euh on peut pas voter
+        <Sync time="684.928" />
+        et là tu as la démocratie tu as le choix tu peux aller voter euh
+        <Sync time="687.499" />
+        sans arme euh ben sur toi
+      </Turn>
+      <Turn speaker="spk2" startTime="690.527" endTime="691.024">
+        <Sync time="690.527" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="691.024" endTime="700.009">
+        <Sync time="691.024" />
+        tu peux faire ce que tu veux et puis tu le fais pas
+        <Sync time="693.319" />
+        c'est pas bien
+        <Sync time="694.53" />
+        + ça m'intéresse pas
+        <Sync time="696.541" />
+        enfin pour moi tout ce qu'ils disent sur les papiers
+        <Sync time="698.744" />
+        ils vont pas forcément le faire
+      </Turn>
+      <Turn speaker="spk2" startTime="700.009" endTime="701.101">
+        <Sync time="700.009" />
+        non ben non mais bon
+      </Turn>
+      <Turn speaker="spk2 spk1" startTime="701.101" endTime="702.175">
+        <Sync time="701.101" />
+        <Who nb="1" />
+        après c'est surtout
+        <Who nb="2" />
+        donc du coup ça sert à rien
+      </Turn>
+      <Turn speaker="spk1" startTime="702.175" endTime="703.505">
+        <Sync time="702.175" />
+        de choisir quelqu'un euh
+      </Turn>
+      <Turn speaker="spk2" startTime="703.505" endTime="712.666">
+        <Sync time="703.505" />
+        oui mais c- après c'est tu laisses choisir les autres
+        <Sync time="705.965" />
+        c'est ça le problème
+        <Sync time="706.815" />
+        et c'est pas forcément la meilleure solution non plus
+        <Sync time="709.696" />
+        parce que quand tu vois le score que qu'ils font euh
+      </Turn>
+      <Turn speaker="spk1" startTime="712.666" endTime="721.093">
+        <Sync time="712.666" />
+        + hum encore ce matin Julien +
+        <Sync time="716.515" />
+        lui aussi il est à fond là-dedans mais c'est
+        <Event desc="L1 tousse" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="721.093" endTime="722.463">
+        <Sync time="721.093" />
+        t'étouffe pas
+        <Event desc="rire" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="722.463" endTime="729.978">
+        <Sync time="722.463" />
+        c'est complètement l'inverse de Paul
+        <Sync time="724.7" />
+        lui il est vraiment contre le FN il déteste le FN
+        <Sync time="726.939" />
+        et il a dit que le
+        <Sync time="728.938" />
+        le mec à lunettes là
+      </Turn>
+      <Turn speaker="spk2" startTime="729.978" endTime="730.676">
+        <Sync time="729.978" />
+        Masseret
+      </Turn>
+      <Turn speaker="spk1" startTime="730.676" endTime="735.261">
+        <Sync time="730.676" />
+        il aurait dû se retirer pour que après il y ait plus que le choix de FN et puis l'autre
+      </Turn>
+      <Turn speaker="spk2" startTime="735.261" endTime="779.927">
+        <Sync time="735.261" />
+        ben bien sûr non mais le mais le PS le pousse
+        <Sync time="738.838" />
+        je crois qu'ils l'ont même retiré
+        <Sync time="739.977" />
+        enfin qu'ils l'ont viré du parti carrément
+        <Sync time="742.264" />
+        parce que lui c'est lui qui veut se maintenir
+        <Sync time="744.076" />
+        le parti ne veut pas euh
+        <Sync time="745.475" />
+        même Hollande il veut pas qu'il se maintienne
+        <Sync time="747.777" />
+        parce que justement c'est sortir le tapis rouge pour euh
+        <Sync time="750.792" />
+        pour le FN quoi
+        <Sync time="751.915" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        mais il enfin il lui il reste
+        <Sync time="756.428" />
+        il reste buté il reste sur ses positions
+        <Sync time="759.722" />
+        et euh mais du coup tu as carrément le PS
+        <Sync time="763.206" />
+        la gauche qui demande aux à ses électeurs de voter pour le candidat de droite
+        <Sync time="767.651" />
+        justement parce qu'ils savent que que le candidat du PS il a aucune chance
+        <Sync time="772.111" />
+        et que si euh ils continuent de voter pour lui
+        <Sync time="774.368" />
+        ben ça dép- c'est le FN qui va passer
+        <Sync time="776.03" />
+        du coup même le PS demande aux
+        <Sync time="778.367" />
+        aux gens de voter pour euh
+      </Turn>
+      <Turn speaker="spk1" startTime="779.927" endTime="780.668">
+        <Sync time="779.927" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="780.668" endTime="832.374">
+        <Sync time="780.668" />
+        pour la droite tu vois enfin c'est quand même
+        <Sync time="782.427" />
+        je trouve que c'est un c'est quand même un acte fort
+        <Sync time="784.519" />
+        pour euh pour essayer de battre justement le +
+        <Sync time="788.464" />
+        enfin un parti comme ça enfin c'est quand même
+        <Sync time="791.314" />
+        faut faut quand même
+        <Sync time="792.763" />
+        faut quand même avoir les couilles pour euh
+        <Sync time="794.594" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        non mais c'est vrai pour dire à
+        <Sync time="796.289" />
+        à tes propres électeurs de pas voter pour ton candidat quoi
+        <Sync time="799.87" />
+        moi je trouve ça moi je trouve ça bien je trouve que ça ça montre quand même que c'est
+        <Event desc="pf" type="noise" extent="instantaneous" />
+        <Sync time="804.619" />
+        je trouve que c'est vraiment un bon parti
+        <Sync time="806.235" />
+        j'aime vraiment bien le PS ///
+        <Sync time="810.26" />
+        ils sont assez droits enfin un peu plus que les autres quoi
+        <Sync time="813.592" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        les autres même quand le candidat de droite est troisième et ils veulent pas
+        <Sync time="818.772" />
+        ils veulent pas qu'il se retire quoi même si ça veut dire que
+        <Sync time="821.321" />
+        c'est laisser euh la voie libre pour euh
+        <Sync time="825.125" />
+        pour les pour le FN quoi
+        <Sync time="827.147" />
+        /// petit cours de politique si tu veux
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="832.374" endTime="834.38">
+        <Sync time="832.374" />
+        c'est pas comme si j'en avais déjà assez avec Paul
+      </Turn>
+      <Turn speaker="spk2" startTime="834.38" endTime="834.724">
+        <Sync time="834.38" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="834.724" endTime="836.59">
+        <Sync time="834.724" />
+        Paul il me raconte tout le temps ses trucs
+      </Turn>
+      <Turn speaker="spk2" startTime="836.59" endTime="839.983">
+        <Sync time="836.59" />
+        /// hum
+      </Turn>
+      <Turn speaker="spk1" startTime="839.983" endTime="851.396">
+        <Sync time="839.983" />
+        en même temps j'étais choquée un jour j'étais en avec lui en cours de politique
+        <Sync time="843.169" />
+        ils parlent des des élections mais d'il y a super longtemps
+        <Sync time="846.741" />
+        mais ils doivent savoir par coeur les pourcentages
+        <Event desc="pursãtas" type="pronounce" extent="instantaneous" />
+        les pourcentages qu'ils ont eu les gens
+      </Turn>
+      <Turn speaker="spk2" startTime="851.396" endTime="852.308">
+        <Sync time="851.396" />
+        ah bon
+      </Turn>
+      <Turn speaker="spk1" startTime="852.308" endTime="852.986">
+        <Sync time="852.308" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="852.986" endTime="855.842">
+        <Sync time="852.986" />
+        très utile
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="855.842" endTime="860.38">
+        <Sync time="855.842" />
+        la date qui a eu quoi qui est de quel groupe il y avait qui avec lui c'était qui dans sa liste
+      </Turn>
+      <Turn speaker="spk2" startTime="860.38" endTime="877.026">
+        <Sync time="860.38" />
+        + ben Pauline en psycho elle doit quand même apprendre par coeur des répliques d'un film hein
+        <Sync time="866.324" />
+        pour une des profs hein
+        <Sync time="867.847" />
+        c'est une prof qui leur demande que des trucs par coeur des textes à trous et tout
+        <Sync time="871.615" />
+        elle doit apprendre des trucs des dix répliques de film je crois par coeur enfin
+        <Sync time="875.264" />
+        je vois vraiment pas l'intérêt quoi
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="877.026" endTime="877.792">
+        <Sync time="877.026" />
+        ben non
+      </Turn>
+      <Turn speaker="spk2" startTime="877.792" endTime="880.776">
+        <Sync time="877.792" />
+        c'est enfin elle est un peu elle est un peu bizarre la prof
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="880.776" endTime="881.579">
+        <Sync time="880.776" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="881.579" endTime="887.302">
+        <Sync time="881.579" />
+        + mais bon ///
+        <Sync time="884.971" />
+        chacun son truc
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

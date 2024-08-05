@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="SOW Youma" audio_filename="garance1_sow.wav" version="26" version_date="100831">
+<Topics>
+<Topic id="to1" desc="Garance1_YS15/08/2008- EC31/8/2010"/>
+</Topics>
+<Speakers>
+<Speaker id="spk105" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk106" name="Garance" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="451.260" topic="to1">
+<Turn startTime="0" endTime="29.226" speaker="spk105">
+<Sync time="0"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+ 
+<Event desc="pap" type="noise" extent="begin"/>
+ alors bonjour je suis avec Garance et nous sommes le 
+<Event desc="pap" type="noise" extent="end"/>
+ ¤C1¤
+<Sync time="7.317"/>
+non ¤C2¤ 
+<Event desc="pap" type="noise" extent="previous"/>
+ 
+<Event desc="mic" type="noise" extent="begin"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors Garance je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ t'expliquer 
+<Event desc="mic" type="noise" extent="end"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+<Sync time="11.664"/>
+tu vois tu sais ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ c'est ça ? c'est un enregistreur numérique
+<Sync time="15.698"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ en fait cette petite 
+<Event desc="ptit" type="pronounce" extent="previous"/>
+ boîte-là
+<Sync time="17.669"/>
+elle va enregistrer ta voix + d'accord ?
+<Sync time="19.881"/>
+si tu veux je te 
+<Event desc="St2" type="pronounce" extent="previous"/>
+ montrerai après hein ?
+<Sync time="21.932"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ donc je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ te raconter 
+<Event desc="tRaco~te" type="pronounce" extent="previous"/>
+ une histoire d'accord ?
+<Sync time="25.342"/>
+tu vas bien l'écouter 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ensuite tu me la 
+<Event desc="mla" type="pronounce" extent="previous"/>
+ raconteras 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="29.226" endTime="29.538">
+<Sync time="29.226"/>
+oui
+</Turn>
+<Turn speaker="spk105" startTime="29.538" endTime="137.283">
+<Sync time="29.538"/>
+d'accord ? 
+<Event desc="mch" type="noise" extent="instantaneous"/>
+ alors le titre s'ap- c'est "Anaïs et Ludovic se réveillent" 
+<Event desc="pap " type="noise" extent="instantaneous"/>
+ +
+<Sync time="39.67"/>
+donc là 
+<Event desc="mic" type="noise" extent="previous"/>
+ tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ quatre 
+<Event desc="kat" type="pronounce" extent="previous"/>
+ personnages
+<Sync time="41.536"/>
+Anaïs Ludovic la maman et Karim 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+<Sync time="49.092"/>
+dans son lit Anaïs est réveillée
+<Sync time="51.748"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle regarde le soleil sur le rideau bleu 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+<Sync time="55.202"/>
+regarde bien les images hein ? + 
+<Event desc="mic" type="noise" extent="begin"/>
+
+<Sync time="61.108"/>
+Ludovic 
+<Event desc="mic" type="noise" extent="end"/>
+ dort encore mais Anaïs crie très fort
+<Sync time="64.43"/>
+Ludovic arrête de faire de faire dodo
+<Sync time="66.876"/>
+Ludovic vic vic Ludovic réveille-toi vite
+<Sync time="70.815"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Ludovic a entendu 
+<Event desc="ata~dy" type="pronounce" extent="previous"/>
+
+<Sync time="73.612"/>
+
+<Event desc="mic" type="noise" extent="begin"/>
+ il saute 
+<Event desc="mic" type="noise" extent="end"/>
+ sur le lit d'Anaïs
+<Sync time="75.779"/>
+et il lui chatouille les doigts du pied 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ +
+<Sync time="79.817"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Anaïs et Ludovic s'habillent
+<Sync time="82.072"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Anaïs enfile sa culotte +
+<Sync time="84.855"/>
+dans le tiroir de l'armoire Ludovic prend des chaussettes propres
+<Sync time="89.096"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Ludovic et Anaïs sont habillés +
+<Sync time="91.907"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ils boivent leur chocolat chaud dans la cuisine 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ +
+<Sync time="97.066"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ dans la salle d'eau Anaïs met du dentifrice sur sa brosse à dents +
+<Sync time="101.167"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Ludovic fait des grimaces devant la glace
+<Sync time="103.932"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ leur maman se lave les mains +
+<Sync time="106.588"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Anaïs ferme son sac +
+<Sync time="108.847"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ dans le 
+<Event desc="b" type="noise" extent="previous"/>
+ sac il 
+<Event desc="i" type="noise" extent="previous"/>
+ y a un dessin pour son copain Karim
+<Sync time="112.164"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ Ludovic dit regarde
+<Sync time="114.017"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ moi j'ai déjà mis mon manteau 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ +
+<Sync time="118.24"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ dring diling dring Karim a sonné la à la porte
+<Sync time="122.641"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il vient chercher ses copains
+<Sync time="124.566"/>
+il dit 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ dépêchez-vous les tout-mous 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="127.39"/>
+on va arriver en retard à l'école 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ voilà
+<Sync time="130.644"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors maintenant tu vas me la 
+<Event desc="mla" type="pronounce" extent="previous"/>
+ raconter
+<Sync time="133.913"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors donc 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ qu'est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ tu vois sur cette image ?
+</Turn>
+<Turn speaker="spk106" startTime="137.283" endTime="138.968">
+<Sync time="137.283"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ il dort le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ garçon
+</Turn>
+<Turn speaker="spk105" startTime="138.968" endTime="147.006">
+<Sync time="138.968"/>
+le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ garçon
+<Sync time="139.635"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors comment il s'appelle le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ garçon ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+<Sync time="143.228"/>
+tu te souviens 
+<Event desc="tsuvje~" type="pronounce" extent="previous"/>
+ ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ + il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle Ludovic
+</Turn>
+<Turn speaker="spk106" startTime="147.006" endTime="147.703">
+<Sync time="147.006"/>
+Ludovic
+</Turn>
+<Turn speaker="spk105" startTime="147.703" endTime="152.51">
+<Sync time="147.703"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ et qui c'est là ? +
+</Turn>
+<Turn speaker="spk106" startTime="152.51" endTime="153.635">
+<Sync time="152.51"/>
+c'est une fille
+</Turn>
+<Turn speaker="spk105" startTime="153.635" endTime="154.908">
+<Sync time="153.635"/>
+c'est sa grande soeur
+</Turn>
+<Turn speaker="spk106" startTime="154.908" endTime="155.971">
+<Sync time="154.908"/>
+***
+</Turn>
+<Turn speaker="spk105" startTime="155.971" endTime="160.197">
+<Sync time="155.971"/>
+qui s'appelle ? + Anaïs
+</Turn>
+<Turn speaker="spk106" startTime="160.197" endTime="160.964">
+<Sync time="160.197"/>
+Anaïs
+</Turn>
+<Turn speaker="spk105" startTime="160.964" endTime="163.703">
+<Sync time="160.964"/>
+hein ? 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et qu'est-ce qu'elle fait Anaïs ?
+</Turn>
+<Turn speaker="spk106" startTime="163.703" endTime="164.506">
+<Sync time="163.703"/>
+elle 
+<Event desc="Ej" type="pronounce" extent="previous"/>
+ se lève 
+<Event desc="jEv" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk105" startTime="164.506" endTime="166.75">
+<Sync time="164.506"/>
+euh + oui elle est réveillée
+</Turn>
+<Turn speaker="spk106" startTime="166.75" endTime="167.147">
+<Sync time="166.75"/>
+hum
+</Turn>
+<Turn speaker="spk105" startTime="167.147" endTime="169.445">
+<Sync time="167.147"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et qu'est-ce qu'elle fait ?
+</Turn>
+<Turn speaker="spk106" startTime="169.445" endTime="172.436">
+<Sync time="169.445"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ elle 
+<Event desc="ej" type="pronounce" extent="previous"/>
+ réveille son copain
+</Turn>
+<Turn speaker="spk105" startTime="172.436" endTime="187.15">
+<Sync time="172.436"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ non c'est son petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ frère Ludovic 
+<Event desc="mic" type="noise" extent="previous"/>
+
+<Sync time="174.347"/>
+mais avant avant de le réveiller que fait-elle ?
+<Sync time="178.008"/>
+c'est quoi ça Garance ? +
+<Sync time="181.504"/>
+quand tu ouvres 
+<Event desc="tuvR" type="pronounce" extent="previous"/>
+ la fenêtre ?
+<Sync time="183.467"/>
+quand tu ouvres 
+<Event desc="tuvR" type="pronounce" extent="previous"/>
+ les volets ?
+<Sync time="184.663"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ quand il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait beau ?
+</Turn>
+<Turn speaker="spk106" startTime="187.15" endTime="188.063">
+<Sync time="187.15"/>
+je vois le 
+<Event desc="j9" type="pronounce" extent="previous"/>
+ soleil 
+<Event desc="sojEj" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk105" startTime="188.063" endTime="200.955">
+<Sync time="188.063"/>
+voilà et ben Anaïs +
+<Sync time="192.205"/>
+elle regarde le soleil sur le rideau bleu d'accord ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="196.748"/>
+Anaïs et Ludovic sont des frère et soeur d'accord 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ?
+</Turn>
+<Turn speaker="spk106" startTime="200.955" endTime="201.236">
+<Sync time="200.955"/>
+oui 
+<Event desc="n" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk105" startTime="201.236" endTime="204.765">
+<Sync time="201.236"/>
+Anaïs est déjà réveillée Ludovic dort encore hein ? tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk106 spk105" startTime="204.765" endTime="204.934">
+<Sync time="204.765"/>
+<Who nb="1"/>
+ouais
+<Who nb="2"/>
+vu il
+</Turn>
+<Turn speaker="spk105" startTime="204.934" endTime="220.801">
+<Sync time="204.934"/>
+suce son pouce 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et donc sur cette image- 
+<Event desc="mic" type="noise" extent="begin"/>
+ là
+<Sync time="210.007"/>
+qu'est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ tu vois 
+<Event desc="mic" type="noise" extent="end"/>
+ ? 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ +
+<Sync time="213.501"/>
+alors 
+<Event desc="ch" type="pronounce" extent="previous"/>
+ qu'est-ce qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ se passe 
+<Event desc="spas" type="pronounce" extent="previous"/>
+ là ? 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ +
+<Sync time="219.15"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ qu'est-ce qu'elle fait Anaïs ?
+</Turn>
+<Turn speaker="spk106" startTime="220.801" endTime="222.044">
+<Sync time="220.801"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle 
+<Event desc="ej" type="pronounce" extent="previous"/>
+ se lève 
+<Event desc="jev" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk105" startTime="222.044" endTime="223.2">
+<Sync time="222.044"/>
+oui 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="223.2" endTime="224.561">
+<Sync time="223.2"/>
+et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ elle 
+<Event desc="ej" type="pronounce" extent="previous"/>
+ sort dans son 
+<Event desc="b" type="noise" extent="previous"/>
+ lit
+</Turn>
+<Turn speaker="spk105" startTime="224.561" endTime="235.21">
+<Sync time="224.561"/>
+elle sort de son lit + oui
+<Sync time="227.838"/>
+et Ludovic 
+<Event desc="b" type="noise" extent="begin"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dort encore ? 
+<Event desc="b" type="noise" extent="end"/>
+ +
+<Sync time="230.686"/>
+et donc pour le réveiller qu'est-ce qu'elle fait ? +
+</Turn>
+<Turn speaker="spk106" startTime="235.21" endTime="235.988">
+<Sync time="235.21"/>
+elle crie
+</Turn>
+<Turn speaker="spk105" startTime="235.988" endTime="244.073">
+<Sync time="235.988"/>
+elle crie + et qu'est-ce qu'elle lui dit ? +
+<Sync time="241.603"/>
+tu te souviens 
+<Event desc="tsuvje~" type="pronounce" extent="previous"/>
+ pas ? elle crie très fort 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="244.073" endTime="244.492">
+<Sync time="244.073"/>
+euh oui
+</Turn>
+<Turn speaker="spk105" startTime="244.492" endTime="250.867">
+<Sync time="244.492"/>
+Ludo 
+<Comment desc="Diminutif de Ludovic"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ arrête de faire dodo + réveille-toi vite + hein ?
+</Turn>
+<Turn speaker="spk106" startTime="250.867" endTime="251.262">
+<Sync time="250.867"/>
+oui
+</Turn>
+<Turn speaker="spk105" startTime="251.262" endTime="273.365">
+<Sync time="251.262"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et sur cette image-là qu'est-ce qu'elle fait 
+<Event desc="b" type="noise" extent="previous"/>
+ ? + 
+<Sync time="257.507"/>
+qu'est-ce qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ fait Ludovic ? + hum ?
+<Sync time="263.042"/>
+tu veux pas me le 
+<Event desc="ml2" type="pronounce" extent="previous"/>
+ dire ? + pourquoi ? 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ +
+<Sync time="268.696"/>
+hein ? 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ regarde là ? + c'est le pied d'Anaïs
+</Turn>
+<Turn speaker="spk106 spk105" startTime="273.365" endTime="274.224">
+<Sync time="273.365"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+hein ?
+</Turn>
+<Turn speaker="spk105" startTime="274.224" endTime="297.41">
+<Sync time="274.224"/>
+et qu'est-ce qu'il fait Ludovic ? + il lui fait comme ça +
+<Sync time="281.761"/>
+non tu veux pas me le 
+<Event desc="ml2" type="pronounce" extent="previous"/>
+ dire ? +
+<Sync time="285.971"/>
+tu veux qu'on continue ?
+<Sync time="287.743"/>
+a- en fait il lui chatouille les doigts de pied
+<Sync time="290.524"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et Anaïs elle rigole 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk106" startTime="297.41" endTime="297.832">
+<Sync time="297.41"/>
+et
+</Turn>
+<Turn speaker="spk105 spk106" startTime="297.832" endTime="298.535">
+<Sync time="297.832"/>
+<Who nb="1"/>
+et là ?
+<Who nb="2"/>
+/ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ boit 
+<Comment desc="sic"/>
+, il boit, ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ boivent 
+<Event desc="bwa" type="pronounce" extent="previous"/>
+/
+</Turn>
+<Turn speaker="spk106" startTime="298.535" endTime="300.4">
+<Sync time="298.535"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ boivent son leur 
+<Event desc="j9R" type="pronounce" extent="previous"/>
+ chocolat 
+<Event desc="Sokoja" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk105" startTime="300.4" endTime="304.479">
+<Sync time="300.4"/>
+oui mais avant avant qu'ils boivent leur chocolat +
+</Turn>
+<Turn speaker="spk106 spk105" startTime="304.479" endTime="305.391">
+<Sync time="304.479"/>
+<Who nb="1"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'habillent 
+<Event desc="sapij9" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+qu'est-ce qu'ils font ?
+</Turn>
+<Turn speaker="spk105" startTime="305.391" endTime="308.989">
+<Sync time="305.391"/>
+ils s'habillent 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ qu'est-ce qu'elle met Anaïs ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="308.989" endTime="309.505">
+<Sync time="308.989"/>
+culotte 
+<Event desc="kujOt" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk105" startTime="309.505" endTime="312.722">
+<Sync time="309.505"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ elle met sa culotte 
+<Event desc="b" type="noise" extent="end"/>
+ 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ et Ludovic ?
+</Turn>
+<Turn speaker="spk106" startTime="312.722" endTime="313.703">
+<Sync time="312.722"/>
+ses chaussettes
+</Turn>
+<Turn speaker="spk105" startTime="313.703" endTime="318.752">
+<Sync time="313.703"/>
+voilà + 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et donc là ils sont où ?
+</Turn>
+<Turn speaker="spk106" startTime="318.752" endTime="320.254">
+<Sync time="318.752"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont dans la 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ cuisine
+</Turn>
+<Turn speaker="spk105" startTime="320.254" endTime="321.832">
+<Sync time="320.254"/>
+dans la cuisine et qu'est-ce qu'ils font dans la
+</Turn>
+<Turn speaker="spk106 spk105" startTime="321.832" endTime="323.026">
+<Sync time="321.832"/>
+<Who nb="1"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+
+
+<Who nb="2"/>
+cuisine ?
+</Turn>
+<Turn speaker="spk106" startTime="323.026" endTime="324.542">
+<Sync time="323.026"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ boivent leur 
+<Event desc="j9R" type="pronounce" extent="previous"/>
+ chocolat 
+<Event desc="Sokoja" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk105" startTime="324.542" endTime="327.607">
+<Sync time="324.542"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ boivent leur chocolat très bien 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="327.607" endTime="329.71">
+<Sync time="327.607"/>
+ma maman elle 
+<Event desc="Ej" type="pronounce" extent="previous"/>
+ m'a déjà fait du 
+<Event desc="b" type="noise" extent="previous"/>
+ chocolat 
+<Event desc="Sokoja" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk105" startTime="329.71" endTime="330.226">
+<Sync time="329.71"/>
+ah bon ?
+</Turn>
+<Turn speaker="spk106" startTime="330.226" endTime="335.536">
+<Sync time="330.226"/>
+oui 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ + là 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ ils 
+<Event desc="ij" type="pronounce" extent="previous"/>
+ mettent leurs 
+<Event desc="j9R" type="pronounce" extent="previous"/>
+ manteaux
+</Turn>
+<Turn speaker="spk105" startTime="335.536" endTime="338.208">
+<Sync time="335.536"/>
+mais avant avant de mettre le manteau
+</Turn>
+<Turn speaker="spk106 spk105" startTime="338.208" endTime="338.598">
+<Sync time="338.208"/>
+<Who nb="1"/>
+et ben
+<Who nb="2"/>
+qu'est-ce qu'ils
+</Turn>
+<Turn speaker="spk105" startTime="338.598" endTime="339.309">
+<Sync time="338.598"/>
+font ?
+</Turn>
+<Turn speaker="spk106" startTime="339.309" endTime="340.416">
+<Sync time="339.309"/>
+il 
+<Event desc="ij" type="pronounce" extent="previous"/>
+ 
+<Comment desc="Interprétation = elle"/>
+ se brosse les 
+<Event desc="je" type="pronounce" extent="previous"/>
+ dents
+</Turn>
+<Turn speaker="spk105" startTime="340.416" endTime="344.792">
+<Sync time="340.416"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ 
+<Comment desc="Interprétation = elle"/>
+ se brosse les dents très bien
+<Sync time="342.132"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et qu'est-ce qu'il fait Ludovic là ? 
+<Comment desc="Un enfant tape contre la vitre"/>
+ tu
+</Turn>
+<Turn speaker="spk106 spk105" startTime="344.792" endTime="345.198">
+<Sync time="344.792"/>
+<Who nb="1"/>
+il 
+<Event desc="ij" type="pronounce" extent="previous"/>
+ fait une
+
+<Who nb="2"/>
+vois là ?
+</Turn>
+<Turn speaker="spk106" startTime="345.198" endTime="345.949">
+<Sync time="345.198"/>
+grimace
+</Turn>
+<Turn speaker="spk105" startTime="345.949" endTime="348.477">
+<Sync time="345.949"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait une 
+<Event desc="b" type="noise" extent="previous"/>
+ grimace oui devant la glace 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="348.477" endTime="349.352">
+<Sync time="348.477"/>
+oui
+</Turn>
+<Turn speaker="spk105" startTime="349.352" endTime="351.218">
+<Sync time="349.352"/>
+et leur maman qu'est-ce qu'elle fait ?
+</Turn>
+<Turn speaker="spk106" startTime="351.218" endTime="351.999">
+<Sync time="351.218"/>
+elle 
+<Event desc="ej" type="pronounce" extent="previous"/>
+ se lave 
+<Event desc="jav" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="previous"/>
+ les 
+<Event desc="je" type="pronounce" extent="previous"/>
+ mains
+</Turn>
+<Turn speaker="spk105" startTime="351.999" endTime="357.404">
+<Sync time="351.999"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ elle se lave les mains très bien 
+<Event desc="b" type="noise" extent="end"/>
+ Garance 
+<Event desc="mic" type="noise" extent="previous"/>
+
+<Sync time="355.098"/>
+et donc là sur cette image qu'est 
+<Event desc="b" type="noise" extent="previous"/>
+ ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ tu vois ?
+</Turn>
+<Turn speaker="spk106" startTime="357.404" endTime="359.777">
+<Sync time="357.404"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ mettent 
+<Event desc="mEd" type="pronounce" extent="previous"/>
+ ils mettent 
+<Event desc="mEj" type="pronounce" extent="previous"/>
+
+<Sync time="358.727"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ mettent leurs 
+<Event desc="j9R" type="pronounce" extent="previous"/>
+ manteaux
+</Turn>
+<Turn speaker="spk105" startTime="359.777" endTime="361.668">
+<Sync time="359.777"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ mettent leurs manteaux 
+<Event desc="b" type="noise" extent="previous"/>
+ oui 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="361.668" endTime="362.778">
+<Sync time="361.668"/>
+avec leurs 
+<Event desc="j9R" type="pronounce" extent="previous"/>
+ chaussures
+</Turn>
+<Turn speaker="spk105" startTime="362.778" endTime="367.14">
+<Sync time="362.778"/>
+avec leurs chaussures 
+<Event desc="b" type="noise" extent="previous"/>
+ très bien 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et Anaïs qu'est-ce qu'elle fait ?
+</Turn>
+<Turn speaker="spk106" startTime="367.14" endTime="370.319">
+<Sync time="367.14"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle 
+<Event desc="ej" type="pronounce" extent="previous"/>
+ a fait un dessin pour son copain d'école 
+<Event desc="decOj" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk105" startTime="370.319" endTime="374.623">
+<Sync time="370.319"/>
+c'est bien bravo 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et puis tu s- 
+<Event desc="ts" type="pronounce" extent="previous"/>
+ tu sais
+<Sync time="372.453"/>
+comment il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle son copain ? Karim
+</Turn>
+<Turn speaker="spk106" startTime="374.623" endTime="375.334">
+<Sync time="374.623"/>
+Karim 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk105" startTime="375.334" endTime="377.063">
+<Sync time="375.334"/>
+elle lui a fait un beau dessin
+</Turn>
+<Turn speaker="spk106" startTime="377.063" endTime="382.494">
+<Sync time="377.063"/>
+oui 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk105" startTime="382.494" endTime="385.158">
+<Sync time="382.494"/>
+et là 
+<Event desc="b" type="noise" extent="previous"/>
+ sur cette image-là ?
+</Turn>
+<Turn speaker="spk106" startTime="385.158" endTime="386.384">
+<Sync time="385.158"/>
+Karim il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="begin"/>
+ vient
+</Turn>
+<Turn speaker="spk105" startTime="386.384" endTime="395.805">
+<Sync time="386.384"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="end"/>
+ vient +
+<Sync time="387.657"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il a sonné à la porte et quand on sonne à la porte +
+<Sync time="391.543"/>
+ça fait comment ? ça fait + dring dring
+</Turn>
+<Turn speaker="spk106" startTime="395.805" endTime="400.571">
+<Sync time="395.805"/>
+ben oui parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que moi *
+<Sync time="397.952"/>
+j'arrête pas de sonner à la 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ porte alors 
+<Event desc="ajoR" type="pronounce" extent="previous"/>
+ que Papa
+</Turn>
+<Turn speaker="spk105 spk106" startTime="400.571" endTime="401.196">
+<Sync time="400.571"/>
+<Who nb="1"/>
+hum
+
+<Who nb="2"/>
+a peur
+</Turn>
+<Turn speaker="spk106" startTime="401.196" endTime="402.834">
+<Sync time="401.196"/>
+quand je sonne à la 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ porte
+</Turn>
+<Turn speaker="spk105" startTime="402.834" endTime="407.93">
+<Sync time="402.834"/>
+ah oui + 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et qu'est-ce qu'il dit Karim à ses copains ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="407.93" endTime="410.871">
+<Sync time="407.93"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit qu'ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ v- qu'on va être 
+<Event desc="Et" type="pronounce" extent="previous"/>
+ bientôt en retard
+</Turn>
+<Turn speaker="spk105" startTime="410.871" endTime="416.308">
+<Sync time="410.871"/>
+voilà 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ + il leur dit euh de se dépêcher 
+<Event desc="sdepeSe" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="416.308" endTime="416.792">
+<Sync time="416.308"/>
+ah oui
+</Turn>
+<Turn speaker="spk105" startTime="416.792" endTime="418.241">
+<Sync time="416.792"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ qu'ils vont être en retard 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="418.241" endTime="418.554">
+<Sync time="418.241"/>
+oui
+</Turn>
+<Turn speaker="spk105" startTime="418.554" endTime="419.474">
+<Sync time="418.554"/>
+à l'école 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk106" startTime="419.474" endTime="419.771">
+<Sync time="419.474"/>
+oui
+</Turn>
+<Turn speaker="spk105" startTime="419.771" endTime="420.712">
+<Sync time="419.771"/>
+hein ?
+</Turn>
+<Turn speaker="spk106" startTime="420.712" endTime="422.06">
+<Sync time="420.712"/>
+et la 
+<Event desc="ja " type="pronounce" extent="previous"/>
+ maîtresse sera fâchée
+</Turn>
+<Turn speaker="spk105" startTime="422.06" endTime="425.777">
+<Sync time="422.06"/>
+et la maîtresse sera fâchée ouais peut-être 
+<Event desc="b" type="noise" extent="previous"/>
+ ouais 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ voilà c'était
+</Turn>
+<Turn speaker="spk106 spk105" startTime="425.777" endTime="426.98">
+<Sync time="425.777"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+très bien
+</Turn>
+<Turn speaker="spk106" startTime="426.98" endTime="429.572">
+<Sync time="426.98"/>
+ben oui 
+<Event desc="b" type="noise" extent="begin"/>
+ parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que moi des fois j'arrive en retard
+</Turn>
+<Turn speaker="spk105 spk106" startTime="429.572" endTime="430.885">
+<Sync time="429.572"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+à l'école
+</Turn>
+<Turn speaker="spk105" startTime="430.885" endTime="433.391">
+<Sync time="430.885"/>
+tu arrives 
+<Event desc="taRiv" type="pronounce" extent="previous"/>
+ en retard ? et pourquoi tu arrives en retard à
+</Turn>
+<Turn speaker="spk106 spk105" startTime="433.391" endTime="433.594">
+<Sync time="433.391"/>
+<Who nb="1"/>
+ben
+<Who nb="2"/>
+l'école ?
+</Turn>
+<Turn speaker="spk106" startTime="433.594" endTime="442.384">
+<Sync time="433.594"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que il 
+<Event desc="i" type="pronounce" extent="previous"/>
+
+<Sync time="434.69"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ on s'était 
+<Event desc="septe" type="pronounce" extent="previous"/>
+ pas dépêchés de mettre 
+<Event desc="mEt" type="pronounce" extent="previous"/>
+ nos manteaux
+<Sync time="439.534"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fallait 
+<Event desc="fajE" type="pronounce" extent="previous"/>
+ qu'on se dépêche de mettre nos manteaux 
+<Event desc="me~to" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk105" startTime="442.384" endTime="446.173">
+<Sync time="442.384"/>
+ah d'accord ok 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ hein ? on va arrêter là pour aujourd'hui on
+</Turn>
+<Turn speaker="spk106 spk105" startTime="446.173" endTime="446.58">
+<Sync time="446.173"/>
+<Who nb="1"/>
+hum
+
+<Who nb="2"/>
+continuera
+</Turn>
+<Turn speaker="spk105" startTime="446.58" endTime="447.245">
+<Sync time="446.58"/>
+
+la semaine prochaine
+</Turn>
+<Turn speaker="spk106 spk105" startTime="447.245" endTime="451.260">
+<Sync time="447.245"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+d'accord ? 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ 
+<Event desc="conv" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

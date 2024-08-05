@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Corpus" audio_filename="vincent7_can.wav" version="8" version_date="080825">
+<Topics>
+<Topic id="to1" desc="SDrevuEC21/8/2007YS13/8/2008"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Vincent" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="102.690" topic="to1">
+<Turn startTime="0" endTime="10.306" speaker="spk1">
+<Sync time="0"/>
+eh ben écoute je t'écoute alors si tu veux le raconter +
+<Sync time="5.991"/>
+c'est bon tu arrives 
+<Event desc="taRiv" type="pronounce" extent="previous"/>
+ à le prendre ? voilà 
+</Turn>
+<Turn speaker="spk2" startTime="10.306" endTime="12.51">
+<Sync time="10.306"/>
+Pamela elle a faim 
+</Turn>
+<Turn speaker="spk1" startTime="12.51" endTime="12.706">
+<Sync time="12.51"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="12.706" endTime="14.026">
+<Sync time="12.706"/>
+c'est la page un c'est la page 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="14.026" endTime="14.354">
+<Sync time="14.026"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+page
+</Turn>
+<Turn speaker="spk2" startTime="14.354" endTime="15.295">
+<Sync time="14.354"/>
+deux
+</Turn>
+<Turn speaker="spk1" startTime="15.295" endTime="16.754">
+<Sync time="15.295"/>
+oui tu me racontes 
+<Event desc="Rako~t" type="pronounce" extent="previous"/>
+ la page un alors ?
+</Turn>
+<Turn speaker="spk2" startTime="16.754" endTime="19.992">
+<Sync time="16.754"/>
+oui Pamela elle a faim
+</Turn>
+<Turn speaker="spk1" startTime="19.992" endTime="22.376">
+<Sync time="19.992"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="22.376" endTime="26.149">
+<Sync time="22.376"/>
+et et et
+</Turn>
+<Turn speaker="spk1" startTime="26.149" endTime="27.337">
+<Sync time="26.149"/>
+elle veut
+</Turn>
+<Turn speaker="spk2" startTime="27.337" endTime="31.949">
+<Sync time="27.337"/>
+elle veut du pain avec le beurre et le miel
+</Turn>
+<Turn speaker="spk1" startTime="31.949" endTime="32.956">
+<Sync time="31.949"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="32.956" endTime="37.112">
+<Sync time="32.956"/>
+elle 
+<Event desc="E" type="pronounce" extent="previous"/>
+ elle
+<Event desc="E" type="pronounce" extent="previous"/>
+ elle a trouvé le pain elle prend un 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="37.112" endTime="42.294">
+<Sync time="37.112"/>
+oui elle a trouvé du pain 
+<Event desc="b" type="noise" extent="previous"/>
+ et elle va le prendre dans la corbeille
+</Turn>
+<Turn speaker="spk2" startTime="42.294" endTime="47.945">
+<Sync time="42.294"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ elle pr- elle prend le beurre dans le 
+<Event desc="l" type="pronounce" extent="previous"/>
+ frigidaire 
+</Turn>
+<Turn speaker="spk1" startTime="47.945" endTime="53.474">
+<Sync time="47.945"/>
+oui elle prend le le beurre dans le 
+<Event desc="l" type="pronounce" extent="previous"/>
+ frigidaire
+</Turn>
+<Turn speaker="spk2" startTime="53.474" endTime="56.904">
+<Sync time="53.474"/>
+elle prend le miel dans dans le placard
+</Turn>
+<Turn speaker="spk1" startTime="56.904" endTime="71.177">
+<Sync time="56.904"/>
+oui tourne la page + ouais +
+</Turn>
+<Turn speaker="spk2" startTime="71.177" endTime="72.472">
+<Sync time="71.177"/>
+elle s'appelle qui déjà ?
+</Turn>
+<Turn speaker="spk1" startTime="72.472" endTime="73.555">
+<Sync time="72.472"/>
+Pamela
+</Turn>
+<Turn speaker="spk2" startTime="73.555" endTime="85.525">
+<Sync time="73.555"/>
+Pamela elle prend le miel 
+<Sync time="78.033"/>
+et elle 
+<Event desc="E" type="pronounce" extent="previous"/>
+ prend avec son couteau 
+<Sync time="81.153"/>
+elle 
+<Event desc="E" type="pronounce" extent="previous"/>
+ prend du beurre et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ beurre sur avec son couteau
+</Turn>
+<Turn speaker="spk1" startTime="85.525" endTime="89.556">
+<Sync time="85.525"/>
+oui avec son cout- couteau elle étale le beurre puis le miel
+</Turn>
+<Turn speaker="spk2" startTime="89.556" endTime="93.443">
+<Sync time="89.556"/>
+oui et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ dit miam miam miam
+</Turn>
+<Turn speaker="spk1" startTime="93.443" endTime="102.690">
+<Sync time="93.443"/>
+oui elle est bonne ma tartine du goûter
+<Sync time="96.04"/>
+Pamela dit miam miam miam elle est bonne ma tartine du goûter 
+<Sync time="101.089"/>
+c'est bien Vincent on arrête là ? $$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

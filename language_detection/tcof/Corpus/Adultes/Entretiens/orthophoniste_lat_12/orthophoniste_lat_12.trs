@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="lataille1u" audio_filename="orthophoniste_lat_12.wav" version="7" version_date="140212">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="610.353">
+      <Turn startTime="0.0" endTime="3.57" speaker="spk1">
+        <Sync time="0.0" />
+        euh oui alors là aussi il y a le droit à l'image hein
+      </Turn>
+      <Turn speaker="spk2" startTime="3.57" endTime="4.251">
+        <Sync time="3.57" />
+        non il y a pas d'image
+      </Turn>
+      <Turn speaker="spk1" startTime="4.251" endTime="4.591">
+        <Sync time="4.251" />
+        il y a pas d'image
+      </Turn>
+      <Turn speaker="spk2" startTime="4.591" endTime="5.291">
+        <Sync time="4.591" />
+        j'ai caché
+      </Turn>
+      <Turn speaker="spk1" startTime="5.291" endTime="5.628">
+        <Sync time="5.291" />
+        d'accord
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="5.628" endTime="7.422">
+        <Sync time="5.628" />
+        j'ai caché en fait je prend juste le son
+      </Turn>
+      <Turn speaker="spk1" startTime="7.422" endTime="8.128">
+        <Sync time="7.422" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="8.128" endTime="14.57">
+        <Sync time="8.128" />
+        et sur l'ordinateur je trafique pour avoir que le son +
+      </Turn>
+      <Turn speaker="spk1" startTime="14.57" endTime="17.158">
+        <Sync time="14.57" />
+        donc comment vous appelez ça le détachement
+        <Sync time="16.773" />
+        &lt; émotionnel
+      </Turn>
+      <Turn speaker="spk2" startTime="17.158" endTime="21.989">
+        <Sync time="17.158" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="21.989" endTime="23.109">
+        <Sync time="21.989" />
+        allez-y
+      </Turn>
+      <Turn speaker="spk2" startTime="23.109" endTime="26.149">
+        <Sync time="23.109" />
+        alors est-ce que je peux vous demander votre âge à à peu près
+        <Sync time="26.048" />
+        &lt; sans indiscrétion
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="26.149" endTime="29.175">
+        <Sync time="26.149" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        &gt;
+        <Sync time="26.945" />
+        c'est pas à peu près j'ai cinquante six ans
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="29.175" endTime="30.877">
+        <Sync time="29.175" />
+        d'accord et
+        <Sync time="30.422" />
+        &lt; hum
+      </Turn>
+      <Turn speaker="spk1" startTime="30.877" endTime="31.508">
+        <Sync time="30.877" />
+        il y a pas d'à peu pres &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="31.508" endTime="34.932">
+        <Sync time="31.508" />
+        vos vos années d'expérience
+        <Sync time="33.634" />
+        vous en avez combien
+      </Turn>
+      <Turn speaker="spk1" startTime="34.932" endTime="37.003">
+        <Sync time="34.932" />
+        euh ben je suis sortie en soixante-dix-neuf
+        <Sync time="36.957" />
+        &lt; donc euh
+      </Turn>
+      <Turn speaker="spk2" startTime="37.003" endTime="38.177">
+        <Sync time="37.003" />
+        d'accord &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="38.177" endTime="38.774">
+        <Sync time="38.177" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="38.774" endTime="44.616">
+        <Sync time="38.774" />
+        d'accord et euh
+        <Sync time="40.219" />
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        vous avez toujours travaillé dans le milieu hospitalier
+        <Sync time="42.311" />
+        ou vous avez parfois
+        <Sync time="43.404" />
+        &lt; travaillé en libéral
+      </Turn>
+      <Turn speaker="spk1" startTime="44.616" endTime="50.557">
+        <Sync time="44.616" />
+        oui &gt;
+        <Sync time="44.718" />
+        alors j'ai travaillé euh
+        <Sync time="46.829" />
+        en mixte c'est-à-dire euh
+        <Sync time="48.763" />
+        en milieu hospitalier en libéral
+      </Turn>
+      <Turn speaker="spk2" startTime="50.557" endTime="50.77">
+        <Sync time="50.557" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="50.77" endTime="56.339">
+        <Sync time="50.77" />
+        j'ai travaillé en pédo-psychiartrie mais euh voilà oui j'ai toujours eu un pied dans le milieu hospitalier
+      </Turn>
+      <Turn speaker="spk2" startTime="56.339" endTime="60.778">
+        <Sync time="56.339" />
+        et euh vous êtes vraiment euh centré sur la la surdité hein
+      </Turn>
+      <Turn speaker="spk1" startTime="60.778" endTime="62.905">
+        <Sync time="60.778" />
+        de plus en plus
+      </Turn>
+      <Turn speaker="spk2" startTime="62.905" endTime="63.517">
+        <Sync time="62.905" />
+        &lt; d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="63.517" endTime="74.019">
+        <Sync time="63.517" />
+        de plus en &gt;
+        <Sync time="63.627" />
+        plus parce que on est passé centre d'implantologie
+        <Sync time="66.454" />
+        donc on a tout un suivi de patients implantés à faire
+        <Sync time="70.268" />
+        qui prend maintenant du temps puisque il y a plus de
+        <Sync time="72.605" />
+        &lt; cent cinquante implantés
+      </Turn>
+      <Turn speaker="spk2" startTime="74.019" endTime="74.255">
+        <Sync time="74.019" />
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="74.255" endTime="81.594">
+        <Sync time="74.255" />
+        euh qu'on revoie regulièrement pour faire des bilans d'évaluation
+        <Sync time="77.651" />
+        il y a euh les bilans pré-implant qu'il faut faire aussi
+      </Turn>
+      <Turn speaker="spk2" startTime="81.594" endTime="82.001">
+        <Sync time="81.594" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="82.001" endTime="88.073">
+        <Sync time="82.001" />
+        pour savoir si euh l'enfant ou l'adulte euh
+        <Sync time="84.592" />
+        est prêt est dans les critères et cetera
+      </Turn>
+      <Turn speaker="spk2" startTime="88.073" endTime="88.879">
+        <Sync time="88.073" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="88.879" endTime="98.242">
+        <Sync time="88.879" />
+        on est aussi centre
+        <Sync time="90.401" />
+        de de diagnostic de surdité
+        <Sync time="92.158" />
+        donc il y a toute une activité
+        <Sync time="93.812" />
+        euh euh
+        <Sync time="95.191" />
+        bilan pluridisciplinaire hein
+        <Sync time="97.159" />
+        ou là bah on
+        <Sync time="98.03" />
+        &lt; est pas
+      </Turn>
+      <Turn speaker="spk2" startTime="98.242" endTime="98.45">
+        <Sync time="98.242" />
+        <Event desc="bg" type="noise" extent="instantaneous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="98.45" endTime="122.453">
+        <Sync time="98.45" />
+        toujours et heureusement
+        <Sync time="99.465" />
+        confronté à
+        <Sync time="100.662" />
+        un diagnostic de surdité
+        <Sync time="101.992" />
+        mais euh nos correspondants
+        <Sync time="104.057" />
+        nous envoient les enfants
+        <Sync time="105.265" />
+        et les familles pour
+        <Sync time="106.921" />
+        pour que bah déjà
+        <Sync time="108.826" />
+        on élimine les problèmes de surdité hein
+        <Sync time="112.304" />
+        euh et puis qu'on envoie
+        <Sync time="115.049" />
+        qu'on renvoie sur place
+        <Sync time="117.932" />
+        vers des structures ou des professionnels
+        <Sync time="120.035" />
+        adaptés quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="122.453" endTime="122.724">
+        <Sync time="122.453" />
+        hum d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="122.724" endTime="125.429">
+        <Sync time="122.724" />
+        donc on a aussi
+        <Sync time="123.239" />
+        une grosse activité bilan
+        <Sync time="124.462" />
+        &lt; hum
+      </Turn>
+      <Turn speaker="spk2" startTime="125.429" endTime="127.831">
+        <Sync time="125.429" />
+        hum &gt;
+        <Sync time="125.924" />
+        oui
+        <Sync time="126.472" />
+        forcément au départ
+      </Turn>
+      <Turn speaker="spk1" startTime="127.831" endTime="128.672">
+        <Sync time="127.831" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" startTime="128.672" endTime="141.016">
+        <Sync time="128.672" />
+        d'accord
+        <Sync time="129.86" />
+        euh sinon donc après
+        <Sync time="131.232" />
+        pour la relation vraiment
+        <Sync time="132.401" />
+        euh entre les patients et vous
+        <Sync time="134.204" />
+        est-ce que ils vous vouvoie nt
+        <Sync time="136.137" />
+        est-ce que vous vous les vouvoyez
+        <Sync time="137.385" />
+        est-ce que ça dépend de l'age
+        <Sync time="138.81" />
+        est-ce qu'ils vous appellent par votre prénom
+      </Turn>
+      <Turn speaker="spk1" startTime="141.016" endTime="147.866">
+        <Sync time="141.016" />
+        hum
+        <Sync time="143.759" />
+        bah les petits que j'ai depuis tout petit euh
+        <Sync time="145.917" />
+        ils m'appellent par mon prénom
+        <Sync time="147.022" />
+        &lt; hein
+      </Turn>
+      <Turn speaker="spk2" startTime="147.866" endTime="148.096">
+        <Sync time="147.866" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="148.096" endTime="150.511">
+        <Sync time="148.096" />
+        euh les adultes
+        <Sync time="149.588" />
+        on se vouvoie
+      </Turn>
+      <Turn speaker="spk2" startTime="150.511" endTime="150.94">
+        <Sync time="150.511" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="150.94" endTime="155.847">
+        <Sync time="150.94" />
+        moi le vouvoiement me gêne pas du tout
+        <Sync time="153.48" />
+        ça n'empêche pas d'avoir des relations
+      </Turn>
+      <Turn speaker="spk2" startTime="155.847" endTime="156.23">
+        <Sync time="155.847" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="156.23" endTime="169.547">
+        <Sync time="156.23" />
+        qui peuvent être euh
+        <Sync time="158.651" />
+        voilà très très
+        <Sync time="159.831" />
+        presque amicales
+        <Sync time="160.62" />
+        mais euh les adultes c'est toujours du vouvoiement
+        <Sync time="164.493" />
+        euh les adolescents
+        <Sync time="166.696" />
+        les adolescents ça va peut-être dépendre hein
+      </Turn>
+      <Turn speaker="spk2" startTime="169.547" endTime="169.807">
+        <Sync time="169.547" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="169.807" endTime="174.471">
+        <Sync time="169.807" />
+        quand je le voie une première fois
+        <Sync time="171.624" />
+        euh ca va plutôt être du vouvoiement oui
+      </Turn>
+      <Turn speaker="spk2" startTime="174.471" endTime="182.339">
+        <Sync time="174.471" />
+        d'accord d'accord
+        <Sync time="176.072" />
+        et hum
+        <Sync time="176.887" />
+        est-ce que vous avez parfois
+        <Sync time="178.74" />
+        des gestes affectueux
+        <Sync time="180.346" />
+        ou même euh des actions
+      </Turn>
+      <Turn speaker="spk1" startTime="182.339" endTime="183.507">
+        <Sync time="182.339" />
+        avec les
+        <Sync time="183.118" />
+        &lt; enfants oui
+      </Turn>
+      <Turn speaker="spk2" startTime="183.507" endTime="184.641">
+        <Sync time="183.507" />
+        affectueuses &gt;
+        <Sync time="183.836" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="184.641" endTime="185.639">
+        <Sync time="184.641" />
+        oui
+      </Turn>
+      <Turn speaker="spk2" startTime="185.639" endTime="186.244">
+        <Sync time="185.639" />
+        et avec les personnes que
+        <Sync time="186.228" />
+        &lt; vous suivez depuis longtemps aussi
+      </Turn>
+      <Turn speaker="spk1" startTime="186.244" endTime="196.283">
+        <Sync time="186.244" />
+        bah hum &gt;
+        <Sync time="187.083" />
+        parfois je les vois depuis tout petit hein
+        <Sync time="188.706" />
+        donc euh euh
+        <Sync time="191.032" />
+        ben parfois oui quand on est
+        <Sync time="193.066" />
+        là dans des activités
+        <Sync time="194.104" />
+        c'est quasi sur mes genoux
+        <Sync time="195.773" />
+        quoi hein
+      </Turn>
+      <Turn speaker="spk2" startTime="196.283" endTime="196.663">
+        <Sync time="196.283" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="196.663" endTime="199.286">
+        <Sync time="196.663" />
+        quand ils ont un an et demi euh
+      </Turn>
+      <Turn speaker="spk2" startTime="199.286" endTime="203.66">
+        <Sync time="199.286" />
+        et est-ce que à partir
+        <Sync time="200.649" />
+        d'un certain âge vous essayez
+        <Sync time="201.893" />
+        d'instaurer une certaine distance
+      </Turn>
+      <Turn speaker="spk1" startTime="203.66" endTime="211.346">
+        <Sync time="203.66" />
+        elle s'instaure dans
+        <Sync time="204.719" />
+        enfin c'est pas une distance
+        <Sync time="206.641" />
+        mais ça ça se met en place euh
+        <Sync time="208.723" />
+        je je me oui c'est vrai que je me pose pas trop la question
+      </Turn>
+      <Turn speaker="spk2" startTime="211.346" endTime="211.591">
+        <Sync time="211.346" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="211.591" endTime="212.088">
+        <Sync time="211.591" />
+        quoi hein
+      </Turn>
+      <Turn speaker="spk2" startTime="212.088" endTime="213.543">
+        <Sync time="212.088" />
+        c'est assez naturel en fait
+      </Turn>
+      <Turn speaker="spk1" startTime="213.543" endTime="215.463">
+        <Sync time="213.543" />
+        oui ça se met en place normalement quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="215.463" endTime="216.028">
+        <Sync time="215.463" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="216.028" endTime="234.218">
+        <Sync time="216.028" />
+        le le questionnement qu'on peut avoir
+        <Sync time="219.126" />
+        par rapport à ces prises en charges très précoce
+        <Sync time="221.652" />
+        c'est à quel moment euh on on
+        <Sync time="227.157" />
+        j'allais dire on élimine
+        <Sync time="227.785" />
+        c'est pas un beau mot mais euh
+        <Sync time="229.904" />
+        euh à quel moment les parents
+        <Sync time="232.192" />
+        quittent la la salle de réeducation quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="234.218" endTime="234.651">
+        <Sync time="234.218" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="234.651" endTime="236.966">
+        <Sync time="234.651" />
+        parce que souvent tout petit
+        <Sync time="236.234" />
+        les parents sont là
+      </Turn>
+      <Turn speaker="spk2" startTime="236.966" endTime="237.175">
+        <Sync time="236.966" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="237.175" endTime="252.172">
+        <Sync time="237.175" />
+        parce que c'est en même temps
+        <Sync time="237.808" />
+        un accompagnement familial donc
+        <Sync time="239.657" />
+        c'est intéressant sur le moment
+        <Sync time="241.43" />
+        de dire bah voilà là
+        <Sync time="242.811" />
+        il s'est passé un truc intéressant
+        <Sync time="244.439" />
+        euh et puis aussi de de de
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        <Sync time="247.311" />
+        comment je peux dire euh
+        <Sync time="248.574" />
+        que les parents soient spectateurs d'évènements importants quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="252.172" endTime="254.075">
+        <Sync time="252.172" />
+        oui d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="254.075" endTime="259.862">
+        <Sync time="254.075" />
+        mais après à quel moment
+        <Sync time="256.022" />
+        les parents s'en vont
+        <Sync time="256.97" />
+        ça c'est c'est variable euh
+        <Sync time="259.418" />
+        ça dépend
+      </Turn>
+      <Turn speaker="spk2" startTime="259.862" endTime="260.43">
+        <Sync time="259.862" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="260.43" endTime="264.621">
+        <Sync time="260.43" />
+        un petit peu de l'enfant
+        <Sync time="261.295" />
+        des parents de
+      </Turn>
+      <Turn speaker="spk2" startTime="264.621" endTime="267.003">
+        <Sync time="264.621" />
+        hum d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="267.003" endTime="270.048">
+        <Sync time="267.003" />
+        mais c'est pas votre sujet donc on
+        <Sync time="268.146" />
+        &lt; va pas développer
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="270.048" endTime="270.166">
+        <Sync time="270.048" />
+        et euh oui
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="270.166" endTime="271.826">
+        <Sync time="270.166" />
+        sinon on en a pour longtemps encore
+      </Turn>
+      <Turn speaker="spk2" startTime="271.826" endTime="277.214">
+        <Sync time="271.826" />
+        et euh
+        <Sync time="273.059" />
+        est-ce que vous ressentez des ch-
+        <Sync time="274.458" />
+        vous ressentez des choses
+        <Sync time="275.87" />
+        par rapport aux patients
+      </Turn>
+      <Turn speaker="spk1" startTime="277.214" endTime="277.762">
+        <Sync time="277.214" />
+        &lt; choses
+      </Turn>
+      <Turn speaker="spk2" startTime="277.762" endTime="285.547">
+        <Sync time="277.762" />
+        ou leurs patologies
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        &gt;
+        <Sync time="278.656" />
+        ou leur histoire
+        <Sync time="279.156" />
+        ça peut être n'importe quoi
+        <Sync time="280.798" />
+        ça peut être vraiment une grande affection
+        <Sync time="283.345" />
+        ou euh parfois de la tristesse
+        <Sync time="285.378" />
+        ou même des fois de l'agacement
+      </Turn>
+      <Turn speaker="spk1" startTime="285.547" endTime="286.508">
+        <Sync time="285.547" />
+        <Event desc="tx" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="286.508" endTime="289.575">
+        <Sync time="286.508" />
+        ou euh
+        <Sync time="287.903" />
+        ça peut etre plusieurs choses
+      </Turn>
+      <Turn speaker="spk1" startTime="289.575" endTime="292.332">
+        <Sync time="289.575" />
+        et bah certainement
+        <Sync time="290.508" />
+        tout ça en fonction des jours
+      </Turn>
+      <Turn speaker="spk2" startTime="292.332" endTime="302.5">
+        <Sync time="292.332" />
+        hum
+        <Sync time="292.816" />
+        hein ça c'est sûr hein
+        <Sync time="294.894" />
+        euh après euh
+        <Sync time="299.015" />
+        on est pas là pour prendre
+        <Sync time="299.846" />
+        tout le malheur du monde
+        <Sync time="300.882" />
+        sur les épaules
+        <Sync time="301.487" />
+        heureusement hein
+      </Turn>
+      <Turn speaker="spk2" startTime="302.5" endTime="303.005">
+        <Sync time="302.5" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="303.005" endTime="311.224">
+        <Sync time="303.005" />
+        euh donc c'est important d'avoir
+        <Sync time="306.036" />
+        une une distance
+        <Sync time="307.546" />
+        qui est de rester dans une relation
+        <Sync time="309.478" />
+        thérapeutique avec les gens
+      </Turn>
+      <Turn speaker="spk2" startTime="311.224" endTime="311.979">
+        <Sync time="311.224" />
+        &lt; hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="311.979" endTime="333.356">
+        <Sync time="311.979" />
+        hein &gt;
+        <Sync time="312.404" />
+        ce qui
+        <Sync time="312.71" />
+        n'empêche pas l'empathie hein
+        <Sync time="315.016" />
+        euh c'est quelques fois euh
+        <Sync time="319.626" />
+        émouvant éprouvant
+        <Sync time="322.014" />
+        euh euh surtout quand on reçoit des familles
+        <Sync time="324.784" />
+        euh
+        <Sync time="325.683" />
+        avec des enfants qui ont des syndrômes hein
+        <Sync time="328.127" />
+        particuliers qui euh
+        <Sync time="329.59" />
+        euh voilà qui sont des enfants un peu
+        <Sync time="331.925" />
+        mal en mal en point quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="333.356" endTime="333.856">
+        <Sync time="333.356" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="333.856" endTime="350.451">
+        <Sync time="333.856" />
+        qui ont un
+        <Sync time="334.872" />
+        hein des difficultées de tous ordres
+        <Sync time="337.84" />
+        bon on a un certains nombre de syndrômes
+        <Sync time="339.783" />
+        comme ça ou les enfants ont des problèmes
+        <Sync time="341.357" />
+        à la fois cardiaques
+        <Sync time="342.4" />
+        à la fois rénaux à la fois
+        <Sync time="343.843" />
+        enfin bon les parents cumulent
+        <Sync time="345.756" />
+        c'est un tout petit bout de chou
+        <Sync time="347.09" />
+        c'est leur premier enfant
+        <Sync time="348.536" />
+        c'est vrai que ça peut être très
+        <Sync time="349.417" />
+        &lt; poignant hein
+      </Turn>
+      <Turn speaker="spk2" startTime="350.451" endTime="350.469">
+        <Sync time="350.451" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="350.469" endTime="371.498">
+        <Sync time="350.469" />
+        après c'est pas c'est pas
+        <Sync time="352.711" />
+        les parents attendent pas de nous que
+        <Sync time="354.25" />
+        ont s'effondrent avec eux hein
+        <Sync time="355.635" />
+        euh donc euh
+        <Sync time="359.194" />
+        j- comment dire
+        <Sync time="362.85" />
+        comment trouver la juste attitude euh
+        <Sync time="365.278" />
+        pff c'est c'est bon à la fois
+        <Sync time="368.796" />
+        il y a la les années qui font
+        <Sync time="371.005" />
+        &lt; hein
+      </Turn>
+      <Turn speaker="spk2" startTime="371.498" endTime="371.918">
+        <Sync time="371.498" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="371.918" endTime="391.872">
+        <Sync time="371.918" />
+        les années euh de pratique
+        <Sync time="373.707" />
+        euh le contact donc euh
+        <Sync time="375.474" />
+        avec les parents
+        <Sync time="376.405" />
+        le travail avec les parents
+        <Sync time="377.711" />
+        pendant toutes ces années
+        <Sync time="378.972" />
+        euh il y a aussi le travail
+        <Sync time="380.867" />
+        en gros en équipes
+        <Sync time="383.108" />
+        hein qui qui aide dans ce domaine là
+        <Sync time="385.496" />
+        parce que voilà s'il y a des choses
+        <Sync time="387.133" />
+        qui sont difficiles
+        <Sync time="388.507" />
+        ben on peut on peut
+        <Sync time="391.278" />
+        en parler aux collegues
+      </Turn>
+      <Turn speaker="spk2" startTime="391.872" endTime="392.288">
+        <Sync time="391.872" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="392.288" endTime="396.387">
+        <Sync time="392.288" />
+        on en parle d'ailleurs hein
+        <Sync time="394.032" />
+        pour évacuer aussi
+        <Sync time="395.804" />
+        &lt; hein
+      </Turn>
+      <Turn speaker="spk2" startTime="396.387" endTime="397.3">
+        <Sync time="396.387" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="397.3" endTime="413.13">
+        <Sync time="397.3" />
+        mais euh je je perds mon fil
+        <Sync time="402.558" />
+        qu'est-ce que je je voulais dire par là
+        <Sync time="404.758" />
+        oui il y a une il y a il y a il y a forcément
+        <Sync time="409.675" />
+        nécessité d'avoir une attitude
+        <Sync time="412.47" />
+        claire quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="413.13" endTime="413.392">
+        <Sync time="413.13" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="413.392" endTime="432.79">
+        <Sync time="413.392" />
+        hein
+        <Sync time="413.978" />
+        euh on peut etre bienveillant
+        <Sync time="415.438" />
+        on peut etre dans l'empatie
+        <Sync time="417.07" />
+        bien évidemment
+        <Sync time="418.447" />
+        c'est souvent comme ça que ça se passe
+        <Sync time="419.995" />
+        après euh
+        <Sync time="422.137" />
+        les les parents ont aussi besoin
+        <Sync time="423.475" />
+        et c'est pour ça qu'ils sont là
+        <Sync time="424.833" />
+        de de de de faire le point
+        <Sync time="428.214" />
+        de qu'on soit synthétique
+        <Sync time="430.318" />
+        on leur renvoie un certain nombre de choses
+        <Sync time="432.345" />
+        &lt; hein
+      </Turn>
+      <Turn speaker="spk2" startTime="432.79" endTime="433.822">
+        <Sync time="432.79" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="433.822" endTime="452.0">
+        <Sync time="433.822" />
+        euh qu'ils ont quelques fois besoin
+        <Sync time="436.985" />
+        d'entendre hein euh
+        <Sync time="439.164" />
+        alors soit ils nous le demandent soit
+        <Sync time="441.943" />
+        euh c'est implicite
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="445.044" />
+        alors on est dans le domaine souvent du
+        <Event desc="e" type="noise" extent="instantaneous" />
+        <Sync time="449.995" />
+        ouais subjectif quoi hein
+      </Turn>
+      <Turn speaker="spk2" startTime="452.0" endTime="452.197">
+        <Sync time="452.0" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="452.197" endTime="456.595">
+        <Sync time="452.197" />
+        on marche un peu sur des oeufs euh
+        <Sync time="454.852" />
+        quelque fois on fait une boulette
+        <Sync time="456.231" />
+        &lt; hein bon
+      </Turn>
+      <Turn speaker="spk2" startTime="456.595" endTime="464.796">
+        <Sync time="456.595" />
+        hum &gt;
+        <Sync time="457.528" />
+        et ça vous est dejà arrivé
+        <Sync time="458.66" />
+        de vous laissez submerger un peu
+        <Sync time="459.636" />
+        par par tout ça
+        <Sync time="461.204" />
+        de montrer de montrer vos émotions vraiment
+      </Turn>
+      <Turn speaker="spk1" startTime="464.796" endTime="468.862">
+        <Sync time="464.796" />
+        elles transparaissent peut-être
+        <Sync time="468.056" />
+        &lt; oui
+      </Turn>
+      <Turn speaker="spk2" startTime="468.862" endTime="469.016">
+        <Sync time="468.862" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="469.016" endTime="474.795">
+        <Sync time="469.016" />
+        après c'est pas non plus euh
+        <Sync time="472.209" />
+        comment je peux dire euh
+        <Sync time="473.422" />
+        c'est pas grave quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="474.795" endTime="475.103">
+        <Sync time="474.795" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="475.103" endTime="481.494">
+        <Sync time="475.103" />
+        hein à condition de de de de
+        <Sync time="477.589" />
+        pouvoir ou mettre des mots
+        <Sync time="479.233" />
+        ou rattraper ou
+      </Turn>
+      <Turn speaker="spk2" startTime="481.494" endTime="482.073">
+        <Sync time="481.494" />
+        d'accord
+        <Sync time="481.813" />
+        &lt; oui
+      </Turn>
+      <Turn speaker="spk1" startTime="482.073" endTime="497.527">
+        <Sync time="482.073" />
+        bon &gt;
+        <Sync time="482.462" />
+        ça ne veux pas dire que euh
+        <Sync time="484.652" />
+        il y a pas des des
+        <Sync time="486.498" />
+        des des patients des parents
+        <Sync time="489.146" />
+        adultes euh qui vous marquent pas
+        <Sync time="492.464" />
+        et euh ça ne veux pas dire
+        <Sync time="494.791" />
+        que en rentrant le soir chez vous
+        <Sync time="496.608" />
+        vous pensez pas à tout ça hein
+      </Turn>
+      <Turn speaker="spk2" startTime="497.527" endTime="497.885">
+        <Sync time="497.527" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="497.885" endTime="508.96">
+        <Sync time="497.885" />
+        il y a des gens
+        <Sync time="498.5" />
+        mais vous savez pas on sait pas forcément pourquoi
+        <Sync time="500.21" />
+        mais bon c'est peut-être parce que ça ça
+        <Sync time="503.292" />
+        ravive des choses en vous
+        <Sync time="504.882" />
+        ou ça mais euh oui
+        <Sync time="507.448" />
+        il y a des gens qui marquent plus que d'autres
+        <Sync time="508.823" />
+        pourquoi
+      </Turn>
+      <Turn speaker="spk2" startTime="508.96" endTime="508.976">
+        <Sync time="508.96" />
+        &lt; hum d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="508.976" endTime="514.573">
+        <Sync time="508.976" />
+        c'est pas forcément &gt;
+        <Sync time="510.407" />
+        dans le la gravité de la pathologie
+        <Sync time="512.873" />
+        c'est pas forcément hein
+      </Turn>
+      <Turn speaker="spk2" startTime="514.573" endTime="515.32">
+        <Sync time="514.573" />
+        oui
+      </Turn>
+      <Turn speaker="spk1" startTime="515.32" endTime="519.86">
+        <Sync time="515.32" />
+        mais ça c'est entre vous et vous
+        <Sync time="517.279" />
+        donc faut vous en
+        <Sync time="519.127" />
+        &lt; débrouiller quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="519.86" endTime="520.417">
+        <Sync time="519.86" />
+        hum
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="520.417" endTime="522.916">
+        <Sync time="520.417" />
+        faut vous en débrouiller
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="522.916" endTime="538.222">
+        <Sync time="522.916" />
+        et vous pensez que c'est plus
+        <Sync time="524.496" />
+        par exemple si dans votre entourage
+        <Sync time="526.459" />
+        proche quelqu'un est atteint d'une certaine pathologie
+        <Sync time="529.854" />
+        que vous la rencontrez ici
+        <Sync time="530.852" />
+        est-ce que vous pensez que vous allez être plus proche
+        <Sync time="533.312" />
+        de de ce patient là ou est-ce que vous pensez
+        <Sync time="535.555" />
+        que ça va être plus difficile
+        <Sync time="536.784" />
+        au contraire
+      </Turn>
+      <Turn speaker="spk1" startTime="538.222" endTime="552.768">
+        <Sync time="538.222" />
+        non je reflichis si ça m'est arrivé
+        <Sync time="540.684" />
+        + euh +++ je
+        <Sync time="548.284" />
+        je pense c'est pas forcément
+        <Sync time="549.375" />
+        ce que je souhaiterais
+        <Sync time="550.11" />
+        si ça arrive ça arrive c'est pas
+      </Turn>
+      <Turn speaker="spk2" startTime="552.768" endTime="552.801">
+        <Sync time="552.768" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="552.801" endTime="555.989">
+        <Sync time="552.801" />
+        ça va pas être rédibitoire pour moi
+      </Turn>
+      <Turn speaker="spk2" startTime="555.989" endTime="560.393">
+        <Sync time="555.989" />
+        d'accord vous pensez pas que ça aura
+        <Sync time="557.89" />
+        un impact particulier
+      </Turn>
+      <Turn speaker="spk1" startTime="560.393" endTime="564.217">
+        <Sync time="560.393" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        non
+        <Sync time="561.711" />
+        enfin j'espère pas
+        <Sync time="562.866" />
+        j'espère pas
+      </Turn>
+      <Turn speaker="spk2" startTime="564.217" endTime="569.235">
+        <Sync time="564.217" />
+        d'accord
+        <Sync time="564.659" />
+        et est-ce que vous avez
+        <Sync time="566.111" />
+        un un truc pour
+      </Turn>
+      <Turn speaker="spk1" startTime="569.235" endTime="569.695">
+        <Sync time="569.235" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="569.695" endTime="580.205">
+        <Sync time="569.695" />
+        pour cacher vos émotions
+        <Sync time="572.77" />
+        pour essayer de
+        <Sync time="573.619" />
+        rester à votre place en fait
+        <Sync time="575.952" />
+        ou est-ce que c'est vraiment
+        <Sync time="578.059" />
+        en vous c'est naturel
+        <Sync time="579.482" />
+        ça vient avec
+        <Sync time="580.009" />
+        &lt; les années
+      </Turn>
+      <Turn speaker="spk1" startTime="580.205" endTime="583.022">
+        <Sync time="580.205" />
+        non c'est pas forcément naturel &gt;
+        <Sync time="580.872" />
+        ça vient avec les années ça se
+      </Turn>
+      <Turn speaker="spk2" startTime="583.022" endTime="583.59">
+        <Sync time="583.022" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="583.59" endTime="584.748">
+        <Sync time="583.59" />
+        oui ça se construit ça
+      </Turn>
+      <Turn speaker="spk2" startTime="584.748" endTime="585.365">
+        <Sync time="584.748" />
+        donc
+        <Sync time="584.943" />
+        &lt; au début
+      </Turn>
+      <Turn speaker="spk1" startTime="585.365" endTime="586.318">
+        <Sync time="585.365" />
+        ça se construit &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="586.318" endTime="587.587">
+        <Sync time="586.318" />
+        au début c'était plus difficile peut-être que
+      </Turn>
+      <Turn speaker="spk1" startTime="587.587" endTime="592.43">
+        <Sync time="587.587" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        oui certainement
+        <Sync time="591.313" />
+        oui oui
+      </Turn>
+      <Turn speaker="spk2" startTime="592.43" endTime="593.764">
+        <Sync time="592.43" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="593.764" endTime="607.071">
+        <Sync time="593.764" />
+        c'est-à-dire que
+        <Sync time="595.457" />
+        euh voilà n'ayant
+        <Sync time="597.806" />
+        ayant commencé relativement jeune
+        <Sync time="599.568" />
+        dans ce travail
+        <Sync time="600.37" />
+        n'ayant pas d'enfant
+        <Sync time="600.988" />
+        à ce moment là
+        <Sync time="602.312" />
+        j'ai pu quelque fois peut-être être
+        <Sync time="605.519" />
+        maladroite
+        <Sync time="606.184" />
+        &lt; certainement
+      </Turn>
+      <Turn speaker="spk2" startTime="607.071" endTime="607.614">
+        <Sync time="607.071" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="607.614" endTime="610.353">
+        <Sync time="607.614" />
+        euh +
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

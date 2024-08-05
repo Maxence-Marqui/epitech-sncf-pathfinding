@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Corpus" audio_filename="vincent15_can.wav" version="7" version_date="090723">
+<Topics>
+<Topic id="to1" desc="SDrevuEC22/8/2007YS13/8/2008"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Vincent" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="135.642" topic="to1">
+<Turn startTime="0" endTime="2.018" speaker="spk2">
+<Sync time="0"/>
+"Les feutres de Bastien" 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2.018" endTime="2.763">
+<Sync time="2.018"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2.763" endTime="7.832">
+<Sync time="2.763"/>
+celui-là 
+<Event desc="slyi" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se met 
+<Event desc="sme" type="pronounce" extent="previous"/>
+ là et celui-là 
+<Event desc="slyi" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se met 
+<Event desc="sme" type="pronounce" extent="previous"/>
+ là 
+<Comment desc="L'enfant commente l'illustration de la couverture du livre"/>
+ c'est 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="7.832" endTime="8.756">
+<Sync time="7.832"/>
+<Who nb="1"/>
+***
+<Who nb="2"/>
+gagné
+</Turn>
+<Turn speaker="spk1" startTime="8.756" endTime="13.891">
+<Sync time="8.756"/>
+oui les crayons se mettent dans la boite 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="13.891" endTime="18.011">
+<Sync time="13.891"/>
+Tonton David il a promis d'acheter 
+<Event desc="aSté" type="pronounce" extent="previous"/>
+ les feutres de Bastien
+</Turn>
+<Turn speaker="spk1" startTime="18.011" endTime="23.576">
+<Sync time="18.011"/>
+oui il a promis d'acheter 
+<Event desc="aSté" type="pronounce" extent="previous"/>
+ des feutres à Bastien +
+</Turn>
+<Turn speaker="spk2" startTime="23.576" endTime="29.005">
+<Sync time="23.576"/>
+Tonton David et Bastien ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont passés devant une boulangerie
+</Turn>
+<Turn speaker="spk1" startTime="29.005" endTime="30.232">
+<Sync time="29.005"/>
+c'est une épicerie
+</Turn>
+<Turn speaker="spk2" startTime="30.232" endTime="36.305">
+<Sync time="30.232"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il est passé devant une épicerie mais /ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+, il 
+<Event desc="i" type="pronounce" extent="previous"/>
+/ /voit, voient/ des légumes +
+</Turn>
+<Turn speaker="spk1" startTime="36.305" endTime="36.873">
+<Sync time="36.305"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="36.873" endTime="38.022">
+<Sync time="36.873"/>
+des légumes
+</Turn>
+<Turn speaker="spk1" startTime="38.022" endTime="38.784">
+<Sync time="38.022"/>
+et des fruits
+</Turn>
+<Turn speaker="spk2" startTime="38.784" endTime="45.102">
+<Sync time="38.784"/>
+des légumes et ***
+<Sync time="40.059"/>
+ mais ils ne voient pas de feutres 
+<Sync time="43.542"/>
+et ça c'est quoi d'abord ?
+</Turn>
+<Turn speaker="spk1" startTime="45.102" endTime="46.459">
+<Sync time="45.102"/>
+là c'est une boulangerie 
+</Turn>
+<Turn speaker="spk2" startTime="46.459" endTime="53.743">
+<Sync time="46.459"/>
+et ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ passent devant une boulangerie 
+<Sync time="48.918"/>
+et ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ voient des des gâteaux euh
+</Turn>
+<Turn speaker="spk1" startTime="53.743" endTime="54.754">
+<Sync time="53.743"/>
+du pain
+</Turn>
+<Turn speaker="spk2" startTime="54.754" endTime="58.067">
+<Sync time="54.754"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ voient des gâteaux du pain
+</Turn>
+<Turn speaker="spk1 spk2" startTime="58.067" endTime="58.441">
+<Sync time="58.067"/>
+<Who nb="1"/>
+mais
+<Who nb="2"/>
+ils ne
+</Turn>
+<Turn speaker="spk2" startTime="58.441" endTime="63.53">
+<Sync time="58.441"/>
+voient pas de feutres et et ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont passés devant une u-
+</Turn>
+<Turn speaker="spk1" startTime="63.53" endTime="64.656">
+<Sync time="63.53"/>
+une librairie
+</Turn>
+<Turn speaker="spk2" startTime="64.656" endTime="74.963">
+<Sync time="64.656"/>
+une librairie 
+<Event desc="libERi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="65.958"/>
+mais ils voient des journaux euh des cahiers et et des stylos 
+<Sync time="72.424"/>
+mais ils ne voient des feutres
+</Turn>
+<Turn speaker="spk1" startTime="74.963" endTime="76.618">
+<Sync time="74.963"/>
+et ils voient même des feutres
+</Turn>
+<Turn speaker="spk2" startTime="76.618" endTime="87.24">
+<Sync time="76.618"/>
+ils voient même des feutres + Tont- Sé- Bastien il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ veut la grande boîte euh euh de de
+</Turn>
+<Turn speaker="spk1" startTime="87.24" endTime="89.056">
+<Sync time="87.24"/>
+de douze crayons-feutres
+</Turn>
+<Turn speaker="spk2" startTime="89.056" endTime="95.142">
+<Sync time="89.056"/>
+et euh Bastien il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ veut la grande boîte euh de douze de crayons-feutres
+</Turn>
+<Turn speaker="spk1" startTime="95.142" endTime="95.576">
+<Sync time="95.142"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="95.576" endTime="104.781">
+<Sync time="95.576"/>
+mais Tonton David il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit la boîte il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ la boî-
+<Sync time="99.93"/>
+il il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ trou- il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ trouve trop cher la boîte de six crayons-feutres 
+<Event desc="kEJo~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="104.781" endTime="112.951">
+<Sync time="104.781"/>
+oui la boîte de douze crayons-feutres coûte trop cher +
+</Turn>
+<Turn speaker="spk2" startTime="112.951" endTime="114.661">
+<Sync time="112.951"/>
+et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ ça ?
+</Turn>
+<Turn speaker="spk1" startTime="114.661" endTime="116.333">
+<Sync time="114.661"/>
+Tonton David et Bastien 
+</Turn>
+<Turn speaker="spk2" startTime="116.333" endTime="129.409">
+<Sync time="116.333"/>
+*** Tonton David et Bastien Tonton David donne de l'argent 
+<Event desc="aZa~" type="pronounce" extent="previous"/>
+ à la madame
+<Sync time="122.848"/>
+et et et aussi avec mes feutres neufs je vais te faire un beau dessin
+</Turn>
+<Turn speaker="spk1" startTime="129.409" endTime="135.642">
+<Sync time="129.409"/>
+oui Tonton David a acheté la boîte de six crayons-feutres la petite boîte c'est bien $$$ 
+</Turn>
+</Section>
+</Episode>
+</Trans>

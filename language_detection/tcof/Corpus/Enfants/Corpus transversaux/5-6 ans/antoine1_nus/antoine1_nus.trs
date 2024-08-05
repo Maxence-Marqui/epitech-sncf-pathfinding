@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Nelly Nusbaum" audio_filename="antoine1_nus.wav" version="13" version_date="100812">
+<Speakers>
+<Speaker id="spk1" name="Antoine" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="NN01/05/2008-YS11/05/2010-EC18/06/10"/>
+</Topics>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="357.166" topic="to1">
+<Turn startTime="0" endTime="1.218" speaker="spk1">
+<Sync time="0"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ bonjour 
+<Event desc="bo~zuR" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1.218" endTime="1.855">
+<Sync time="1.218"/>
+ça va ?
+</Turn>
+<Turn speaker="spk1" startTime="1.855" endTime="2.512">
+<Sync time="1.855"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2.512" endTime="4.12">
+<Sync time="2.512"/>
+alors on va lire une petite 
+<Event desc="ptit" type="pronounce" extent="previous"/>
+ histoire ensemble ?
+</Turn>
+<Turn speaker="spk1" startTime="4.12" endTime="4.604">
+<Sync time="4.12"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="4.604" endTime="5.369">
+<Sync time="4.604"/>
+d'accord ?
+</Turn>
+<Turn speaker="spk1" startTime="5.369" endTime="8.119">
+<Sync time="5.369"/>
+et pourquoi ça enregistre 
+<Event desc="a~R2Zis" type="pronounce" extent="previous"/>
+ pas ma voix-là ?
+</Turn>
+<Turn speaker="spk2" startTime="8.119" endTime="16.771">
+<Sync time="8.119"/>
+si ça enregistre là +
+<Sync time="10.147"/>
+mais euh on réécoutera après ensemble d'accord ? comme ça tu entendras ta voix
+<Sync time="14.625"/>
+alors c'est quoi là l'histoire qu'on que je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ te raconter ?
+</Turn>
+<Turn speaker="spk1" startTime="16.771" endTime="20.446">
+<Sync time="16.771"/>
+c'est la petite 
+<Event desc="ptit" type="pronounce" extent="previous"/>
+ souris 
+<Event desc="SuRi" type="pronounce" extent="previous"/>
+ qui attrape
+<Sync time="18.427"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ qui attrape les dents de lapin
+</Turn>
+<Turn speaker="spk2" startTime="20.446" endTime="21.524">
+<Sync time="20.446"/>
+qui attrape les dents de lapin ?
+</Turn>
+<Turn speaker="spk1" startTime="21.524" endTime="23.101">
+<Sync time="21.524"/>
+oui ***
+</Turn>
+<Turn speaker="spk1 spk2" startTime="23.101" endTime="23.766">
+<Sync time="23.101"/>
+<Who nb="1"/>
+elles se
+<Who nb="2"/>
+alors
+</Turn>
+<Turn speaker="spk1" startTime="23.766" endTime="25.328">
+<Sync time="23.766"/>
+elles sont tombées +
+</Turn>
+<Turn speaker="spk2" startTime="25.328" endTime="26.297">
+<Sync time="25.328"/>
+elles sont tombées ?
+</Turn>
+<Turn speaker="spk1" startTime="26.297" endTime="26.754">
+<Sync time="26.297"/>
+ oui
+</Turn>
+<Turn speaker="spk2" startTime="26.754" endTime="27.567">
+<Sync time="26.754"/>
+à cause de quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="27.567" endTime="29.02">
+<Sync time="27.567"/>
+eh ben tu vas voir
+</Turn>
+<Turn speaker="spk2" startTime="29.02" endTime="36.151">
+<Sync time="29.02"/>
+ah bon ? 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ + alors 
+<Event desc="chaise " type="noise" extent="instantaneous"/>
+ + c'était il y a très longtemps
+</Turn>
+<Turn speaker="spk1 spk2" startTime="36.151" endTime="36.448">
+<Sync time="36.151"/>
+<Who nb="1"/>
+hum
+<Who nb="2"/>
+lorsque
+</Turn>
+<Turn speaker="spk2" startTime="36.448" endTime="42.039">
+<Sync time="36.448"/>
+les petits lapins comme les petits enfants
+<Sync time="38.426"/>
+perdaient leurs dents de lait +
+<Sync time="40.745"/>
+alors qu'est-ce qu'ils 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ font là Antoine ?
+</Turn>
+<Turn speaker="spk1" startTime="42.039" endTime="44.437">
+<Sync time="42.039"/>
+eh ben ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ eh ben ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont s'endormir
+</Turn>
+<Turn speaker="spk2" startTime="44.437" endTime="45.405">
+<Sync time="44.437"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont s'endormir
+</Turn>
+<Turn speaker="spk1" startTime="45.405" endTime="45.729">
+<Sync time="45.405"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="45.729" endTime="48.893">
+<Sync time="45.729"/>
+mais ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont beaucoup dans ce lit 
+<Event desc="sli" type="pronounce" extent="previous"/>
+ ? +
+</Turn>
+<Turn speaker="spk1" startTime="48.893" endTime="51.531">
+<Sync time="48.893"/>
+c'est un lit par chacun 
+<Event desc="sake~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="51.531" endTime="52.578">
+<Sync time="51.531"/>
+c'est un lit pour chacun ?
+</Turn>
+<Turn speaker="spk1" startTime="52.578" endTime="53.186">
+<Sync time="52.578"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="53.186" endTime="57.54">
+<Sync time="53.186"/>
+ah d'accord + il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ leurs chaussures-là
+<Sync time="55.749"/>
+ils ont laissé leurs chaussures euh par terre ?
+</Turn>
+<Turn speaker="spk1" startTime="57.54" endTime="61.856">
+<Sync time="57.54"/>
+hum oui + regarde 
+<Event desc="gaRd" type="pronounce" extent="previous"/>
+ il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ une petite souris
+</Turn>
+<Turn speaker="spk2 spk1" startTime="61.856" endTime="62.856">
+<Sync time="61.856"/>
+<Who nb="1"/>
+ah oui
+<Who nb="2"/>
+elle est 
+<Event desc="e" type="pronounce" extent="previous"/>
+ cachée
+</Turn>
+<Turn speaker="spk1" startTime="62.856" endTime="63.809">
+<Sync time="62.856"/>
+caché une dent
+</Turn>
+<Turn speaker="spk2" startTime="63.809" endTime="65.772">
+<Sync time="63.809"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ cachent leurs dents sous l'oreiller comme nous on fait ?
+</Turn>
+<Turn speaker="spk1" startTime="65.772" endTime="69.162">
+<Sync time="65.772"/>
+non il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ cache une dent
+<Sync time="67.256"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ veut pas qu'on la prend 
+<Comment desc="sic"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="69.162" endTime="78.829">
+<Sync time="69.162"/>
+ben non ah c'est pas ça l'histoire la petite souris
+<Sync time="71.693"/>
+c'est quand on perd une dent +
+<Sync time="73.64"/>
+ils la mettent sous l'oreiller
+<Sync time="75.097"/>
+et la petite souris la nuit elle passe pour euh donner un petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ bonbon
+</Turn>
+<Turn speaker="spk2 spk1" startTime="78.829" endTime="79.234">
+<Sync time="78.829"/>
+<Who nb="1"/>
+ou euh
+<Who nb="2"/>
+ben tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="79.234" endTime="79.939">
+<Sync time="79.234"/>
+qu'à lire
+</Turn>
+<Turn speaker="spk2" startTime="79.939" endTime="101.919">
+<Sync time="79.939"/>
+ah ben oui je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ lire
+<Sync time="81.119"/>
+il y avait alors une petite souris appelée autrefois Didi Bonbon
+<Sync time="84.676"/>
+mais à présent qu'elle avait grandi simplement Didi
+<Sync time="87.938"/>
+son métier était de chercher les dents que les petits lapins pe- perdaient
+<Sync time="91.686"/>
+pour le 
+<Comment desc="sic"/>
+ remplacer par de petits cadeaux tu vois ? qu'elle fabriquait elle-même
+<Sync time="96.076"/>
+c'est un formidable métier pour une souris +
+<Sync time="98.95"/>
+et toi alors quand tu perds tes dents tu mets ta t- t- ta dent sous l'oreiller ?
+</Turn>
+<Turn speaker="spk1" startTime="101.919" endTime="104.625">
+<Sync time="101.919"/>
+non je la 
+<Event desc="Zla" type="pronounce" extent="previous"/>
+ mets sur euh sur ma sur ma table
+</Turn>
+<Turn speaker="spk2" startTime="104.625" endTime="106.596">
+<Sync time="104.625"/>
+sur ta table et elle passe euh ?
+</Turn>
+<Turn speaker="spk1" startTime="106.596" endTime="113.363">
+<Sync time="106.596"/>
+oui elle me elle m- en plus * quand quand quand je dormais pas une fois
+<Sync time="110.534"/>
+elle est passée et j'ai 
+<Event desc="Z" type="pronounce" extent="previous"/>
+ tiré la petite 
+<Event desc="ptit" type="pronounce" extent="previous"/>
+ queue
+</Turn>
+<Turn speaker="spk1 spk2" startTime="113.363" endTime="113.785">
+<Sync time="113.363"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ tiré la
+</Turn>
+<Turn speaker="spk2" startTime="113.785" endTime="114.103">
+<Sync time="113.785"/>
+petite 
+<Event desc="ptit" type="pronounce" extent="previous"/>
+ queue ?
+</Turn>
+<Turn speaker="spk1" startTime="114.103" endTime="114.65">
+<Sync time="114.103"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="114.65" endTime="115.764">
+<Sync time="114.65"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ réussi à /l'avoir, la voir/ ?
+</Turn>
+<Turn speaker="spk1" startTime="115.764" endTime="116.186">
+<Sync time="115.764"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="116.186" endTime="116.796">
+<Sync time="116.186"/>
+ah bon ?
+</Turn>
+<Turn speaker="spk1" startTime="116.796" endTime="117.049">
+<Sync time="116.796"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="117.049" endTime="118.986">
+<Sync time="117.049"/>
+et qu'est-ce qu'elle t'a apporté alors ? +
+</Turn>
+<Turn speaker="spk1" startTime="118.986" endTime="123.352">
+<Sync time="118.986"/>
+ben elle m'a ap- elle m'a appo- elle m'a apporté une pièce en chocolat
+</Turn>
+<Turn speaker="spk2" startTime="123.352" endTime="124.514">
+<Sync time="123.352"/>
+une pièce en chocolat ?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="124.514" endTime="124.748">
+<Sync time="124.514"/>
+<Who nb="1"/>
+elle est
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="124.748" endTime="139.444">
+<Sync time="124.748"/>
+gentille hein ? + alors * une fois qu'elle avait fait sa petite récolte de dents
+<Sync time="130.418"/>
+tantôt chez les uns tantôt chez les autres elle s'en retournait chez elle
+<Sync time="134.088"/>
+portant à l'épaule son précieux petit 
+<Event desc="sp2ti" type="pronounce" extent="previous"/>
+ sac jaune rempli d'ivoire + wouah
+</Turn>
+<Turn speaker="spk1" startTime="139.444" endTime="140.657">
+<Sync time="139.444"/>
+c'est là sa maison
+</Turn>
+<Turn speaker="spk2" startTime="140.657" endTime="141.496">
+<Sync time="140.657"/>
+c'est sa maison là ?
+</Turn>
+<Turn speaker="spk1" startTime="141.496" endTime="145.279">
+<Sync time="141.496"/>
+oui + regarde l'oeil c'est un gros rat +
+</Turn>
+<Turn speaker="spk2" startTime="145.279" endTime="146.732">
+<Sync time="145.279"/>
+oh
+</Turn>
+<Turn speaker="spk1" startTime="146.732" endTime="147.947">
+<Sync time="146.732"/>
+alors tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ qu'à li-
+</Turn>
+<Turn speaker="spk2" startTime="147.947" endTime="160.671">
+<Sync time="147.947"/>
+un soir alors qu'elle confectionnait bien tranquillement les cadeaux qu'elle leur a-
+<Sync time="151.736"/>
+qu'elle allait livrer 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ le lendemain à la famille Petitpois
+<Sync time="155.427"/>
+un rat mal attentionné jeta un coup d'oeil par la fenêtre + c'est un rat alors ?
+</Turn>
+<Turn speaker="spk1" startTime="160.671" endTime="161.049">
+<Sync time="160.671"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="161.049" endTime="162.647">
+<Sync time="161.049"/>
+c'est plus gros qu'une souris ? +
+</Turn>
+<Turn speaker="spk1" startTime="162.647" endTime="163.444">
+<Sync time="162.647"/>
+hum +
+</Turn>
+<Turn speaker="spk2" startTime="163.444" endTime="164.581">
+<Sync time="163.444"/>
+oui ? +
+</Turn>
+<Turn speaker="spk1" startTime="164.581" endTime="168.481">
+<Sync time="164.581"/>
+eh regarde + il a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ un crochet au bout +
+</Turn>
+<Turn speaker="spk2" startTime="168.481" endTime="169.043">
+<Sync time="168.481"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="169.043" endTime="170.48">
+<Sync time="169.043"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ un crochet au bout
+</Turn>
+<Turn speaker="spk2" startTime="170.48" endTime="171.67">
+<Sync time="170.48"/>
+il a un crochet au bout ?
+</Turn>
+<Turn speaker="spk1" startTime="171.67" endTime="172.372">
+<Sync time="171.67"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="172.372" endTime="173.528">
+<Sync time="172.372"/>
+et qu'est-ce qu'il 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ veut attraper ?
+</Turn>
+<Turn speaker="spk1" startTime="173.528" endTime="179.791">
+<Sync time="173.528"/>
+eh ben le sac qui est pour euh pour pour les dents
+<Sync time="176.963"/>
+pour attraper les dents tu vas voir 
+<Event desc="vwa" type="pronounce" extent="previous"/>
+ tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ qu'à lire +
+</Turn>
+<Turn speaker="spk2" startTime="179.791" endTime="190.662">
+<Sync time="179.791"/>
+il fit le tour de la maison attendit que Didi s'endorme
+<Sync time="182.549"/>
+et s'empara du sac de dents de la petite souris +
+<Sync time="185.509"/>
+que pouvait-il bien faire d'un sac de dents de lapin ?
+<Sync time="188.341"/>
+est-ce que tu peux me donner 
+<Event desc="mdone" type="pronounce" extent="previous"/>
+ une réponse à ça ? +
+</Turn>
+<Turn speaker="spk2" startTime="190.662" endTime="190.818">
+<Sync time="190.662"/>
+qu'est-ce
+</Turn>
+<Turn speaker="spk1 spk2" startTime="190.818" endTime="191.381">
+<Sync time="190.818"/>
+<Who nb="1"/>
+ben * 
+<Event desc="Z" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+qui va en faire
+</Turn>
+<Turn speaker="spk2" startTime="191.381" endTime="192.463">
+<Sync time="191.381"/>
+de ces dents ?
+</Turn>
+<Turn speaker="spk1" startTime="192.463" endTime="197.437">
+<Sync time="192.463"/>
+eh ben tu regardes 
+<Event desc="R2ga" type="pronounce" extent="previous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="194.151"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va les prendre et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va les offrir à sa femme
+</Turn>
+<Turn speaker="spk2" startTime="197.437" endTime="198.537">
+<Sync time="197.437"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va les offrir à sa femme ?
+</Turn>
+<Turn speaker="spk1" startTime="198.537" endTime="198.888">
+<Sync time="198.537"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="198.888" endTime="199.076">
+<Sync time="198.888"/>
+alors
+</Turn>
+<Turn speaker="spk1 spk2" startTime="199.076" endTime="199.908">
+<Sync time="199.076"/>
+<Who nb="1"/>
+là
+<Who nb="2"/>
+attends
+</Turn>
+<Turn speaker="spk2" startTime="199.908" endTime="212.731">
+<Sync time="199.908"/>
+et bien vous ne devinerez jamais
+<Sync time="201.627"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ c'était pour les offrir à sa femme comme bijou
+<Sync time="203.956"/>
+et pour décorer leur maison ben dis-donc tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ raison en plus +
+<Sync time="207.222"/>
+et /il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ décore, ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ décorent/ toute la maison
+<Sync time="208.347"/>
+avec les dents de lait 
+<Event desc="dle" type="pronounce" extent="previous"/>
+ des petits 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ lapins + +
+</Turn>
+<Turn speaker="spk1" startTime="212.731" endTime="214.873">
+<Sync time="212.731"/>
+ben elle veut plus lui en donner maintenant
+</Turn>
+<Turn speaker="spk2" startTime="214.873" endTime="215.568">
+<Sync time="214.873"/>
+elle veut plus lui en donner ?
+</Turn>
+<Turn speaker="spk1" startTime="215.568" endTime="217.58">
+<Sync time="215.568"/>
+ben tu vas voir +
+</Turn>
+<Turn speaker="spk2" startTime="217.58" endTime="232.804">
+<Sync time="217.58"/>
+Didi qui s'était réveillé et avait suivi le rat
+<Sync time="220.396"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ vint simplement reprendre son petit sac jaune + et +
+<Sync time="224.246"/>
+laissant les deux rats ronfler +
+<Sync time="227.178"/>
+comme des cochons dans /leur lit, leurs lits/ aux draps sales
+<Sync time="229.336"/>
+elle retourna chez elle sans faire d'histoire +
+</Turn>
+<Turn speaker="spk1" startTime="232.804" endTime="234.985">
+<Sync time="232.804"/>
+et ça enregistre 
+<Event desc="R2Zis" type="pronounce" extent="previous"/>
+ ta voix ?
+</Turn>
+<Turn speaker="spk2" startTime="234.985" endTime="236.264">
+<Sync time="234.985"/>
+oui +
+</Turn>
+<Turn speaker="spk1" startTime="236.264" endTime="236.854">
+<Sync time="236.264"/>
+ta voix ?
+</Turn>
+<Turn speaker="spk2" startTime="236.854" endTime="240.333">
+<Sync time="236.854"/>
+oui et la tienne aussi tu vas voir après
+<Sync time="239.308"/>
+alors qu'est-ce qui se passe là ?
+</Turn>
+<Turn speaker="spk1" startTime="240.333" endTime="242.986">
+<Sync time="240.333"/>
+ben là elle met à chacun un petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ cadeau
+</Turn>
+<Turn speaker="spk2" startTime="242.986" endTime="244.158">
+<Sync time="242.986"/>
+oui +
+</Turn>
+<Turn speaker="spk1" startTime="244.158" endTime="245.511">
+<Sync time="244.158"/>
+et et après elle s'en va
+</Turn>
+<Turn speaker="spk2" startTime="245.511" endTime="247.429">
+<Sync time="245.511"/>
+elle s'en va pour pas que qu'on les voit
+</Turn>
+<Turn speaker="spk1" startTime="247.429" endTime="248.307">
+<Sync time="247.429"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="248.307" endTime="261.009">
+<Sync time="248.307"/>
+ok d'accord avant le lever du jour
+<Sync time="250.948"/>
+elle fit sa tournée de cadeaux comme si de rien n'était
+<Sync time="253.532"/>
+chaque lapin eut son petit cadeau +
+<Sync time="256.297"/>
+eut son petit cadeau car heureusement aucune dent ne manquait +
+</Turn>
+<Turn speaker="spk1" startTime="261.009" endTime="262.349">
+<Sync time="261.009"/>
+ah ouais
+</Turn>
+<Turn speaker="spk2" startTime="262.349" endTime="263.947">
+<Sync time="262.349"/>
+alors là ? +
+</Turn>
+<Turn speaker="spk1" startTime="263.947" endTime="271.343">
+<Sync time="263.947"/>
+alors le gros rat i- il essaie de d'aller chercher quelque 
+<Event desc="kEk" type="pronounce" extent="previous"/>
+ * 
+<Event desc="S" type="pronounce" extent="previous"/>
+
+<Sync time="267.181"/>
+il est prêt à lui voler quelque chose mais en fait il arrive pas 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="270.085"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ qu'à lire 
+<Event desc="l" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="271.343" endTime="296.582">
+<Sync time="271.343"/>
+de retour chez elle qui vit-elle + près de sa maison ?
+<Sync time="275.406"/>
+le vilain rat pret à lui voler à nouveau quelque chose 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="278.096"/>
+et Monsieur le Rat qu'est-ce que tu fais là demanda-t-elle ?
+<Sync time="281.376"/>
+le rat un peu gêné lui raconta ce qu'elle savait déja 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ +
+<Sync time="284.992"/>
+c'est pour ma femme dit-il 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle raffole de bijoux
+<Sync time="287.678"/>
+je n'y peux rien + elle m'oblige à voler tout ce qui 
+<Event desc="ski" type="pronounce" extent="previous"/>
+ ressemble à des bijoux
+<Sync time="292.412"/>
+sinon je suis puni + c'est pas très gentil ça hein ? +
+</Turn>
+<Turn speaker="spk1" startTime="296.582" endTime="297.785">
+<Sync time="296.582"/>
+et après ?
+</Turn>
+<Turn speaker="spk2" startTime="297.785" endTime="314.831">
+<Sync time="297.785"/>
+et après vous imaginez dans quel embarras je me trouve 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="301.115"/>
+je préfèrerais voler quelque chose je ne sais 
+<Event desc="nse" type="pronounce" extent="previous"/>
+ pas du fromage par exemple 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="305.342"/>
+mais voilà ce c'est ce qu'elle veut des bijoux des dents des perles
+<Sync time="309.278"/>
+enfin tout ce qui 
+<Event desc="ski" type="pronounce" extent="previous"/>
+ brille
+<Sync time="310.492"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ eh bien je te propose quelque chose lui dit la petite souris
+<Sync time="313.487"/>
+alors qu'est-ce qu'elle va lui proposer ?
+</Turn>
+<Turn speaker="spk1" startTime="314.831" endTime="315.975">
+<Sync time="314.831"/>
+ben tu vas voir
+</Turn>
+<Turn speaker="spk2" startTime="315.975" endTime="317.015">
+<Sync time="315.975"/>
+tu veux pas me raconter 
+<Event desc="mRako~te" type="pronounce" extent="previous"/>
+ un petit
+</Turn>
+<Turn speaker="spk1 spk2" startTime="317.015" endTime="317.437">
+<Sync time="317.015"/>
+<Who nb="1"/>
+si
+<Who nb="2"/>
+peu ?
+</Turn>
+<Turn speaker="spk1" startTime="317.437" endTime="319.997">
+<Sync time="317.437"/>
+elle va elle va lui proposer d'aller au marché
+</Turn>
+<Turn speaker="spk2" startTime="319.997" endTime="320.707">
+<Sync time="319.997"/>
+au marché ?
+</Turn>
+<Turn speaker="spk1" startTime="320.707" endTime="321.583">
+<Sync time="320.707"/>
+oui +
+</Turn>
+<Turn speaker="spk2" startTime="321.583" endTime="340.979">
+<Sync time="321.583"/>
+et ils firent un marché Didi lui fournirait
+<Sync time="324.435"/>
+autant qu'il voudrait de dents de lapin
+<Sync time="326.284"/>
+après tout elle n'en faisait rien contre des cadeaux bien plus gros
+<Sync time="330.121"/>
+que ceux qu'elle était capable de fabriquer elle-même
+<Sync time="332.603"/>
+marché conclu dit le rat et ils 
+<Comment desc="sic"/>
+ séparèrent assez bons amis +
+<Sync time="337.256"/>
+ils se séparèrent a- assez bons amis
+<Sync time="339.071"/>
+alors donc là qu'est-ce qui va se passer 
+<Event desc="spase" type="pronounce" extent="previous"/>
+ après ?
+</Turn>
+<Turn speaker="spk1" startTime="340.979" endTime="346.563">
+<Sync time="340.979"/>
+*** + 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ eh ben eh ben il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va
+<Sync time="344.739"/>
+i- il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ un lapin qui va se lever 
+<Event desc="sl2ve" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="346.563" endTime="347.016">
+<Sync time="346.563"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="347.016" endTime="349.474">
+<Sync time="347.016"/>
+mais mais il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ v- il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va pas voir Didi
+</Turn>
+<Turn speaker="spk2" startTime="349.474" endTime="350.274">
+<Sync time="349.474"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="350.274" endTime="356.77">
+<Sync time="350.274"/>
+* + 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et après et après il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va dire 
+<Event desc="chaise " type="noise" extent="instantaneous"/>
+ pas de 
+<Event desc="d" type="pronounce" extent="previous"/>
+ Didi + rien
+</Turn>
+<Turn speaker="spk2" startTime="356.77" endTime="357.166">
+<Sync time="356.77"/>
+pas * 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="client" audio_filename="adrien2_bia.wav" version="15" version_date="140424">
+<Topics>
+<Topic id="to1" desc="MS10/2012-ECFev2014"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Adrien" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="424.705" topic="to1">
+<Turn startTime="0" endTime="112.183" speaker="spk1">
+<Sync time="0"/>
+Tchoupi s'écrie youpi aujourd'hui c'est mercredi
+<Sync time="4.156"/>
+Tchoupi monte sur le tabouret pour regarder par la fenêtre
+<Sync time="7.942"/>
+regarde comme il fait beau doudou allez debout
+<Sync time="11.277"/>
+dans la salle de bain Tchoupi se brosse les dents et se coiffe
+<Sync time="16.534"/>
+puis il grimpe sur le marche pied pour s'admirer dans le miroir
+<Sync time="19.979"/>
+je suis beau comme tout n'est ce pas doudou?
+<Sync time="22.713"/>
+et hop Tchoupi saute sur le tapis
+<Sync time="25.107"/>
++ puis Tchoupi descend les escaliers
+<Sync time="30.415"/>
+un deux trois quatre
+<Sync time="32.888"/>
+Manola l'attend en bas
+<Sync time="34.621"/>
+bonjour mon chéri
+<Sync time="36.023"/>
+Tchoupi saute dans ses bras
+<Sync time="37.815"/>
+bonjour maman
+<Sync time="39.077"/>
++ dans le jardin *** 
+<Sync time="44.013"/>
+dans le jardin Tchoupi fait la course avec Pilou
+<Sync time="46.928"/>
+un deux trois partez 
+<Sync time="49.071"/>
+c'est Tchoupi qui a gagné
+<Sync time="50.964"/>
+bravo dit Pilou et si on recommençait
+<Sync time="53.658"/>
++ Tchoupi entre dans la cuisine la course ça donne faim
+<Sync time="60.728"/>
+il va sortir le plat de pâtes le fromage et le gâteau
+<Sync time="64.464"/>
+à table petit gourmand dit Manola 
+<Sync time="67.248"/>
+bon appétit Fanny bon appétit maman
+<Sync time="69.992"/>
++ après le déjeun- après le déjeuner
+<Sync time="75.033"/>
+Tchoupi s'allonge sur le tapis
+<Sync time="76.822"/>
+il lit un livre et fait un câlin à Doudou
+<Sync time="79.296"/>
+puis il s'endort sur le canapé
+<Sync time="82.08"/>
+chut il ne faut pas le réveiller
+<Sync time="84.083"/>
++ la sieste terminée Tchoupi va jouer dans le jardin
+<Sync time="89.871"/>
+attention Zouzou je vais t'attraper
+<Sync time="92.164"/>
+Tchoupi poursuit Zouzou
+<Sync time="94.347"/>
+Tchoupi poursuit Mozart
+<Sync time="95.736"/>
+miaou ouaf ouaf
+<Sync time="97.041"/>
+quel tintamarre
+<Sync time="98.173"/>
++ plus tard *** revient du travail
+<Sync time="103.441"/>
+j'ai acheté un disque de samba Tchoupi tu danses avec moi ?
+<Sync time="106.995"/>
++ et c'est la fin du mercredi
+</Turn>
+<Turn speaker="spk2" startTime="112.183" endTime="117.521">
+<Sync time="112.183"/>
+mais maintenant maintenant on regarde 
+<Event desc="R@ga" type="pronounce" extent="previous"/>
+ 
+<Event desc="tiji" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="117.521" endTime="120.646">
+<Sync time="117.521"/>
+<Who nb="1"/>
+non
+<Who nb="2"/>
+mais tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ dit après 
+</Turn>
+<Turn speaker="spk1" startTime="120.646" endTime="125.092">
+<Sync time="120.646"/>
+non oui mais toi tu m'as dit 
+<Sync time="122.489"/>
+que tu allais me raconter le livre 
+</Turn>
+<Turn speaker="spk2" startTime="125.092" endTime="126.744">
+<Sync time="125.092"/>
+oui après le livre?
+</Turn>
+<Turn speaker="spk1" startTime="126.744" endTime="127.604">
+<Sync time="126.744"/>
+*** 
+</Turn>
+<Turn speaker="spk2" startTime="127.604" endTime="131.261">
+<Sync time="127.604"/>
+ou après le quand j'ai fini de raconter
+</Turn>
+<Turn speaker="spk1" startTime="131.261" endTime="131.882">
+<Sync time="131.261"/>
+hum hum 
+</Turn>
+<Turn speaker="spk2" startTime="131.882" endTime="134.608">
+<Sync time="131.882"/>
+on on met 
+<Event desc="tiji" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="134.608" endTime="137.521">
+<Sync time="134.608"/>
+on met 
+<Event desc="tiji" type="pronounce" extent="previous"/>
+ d'accord alors raconte-moi le livre
+</Turn>
+<Turn speaker="spk2" startTime="137.521" endTime="141.417">
+<Sync time="137.521"/>
+le la le mercredi Tchoupi
+</Turn>
+<Turn speaker="spk1" startTime="141.417" endTime="142.238">
+<Sync time="141.417"/>
+hum hum 
+</Turn>
+<Turn speaker="spk2" startTime="142.238" endTime="152.613">
+<Sync time="142.238"/>
++ Tchoupi joue avec Doudou 
+<Event desc="pap" type="noise" extent="previous"/>
+
+<Sync time="146.324"/>
+
+<Event desc="pap" type="noise" extent="next"/>
+ je vais boire d- ah oui ma carte là
+<Sync time="149.338"/>
+je veux boire de l'eau ***
+</Turn>
+<Turn speaker="spk1" startTime="152.613" endTime="160.614">
+<Sync time="152.613"/>
+alors vas-y
+<Sync time="153.785"/>
+raconte-moi l'histoire Tchoupi aime bien le mercredi
+<Sync time="156.899"/>
+alors raconte-moi ce qu'il fait le mercredi
+</Turn>
+<Turn speaker="spk2" startTime="160.614" endTime="164.93">
+<Sync time="160.614"/>
+là là là il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ joue à la 
+<Event desc="b" type="noise" extent="previous"/>
+ planche à roulettes 
+<Event desc="RulE" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="164.93" endTime="166.291">
+<Sync time="164.93"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait la planche à roulettes ?
+</Turn>
+<Turn speaker="spk2" startTime="166.291" endTime="167.172">
+<Sync time="166.291"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="167.172" endTime="168.284">
+<Sync time="167.172"/>
+et Doudou il est comment là ?
+</Turn>
+<Turn speaker="spk2" startTime="168.284" endTime="172.4">
+<Sync time="168.284"/>
+il est il va ***
+<Sync time="170.637"/>
+regarde sur la fenêtre
+</Turn>
+<Turn speaker="spk1" startTime="172.4" endTime="173.731">
+<Sync time="172.4"/>
+par la fenêtre
+</Turn>
+<Turn speaker="spk2" startTime="173.731" endTime="174.891">
+<Sync time="173.731"/>
+par la fenêtre
+</Turn>
+<Turn speaker="spk1 spk2" startTime="174.891" endTime="182.696">
+<Sync time="174.891"/>
+<Who nb="1"/>
+et 
+
+<Who nb="2"/>
+/youpi,Tchoupi/ 
+<Event desc="yupi" type="pronounce" extent="previous"/>
+ c'est le mercredi 
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="182.696" endTime="184.718">
+<Sync time="182.696"/>
+<Who nb="1"/>
+qu'est-ce qu'il 
+<Event desc="keski" type="pronounce" extent="previous"/>
+ fait une fois qu'il s'est levé *** ?
+<Who nb="2"/>
+là
+</Turn>
+<Turn speaker="spk2" startTime="184.718" endTime="188.293">
+<Sync time="184.718"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ là il regarde sur là il fait quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="188.293" endTime="189.555">
+<Sync time="188.293"/>
+ça c'est le miroir
+</Turn>
+<Turn speaker="spk2" startTime="189.555" endTime="202.574">
+<Sync time="189.555"/>
+il regarde sur le miroir
+<Sync time="192.249"/>
+Doudou il saute et et Doudou et Tchoupi sautent sautent sautent 
+<Event desc="sO" type="pronounce" extent="previous"/>
+ sur /le,leur/ 
+<Event desc="l9R" type="pronounce" extent="previous"/>
+ tapis 
+<Sync time="200.095"/>
+ouais c'est le mercredi 
+<Event desc="maRkR@di" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="202.574" endTime="206.409">
+<Sync time="202.574"/>
+
+<Comment desc="rires d'Adrien"/>
+ il est dans la baignoire là Doudou ?
+</Turn>
+<Turn speaker="spk2" startTime="206.409" endTime="207.932">
+<Sync time="206.409"/>
+non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="207.932" endTime="208.983">
+<Sync time="207.932"/>
+il est où alors ?
+</Turn>
+<Turn speaker="spk2" startTime="208.983" endTime="210.425">
+<Sync time="208.983"/>
+il est là
+</Turn>
+<Turn speaker="spk1" startTime="210.425" endTime="211.376">
+<Sync time="210.425"/>
+et c'est quoi ça ?
+</Turn>
+<Turn speaker="spk2" startTime="211.376" endTime="212.708">
+<Sync time="211.376"/>
+le Tchoupi il est où ?
+</Turn>
+<Turn speaker="spk1" startTime="212.708" endTime="214.491">
+<Sync time="212.708"/>
+et Tchoupi il y est pas ?
+</Turn>
+<Turn speaker="spk2" startTime="214.491" endTime="216.474">
+<Sync time="214.491"/>
+ben non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+ il est où ?
+</Turn>
+<Turn speaker="spk1" startTime="216.474" endTime="219.027">
+<Sync time="216.474"/>
+regarde sur les images il y est jamais Tchoupi
+</Turn>
+<Turn speaker="spk2" startTime="219.027" endTime="219.979">
+<Sync time="219.027"/>
+mm mm
+</Turn>
+<Turn speaker="spk1" startTime="219.979" endTime="229.473">
+<Sync time="219.979"/>
+on l'imagine là ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ te disent qu'il est sur le tabouret
+<Sync time="223.274"/>
+on l'imagine devant la fenètre
+<Sync time="224.696"/>
+là on te dit qu'il est devant le miroir on l'imagine sur le marche pied
+</Turn>
+<Turn speaker="spk1 spk2" startTime="229.473" endTime="232.878">
+<Sync time="229.473"/>
+<Who nb="1"/>
+tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu ?
+<Who nb="2"/>
+maintenant 
+<Event desc="me~na~" type="pronounce" extent="previous"/>
+ ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ font tous la course
+</Turn>
+<Turn speaker="spk1 spk2" startTime="232.878" endTime="234.759">
+<Sync time="232.878"/>
+<Who nb="1"/>
+qu'est-ce qu'il 
+<Event desc="keski" type="pronounce" extent="previous"/>
+ fait ?
+<Who nb="2"/>
+Tchoupi il est pas là ?
+</Turn>
+<Turn speaker="spk1" startTime="234.759" endTime="239.507">
+<Sync time="234.759"/>
+non et ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ disent quoi ?
+<Sync time="237.074"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ Tchoupi il descend les escaliers pour aller voir qui ?
+</Turn>
+<Turn speaker="spk2" startTime="239.507" endTime="240.869">
+<Sync time="239.507"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ Doudou
+</Turn>
+<Turn speaker="spk1" startTime="240.869" endTime="242.311">
+<Sync time="240.869"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="242.311" endTime="243.563">
+<Sync time="242.311"/>
+sa maman
+</Turn>
+<Turn speaker="spk1" startTime="243.563" endTime="244.354">
+<Sync time="243.563"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="244.354" endTime="254.549">
+<Sync time="244.354"/>
++ *** ils courent courent courent courent courent 
+<Sync time="250.373"/>
+courent courent courent courent
+<Sync time="252.125"/>
+courent courent courent courent courent
+</Turn>
+<Turn speaker="spk1" startTime="254.549" endTime="259.454">
+<Sync time="254.549"/>
+quand il fait la course avec Tchoupi ?
+<Sync time="256.38"/>
+c'est Pilou qui gagne
+</Turn>
+<Turn speaker="spk2" startTime="259.454" endTime="260.746">
+<Sync time="259.454"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="260.746" endTime="261.607">
+<Sync time="260.746"/>
+tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ sûr ?
+</Turn>
+<Turn speaker="spk2" startTime="261.607" endTime="262.258">
+<Sync time="261.607"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="262.258" endTime="263.45">
+<Sync time="262.258"/>
+c'est pas Tchoupi ? 
+</Turn>
+<Turn speaker="spk2" startTime="263.45" endTime="265.393">
+<Sync time="263.45"/>
+si il a gagné Tchoupi
+</Turn>
+<Turn speaker="spk1" startTime="265.393" endTime="270.45">
+<Sync time="265.393"/>
+ben c'est pas Pilou 
+<Sync time="266.485"/>
++ et Doudou il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait la course avec eux?
+</Turn>
+<Turn speaker="spk2" startTime="270.45" endTime="278.121">
+<Sync time="270.45"/>
+mm /// 
+<Event desc="pap" type="noise" extent="previous"/>
+ là il est jamais Tchoupi là
+</Turn>
+<Turn speaker="spk1" startTime="278.121" endTime="278.592">
+<Sync time="278.121"/>
+non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="278.592" endTime="281.307">
+<Sync time="278.592"/>
+
+<Event desc="b" type="noise" extent="next"/>
+jamais sur les images
+</Turn>
+<Turn speaker="spk1" startTime="281.307" endTime="284.551">
+<Sync time="281.307"/>
+non il y est pas 
+<Sync time="282.167"/>
+et ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ font quoi là ?
+</Turn>
+<Turn speaker="spk2" startTime="284.551" endTime="286.464">
+<Sync time="284.551"/>
+ils mangent 
+<Event desc="ma~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="286.464" endTime="288.379">
+<Sync time="286.464"/>
+elle é- prépare à manger maman ?
+</Turn>
+<Turn speaker="spk2" startTime="288.379" endTime="291.281">
+<Sync time="288.379"/>
+bébé 
+<Event desc="b" type="noise" extent="previous"/>
+ il fait quoi bébé ?
+</Turn>
+<Turn speaker="spk1" startTime="291.281" endTime="294.005">
+<Sync time="291.281"/>
+ben regarde elle a son petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ pot et sa cuillère à la main
+</Turn>
+<Turn speaker="spk2" startTime="294.005" endTime="294.967">
+<Sync time="294.005"/>
+mm
+</Turn>
+<Turn speaker="spk1" startTime="294.967" endTime="295.818">
+<Sync time="294.967"/>
+*** va manger
+</Turn>
+<Turn speaker="spk2" startTime="295.818" endTime="296.799">
+<Sync time="295.818"/>
+mm
+</Turn>
+<Turn speaker="spk1" startTime="296.799" endTime="299.132">
+<Sync time="296.799"/>
+et maman elle prépare quoi?
+</Turn>
+<Turn speaker="spk2" startTime="299.132" endTime="300.464">
+<Sync time="299.132"/>
+un gâteau
+</Turn>
+<Turn speaker="spk1" startTime="300.464" endTime="301.726">
+<Sync time="300.464"/>
+un gros gâteau
+</Turn>
+<Turn speaker="spk2" startTime="301.726" endTime="306.123">
+<Sync time="301.726"/>
++ 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ Tchoupi il est jamais sur les images
+</Turn>
+<Turn speaker="spk2 spk1" startTime="306.123" endTime="307.123">
+<Sync time="306.123"/>
+<Who nb="1"/>
+oh
+<Who nb="2"/>
+bah non 
+<Event desc="na~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="307.123" endTime="313.051">
+<Sync time="307.123"/>
+et là on dit qu'ils 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ s'endorment sur le canapé
+<Sync time="310.608"/>
+donc on imagine qu'il est ici
+</Turn>
+<Turn speaker="spk2" startTime="313.051" endTime="314.033">
+<Sync time="313.051"/>
+mm
+</Turn>
+<Turn speaker="spk1" startTime="314.033" endTime="315.815">
+<Sync time="314.033"/>
+et il fait la sieste l'après-midi
+</Turn>
+<Turn speaker="spk2" startTime="315.815" endTime="317.607">
+<Sync time="315.815"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ben non il est pas là
+</Turn>
+<Turn speaker="spk1" startTime="317.607" endTime="323.356">
+<Sync time="317.607"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+ oui on l'imagine
+<Sync time="320.151"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ comme toi tu fais la sieste l'après midi
+</Turn>
+<Turn speaker="spk2" startTime="323.356" endTime="324.277">
+<Sync time="323.356"/>
+ben non
+</Turn>
+<Turn speaker="spk1" startTime="324.277" endTime="326.3">
+<Sync time="324.277"/>
+et là tu vas faire la sieste après
+</Turn>
+<Turn speaker="spk2" startTime="326.3" endTime="326.981">
+<Sync time="326.3"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="326.981" endTime="327.932">
+<Sync time="326.981"/>
+non ?
+</Turn>
+<Turn speaker="spk2" startTime="327.932" endTime="331.56">
+<Sync time="327.932"/>
+je veux 
+<Event desc="Zv9" type="pronounce" extent="previous"/>
+ regarder 
+<Event desc="RgaRde" type="pronounce" extent="previous"/>
+ 
+<Event desc="tiji" type="pronounce" extent="instantaneous"/>
+ beaucoup beaucoup beaucoup
+</Turn>
+<Turn speaker="spk1" startTime="331.56" endTime="332.659">
+<Sync time="331.56"/>
+beaucoup beaucoup beaucoup
+</Turn>
+<Turn speaker="spk2" startTime="332.659" endTime="334.576">
+<Sync time="332.659"/>
+oui beaucoup
+</Turn>
+<Turn speaker="spk2 spk1" startTime="334.576" endTime="335.734">
+<Sync time="334.576"/>
+<Who nb="1"/>
+beaucoup *
+<Who nb="2"/>
+jusqu'au goûter ?
+</Turn>
+<Turn speaker="spk2" startTime="335.734" endTime="338.324">
+<Sync time="335.734"/>
+oui jusqu'au goû-
+</Turn>
+<Turn speaker="spk1 spk1" startTime="338.324" endTime="340.151">
+<Sync time="338.324"/>
+<Who nb="1"/>
+hum hum
+<Who nb="2"/>
+goûter
+</Turn>
+<Turn speaker="spk1" startTime="340.151" endTime="341.944">
+<Sync time="340.151"/>
+et là qu'est-ce qu'ils font dehors ?
+</Turn>
+<Turn speaker="spk2" startTime="341.944" endTime="343.507">
+<Sync time="341.944"/>
+ben ils jouent
+</Turn>
+<Turn speaker="spk1" startTime="343.507" endTime="344.839">
+<Sync time="343.507"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ jouent avec qui ?
+</Turn>
+<Turn speaker="spk2" startTime="344.839" endTime="348.184">
+<Sync time="344.839"/>
+avec le chat le chien et Doudou
+</Turn>
+<Turn speaker="spk1" startTime="348.184" endTime="350.204">
+<Sync time="348.184"/>
+et Doudou et qu'est-ce que tu vois d'autre ?
+</Turn>
+<Turn speaker="spk2" startTime="350.204" endTime="353.351">
+<Sync time="350.204"/>
+Doudou il court dans les carottes
+</Turn>
+<Turn speaker="spk1" startTime="353.351" endTime="354.112">
+<Sync time="353.351"/>
+oh
+</Turn>
+<Turn speaker="spk2" startTime="354.112" endTime="355.564">
+<Sync time="354.112"/>
+* c'est pas bien
+</Turn>
+<Turn speaker="spk1" startTime="355.564" endTime="356.66">
+<Sync time="355.564"/>
+pourquoi c'est pas bien?
+</Turn>
+<Turn speaker="spk2" startTime="356.66" endTime="358.838">
+<Sync time="356.66"/>
+parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ on n'a pas le droit
+</Turn>
+<Turn speaker="spk1" startTime="358.838" endTime="360.501">
+<Sync time="358.838"/>
+ça abîme les carottes ?
+</Turn>
+<Turn speaker="spk2" startTime="360.501" endTime="361.282">
+<Sync time="360.501"/>
+oui 
+</Turn>
+<Turn speaker="spk1" startTime="361.282" endTime="365.158">
+<Sync time="361.282"/>
+
+<Comment desc="Adrien tousse"/>
+ oh
+</Turn>
+<Turn speaker="spk2" startTime="365.158" endTime="366.01">
+<Sync time="365.158"/>
+et voilà
+</Turn>
+<Turn speaker="spk1" startTime="366.01" endTime="367.402">
+<Sync time="366.01"/>
+
+<Event desc="b" type="noise" extent="next"/>
+il te reste une page
+</Turn>
+<Turn speaker="spk2 spk1" startTime="367.402" endTime="368.554">
+<Sync time="367.402"/>
+<Who nb="1"/>
+Tchoupi
+<Who nb="2"/>
+tu termines celle-là
+</Turn>
+<Turn speaker="spk2 spk1" startTime="368.554" endTime="370.399">
+<Sync time="368.554"/>
+<Who nb="1"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ ouais 
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="370.399" endTime="374.353">
+<Sync time="370.399"/>
+après il y en 
+<Event desc="ja~" type="pronounce" extent="previous"/>
+ a plus 
+<Event desc="py" type="pronounce" extent="previous"/>
+ mais tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ dû arracher des pages non ?
+<Sync time="372.82"/>
+il en manque ?
+</Turn>
+<Turn speaker="spk2" startTime="374.353" endTime="375.339">
+<Sync time="374.353"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="375.339" endTime="390.186">
+<Sync time="375.339"/>
+parce que regarde là on voit le papa 
+<Event desc="lpapa" type="pronounce" extent="previous"/>
+ qui a ramené un CD
+<Sync time="377.868"/>
+il a ramené de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ musique
+<Sync time="379.981"/>
++ non ? tu te 
+<Event desc="t " type="pronounce" extent="previous"/>
+ rappelles pas ?
+<Sync time="384.508"/>
+une musique de samba
+<Sync time="387.282"/>
+il a ramené un disque de samba
+<Sync time="389.055"/>
+et c'est qui ça ?
+</Turn>
+<Turn speaker="spk2" startTime="390.186" endTime="393.671">
+<Sync time="390.186"/>
+c'est sais pas
+</Turn>
+<Turn speaker="spk1 spk2" startTime="393.671" endTime="396.775">
+<Sync time="393.671"/>
+<Who nb="1"/>
+bah une copine de Tchoupi 
+<Who nb="2"/>
+Lilou
+</Turn>
+<Turn speaker="spk1" startTime="396.775" endTime="399.279">
+<Sync time="396.775"/>
+Lilou Lilou
+</Turn>
+<Turn speaker="spk2" startTime="399.279" endTime="400.512">
+<Sync time="399.279"/>
+hum Lilou
+</Turn>
+<Turn speaker="spk1" startTime="400.512" endTime="403.505">
+<Sync time="400.512"/>
+Lilou c'est la fin
+<Sync time="401.422"/>
+
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ et c'est fini
+</Turn>
+<Turn speaker="spk2" startTime="403.505" endTime="405.538">
+<Sync time="403.505"/>
+et on regarde 
+<Event desc="tiji" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="405.538" endTime="406.88">
+<Sync time="405.538"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ et on regarde 
+<Event desc="tiji" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="406.88" endTime="414.51">
+<Sync time="406.88"/>
+oui en bas
+<Sync time="408.613"/>
+et on y va ***
+<Sync time="411.246"/>
+on regarde 
+<Event desc="tiji" type="pronounce" extent="instantaneous"/>
+ en bas
+</Turn>
+<Turn speaker="spk1" startTime="414.51" endTime="418.135">
+<Sync time="414.51"/>
+et tu veux voir quoi en bas ?
+<Sync time="415.591"/>
+tu veux regarder quoi sur 
+<Event desc="tiji" type="pronounce" extent="instantaneous"/>
+ il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ quoi comme dessins animés ?
+</Turn>
+<Turn speaker="spk2" startTime="418.135" endTime="420.071">
+<Sync time="418.135"/>
+*** 
+</Turn>
+<Turn speaker="spk1" startTime="420.071" endTime="422.05">
+<Sync time="420.071"/>
+Franklin Tchoupi Arthur ? 
+<Event desc="rire" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="422.05" endTime="424.705">
+<Sync time="422.05"/>
+oui
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Corpus" audio_filename="ergotherapie_sch.wav" version="14" version_date="110503">
+  <Speakers>
+    <Speaker id="spk1" name="L1" scope="local" />
+    <Speaker id="spk2" name="L2" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="307.303">
+      <Turn speaker="spk1" startTime="0.0" endTime="5.298">
+        <Sync time="0.0" />
+        ben ouais mais moi la Belgique euh
+        <Sync time="1.65" />
+        ben pour ce qui est de l'ergothérapie euh en Belgique on est trop en retard hein
+      </Turn>
+      <Turn speaker="spk2" startTime="5.298" endTime="5.702">
+        <Sync time="5.298" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="5.702" endTime="8.504">
+        <Sync time="5.702" />
+        parce que en stage j'ai une ergo.
+        <Comment desc="abréviation d'ergothérapiste" />
+        qui travail-
+        <Sync time="7.122" />
+        qui a fait ses études en France qui a fait ses &lt; études
+      </Turn>
+      <Turn speaker="spk2" startTime="8.504" endTime="8.8">
+        <Sync time="8.504" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="8.8" endTime="9.943">
+        <Sync time="8.8" />
+        à ¤T1¤ à l'école
+      </Turn>
+      <Turn speaker="spk2" startTime="9.943" endTime="10.394">
+        <Sync time="9.943" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="10.394" endTime="17.466">
+        <Sync time="10.394" />
+        et elle m'a dit enfin
+        <Event desc="fe~" type="pronounce" extent="previous" />
+        elle m'a raconté un peu euh ce qu'ils faisaient euh
+        <Sync time="13.818" />
+        parce qu'elle est venue travailler en Belgique suite à son mari qui a trouvé du travail en Belgique
+      </Turn>
+      <Turn speaker="spk2" startTime="17.466" endTime="17.666">
+        <Sync time="17.466" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="17.666" endTime="23.431">
+        <Sync time="17.666" />
+        donc elle l'a rejoint et quand elle arrive en Belgique euh
+        <Sync time="19.93" />
+        elle a halluciné par rapport au retard qu'ils ont par rapport à nous hein
+      </Turn>
+      <Turn speaker="spk2" startTime="23.431" endTime="24.434">
+        <Sync time="23.431" />
+        ouais non mais
+      </Turn>
+      <Turn speaker="spk1" startTime="24.434" endTime="29.513">
+        <Sync time="24.434" />
+        et elle m'a raconté ce qu'ils font en cours et tout ça et
+        <Sync time="26.688" />
+        je suis dégoûtée parce que nous ce qu'on fait en Belgique c'est trop nul hein
+      </Turn>
+      <Turn speaker="spk2" startTime="29.513" endTime="30.274">
+        <Sync time="29.513" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="30.274" endTime="35.306">
+        <Sync time="30.274" />
+        franchement euh elle m'a dit euh les Belges par rapport à la France
+        <Sync time="32.98" />
+        ils sont d- une bonne dizaine d'années en retard
+      </Turn>
+      <Turn speaker="spk2" startTime="35.306" endTime="35.634">
+        <Sync time="35.306" />
+        et &lt; pourtant la France
+      </Turn>
+      <Turn speaker="spk1" startTime="35.634" endTime="38.369">
+        <Sync time="35.634" />
+        et ce qui fait &gt; que moi euh ben je suis dans la merde
+        <Sync time="37.516" />
+        <Event desc="rire" type="noise" extent="next" />
+        parce que j'ai &lt; il y a des trucs que je saurai pas
+      </Turn>
+      <Turn speaker="spk2" startTime="38.369" endTime="40.901">
+        <Sync time="38.369" />
+        là tu as peur au niveau de ton &gt; diplôme quoi
+        <Sync time="40.06" />
+        puis ça aussi &lt; tu as peur que ce soit sera dévalorisé
+      </Turn>
+      <Turn speaker="spk1" startTime="40.901" endTime="52.173">
+        <Sync time="40.901" />
+        non mais ouais le diplôme &gt; mais même par rapport à mes connaissances
+        <Sync time="43.354" />
+        quand je vais arriver en France
+        <Sync time="44.414" />
+        je suis censée euh pouvoir adapter un fauteuil à un patient qui est qui a besoin d'un fauteuil roulant
+        <Sync time="49.604" />
+        je suis censée le le conseiller je suis censée lui montrer &lt; comment ça marche lui apprendre et tout ça
+      </Turn>
+      <Turn speaker="spk2" startTime="52.173" endTime="55.351">
+        <Sync time="52.173" />
+        ouais mais c'est pas pas des trucs que tu apprends &gt; au fur et à mesure
+        <Sync time="54.214" />
+        euh tu sais les formations &lt; euh qui sont
+      </Turn>
+      <Turn speaker="spk1" startTime="55.351" endTime="60.881">
+        <Sync time="55.351" />
+        ben c'est ça &gt; je vais devoir en faire plein des formations
+        <Sync time="57.531" />
+        parce que des trucs que je suis censée savoir à la sortie de l'école je les saurai pas hein
+      </Turn>
+      <Turn speaker="spk2" startTime="60.881" endTime="61.196">
+        <Sync time="60.881" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="61.196" endTime="67.343">
+        <Sync time="61.196" />
+        rien que ça en euh à l'école en France ils font même des bé- des cours d'architecture
+        <Sync time="64.801" />
+        pour l'adaptation du domicile et tout ça c'est génial
+      </Turn>
+      <Turn speaker="spk2" startTime="67.343" endTime="68.03">
+        <Sync time="67.343" />
+        ben c'est clair ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="68.03" endTime="70.883">
+        <Sync time="68.03" />
+        et nous on fait pas ça nous on fait quoi on fait
+        <Event desc="rire" type="noise" extent="begin" />
+        des paniers en osier quoi fran-
+        <Event desc="rire" type="noise" extent="end" />
+      </Turn>
+      <Turn speaker="spk2" startTime="70.883" endTime="71.726">
+        <Sync time="70.883" />
+        <Event desc="rire" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="71.726" endTime="75.12">
+        <Sync time="71.726" />
+        putain mais j'ai tous les trucs que j'aime pas euh à l'école &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="75.12" endTime="75.311">
+        <Sync time="75.12" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="75.311" endTime="78.619">
+        <Sync time="75.311" />
+        en Belgique ça existe pas en France et ils font des trucs super quoi
+        <Sync time="78.073" />
+        elle m'a montré &lt; ses cours mais c'est super intéressant
+      </Turn>
+      <Turn speaker="spk2" startTime="78.619" endTime="82.026">
+        <Sync time="78.619" />
+        mais tu peux pas revenir euh faire la suite &gt; de tes études en France
+      </Turn>
+      <Turn speaker="spk1" startTime="82.026" endTime="82.88">
+        <Sync time="82.026" />
+        je pense pas hein
+      </Turn>
+      <Turn speaker="spk2" startTime="82.88" endTime="83.88">
+        <Sync time="82.88" />
+        parce que la Belgique &lt; tu dois avoir euh tu as tu as
+      </Turn>
+      <Turn speaker="spk1" startTime="83.88" endTime="85.384">
+        <Sync time="83.88" />
+        il y a
+        <Event desc="ja" type="pronounce" extent="previous" />
+        pas d'équivalence &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="85.384" endTime="86.963">
+        <Sync time="85.384" />
+        comment on dit ouais tu as tu as pas l'équivalence
+      </Turn>
+      <Turn speaker="spk1" startTime="86.963" endTime="87.319">
+        <Sync time="86.963" />
+        si j'ai &lt; l'équivalence
+      </Turn>
+      <Turn speaker="spk2" startTime="87.319" endTime="87.696">
+        <Sync time="87.319" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="87.696" endTime="91.766">
+        <Sync time="87.696" />
+        par rapport au diplôme mais euh là je pense pas que je et puis même je serais paumée hein en reprenant &lt; les études
+      </Turn>
+      <Turn speaker="spk2" startTime="91.766" endTime="92.21">
+        <Sync time="91.766" />
+        hein &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="92.21" endTime="93.492">
+        <Sync time="92.21" />
+        il faudrait que je reprenne en première année
+      </Turn>
+      <Turn speaker="spk2" startTime="93.492" endTime="97.972">
+        <Sync time="93.492" />
+        ouais mais d'un autre coté enfin je sais pas
+        <Sync time="95.049" />
+        c'est peut-être aussi des trucs que tu apprends quand même au fur et à mesure de de ton boulot quoi
+        <Sync time="97.844" />
+        &lt; une fois que tu es dedans
+      </Turn>
+      <Turn speaker="spk1" startTime="97.972" endTime="100.038">
+        <Sync time="97.972" />
+        ouais c'est il y a des trucs &gt; mais quand même
+      </Turn>
+      <Turn speaker="spk2" startTime="100.038" endTime="100.499">
+        <Sync time="100.038" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="100.499" endTime="104.414">
+        <Sync time="100.499" />
+        il y a plein de trucs que je saurai pas que ceux qui sortent de de l'école française ils sauront
+      </Turn>
+      <Turn speaker="spk2" startTime="104.414" endTime="105.292">
+        <Sync time="104.414" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="105.292" endTime="111.73">
+        <Sync time="105.292" />
+        tu vois ces cours là euh là j'étais dans un service euh de neurologie
+        <Sync time="109.156" />
+        il y avait euh enfin il y avait de la neuro.
+        <Comment desc="abréviation de neurologie" />
+        et de l'ortho.
+        <Comment desc="abréviation de orthopédie" />
+        donc &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="111.73" endTime="112.037">
+        <Sync time="111.73" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="112.037" endTime="112.769">
+        <Sync time="112.037" />
+        des prothèses &lt; de hanche(s) prothèses de genou(x)
+      </Turn>
+      <Turn speaker="spk2" startTime="112.769" endTime="114.613">
+        <Sync time="112.769" />
+        ah ben oui là ton stage hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="114.613" endTime="119.332">
+        <Sync time="114.613" />
+        des traumas
+        <Comment desc="abréviation traumatismes" />
+        crâniens et ça euh les les traumas crâniens
+        <Sync time="117.249" />
+        j'ai fait mon rapport sur un un qui a &lt; ***
+      </Turn>
+      <Turn speaker="spk2" startTime="119.332" endTime="120.865">
+        <Sync time="119.332" />
+        c'est quoi &gt; enfin ça
+      </Turn>
+      <Turn speaker="spk1" startTime="120.865" endTime="124.338">
+        <Sync time="120.865" />
+        c'est euh ben c'est un choc
+        <Comment desc="tape sur sa tête" />
+        au niveau de la tête
+      </Turn>
+      <Turn speaker="spk2" startTime="124.338" endTime="124.813">
+        <Sync time="124.338" />
+        mais &lt; ça ç- ça ç-
+      </Turn>
+      <Turn speaker="spk1" startTime="124.813" endTime="129.875">
+        <Sync time="124.813" />
+        et ça fait &gt; ben il y a une phase de coma donc moi le patient que j'avais
+        <Sync time="128.677" />
+        il était dans le coma &lt; enfin en phase d'éveil
+      </Turn>
+      <Turn speaker="spk2" startTime="129.875" endTime="131.088">
+        <Sync time="129.875" />
+        mais ils ont des séquelles &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="131.088" endTime="132.246">
+        <Sync time="131.088" />
+        de coma eh oui
+      </Turn>
+      <Turn speaker="spk2" startTime="132.246" endTime="132.838">
+        <Sync time="132.246" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="132.838" endTime="133.441">
+        <Sync time="132.838" />
+        et plus ils restent &lt; longtemps dans le coma
+      </Turn>
+      <Turn speaker="spk2" startTime="133.441" endTime="134.244">
+        <Sync time="133.441" />
+        moteur et tout &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="134.244" endTime="140.139">
+        <Sync time="134.244" />
+        plus ouais et moi le jeune que j'avais là c'était un jeune de vingt ans qui a fait un accident de moto
+      </Turn>
+      <Turn speaker="spk2" startTime="140.139" endTime="141.244">
+        <Sync time="140.139" />
+        ah ça tu vas en avoir plein hein &lt; des accidents ça hein
+      </Turn>
+      <Turn speaker="spk1" startTime="141.244" endTime="146.061">
+        <Sync time="141.244" />
+        et &gt; et c'était sup- enfin dans le service-là il y avait plein de jeunes et tout
+        <Sync time="145.27" />
+        des accidents de voiture &lt; et c'était horrible et des
+      </Turn>
+      <Turn speaker="spk2" startTime="146.061" endTime="147.601">
+        <Sync time="146.061" />
+        ben tu vois hein ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="147.601" endTime="155.069">
+        <Sync time="147.601" />
+        des traumas crâniens et c'est tous euh en phase d'éveil de coma
+        <Sync time="150.902" />
+        donc c'est-à-dire qu'ils sont entre la phase de coma et la phase de conscience
+      </Turn>
+      <Turn speaker="spk2" startTime="155.069" endTime="155.366">
+        <Sync time="155.069" />
+        hum &lt; donc
+      </Turn>
+      <Turn speaker="spk1" startTime="155.366" endTime="161.564">
+        <Sync time="155.366" />
+        donc &gt; ils savent enfin parfois ils ont des des
+        <Sync time="160.688" />
+        je sais pas comment dire &lt; des signes de consciences
+      </Turn>
+      <Turn speaker="spk2" startTime="161.564" endTime="162.7">
+        <Sync time="161.564" />
+        ils s'éveillent ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="162.7" endTime="163.524">
+        <Sync time="162.7" />
+        ouais si tu leur &lt; dis d'ouvrir les yeux
+      </Turn>
+      <Turn speaker="spk2" startTime="163.524" endTime="164.363">
+        <Sync time="163.524" />
+        mais ils ont pas les
+      </Turn>
+      <Turn speaker="spk1" startTime="164.363" endTime="166.616">
+        <Sync time="164.363" />
+        ils ouvrent &gt; les yeux si tu leur dis de suivre des yeux ils suivent des yeux
+      </Turn>
+      <Turn speaker="spk2" startTime="166.616" endTime="167.257">
+        <Sync time="166.616" />
+        ah ouais quand même
+      </Turn>
+      <Turn speaker="spk1" startTime="167.257" endTime="167.804">
+        <Sync time="167.257" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="167.804" endTime="168.589">
+        <Sync time="167.804" />
+        mais ils bougent pas quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="168.589" endTime="169.855">
+        <Sync time="168.589" />
+        non
+      </Turn>
+      <Turn speaker="spk2" startTime="169.855" endTime="171.703">
+        <Sync time="169.855" />
+        c'est juste le regard euh et les mains &lt; ils bougent les mains ou pas
+      </Turn>
+      <Turn speaker="spk1" startTime="171.703" endTime="181.596">
+        <Sync time="171.703" />
+        voilà lui il bougeait &gt; pas les mains
+        <Sync time="172.816" />
+        mais il y en a une autre qui était qui était là depuis plus longtemps qui était aussi en phase d'éveil et elle
+        <Sync time="176.591" />
+        elle commençait à bouger sa main à lever le bras
+        <Sync time="178.565" />
+        quand tu lui demandais donc elle commence à s'éveiller un peu plus
+      </Turn>
+      <Turn speaker="spk2" startTime="181.596" endTime="182.268">
+        <Sync time="181.596" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="182.268" endTime="190.17">
+        <Sync time="182.268" />
+        et à la fin ils s'éveillent complètement
+        <Sync time="184.286" />
+        donc là ils sont carrément conscients et puis ben là il faut faut les réadapter euh
+        <Sync time="188.455" />
+        les rééduquer par rapport euh &lt; à leurs fonctions motrices quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="190.17" endTime="195.616">
+        <Sync time="190.17" />
+        mais ça fait un peu style euh &gt; enfin ils sont un peu attardés
+        <Sync time="192.505" />
+        ou il y a des des séquelles comme ça ou c'est que moteur et dans la tête tout marche &lt; bien quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="195.616" endTime="197.741">
+        <Sync time="195.616" />
+        ben ça &gt; dépend c'est super euh &lt; aléatoire
+      </Turn>
+      <Turn speaker="spk2" startTime="197.741" endTime="198.409">
+        <Sync time="197.741" />
+        * c'est &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="198.409" endTime="201.779">
+        <Sync time="198.409" />
+        c'est ça qui est chaud aussi c'est que tu en as qui peuvent s'éveiller tu en as qui s'éveilleront pas
+      </Turn>
+      <Turn speaker="spk2" startTime="201.779" endTime="201.959">
+        <Sync time="201.779" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="201.959" endTime="204.144">
+        <Sync time="201.959" />
+        et celles qui s'éveillent ben ça il y aura des séquelles &lt; plus ou moins graves
+      </Turn>
+      <Turn speaker="spk2" startTime="204.144" endTime="205.176">
+        <Sync time="204.144" />
+        ah il y en a qui se réveillent pas &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="205.176" endTime="206.237">
+        <Sync time="205.176" />
+        non &lt; et il y en a une qui
+      </Turn>
+      <Turn speaker="spk2" startTime="206.237" endTime="206.857">
+        <Sync time="206.237" />
+        tu en as eu des cas &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="206.857" endTime="216.807">
+        <Sync time="206.857" />
+        était éveillée + qui était éveillée euh depuis quelques mois
+        <Sync time="213.098" />
+        elle parle pas mais par contre elle comprend tout ce que tu lui dis hein elle commence à savoir
+      </Turn>
+      <Turn speaker="spk2" startTime="216.807" endTime="217.058">
+        <Sync time="216.807" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="217.058" endTime="217.995">
+        <Sync time="217.058" />
+        prendre des choses &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="217.995" endTime="218.158">
+        <Sync time="217.995" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="218.158" endTime="218.995">
+        <Sync time="218.158" />
+        tout ça elle pousse &lt; ***
+      </Turn>
+      <Turn speaker="spk2" startTime="218.995" endTime="220.976">
+        <Sync time="218.995" />
+        non ça doit être horrible ça &gt; ah moi je pourrais pas quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="220.976" endTime="221.869">
+        <Sync time="220.976" />
+        ben ce qui est dur c'est que c'est &lt; des jeunes hein
+      </Turn>
+      <Turn speaker="spk2" startTime="221.869" endTime="228.88">
+        <Sync time="221.869" />
+        ben quand tu as ta &gt; tête qui marche quoi et que tu as
+        <Sync time="224.218" />
+        tu sais je me suis toujours dit par exemple le jour ou si un jour on a un accident
+        <Sync time="226.922" />
+        et que tu tu es paralysée des jambes quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="228.88" endTime="229.38">
+        <Sync time="228.88" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="229.38" endTime="232.944">
+        <Sync time="229.38" />
+        tu imagines dans ta tête tu tu sais ce que ça fait de marcher tu tu sais c'est comme &lt; euh
+      </Turn>
+      <Turn speaker="spk1" startTime="232.944" endTime="233.883">
+        <Sync time="232.944" />
+        ben là &gt; il y a un jeune &lt; para-
+      </Turn>
+      <Turn speaker="spk2" startTime="233.883" endTime="234.742">
+        <Sync time="233.883" />
+        tu tu te sens &gt; marcher quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="234.742" endTime="234.898">
+        <Sync time="234.742" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="234.898" endTime="241.225">
+        <Sync time="234.898" />
+        tu te dis allez hop hum allez mets le pied devant et puis tu vois que ça bouge pas moi je pourrais pas hein
+        <Sync time="239.428" />
+        tu sais c'est comme si tu étais enfermée dans ta bulle quoi &lt; oh ça doit être horrible horrible
+      </Turn>
+      <Turn speaker="spk1" startTime="241.225" endTime="245.951">
+        <Sync time="241.225" />
+        ouais je sais hum &gt; ben là il y a un jeune qui est arrivé justement paraplégique
+      </Turn>
+      <Turn speaker="spk2" startTime="245.951" endTime="246.199">
+        <Sync time="245.951" />
+        &lt; oh mon dieu
+      </Turn>
+      <Turn speaker="spk1" startTime="246.199" endTime="249.234">
+        <Sync time="246.199" />
+        qui a fait &gt; pareil accident de moto une femme qui a grillé la priorité à droite
+      </Turn>
+      <Turn speaker="spk2" startTime="249.234" endTime="249.43">
+        <Sync time="249.234" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="249.43" endTime="256.384">
+        <Sync time="249.43" />
+        il s'est pris la voiture mais il l'a pris bien
+        <Sync time="252.1" />
+        mais je t'assure j'ai les s- les gens du service ils ont jamais vu ça le mec &lt; il récupère à
+      </Turn>
+      <Turn speaker="spk2" startTime="256.384" endTime="257.195">
+        <Sync time="256.384" />
+        il avait quel âge
+      </Turn>
+      <Turn speaker="spk1" startTime="257.195" endTime="259.118">
+        <Sync time="257.195" />
+        une &gt; vit- vingt ans &lt; mais
+      </Turn>
+      <Turn speaker="spk2" startTime="259.118" endTime="259.461">
+        <Sync time="259.118" />
+        punaise &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="259.461" endTime="262.927">
+        <Sync time="259.461" />
+        il est même pas il a même pas fait il a même pas eu une phase de deuil par rapport à ses jambes
+      </Turn>
+      <Turn speaker="spk2" startTime="262.927" endTime="263.079">
+        <Sync time="262.927" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="263.079" endTime="265.798">
+        <Sync time="263.079" />
+        c'est pour ça qu'ils s'inquiètent un peu quand même parce qu'il le prend trop bien
+      </Turn>
+      <Turn speaker="spk2" startTime="265.798" endTime="266.069">
+        <Sync time="265.798" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="266.069" endTime="267.569">
+        <Sync time="266.069" />
+        et ils ont peur qu'à un moment ou à un autre &lt; il retombe de haut quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="267.569" endTime="269.258">
+        <Sync time="267.569" />
+        ouais c'est clair je comprends &gt; hum
+      </Turn>
+      <Turn speaker="spk1" startTime="269.258" endTime="271.43">
+        <Sync time="269.258" />
+        forcément il faut qu'il y ait une phase euh
+      </Turn>
+      <Turn speaker="spk2" startTime="271.43" endTime="271.838">
+        <Sync time="271.43" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="271.838" endTime="275.235">
+        <Sync time="271.838" />
+        de de deuil quoi euh le fait qu'il fasse le deuil de ses jambes et là &lt; euh mais c'est
+      </Turn>
+      <Turn speaker="spk2" startTime="275.235" endTime="276.349">
+        <Sync time="275.235" />
+        hum putain c'est &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="276.349" endTime="280.988">
+        <Sync time="276.349" />
+        incroyable comme il veut trop récupérer trop vite euh
+        <Sync time="280.045" />
+        il devait ***
+        <Event desc="porse" type="pronounce" extent="previous" />
+        &lt; normalement il porte un cors- ouais
+        <Event desc="rire" type="noise" extent="previous" />
+        non mais c'est incroyable
+      </Turn>
+      <Turn speaker="spk2" startTime="280.988" endTime="285.553">
+        <Sync time="280.988" />
+        <Event desc="rire" type="noise" extent="previous" />
+        il veut aller se venger
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        c'est ça sa phase de deuil
+        <Event desc="rire" type="noise" extent="previous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="285.553" endTime="296.336">
+        <Sync time="285.553" />
+        ils ont ils ont jamais vu ça mais mais le mec il m'a trop impressionnée hein même pas triste jamais triste euh
+        <Sync time="292.443" />
+        il est même content tu sais ils on lui a euh donné un nouveau fauteuil roulant un truc &lt; euh
+      </Turn>
+      <Turn speaker="spk2" startTime="296.336" endTime="297.14">
+        <Sync time="296.336" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="297.14" endTime="298.18">
+        <Sync time="297.14" />
+        les fauteuils &lt; roulants
+      </Turn>
+      <Turn speaker="spk2" startTime="298.18" endTime="298.304">
+        <Sync time="298.18" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="298.304" endTime="306.272">
+        <Sync time="298.304" />
+        dernière technologie et tout il a dit ben tu vois je suis content d'être comme ça
+        <Sync time="301.946" />
+        parce que sinon j'aurais jamais connu ça
+        <Sync time="304.468" />
+        tu vois des phrases comme ça il sort mais &lt; c'est incroyable
+      </Turn>
+      <Turn speaker="spk2" startTime="306.272" endTime="307.303">
+        <Sync time="306.272" />
+        punaise &gt; et mais il a de la
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

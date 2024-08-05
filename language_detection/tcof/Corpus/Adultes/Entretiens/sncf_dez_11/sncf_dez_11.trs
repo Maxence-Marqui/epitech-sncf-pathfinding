@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Chocolate" audio_filename="sncf_dez_11.wav" version="6" version_date="120328">
+<Speakers>
+<Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="842.999">
+<Turn startTime="0" endTime="30.721" speaker="spk1">
+<Sync time="0"/>
+bonjour + 
+<Sync time="0.939"/>
+je me présente ¤P1¤ fille de cadre S.N.C.F. 
+<Comment desc="sigle= société nationale des chemins de fer"/>
+ j'ai baigné dans l'univers des trains depuis toute petite sans vraiment le connaitre en détails + 
+<Sync time="8.952"/>
+c'est pourquoi aujourd'hui j'ai décidé d'en savoir un peu plus et de ne plus me dire uniquement que grâce à son travail je voyage gratuitement + 
+<Sync time="15.988"/>
+je vous présente donc ¤P2¤ ma maman correspondant sécurité production voyageurs ///
+<Comment desc="Cherche sa prochaine phrase"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="23.353"/>
+alors + 
+<Sync time="24.072"/>
+quelles sont les missions d'un correspondant de sécurité production voyageurs combien il- il y en a-t-il en France
+<Event desc="b" type="noise" extent="instantaneous"/>
+ + 
+</Turn>
+<Turn speaker="spk2" startTime="30.721" endTime="118.772">
+<Sync time="30.721"/>
+alors correspondant sécurité voyageur c'est en abrégé C.S.P.R.V. + 
+<Sync time="36.602"/>
+il y en a un par région
+<Event desc="b" type="noise" extent="previous"/>
+ qui organise la circulation
+<Event desc="b" type="noise" extent="previous"/>
+ des trains spéciaux donc les trains uniquement avec des voyageurs uniquement en T.G.V 
+<Comment desc="Train à grande vitesse"/>
+ ou en train TEOZ ou LUNEA + 
+<Sync time="49.177"/>
+euh mais pas de circulation de T.E.R 
+<Comment desc="Train régional express"/>
+ + 
+<Sync time="51.944"/>
+donc c'est l'organisation de la circulation des trains + 
+<Sync time="55.651"/>
+euh spéciaux des trains de pélerins et du VSOE train euh connu et prestigieux les trains forum
+<Event desc="b" type="noise" extent="instantaneous"/>
+ + 
+<Sync time="63.962"/>
+il est le garant de la circulation en toute sécurité des trains vendus entiers et non soumis à réservation + 
+<Sync time="71.147"/>
+et en fait le C.S.P.R.V. euh + 
+<Sync time="74.719"/>
+travaille en adéquation entre la demande du client et les contraintes techniques de la S.N.C.F. + 
+<Sync time="79.308"/>
+c'est-à-dire qu'il faut trouver pour chaque train qui a été vendu une machine adaptée un sillon un sillon c'est euh l'autorisation de passer sur les voies et puisque les voies dépendent de R.F.F. 
+<Comment desc="Réseau Ferré de France"/>
+ et non pas de la S.N.C.F. + 
+<Sync time="92.871"/>
+et prendre en compte aussi les contraintes des gares c'est-à-dire euh l'ouverture des gares les agents qui sont disponibles à cette période 
+<Comment desc="prononciation du /e/ final allongée"/>
+ au créneau horaire demandé par le client et la capacité des gares aux heures souhaitées + 
+<Sync time="107.937"/>
+donc tout ça permet de faire circuler euh sans gêner la circulation des autres trains les trains qui ont été vendus entiers par des euh commerciaux dans chaque région + 
+</Turn>
+<Turn speaker="spk1" startTime="118.772" endTime="257.909">
+<Sync time="118.772"/>
+hum d'accord + 
+<Sync time="119.816"/>
+donc tu parles de la période euh enfin
+<Event desc="fe~" type="pronounce" extent="previous"/>
+ tu parles des trains pélerins et je voudrais savoir quelle est la période de circulation de ces trains ///
+<Comment desc="Réflexion de L2"/>
+
+<Sync time="127.844"/>
+alors la circulation euh des trains de pélerins s'effectue d'avril à octobre + 
+<Sync time="132.807"/>
+et sachant que dans ma région j'ai la gare de ¤T1¤ qui est la deuxième gare T.E.R. la deuxième gare de pélerins de France juste après ¤T2¤ + 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="141.947"/>
+donc c'est énormément de clients énormément de trains euh qui viennent également de la Belgique des Hollande
+<Comment desc="sic"/>
+ et qui euh euh utilisent le point frontière de ¤T1¤ + 
+<Sync time="153.511"/>
+mais j'ai également des trains de pélerins au départ de la gare de ¤T3¤ ¤T4¤ ¤T5¤ ¤T6¤ ¤T7¤ et ¤T8¤ + 
+<Sync time="161.361"/>
+¤T8¤ c'est la gare qui est la proche de ¤T9¤ euh qui est une qui est une ville euh connue sur le littoral du Nord euh 
+<Sync time="170.315"/>
+et où il y a énormément d'hopitaux et où l'on soigne toutes les maladies osseuses et il y a énormément de trains euh avec contraintes très spécifiques puisque les gens sont très très handicapés + 
+<Sync time="182.104"/>
+euh pour aller jusqu'à ¤T2¤ + 
+<Sync time="184.829"/>
+euh le diocèse de de ¤T10¤ est un diocèse extrêmement puissant + 
+<Sync time="189.367"/>
+euh et qui doit faire évoluer ses demandes en fonction de l'évolution des gares 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ nous avons donc des circulations euh en T.G.V. + 
+<Sync time="197.847"/>
+euh pour les gens qui sont valides et qui voyagent dans la journée + 
+<Sync time="202.344"/>
+et nous avons des trains couchettes avec des ambulances avec des prises pour l'oxygène avec du personnel soignant avec des gens qui sont très accompagnés et qui voyagent la nuit euh pour arriver à ¤T2¤ au petit matin euh donc qui voyagent allongés + 
+<Sync time="219.249"/>
+donc euh ces trains-là euh on ne peut pas les faire circuler n'importe où et il faut prendre en considération toutes les contraintes des gares hein qui est assez long la possibilité d'arriver en gare et de pouvoir se garer avec les ambulances + 
+<Sync time="232.057"/>
+euh pour deux mille onze la vente et les dates sont déjà prévues depuis le premier semestre deux mille dix + 
+<Sync time="239.031"/>
+mais donc euh à chaque train qui a été prévu à l'étape de circulation 
+<Sync time="243.792"/>
+je dois mettre en adéquation dans les créneaux horaires demandés 
+<Sync time="247.289"/>
+euh l'adaptation du plan de transport c'est-à-dire que le client demande un créneau horaire 
+<Sync time="252.019"/>
+et euh moi j'essaye de l'adapter aux graphiques d'occupation des voies de chaque gare + 
+</Turn>
+<Turn speaker="spk1" startTime="257.909" endTime="269.305">
+<Sync time="257.909"/>
+d'accord ah bah ça à l'air d'être une grande organisation + 
+<Sync time="261.666"/>
+tu as aussi parlé du VSOE euh je voudrais en savoir un peu plus qu'est-ce que c'est + 
+</Turn>
+<Turn speaker="spk2" startTime="269.305" endTime="385.523">
+<Sync time="269.305"/>
+alors le VSOE c'est la grande fierté euh du des gens qui travaillent pour lui c'est le Venise Simplon-Orient-Expresss
+<Event desc="en" type="language" extent="previous"/>
+ + 
+<Sync time="279.479"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+et donc j'en suis très fière parce que j'apporte ma pierre à l'édifice pour faire circuler ce train mythique + 
+<Sync time="285.521"/>
+euh c'est un train qui est absolument magnifique et qui circule depuis dix-huit cent quatre-vingt trois qui a fait un voyage inaugural de Paris à Istanbul + 
+<Sync time="294.437"/>
+et depuis euh nous veillons à ce que la légende continue c'est-à-dire que c'est un train de prestige avec des anciennes voitures pullman
+<Event desc="en" type="language" extent="previous"/>
+ 
+<Comment desc="voitures-lits"/>
+ donc d'extrême à l'extrême confort 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ + 
+<Sync time="307.361"/>
+donc euh il est au départ de Calais euh pour une clientèle extrêment aisée et souvent anglophone voire américaine + 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ 
+<Event desc="inspiration" type="noise" extent="instantaneous"/>
+
+<Sync time="317.565"/>
+donc au départ de Calais euh il arrive donc de Paris euh vide 
+<Sync time="322.675"/>
+au départ de Calais il est nettoyé il est mis en eau c'est-à-dire qu'on met de l'eau euh euh pour euh les toilettes et les services à bord on le vérifie euh techniquement c'est-à-dire que chaque voiture monte sur fosse + 
+<Event desc="reniflement" type="noise" extent="instantaneous"/>
+
+<Sync time="337.918"/>
+pour vérifier euh les essieux et euh si tout fonctionne correctement 
+<Event desc="inspiration" type="noise" extent="instantaneous"/>
+ il est avitallé c'est-à-dire qu'on fait de l'avitaillement euh 
+<Event desc="inspiration" type="noise" extent="instantaneous"/>
+en homard en en produits de luxe + 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="350.044"/>
+euh le personnel à bord est trilingue + 
+<Sync time="352.829"/>
+et euh chaque groom est à l'entrée de chaque voiture + 
+<Sync time="356.871"/>
+donc ce train euh il fait la fierté des gens de la gare de Calais également + 
+<Sync time="361.272"/>
+hein donc il va être au départ de la gare de Calais le jeudi + 
+<Sync time="365.074"/>
+ou le dimanche + 
+<Sync time="366.661"/>
+euh il fait Calais Paris-Est il va jusqu'à Venise ou Budapest ou Prague ou Cracovie et il fait Istanbul deux fois par an + 
+<Sync time="376.392"/>
+euh pour donner un- un titre d'exemple un- un voyage pour Venise dans ce train c'est deux mille euros un voyage pour Istanbul c'est cinq mille euros
+</Turn>
+<Turn speaker="spk1" startTime="385.523" endTime="386.541">
+<Sync time="385.523"/>
+ah oui quand même
+</Turn>
+<Turn speaker="spk2" startTime="386.541" endTime="440.5">
+<Sync time="386.541"/>
+donc je gère donc son arrivée donc euh la machine qui l'a amené pour qu'elle soit compatible suivant euh l'end- euh- l'endroit par lequel elle passe
+<Sync time="395.882"/>
+euh son passage au tehnicentre donc euh pour tout ce qui est vérification technique et l'avitaillement + 
+<Sync time="402.29"/>
+les manoeuvres qui sont faites à quai euh le bien le mettre à quai en attendant que le client arrive euh par le shuttle
+<Event desc="en" type="language" extent="previous"/>
+ 
+<Comment desc="= Eurotunnel"/>
+ et par bus + 
+<Sync time="412.049"/>
+donc je il doit commander une machine pour effectuer les manoeuvres euh je dois m'arranger pour que toutes les voitures puissent passer sur fosse nous avons trois heures à ¤T11¤ pour effectuer euh tout ça + 
+<Sync time="424.624"/>
+et bien sûr le train doit être euh euh prêt quand les clients arrivent et il faut également mettre du charbon puisque c'est une machine il y a une machine à vapeur qui fait un petit peu ancien train et euh il faut amener le charbon également + 
+</Turn>
+<Turn speaker="spk1" startTime="440.5" endTime="442.723">
+<Sync time="440.5"/>
+mais c'est juste de la décoration + 
+</Turn>
+<Turn speaker="spk2" startTime="442.723" endTime="456.046">
+<Sync time="442.723"/>
+ah oui oui c'est juste de la décoration il est tiré par une machine électrique euh alors une machine électrique suivant euh cert- si il passe par la côte ou pas et une machine diesel euh suivant le trajet qu'il effectue qui n'est pas toujours le même + 
+</Turn>
+<Turn speaker="spk1" startTime="456.046" endTime="456.834">
+<Sync time="456.046"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="456.834" endTime="462.577">
+<Sync time="456.834"/>
+donc il le départ de il part de Calais pour Paris-Est et c'est mon collègue de la région Est qui prend la suite
+</Turn>
+<Turn speaker="spk1" startTime="462.577" endTime="474.499">
+<Sync time="462.577"/>
+d'accord alors euh tu m'a parlé des trains dits spéciaux il y en a t'il d'autres à part le VSOE ou les trains pélerins
+</Turn>
+<Turn speaker="spk2" startTime="474.499" endTime="503.295">
+<Sync time="474.499"/>
+alors ce qu'on appelle train spécial ce sont tous les trains complets qui sont euh payés euh donc complètement qui sont pas soumis à réservation + 
+<Sync time="483.924"/>
+
+<Event desc="inspiration" type="noise" extent="instantaneous"/>
+ce sont des trains qui sont payés pour les comités d'entreprise pour les trains de supporters par exemple euh pour des clubs de troisième âge pour les colonies de vacances + 
+<Sync time="493.391"/>
+euh ce sont des trains pour les marchés de Noël le train les trains
+<Event desc="b" type="noise" extent="previous"/>
+ qui vont au Futuroscope donc en fait à chaque saison euh sa spécificité
+</Turn>
+<Turn speaker="spk1" startTime="503.295" endTime="508.275">
+<Sync time="503.295"/>
+d'accrord + 
+<Sync time="504.553"/>
+est-ce qu'on peut dire que les trains les trains neiges sont aussi des trains spéciaux
+</Turn>
+<Turn speaker="spk2" startTime="508.275" endTime="514.861">
+<Sync time="508.275"/>
+non les trains neiges sont pas des trains spéciaux puisqu'ils sont vendus par réservation et qu'ils sont pas vendus par train complet
+</Turn>
+<Turn speaker="spk1" startTime="514.861" endTime="515.28">
+<Sync time="514.861"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="515.28" endTime="517.856">
+<Sync time="515.28"/>
+sauf s'ils étaient vendus pour une entreprise spécifique
+</Turn>
+<Turn speaker="spk1" startTime="517.856" endTime="531.892">
+<Sync time="517.856"/>
+d'accord 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ donc euh toi tu es rattachée à la gare siège de la région Nord donc la gare ¤T12¤ mais est-ce que tu ton b- ton travail s'étend à d'autres euh à d'autres gares + 
+</Turn>
+<Turn speaker="spk2" startTime="531.892" endTime="648.117">
+<Sync time="531.892"/>
+oui
+<Event desc="we" type="pronounce" extent="previous"/>
+ alors pour mon travail de correcpondant des trains spéciaux je dois forcément connaître toutes les grandes gares de du Nord-pas de Calais dans lesquelles je peux faire circuler 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ euh les trains spéciaux c'est à dire euh les gares comme Douai Arras Cambrai Jeumont Aulnoy Boulogne Calais Dunkerque + 
+<Sync time="554.994"/>
+euh mais j'aide aussi les gares de Lilles Flandres et Lille Europe en situation très perturbée durant les grèves + 
+<Sync time="561.18"/>
+et donc euh je dois connaître toutes les contraintes techniques de des gares euh pour lesquelles je travaille + 
+<Sync time="567.342"/>
+et je prends également l'astreinte toutes les six semaines + 
+<Sync time="571.228"/>
+euh pour les gares de Lilles Flandres et Lille Europe uniquement pour les T.G.V. + 
+<Sync time="576.438"/>
+puisque la S.N.C.F. est euh est divisée en plusieurs activités et moi je travaille que pour la partie voyage + 
+<Sync time="583.498"/>
+c'est-à-dire tout ce qui est euh T.G.V. et TEOZ + donc c'est la prise en charge de la clientèle des gares de Lille Flandres et Lille Europe en situation euh très dégradée + 
+<Sync time="593.66"/>
+donc on prend l'astreinte pour une semaine vingt-quatre heures sur vingt-quatre du vendredi au vendredi + 
+<Sync time="600.81"/>
+et donc euh nous assurons avec euh les agents qui sont sur les quais + 
+<Sync time="605.532"/>
+euh les correpondances non assurées dûes au retard des trains en provenance du sud + 
+<Sync time="610.592"/>
+euh la prise en charge éventuelle des clients euh dont les hôtels s'il y a rupture de correspondance(s)et que les retards sont dûs à une cause S.N.C.F. + 
+<Sync time="621.849"/>
+euh c'est je réquisitionne également tout ce qui est taxi pour emmener les clients à domicile quand les retards sont dus à à à une- à une cause S.N.C.F. 
+<Event desc="reniflement" type="noise" extent="instantaneous"/>
+ + 
+<Sync time="634.165"/>
+euh par contre nous envisageons euh différents moyens de transport autres commes les bus par exemple quand il y a une rupture de correspondance(s)+ 
+<Sync time="642.831"/>
+euh qui est prise en charge par la S.N.C.F.
+<Sync time="645.273"/>
+donc les astreintes bah elles sont plus ou moins pénibles &lt; et euh
+</Turn>
+<Turn speaker="spk1" startTime="648.117" endTime="661.605">
+<Sync time="648.117"/>
+oui donc justement &gt; je je te coupe euh explique moi un peu comment s'est passée l'astreinte que tu as eu euh juste avant Noël avec euh les intempéries avec la neige et tout ça
+<Sync time="660.276"/>
+comment &lt; ça s'est passé 
+</Turn>
+<Turn speaker="spk2" startTime="661.605" endTime="739.387">
+<Sync time="661.605"/>
+bah je prends &gt; l'astreinte depuis huit ans et cette astreinte a été un véritable cauchemar + 
+<Sync time="666.054"/>
+faut le dire + 
+<Sync time="667.462"/>
+puisque euh j'ai travaillé jour et nuit pendant trois jours + 
+<Sync time="672.396"/>
+euh on avait euh des clients qui ne pouvaient pas partir des clients qui arrivaient en retard des clients qui n'avaient plus de correspondance nous avions très peu de taxis parce que forcément les taxis roulaient mal et c'était une période de fêtes nous avions euh moins de personnel parce que c'est aussi une période
+<Event desc="b" type="noise" extent="previous"/>
+ de fêtes pendant lesquelles on accorde une partie des congés + 
+<Sync time="694.887"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+donc nous avons eu du mal à avoir des bus dans la région picarde les bus avaient même été interdits de circulation par le préfet + 
+<Sync time="703.943"/>
+donc il a fallu euh gérer des clients en perdition euh des enfants dans des situations dramatiques qui pleuraient euh et qu'il a fallu loger le plus près possible des gares pour les faire repartir le lendemain + 
+<Sync time="717.985"/>
+
+<Event desc="inspiration" type="noise" extent="instantaneous"/>
+euh des mineurs qui voyageaient et qui étaient affôlés de devoir dormir euh dans les hôtels et il a fallu prévenir les parents
+<Sync time="725.919"/>
+nous avons du distribuer des boissons chaudes des des croissants euh + 
+<Sync time="731.175"/>
+donc ça a été vraiment aussi bien pour les clients que pour les- les agents S.N.C.F. et les astreintes une période extrêmement perturbée
+</Turn>
+<Turn speaker="spk1" startTime="739.387" endTime="760.466">
+<Sync time="739.387"/>
+hum d'accord + 
+<Sync time="740.405"/>
+j'ai encore une petite question euh qu'est-ce que tu pense euh des gens qui disent que à la S.N.C.F. vous êtes des privilégiés + 
+<Sync time="747.591"/>
+parce qu'on on entend beaucoup parler euh aux informations que la S.N.C.F. se plaignent
+<Comment desc="sic"/>
+ pour les retraites + 
+<Sync time="753.28"/>
+mais vous êtes quand même un enfin comment est-ce que toi tu tu vis ce que les gens disent sur la S.N.C.F. + 
+</Turn>
+<Turn speaker="spk2" startTime="760.466" endTime="826.083">
+<Sync time="760.466"/>
+alors bah quand on fait bien son travail on le vit pas forcément bien
+<Sync time="763.939"/>
+euh c'est sûr que on a des avantages comme bien d'autres hein on ne paye pas le train mais à Air France on ne paye pas non plus
+<Event desc="b" type="noise" extent="instantaneous"/>
+ euh les gens qui travaillent à l'E.D.F. 
+<Comment desc="sigle= éléctricité de France"/>
+ non plus euh on a des avantages mais on moi j'ai toujours travaillé un- une fête sur deux par exemple où j'étais à Noël chez moi ou Nouvel An mais jamais les deux + 
+<Sync time="781.772"/>
+j'ai travaillé en service posté en matinée nuit et soirée + 
+<Event desc="inspiration" type="noise" extent="instantaneous"/>
+
+<Sync time="785.898"/>
+euh avec des problèmes que peuvent poser la garde des enfants + 
+<Sync time="790.844"/>
+euh on est réquisitionné très très souvent on travaille dans le froid euh alors bien sûr on a la sécurité de l'emploi + 
+<Sync time="798.503"/>
+mais je pense qu'on est également au service euh d'une clientèle qui est pas toujours facile non plus mais euh + 
+<Sync time="805.897"/>
+mais partir le soir en laissant ses enfants c'est pas toujours facile euh aller travailler quand ses enfants sont malades et qu'on trouve pas de nounou euh à cinq heures du matin ça n'est pas simple non plus + 
+<Sync time="817.634"/>
+et je pense que euh toute la vie de la famille est perturbée par gens qui travaillent justement euh- euh en service décalé
+</Turn>
+<Turn speaker="spk1" startTime="826.083" endTime="842.999">
+<Sync time="826.083"/>
+hum d'accord
+<Sync time="827.146"/>
+bah écoute euh je te remercie parce que grâce à ces petites questions j'ai pu en apprendre plus sur ton travail et- et puis voilà
+<Sync time="834.855"/>
+bah c'était euh la maman d'¤P1¤ cadre S.N.C.F euh correspondant sécurité prduction voyageurs
+</Turn>
+</Section>
+</Episode>
+</Trans>

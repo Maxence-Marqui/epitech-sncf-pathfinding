@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="aigle003" audio_filename="lucille2_cha.wav" version="10" version_date="140223">
+<Topics>
+<Topic id="to1" desc="MS10/2012-ECFev2014"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Lucille" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="559.040" topic="to1">
+<Turn startTime="0" endTime="15.127" speaker="spk1">
+<Sync time="0"/>
+/// c'est bon
+<Sync time="11.036"/>
+tu regardes la dernière image
+<Sync time="12.78"/>
+voilà 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="15.127" endTime="15.619">
+<Sync time="15.127"/>
+<Who nb="1"/>
+hum
+<Who nb="2"/>
+vas-y maintenant
+</Turn>
+<Turn speaker="spk1" startTime="15.619" endTime="36.638">
+<Sync time="15.619"/>
+je vais 
+<Event desc="ZvE" type="pronounce" extent="previous"/>
+ te le 
+<Event desc="l" type="pronounce" extent="previous"/>
+ lire
+<Sync time="16.93"/>
+alors il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle "Enfin la paix" 
+<Sync time="20.425"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ un problème de micro 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ *** 
+<Sync time="24.556"/>
+enfin la paix 
+<Sync time="25.514"/>
+/// ça c'est une famille monsieur papa et maman 
+<Sync time="31.432"/>
+le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ garçon
+<Sync time="32.701"/>
+il était tard 
+<Sync time="34.288"/>
++ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait nuit hein
+</Turn>
+<Turn speaker="spk2" startTime="36.638" endTime="37.888">
+<Sync time="36.638"/>
+ hum
+</Turn>
+<Turn speaker="spk1" startTime="37.888" endTime="61.348">
+<Sync time="37.888"/>
+Papa Ours était fatigué
+<Sync time="39.886"/>
+Maman Ours était fatiguée 
+<Sync time="41.864"/>
+et Bébé Ours était aussi fatigué 
+<Sync time="44.315"/>
+alors tout le monde au lit 
+<Sync time="46.069"/>
+/// maman ours s'est endormie aussitôt
+<Sync time="52.292"/>
+mais Papa Ours ne trouvait pas le sommeil 
+<Event desc="lsOmeJ" type="pronounce" extent="previous"/>
+
+<Sync time="54.748"/>
++ Maman Ours se mit à ronfler 
+<Sync time="59.748"/>
+rrrr 
+<Event desc="ronflement" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="61.348" endTime="62.067">
+<Sync time="61.348"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="62.067" endTime="75.218">
+<Sync time="62.067"/>
+faisait Maman Ours 
+<Sync time="63.196"/>
++ rrrr 
+<Comment desc="ronflement"/>
+
+<Sync time="67.254"/>
+non et non dit Papa Ours je ne peux 
+<Event desc="np9" type="pronounce" extent="previous"/>
+ pas supporter ce bruit 
+<Sync time="71.124"/>
+il se leva pour aller dormir dans la chambre de Bébé Ours
+</Turn>
+<Turn speaker="spk2" startTime="75.218" endTime="76.328">
+<Sync time="75.218"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="76.328" endTime="123.93">
+<Sync time="76.328"/>
+mais Bébé Ours ne dormait pas il se prenait pour un avion 
+<Sync time="79.975"/>
+vrrr 
+<Comment desc="l'adulte imite le bruit d'un moteur"/>
+
+<Sync time="81.475"/>
+faisait Bébé Ours vrrr 
+<Sync time="83.94"/>
+non et non dit Papa Ours  je ne peux pas supporter ce bruit
+<Sync time="88.018"/>
+il se leva et décida de dormir au salon 
+<Sync time="91.161"/>
++ tic tac tic tac 
+<Sync time="97.639"/>
+faisait la pendule
+<Sync time="98.95"/>
+ding coucou ding coucou
+<Sync time="101.638"/>
+non et non dit Papa Ours je ne peux pas supporter ce bruit
+<Sync time="105.527"/>
+il se leva et s'installa dans la cuisine
+<Sync time="108.735"/>
++ ploc ploc faisait le robinet 
+<Sync time="113.424"/>
+vvvvvv résonnait le réfrigérateur
+<Sync time="117.797"/>
+non et non dit Papa Ours je ne peux pas supporter ça 
+<Sync time="121.315"/>
+et il sortit pour dormir dans le jardin
+</Turn>
+<Turn speaker="spk2" startTime="123.93" endTime="125.094">
+<Sync time="123.93"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="125.094" endTime="220.454">
+<Sync time="125.094"/>
+mais *** /pouvait, pouvez/ pas imaginer ce qu'il y a de bruits dans un jardin la nuit
+<Sync time="129.243"/>
+houhou houhou faisait le hibou
+<Sync time="132.371"/>
+crr faisait le hérisson
+<Sync time="135.389"/>
+miaou miaou chantait le chat sur le mur
+<Sync time="138.873"/>
+non et non dit Papa Ours je ne peux pas supporter ce bruit et il monta dans sa voiture pour essayer de dormir 
+<Sync time="144.964"/>
++ la voiture était glacée et bien peu confortable
+<Sync time="150.159"/>
+mais Papa Ours était tellement 
+<Event desc="tE:lma~" type="pronounce" extent="previous"/>
+ fatigué qu'il ne s'en rendit même pas compte
+<Sync time="154.312"/>
+et il commençait juste à s'endormir quand les oiseaux se mirent à chanter et le soleil à pointer
+<Sync time="160.276"/>
++ sifflaient les oiseaux dans la lumière du matin 
+<Sync time="164.03"/>
+non et non dit Papa Ours je ne peux pas rester ici 
+<Sync time="167.187"/>
+et il rentra dans la maison 
+<Sync time="168.874"/>
++ *** Bébé Ours avait fini par s'endormir Maman Ours s'était retournée et ne ronflait plus
+<Sync time="175.951"/>
+Papa Ours se glissa dans son lit et il ferma les yeux 
+<Sync time="179.485"/>
+enfin la paix se dit-il à lui-même
+<Sync time="183.626"/>
+drrring dring sonna le réveil dring 
+<Sync time="188.585"/>
+Maman Ours se dressa bailla et se frotta les yeux 
+<Sync time="192.08"/>
+bonjour chéri dit-elle as-tu bien dormi ? 
+<Sync time="195.043"/>
+pas très très bien bredouilla Papa Ours
+<Sync time="197.891"/>
+ce n'est pas grave dit Maman Ours je vais t'apporter une bonne tasse de thé 
+<Sync time="202.257"/>
++ et plus question de 
+<Event desc="d" type="pronounce" extent="previous"/>
+ dormir 
+<Sync time="205.342"/>
++ tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ vu ça le pauvre Papa Ours ? 
+<Sync time="208.852"/>
+alors tu me la 
+<Event desc="mla" type="pronounce" extent="previous"/>
+ racontes ? tu essayes 
+<Event desc="tesEj" type="pronounce" extent="previous"/>
+ ? vas-y 
+<Sync time="211.731"/>
+je t'écoute 
+<Event desc="Ztekut" type="pronounce" extent="previous"/>
+ 
+<Event desc="mic" type="noise" extent="previous"/>
+ tu le prends + 
+<Event desc="mic" type="noise" extent="previous"/>
+
+<Sync time="216.696"/>
+alors est-ce que tu te souviens 
+<Event desc="tsuvje~ " type="pronounce" extent="previous"/>
+ du titre ? 
+<Sync time="219.112"/>
+du livre
+</Turn>
+<Turn speaker="spk2" startTime="220.454" endTime="222.784">
+<Sync time="220.454"/>
+hum je me 
+<Event desc="Zm@" type="pronounce" extent="previous"/>
+rappelle plus
+</Turn>
+<Turn speaker="spk1" startTime="222.784" endTime="225.112">
+<Sync time="222.784"/>
+ça s'appelle "Enfin la paix"
+</Turn>
+<Turn speaker="spk2" startTime="225.112" endTime="227.626">
+<Sync time="225.112"/>
+enfin la paix
+</Turn>
+<Turn speaker="spk1" startTime="227.626" endTime="230.002">
+<Sync time="227.626"/>
+voilà vas-y 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="230.002" endTime="232.072">
+<Sync time="230.002"/>
+en fait c'est le papa 
+<Event desc="lpapa" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="232.072" endTime="232.587">
+<Sync time="232.072"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="232.587" endTime="240.461">
+<Sync time="232.587"/>
+
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ il a * sommeil et la maman aussi
+<Sync time="237.25"/>
+et même l'enfant alors ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ vont aller au lit
+</Turn>
+<Turn speaker="spk1" startTime="240.461" endTime="244.886">
+<Sync time="240.461"/>
+voilà exactement donc là dans la première image qu'est ce qu'il 
+<Event desc="keski" type="pronounce" extent="previous"/>
+ se passe 
+<Event desc="spas" type="pronounce" extent="previous"/>
+ ?
+</Turn>
+<Turn speaker="spk2" startTime="244.886" endTime="247.311">
+<Sync time="244.886"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ rentre à la maison
+</Turn>
+<Turn speaker="spk1" startTime="247.311" endTime="247.82">
+<Sync time="247.311"/>
+hum hum
+</Turn>
+<Turn speaker="spk2" startTime="247.82" endTime="249.916">
+<Sync time="247.82"/>
+et il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ un chat
+</Turn>
+<Turn speaker="spk1" startTime="249.916" endTime="251.623">
+<Sync time="249.916"/>
+ouais et là c'est quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="251.623" endTime="252.951">
+<Sync time="251.623"/>
+c'est la lune 
+</Turn>
+<Turn speaker="spk1" startTime="252.951" endTime="254.882">
+<Sync time="252.951"/>
+donc en fait c'est le jour ? c'est la nuit ?
+</Turn>
+<Turn speaker="spk2" startTime="254.882" endTime="256.808">
+<Sync time="254.882"/>
+euh c'est la nuit
+</Turn>
+<Turn speaker="spk1" startTime="256.808" endTime="261.901">
+<Sync time="256.808"/>
+d'accord + il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait 
+<Event desc="b" type="noise" extent="next"/>
+ tout noir hein
+</Turn>
+<Turn speaker="spk2" startTime="261.901" endTime="263.936">
+<Sync time="261.901"/>
+il a sommeil le papa
+</Turn>
+<Turn speaker="spk1" startTime="263.936" endTime="264.638">
+<Sync time="263.936"/>
+hum hum
+</Turn>
+<Turn speaker="spk2" startTime="264.638" endTime="268.823">
+<Sync time="264.638"/>
+et la maman elle est en train de porter 
+<Event desc="dpORte" type="pronounce" extent="previous"/>
+ son enfant pour aller le coucher 
+<Event desc="lkuSe" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="268.823" endTime="269.387">
+<Sync time="268.823"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="269.387" endTime="280.301">
+<Sync time="269.387"/>
+et il est trop tard 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+<Sync time="273.165"/>
+comme la maman elle ronflait trop fort alors lui il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ voulait décider de sortir de la chambre
+</Turn>
+<Turn speaker="spk1" startTime="280.301" endTime="288.944">
+<Sync time="280.301"/>
+d'accord alors est ce que tu es 
+<Event desc="te" type="pronounce" extent="previous"/>
+ sûre que c'est exactement ça sur l'image ? 
+<Sync time="282.724"/>
++ parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ là on voit que Maman Ours 
+<Event desc="u" type="pronounce" extent="previous"/>
+
+<Sync time="287.109"/>
+elle dort ou elle dort pas ?
+</Turn>
+<Turn speaker="spk2" startTime="288.944" endTime="290.04">
+<Sync time="288.944"/>
+ euh elle dort 
+</Turn>
+<Turn speaker="spk1" startTime="290.04" endTime="292.727">
+<Sync time="290.04"/>
+elle dort elle a dormi tout de suite 
+<Event desc="tudsyit" type="pronounce" extent="previous"/>
+ elle et là ?
+</Turn>
+<Turn startTime="292.727" endTime="293.853" speaker="spk1 spk2">
+<Sync time="292.727"/>
+<Who nb="1"/>
+ou- le papa
+<Who nb="2"/>
+papa
+</Turn>
+<Turn speaker="spk1" startTime="293.853" endTime="295.14">
+<Sync time="293.853"/>
+il arrive pas à dormir
+</Turn>
+<Turn speaker="spk2" startTime="295.14" endTime="296.558">
+<Sync time="295.14"/>
+parce qu'elle 
+<Event desc="paskEl" type="pronounce" extent="previous"/>
+ ronfle
+</Turn>
+<Turn speaker="spk1" startTime="296.558" endTime="299.531">
+<Sync time="296.558"/>
+et ouais alors quand on tourne la page on voit effectivement
+</Turn>
+<Turn speaker="spk2" startTime="299.531" endTime="303.79">
+<Sync time="299.531"/>
+il sort de sa chambre euh euh elle ronfle encore la mère 
+</Turn>
+<Turn speaker="spk1" startTime="303.79" endTime="307.459">
+<Sync time="303.79"/>
+elle a la bouche ouverte donc il met son quoi ? 
+<Sync time="306.628"/>
+comment ça s'appelle ?
+</Turn>
+<Turn speaker="spk2" startTime="307.459" endTime="309.91">
+<Sync time="307.459"/>
+sa robe 
+<Event desc="rOp" type="pronounce" extent="previous"/>
+ de sa robe de chambre
+</Turn>
+<Turn speaker="spk1" startTime="309.91" endTime="313.648">
+<Sync time="309.91"/>
+ouais + et il se dirige où ?
+</Turn>
+<Turn speaker="spk2" startTime="313.648" endTime="317.663">
+<Sync time="313.648"/>
+dans la chambre 
+<Event desc="Sa~ b" type="pronounce" extent="previous"/>
+ de de son petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ enfant 
+<Event desc="ta~:fa~:" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="317.663" endTime="318.413">
+<Sync time="317.663"/>
+ouais
+</Turn>
+<Turn speaker="spk2" startTime="318.413" endTime="322.982">
+<Sync time="318.413"/>
+et son enfant il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait l'avion il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait de l'avion 
+<Event desc="dlavjo~ " type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="322.982" endTime="324.56">
+<Sync time="322.982"/>
+donc il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dort pas non plus le bébé ?
+</Turn>
+<Turn speaker="spk2" startTime="324.56" endTime="328.354">
+<Sync time="324.56"/>
+ouais il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va aller essayer de 
+<Event desc="d" type="pronounce" extent="previous"/>
+ dormir dehors
+</Turn>
+<Turn speaker="spk1" startTime="328.354" endTime="329.19">
+<Sync time="328.354"/>
+qui il ?
+</Turn>
+<Turn speaker="spk2" startTime="329.19" endTime="330.254">
+<Sync time="329.19"/>
+le papa
+</Turn>
+<Turn speaker="spk1" startTime="330.254" endTime="331.786">
+<Sync time="330.254"/>
+d'accord 
+<Event desc="pap" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="331.786" endTime="333.457">
+<Sync time="331.786"/>
+dans l- dans le dans le salon 
+<Event desc="lsalo~ " type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="333.457" endTime="335.436">
+<Sync time="333.457"/>
+ouais dans le salon effectivement
+</Turn>
+<Turn speaker="spk2" startTime="335.436" endTime="342.052">
+<Sync time="335.436"/>
+après il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se repose 
+<Event desc="sR@pOz" type="pronounce" extent="previous"/>
+ et il entend la
+<Sync time="338.941"/>
+le le le ré- le réveil
+</Turn>
+<Turn speaker="spk1" startTime="342.052" endTime="344.411">
+<Sync time="342.052"/>
+c'est pas tout à fait un réveil ça s'appelle un coucou
+</Turn>
+<Turn speaker="spk2" startTime="344.411" endTime="345.575">
+<Sync time="344.411"/>
+un coucou
+</Turn>
+<Turn speaker="spk1" startTime="345.575" endTime="355.402">
+<Sync time="345.575"/>
+ouais ou une pendule ils appellent ça une pendule dans le livre
+<Sync time="348.602"/>
+et donc effectivement le coucou quand il sort de la pendule 
+<Sync time="352.368"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait du bruit il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait ding coucou ding coucou
+</Turn>
+<Turn speaker="spk2" startTime="355.402" endTime="357.263">
+<Sync time="355.402"/>
+moi j'en ai pas une 
+<Comment desc="sic"/>
+ pendule
+</Turn>
+<Turn speaker="spk1" startTime="357.263" endTime="361.663">
+<Sync time="357.263"/>
+tu en 
+<Event desc="ta~ " type="pronounce" extent="previous"/>
+ as pas ? moi j'en ai une dans mon salon 
+<Sync time="359.359"/>
+et alors attends parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ là qu'est ce qu'il a le papa ours ?
+</Turn>
+<Turn speaker="spk2" startTime="361.663" endTime="364.931">
+<Sync time="361.663"/>
+un coussin pour plus l'entendre mais il l'entend encore
+</Turn>
+<Turn speaker="spk1" startTime="364.931" endTime="366.129">
+<Sync time="364.931"/>
+
+<Comment desc="rires"/>
+ il entend quand même
+</Turn>
+<Turn speaker="spk2" startTime="366.129" endTime="369.723">
+<Sync time="366.129"/>
+alors il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ alors il a décidé de 
+<Event desc="d" type="pronounce" extent="previous"/>
+ dormir à la dans la 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="369.723" endTime="370.531">
+<Sync time="369.723"/>
+<Who nb="1"/>
+cuisine
+<Who nb="2"/>
+ouais
+</Turn>
+<Turn speaker="spk2" startTime="370.531" endTime="375.777">
+<Sync time="370.531"/>
+mais comme il entend le robinet 
+<Sync time="374.278"/>
+ploc ploc ploc
+</Turn>
+<Turn speaker="spk1" startTime="375.777" endTime="376.701">
+<Sync time="375.777"/>
+ouais 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="376.701" endTime="377.303">
+<Sync time="376.701"/>
+<Who nb="1"/>
+et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+alors
+</Turn>
+<Turn speaker="spk1" startTime="377.303" endTime="379.605">
+<Sync time="377.303"/>
+il entend quoi d'autre ?
+</Turn>
+<Turn speaker="spk2" startTime="379.605" endTime="380.022">
+<Sync time="379.605"/>
+euh 
+</Turn>
+<Turn speaker="spk1" startTime="380.022" endTime="381.698">
+<Sync time="380.022"/>
+c'est comment que ça s'appelle ça ?
+</Turn>
+<Turn speaker="spk2" startTime="381.698" endTime="383.385">
+<Sync time="381.698"/>
+euh
+</Turn>
+<Turn speaker="spk1" startTime="383.385" endTime="389.51">
+<Sync time="383.385"/>
+tu sais 
+<Event desc="tsE" type="pronounce" extent="previous"/>
+ là où on met tous les aliments pour qu'ils 
+<Event desc="ki" type="pronounce" extent="previous"/>
+ restent froids 
+<Sync time="386.413"/>
++ ça s'appelle un ?
+</Turn>
+<Turn speaker="spk2" startTime="389.51" endTime="391.306">
+<Sync time="389.51"/>
+un réfrigérateur 
+<Event desc="REfRiZateR" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="391.306" endTime="401.237">
+<Sync time="391.306"/>
+un réfrigérateur ou un frigidaire on dit aussi un frigidaire 
+<Sync time="394.729"/>
+le frigidaire il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait quoi comme bruit ?
+<Sync time="396.649"/>
++ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait vvvvvv 
+<Sync time="400.31"/>
+alors Papa Ours 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="401.237" endTime="402.406">
+<Sync time="401.237"/>
+<Who nb="1"/>
+il arrive à dormir
+<Who nb="2"/>
+***
+</Turn>
+<Turn speaker="spk1" startTime="402.406" endTime="403.016">
+<Sync time="402.406"/>
+ou toujours pas ?
+</Turn>
+<Turn speaker="spk2" startTime="403.016" endTime="404.098">
+<Sync time="403.016"/>
+toujours pas
+</Turn>
+<Turn speaker="spk1" startTime="404.098" endTime="404.988">
+<Sync time="404.098"/>
+toujours pas
+</Turn>
+<Turn speaker="spk2" startTime="404.988" endTime="407.908">
+<Sync time="404.988"/>
+alors il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va se décider de partir 
+<Event desc="dpaRtiR" type="pronounce" extent="previous"/>
+ dehors
+</Turn>
+<Turn speaker="spk1" startTime="407.908" endTime="408.739">
+<Sync time="407.908"/>
+ouais 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="408.739" endTime="409.621">
+<Sync time="408.739"/>
+<Who nb="1"/>
+dans le jardin
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="409.621" endTime="415.011">
+<Sync time="409.621"/>
+mais sauf qu'il entend coucou coucou 
+<Sync time="412.833"/>
+et le chat miaou 
+<Comment desc="rire de l'adulte"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="415.011" endTime="416.031">
+<Sync time="415.011"/>
+<Who nb="1"/>
+miaou 
+<Who nb="2"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="416.031" endTime="417.288">
+<Sync time="416.031"/>
+et ça c'est quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="417.288" endTime="419.179">
+<Sync time="417.288"/>
+le petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ hérisson
+</Turn>
+<Turn speaker="spk1" startTime="419.179" endTime="421.353">
+<Sync time="419.179"/>
+et lui aussi il fait du bruit 
+<Sync time="420.432"/>
+mince
+</Turn>
+<Turn speaker="spk2" startTime="421.353" endTime="422.695">
+<Sync time="421.353"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait tsstss
+</Turn>
+<Turn speaker="spk1" startTime="422.695" endTime="425.758">
+<Sync time="422.695"/>
+ouais et alors là le papa ours il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dormait à quel endroit ?
+</Turn>
+<Turn speaker="spk2" startTime="425.758" endTime="426.847">
+<Sync time="425.758"/>
+euh dehors 
+</Turn>
+<Turn speaker="spk1" startTime="426.847" endTime="429.18">
+<Sync time="426.847"/>
+ouais tout près d'un arbre
+</Turn>
+<Turn speaker="spk2" startTime="429.18" endTime="432.932">
+<Sync time="429.18"/>
+oui après il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'est décidé de 
+<Event desc="d" type="pronounce" extent="previous"/>
+ dormir dans la voiture
+</Turn>
+<Turn speaker="spk1" startTime="432.932" endTime="436.382">
+<Sync time="432.932"/>
+ouais et ça marche là ou pas ou ça marche toujours pas ?
+</Turn>
+<Turn speaker="spk2" startTime="436.382" endTime="438.569">
+<Sync time="436.382"/>
+euh ça marche toujours pas 
+<Comment desc="rire de l'adulte"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="438.569" endTime="439.41">
+<Sync time="438.569"/>
+<Who nb="1"/>
+ ça mar-
+<Who nb="2"/>
+ il a 
+</Turn>
+<Turn speaker="spk1" startTime="439.41" endTime="441.273">
+<Sync time="439.41"/>
+pas de chance 
+<Event desc="Sa~s" type="pronounce" extent="previous"/>
+ pourquoi ça marche pas là dans la voiture ?
+</Turn>
+<Turn speaker="spk2" startTime="441.273" endTime="443.893">
+<Sync time="441.273"/>
+parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ on entend les oiseaux
+</Turn>
+<Turn speaker="spk1" startTime="443.893" endTime="447.44">
+<Sync time="443.893"/>
+mouais effectivement 
+<Sync time="445.3"/>
+on entend les oiseaux et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ surtout
+</Turn>
+<Turn speaker="spk2" startTime="447.44" endTime="449.323">
+<Sync time="447.44"/>
+le soleil
+</Turn>
+<Turn speaker="spk1" startTime="449.323" endTime="451.34">
+<Sync time="449.323"/>
+le soleil se lève
+</Turn>
+<Turn speaker="spk2" startTime="451.34" endTime="458.536">
+<Sync time="451.34"/>
+alors il a décidé de 
+<Event desc="d" type="pronounce" extent="previous"/>
+ dormir dans le 
+<Sync time="454.639"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va rentrer dans sa maison et voir si elle ronfle plus
+</Turn>
+<Turn speaker="spk1" startTime="458.536" endTime="459.804">
+<Sync time="458.536"/>
+alors c'est qui elle ?
+</Turn>
+<Turn speaker="spk2" startTime="459.804" endTime="460.863">
+<Sync time="459.804"/>
+c'est la maman
+</Turn>
+<Turn speaker="spk1" startTime="460.863" endTime="463.375">
+<Sync time="460.863"/>
+la maman si elle ronfle donc là il retourne dans son lit
+</Turn>
+<Turn speaker="spk2" startTime="463.375" endTime="464.25">
+<Sync time="463.375"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="464.25" endTime="465.502">
+<Sync time="464.25"/>
+dans sa chambre d'accord
+</Turn>
+<Turn speaker="spk2" startTime="465.502" endTime="467.094">
+<Sync time="465.502"/>
+il enlève sa robe 
+<Event desc="ROp" type="pronounce" extent="previous"/>
+ de chambre
+</Turn>
+<Turn speaker="spk1" startTime="467.094" endTime="471.964">
+<Sync time="467.094"/>
+mouais et il se met dans les ?
+<Sync time="469.402"/>
++ dans les draps
+</Turn>
+<Turn speaker="spk2" startTime="471.964" endTime="472.661">
+<Sync time="471.964"/>
+dans les draps
+</Turn>
+<Turn speaker="spk1" startTime="472.661" endTime="479.155">
+<Sync time="472.661"/>
+dans son lit 
+<Sync time="473.63"/>
++ et là qu'est ce qu'il 
+<Event desc="keski" type="pronounce" extent="previous"/>
+ se dit ? 
+<Sync time="476.918"/>
+à ce moment 
+<Event desc="smOma~ " type="pronounce" extent="previous"/>
+ là il est content ?
+</Turn>
+<Turn speaker="spk2" startTime="479.155" endTime="480.021">
+<Sync time="479.155"/>
+ben oui 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="480.021" endTime="480.598">
+<Sync time="480.021"/>
+<Who nb="1"/>
+parce que 
+<Event desc="pask9" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+et alors
+</Turn>
+<Turn speaker="spk1" startTime="480.598" endTime="481.576">
+<Sync time="480.598"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se dit quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="481.576" endTime="487.321">
+<Sync time="481.576"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se dit que
+<Sync time="483.216"/>
+que le soleil va bientôt se lever 
+<Event desc="sl@ve" type="pronounce" extent="previous"/>
+
+<Sync time="486.163"/>
+qu'il aura pas le temps 
+<Event desc="lta~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="487.321" endTime="488.191">
+<Sync time="487.321"/>
+<Who nb="1"/>
+encore * dormir 
+<Who nb="2"/>
+ah là il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se dit 
+</Turn>
+<Turn speaker="spk1" startTime="488.191" endTime="489.191">
+<Sync time="488.191"/>
+pas encore ça
+</Turn>
+<Turn speaker="spk1" startTime="489.191" endTime="506.851">
+<Sync time="489.191"/>
+là il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se dit enfin la paix c'est pour ça que ce livre il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle comme ça
+<Sync time="493.335"/>
+là il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se dit tu vois il est content il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ plus de bruit dans son dans sa maison dans sa chambre
+<Sync time="498.193"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ se dit ouf enfin la paix
+<Sync time="501.253"/>
+mais alors + il a pas réfléchi mais qu'est ce qui sonne là sur l'image d'après ?
+</Turn>
+<Turn speaker="spk2" startTime="506.851" endTime="509.652">
+<Sync time="506.851"/>
+toc le réveil 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="509.652" endTime="511.6">
+<Sync time="509.652"/>
+il avait pas pensé à ça
+</Turn>
+<Turn speaker="spk2" startTime="511.6" endTime="517.504">
+<Sync time="511.6"/>
+alors euh la mère elle dit euh reste au lit je vais 
+<Event desc="ZvE" type="pronounce" extent="previous"/>
+ t'apporter un café
+</Turn>
+<Turn speaker="spk1" startTime="517.504" endTime="519.082">
+<Sync time="517.504"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ elle est gentille quand même
+</Turn>
+<Turn speaker="spk2" startTime="519.082" endTime="519.717">
+<Sync time="519.082"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="519.717" endTime="521.248">
+<Sync time="519.717"/>
+mais là il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="521.248" endTime="523.994">
+<Sync time="521.248"/>
+il il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ cache le *
+</Turn>
+<Turn speaker="spk1" startTime="523.994" endTime="528.592">
+<Sync time="523.994"/>
+ouais il ouvre grand les yeux et se dit c'est pas possible
+</Turn>
+<Turn speaker="spk2" startTime="528.592" endTime="530.395">
+<Sync time="528.592"/>
+parce qu'elle 
+<Event desc="paskEl" type="pronounce" extent="previous"/>
+ a jamais fait ça 
+</Turn>
+<Turn speaker="spk1" startTime="530.395" endTime="538.142">
+<Sync time="530.395"/>
+oh il est triste hein de pas avoir dormi 
+<Sync time="534.087"/>
+et alors là dans la dernière image
+</Turn>
+<Turn speaker="spk2" startTime="538.142" endTime="541.449">
+<Sync time="538.142"/>
+il a des invitations et un café
+</Turn>
+<Turn speaker="spk1" startTime="541.449" endTime="544.38">
+<Sync time="541.449"/>
+alors c'est le c'est le courrier oui 
+<Sync time="542.933"/>
+et qui est ce qui lui apporte le courrier ?
+</Turn>
+<Turn speaker="spk2" startTime="544.38" endTime="545.709">
+<Sync time="544.38"/>
+son petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ fils
+</Turn>
+<Turn speaker="spk1" startTime="545.709" endTime="549.597">
+<Sync time="545.709"/>
+d'accord et là la maman donc sa femme elle lui apporte ? 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="549.597" endTime="550.595">
+<Sync time="549.597"/>
+un café
+</Turn>
+<Turn speaker="spk1" startTime="550.595" endTime="555.605">
+<Sync time="550.595"/>
+un café elle est gentille quand même 
+<Sync time="552.705"/>
+de lui apporter un café bon ça t'a plu l'histoire ?
+</Turn>
+<Turn speaker="spk2" startTime="555.605" endTime="556.179">
+<Sync time="555.605"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="556.179" endTime="559.040">
+<Sync time="556.179"/>
+c'était bien hein ?
+<Sync time="557.354"/>
+bon
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Corpus" audio_filename="vincent16_can.wav" version="6" version_date="090723">
+<Topics>
+<Topic id="to1" desc="SDSept07revuECaout08YS12/8/2008"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="Vincent" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="adulte" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="60.514" topic="to1">
+<Turn startTime="0" endTime="2.075" speaker="spk1">
+<Sync time="0"/>
+"Cheval-Papi" 
+</Turn>
+<Turn speaker="spk2" startTime="2.075" endTime="8.132">
+<Sync time="2.075"/>
+oui 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ ///
+</Turn>
+<Turn speaker="spk1" startTime="8.132" endTime="14.981">
+<Sync time="8.132"/>
+Cheval-Papi il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'est mis quatre 
+<Event desc="kat" type="pronounce" extent="previous"/>
+ pattes
+<Sync time="11.482"/>
+pour que Didou monte sur son dos 
+</Turn>
+<Turn speaker="spk2" startTime="14.981" endTime="17.537">
+<Sync time="14.981"/>
+oui +
+</Turn>
+<Turn speaker="spk1" startTime="17.537" endTime="20.471">
+<Sync time="17.537"/>
+Didou monte sur son dos
+</Turn>
+<Turn speaker="spk2" startTime="20.471" endTime="29.156">
+<Sync time="20.471"/>
+oui Cheval-Papi ne bouge /plus, pas/ du tout pour que Didou monte sur son dos 
+</Turn>
+<Turn speaker="spk1" startTime="29.156" endTime="30.516">
+<Sync time="29.156"/>
+Cheval-Papi 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="30.516" endTime="31.156">
+<Sync time="30.516"/>
+<Who nb="1"/>
+et et
+<Who nb="2"/>
+là là
+</Turn>
+<Turn speaker="spk2" startTime="31.156" endTime="32.447">
+<Sync time="31.156"/>
+tu commences par cette page hein 
+</Turn>
+<Turn speaker="spk1" startTime="32.447" endTime="41.533">
+<Sync time="32.447"/>
+oui Cheval-Papi il est devenu un peu fou
+<Sync time="36.663"/>
+il court dans toute la pièce et il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit hi hi 
+<Event desc="pap" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="41.533" endTime="43.345">
+<Sync time="41.533"/>
+hé tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ sauté une page
+</Turn>
+<Turn speaker="spk1" startTime="43.345" endTime="43.894">
+<Sync time="43.345"/>
+quoi ?
+</Turn>
+<Turn speaker="spk2" startTime="43.894" endTime="45.047">
+<Sync time="43.894"/>
+/là, ben/ tu as sauté une page 
+</Turn>
+<Turn speaker="spk1" startTime="45.047" endTime="46.36">
+<Sync time="45.047"/>
+
+<Comment desc="L'enfant râle"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="46.36" endTime="46.403">
+<Sync time="46.36"/>
+ben alors tu as oublié Vincent 
+</Turn>
+<Turn speaker="spk1" startTime="46.403" endTime="49.438">
+<Sync time="46.403"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="49.438" endTime="50.355">
+<Sync time="49.438"/>
+allez vas-y je t'écoute
+</Turn>
+<Turn speaker="spk1" startTime="50.355" endTime="59.677">
+<Sync time="50.355"/>
+Cheval-Papi il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ met son nez dessus
+<Sync time="52.688"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ fait semblant de 
+<Event desc="d" type="pronounce" extent="previous"/>
+ manger 
+<Event desc="ma~ze" type="pronounce" extent="previous"/>
+ 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="55.365"/>
+Cheval-Papi il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ dit c'est fini pour Cheval-Papi 
+</Turn>
+<Turn speaker="spk2" startTime="59.677" endTime="60.514">
+<Sync time="59.677"/>
+oui $$$
+</Turn>
+</Section>
+</Episode>
+</Trans>

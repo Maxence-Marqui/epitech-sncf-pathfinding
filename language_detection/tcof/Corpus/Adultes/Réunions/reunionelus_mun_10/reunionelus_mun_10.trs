@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="munie0882" audio_filename="Réunion_DEL_10" version="8" version_date="120326">
+<Speakers>
+<Speaker id="spk1" name="L1" check="no" type="female" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="L5" check="no" dialect="native" accent="" scope="local" type="female"/>
+<Speaker id="spk3" name="L2" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="L3" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="L4" check="no" type="female" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="L6" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk7" name="L7" check="no" type="male" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="1243.046">
+<Turn startTime="0" endTime="511.314" speaker="spk1" mode="spontaneous">
+<Sync time="0"/>
+### 
+<Comment desc="début non transcrit"/>
+
+<Sync time="499.848"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+nan mais sincèrement ¤P1¤ tu tu trouves pas eh ça fait huit mois qu'on attend le plan machin ça fait quatre relances que je fais pour être là le jour-là tu m'apprends aujourd'hui que mercredi vous êtes là je suis ici mercredi
+<Event desc="conv" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk3" mode="spontaneous" startTime="511.314" endTime="512.873">
+<Sync time="511.314"/>
+tu dis que c'est pas que t'es pas là
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="512.873" endTime="521.71">
+<Sync time="512.873"/>
+ouais non mais 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+ tu vois là là je trouve que c'est c'est euh 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+ c'est pas sérieux quoi
+<Sync time="518.178"/>
+
+<Event desc="conv" type="noise" extent="previous"/>
+ elles vont faire quoi les nanas
+<Sync time="519.616"/>
+je leur de- je peux pas leur demander de faire ça
+</Turn>
+<Turn speaker="spk3" mode="spontaneous" startTime="521.71" endTime="524.553">
+<Sync time="521.71"/>
+s'il y a pas grand monde nous ça nous arrange pas
+</Turn>
+<Turn speaker="spk4" mode="spontaneous" startTime="524.553" endTime="526.28">
+<Sync time="524.553"/>
+&lt; ouais
+</Turn>
+<Turn speaker="spk3" mode="spontaneous" startTime="526.28" endTime="527.618">
+<Sync time="526.28"/>
+si mercredi &gt; tu as peut-être des temps 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="527.618" endTime="532.979">
+<Sync time="527.618"/>
+tu bah là elle est elle le là je je vais dire quel planning aujourd'hui là je le connais pas le mercredi il est à l'agence
+</Turn>
+<Turn speaker="spk3" mode="spontaneous" startTime="532.979" endTime="533.587">
+<Sync time="532.979"/>
+hum
+</Turn>
+<Turn speaker="spk1" mode="spontaneous" startTime="533.587" endTime="536.962">
+<Sync time="533.587"/>
+tu vois c'est pas c'est pas cool ça
+<Sync time="535.21"/>
+ça je trouve ça pas cool ça dans 
+<Sync time="536.5"/>
+&lt; l'organisation de l'agence
+</Turn>
+<Turn speaker="spk3" mode="spontaneous" startTime="536.962" endTime="538.78">
+<Sync time="536.962"/>
+c'est peut-être &gt; un sujet à revoir 
+<Sync time="538.286"/>
+&lt; différent
+</Turn>
+<Turn speaker="spk5" startTime="538.78" endTime="540.876">
+<Sync time="538.78"/>
+bah c'est &gt; c'est au chef de service à faire le nécessaire hein 
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="540.876" endTime="545.088">
+<Sync time="540.876"/>
+bah oui 
+<Sync time="541.786"/>
+tu peux pas lui dire qu'il
+<Event desc="quim" type="pronounce" extent="instantaneous"/>
+ me qui reporte ça qu'il vienne pas mercredi
+</Turn>
+<Turn speaker="spk4" startTime="545.088" endTime="546.042">
+<Sync time="545.088"/>
+ben
+</Turn>
+<Turn speaker="spk3" startTime="546.042" endTime="547.162">
+<Sync time="546.042"/>
+tu l'appelle tout à l'heure
+</Turn>
+<Turn speaker="spk4" startTime="547.162" endTime="549.94">
+<Sync time="547.162"/>
+tu l'appelle parce que moi si je lui dis il va penser parce que je veux pas y aller tu sais
+</Turn>
+<Turn speaker="spk1" startTime="549.94" endTime="552.601">
+<Sync time="549.94"/>
+
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ ouais 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ c'est pas cool ça hein
+</Turn>
+<Turn speaker="spk5" startTime="552.601" endTime="553.587">
+<Sync time="552.601"/>
+bah tu &lt; l'appelle
+</Turn>
+<Turn speaker="spk4" startTime="553.587" endTime="553.822">
+<Sync time="553.587"/>
+tu dis &gt;
+</Turn>
+<Turn speaker="spk1" startTime="553.822" endTime="559.208">
+<Sync time="553.822"/>
+ mercredi on est en réunion notre première réunion dans le cadre Lorraine
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="559.208" endTime="562.285">
+<Sync time="559.208"/>
+
+<Event desc="b" type="lexical" extent="instantaneous"/>
+ il y a pas c'est toi qui décide hein c'est pas au responsable d'agence
+</Turn>
+<Turn speaker="spk3" startTime="562.285" endTime="585.649">
+<Sync time="562.285"/>
+bon sinon j'ai deux projets euh à vous proposer 
+<Event desc="b" type="noise" extent="begin"/>
+un projet de d'orientation euh budgetaire par rapport euh par rapport par rapport à nos à nos dotations qui sont euh + à la baisse
+<Event desc="pap" type="noise" extent="previous"/>
+ 
+<Event desc="b" type="noise" extent="end"/>
+ par rapport à ça on a donc réfléchi trouver 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+ pour euh 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ nos oeuvres sociales comment on pourrait euh
+</Turn>
+<Turn speaker="spk4" startTime="585.649" endTime="587.112">
+<Sync time="585.649"/>
+palier
+</Turn>
+<Turn speaker="spk3" startTime="587.112" endTime="589.265">
+<Sync time="587.112"/>
+palier au manque à gagner et faire des économies
+</Turn>
+<Turn speaker="spk2" startTime="589.265" endTime="594.609">
+<Sync time="589.265"/>
+donc euh en fin de compte ¤P2¤ c'est toi qui va être euh 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ parce qu'en fin de compte on est tous de la CGTI on en a déjà &lt; parlé
+</Turn>
+<Turn speaker="spk6" startTime="594.609" endTime="594.884">
+<Sync time="594.609"/>
+ouais &gt;
+</Turn>
+<Turn speaker="spk2" startTime="594.884" endTime="595.441">
+<Sync time="594.884"/>
+donc euh
+</Turn>
+<Turn speaker="spk6" startTime="595.441" endTime="596.335">
+<Sync time="595.441"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ ouais
+</Turn>
+<Turn speaker="spk2" startTime="596.335" endTime="597.417">
+<Sync time="596.335"/>
+je te présente euh
+</Turn>
+<Turn speaker="spk7" startTime="597.417" endTime="598.536">
+<Sync time="597.417"/>
+tu as pris des pouvoirs
+</Turn>
+<Turn speaker="spk2" startTime="598.536" endTime="600.521">
+<Sync time="598.536"/>
+voilà
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="600.521" endTime="601.614">
+<Sync time="600.521"/>
+c'est le définitif ça
+</Turn>
+<Turn speaker="spk2" startTime="601.614" endTime="602.194">
+<Sync time="601.614"/>
+
+<Event desc="conv" type="noise" extent="previous"/>
+ voilà c'est le &lt; définitif 
+</Turn>
+<Turn speaker="spk1" startTime="602.194" endTime="603.406">
+<Sync time="602.194"/>
+pour savoir &gt;
+<Sync time="602.824"/>
+comment 
+<Sync time="602.862"/>
+&lt; ce projet
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="603.406" endTime="604.567">
+<Sync time="603.406"/>
+c'est le projet &gt; on va en discuter
+</Turn>
+<Turn speaker="spk7" startTime="604.567" endTime="605.914">
+<Sync time="604.567"/>
+dix zéro 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="605.914" endTime="606.965">
+<Sync time="605.914"/>
+je te remercie
+</Turn>
+<Turn speaker="spk2" startTime="606.965" endTime="618.196">
+<Sync time="606.965"/>
+prends le temps de
+<Sync time="610.017"/>
+de lire et de
+<Sync time="613.286"/>
+hein en fin de compte on a
+<Sync time="614.648"/>
+en gros on a réfléchi sur le fait que bah hein de toute façon la dotation il y a une baisse
+</Turn>
+<Turn speaker="spk6" startTime="618.196" endTime="618.681">
+<Sync time="618.196"/>
+ouais ouais ouais
+</Turn>
+<Turn speaker="spk2" startTime="618.681" endTime="628.994">
+<Sync time="618.681"/>
+il y a plus de quarante mille euros voir plus mais bon au jour d'aujourd'hui je peux pas dire le chiffre exact de baisse par rapport à deux mille neuf hein sur et en deux mille onze on ne saura pas on saura faudra attendre fin deux mille onze c'est toujours pareil hein
+</Turn>
+<Turn speaker="spk1" startTime="628.994" endTime="629.463">
+<Sync time="628.994"/>
+
+<Event desc="bg" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="629.463" endTime="648.19">
+<Sync time="629.463"/>
+c'est à n plus un et en fin de compte donc on ne voulait rien supprimer
+<Event desc="pf" type="noise" extent="previous"/>
+ mais donc on a on on donc on a décidé de répartir autrement en diminuant légèrement que ce soit les gros coeffs 
+<Comment desc="abréviation de coefficient"/>
+ ou les petits
+<Sync time="641.459"/>
+chacun contribue avec ses propres moyens
+<Sync time="642.873"/>
+il était hors de question de dire bah ceux qui euh gagnent beaucoup entre guillemets on leur on leur supprime
+</Turn>
+<Turn speaker="spk6" startTime="648.19" endTime="648.536">
+<Sync time="648.19"/>
+&lt; ouais ouais ouais
+</Turn>
+<Turn speaker="spk2" startTime="648.536" endTime="657.382">
+<Sync time="648.536"/>
+on leur en donne moins &gt; donc si tu peux remarquer c'est où c'est le plus flagrant c'est euh je veux dire au niveau des activités culturelles et sportives cette année tout le monde avait quatre-vingts euros &lt; donc
+</Turn>
+<Turn speaker="spk6" startTime="657.382" endTime="657.772">
+<Sync time="657.382"/>
+ouais &gt;
+</Turn>
+<Turn speaker="spk2" startTime="657.772" endTime="671.703">
+<Sync time="657.772"/>
+nous on a choisi la répartition par quotient familial 
+<Event desc="conv" type="noise" extent="begin"/>
+et donc tu vois 
+<Event desc="conv" type="noise" extent="end"/>
+ que le plus petit quotient
+<Event desc="b" type="noise" extent="instantaneous"/>
+ il perd cinq euros
+<Sync time="663.187"/>
+a- je tenais quand même à ce que enfin nous c'est ce qu'on pense à la C.G.T. 
+<Comment desc="sigle= confédération générale du travail"/>
+ que chacun participe avec ses moyens au fait que le C.E. 
+<Comment desc="sigle= comité d'entreprise"/>
+ n'a plus les mêmes moyens
+</Turn>
+<Turn speaker="spk6" startTime="671.703" endTime="672.302">
+<Sync time="671.703"/>
+enfin moi je suis d'accord ouais
+</Turn>
+<Turn speaker="spk2" startTime="672.302" endTime="681.265">
+<Sync time="672.302"/>
+hein voilà donc je te laisse regarder en fin de compte les grosses euh bah le gros changement c'est la répartition maintenant c'est distribué comme les chèques vacances par quotient familial
+</Turn>
+<Turn speaker="spk3" startTime="681.265" endTime="685.717">
+<Sync time="681.265"/>
+tu as alerté aussi également euh le projet par rapport euh aux différents voyages
+</Turn>
+<Turn speaker="spk6" startTime="685.717" endTime="686.398">
+<Sync time="685.717"/>
+oui j'ai vu ouais
+</Turn>
+<Turn speaker="spk3" startTime="686.398" endTime="688.789">
+<Sync time="686.398"/>
+que les participations ne sont plus à cinquante pour cent comme auparavant euh
+</Turn>
+<Turn speaker="spk2" startTime="688.789" endTime="690.301">
+<Sync time="688.789"/>
+parce que là on parle
+<Sync time="690.112"/>
+&lt; plus euh
+</Turn>
+<Turn speaker="spk3" startTime="690.301" endTime="692.44">
+<Sync time="690.301"/>
+autant &gt; pour le conjoint que pour le collègue
+</Turn>
+<Turn speaker="spk6" startTime="692.44" endTime="698.711">
+<Sync time="692.44"/>
+et puis +
+<Sync time="693.011"/>
+puis le quotient était euh fin l'étude du quotient familial était revu avec des barèmes euh
+</Turn>
+<Turn speaker="spk2" startTime="698.711" endTime="708.144">
+<Sync time="698.711"/>
+alors
+<Event desc="conv" type="noise" extent="previous"/>
+ en fin de compte il y avait quatre il y avait quatre tranches avant et on s'est rendu compte dans la dernière tranche c'était au départ mille cinq cent soixante cinq et plus
+</Turn>
+<Turn speaker="spk6" startTime="708.144" endTime="708.678">
+<Sync time="708.144"/>
+ouais
+</Turn>
+<Turn speaker="spk2" startTime="708.678" endTime="740.873">
+<Sync time="708.678"/>
+c'est tout
+<Sync time="708.909"/>
+donc se retrouver dans cette tranche-là à titre indicatif on a regardé sur ce qu'on avait un niveau quatre +
+<Sync time="715.229"/>
+seul
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ se retrouvait avec une personne qui est niveau neuf par exemple hein donc il y avait à mon avis il y avait un souci au niveau de la dernière tranche donc je pense que là on a stoppé à peu près à deux mille on s'est dit un niveau quatre au taquet il était dans la tranche-là donc on a laissé et après on a créé une tranche supérieure pour les gens qui sont au-dessus +
+<Sync time="734.732"/>
+ça nous semble plus équitable et plus juste à titre indicatif je t'ai mis en bas euh &lt; en gros s- tu as voilà
+</Turn>
+<Turn speaker="spk6" startTime="740.873" endTime="741.935">
+<Sync time="740.873"/>
+ouais les &gt;
+</Turn>
+<Turn speaker="spk3" startTime="741.935" endTime="742.671">
+<Sync time="741.935"/>
+la répartition
+</Turn>
+<Turn speaker="spk2" startTime="742.671" endTime="756.449">
+<Sync time="742.671"/>
+la répartition
+<Sync time="743.591"/>
+donc la dernière tranche donc qui posait tu vois souci où on s'était rendu compte qu'il y avait quand même un mélange avec des grandes différences de de revenus
+<Sync time="750.833"/>
+deux cent soixante douze sans avis fiscal donc les deux cent soixante deux cent soixante douze sans avis fiscal c'est sûr qu'ils sont au-delà de deux mille hein
+</Turn>
+<Turn speaker="spk6" startTime="756.449" endTime="757.062">
+<Sync time="756.449"/>
+oui 
+<Sync time="756.635"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="757.062" endTime="789.691">
+<Sync time="757.062"/>
+c'est euh voilà + et ça m'a permis euh de voir à peu près
+<Event desc="tx" type="noise" extent="instantaneous"/>
+ j'ai fait des moyennes 
+<Event desc="b" type="noise" extent="begin"/>
+alors sur là-dessus euh de dégager euh 
+<Event desc="b" type="noise" extent="end"/>
+ des dépenses moindres si on prend ce mode de de répartition des des des distributions des prestations activités culturelles et sportives je gagne douze mille cinq euros billetteries vingt six mille trois cent quatre vingt quinze euros chèques vacances douze mille trois cent dix euros mobiles-home seize mille euros ce qui me fait un dégagement de soixante six mille sept cent dix euros
+<Sync time="788.346"/>
+il y a pas de quoi non plus euh
+</Turn>
+<Turn speaker="spk5" startTime="789.691" endTime="790.188">
+<Sync time="789.691"/>
+pavoiser
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="790.188" endTime="811.722">
+<Sync time="790.188"/>
+pavoiser mais ça ça me permet de de d'éponger un peu la dotation et d'avoir un petit peu d'avance pour
+<Event desc="tx" type="noise" extent="instantaneous"/>
+ les futures euh voyages ou projets de voyages qu'on a
+<Sync time="800.148"/>
+hein parce qu'il est clair hein je vous rappelle qu'il faut par exemple pour le voyage deux mille treize il faut que j'arrive à sortir soixante mille euros en deux mille onze deux mille douze deux mille treize rien que pour le grand voyage
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ pour pouvoir le
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ le financer
+</Turn>
+<Turn speaker="spk6" startTime="811.722" endTime="814.61">
+<Sync time="811.722"/>
+c'est c'est quoi l'aide aux vacances familiales là pas de changement
+</Turn>
+<Turn speaker="spk2" startTime="814.61" endTime="815.918">
+<Sync time="814.61"/>
+l'aide aux
+</Turn>
+<Turn speaker="spk6" startTime="815.918" endTime="816.096">
+<Sync time="815.918"/>
+l'aide
+</Turn>
+<Turn speaker="spk3" startTime="816.096" endTime="816.662">
+<Sync time="816.096"/>
+les chèques vacances
+</Turn>
+<Turn speaker="spk2" startTime="816.662" endTime="823.715">
+<Sync time="816.662"/>
+les chèques vacances la livraison des chèques vacances c'est toujours au quinze juin 
+<Event desc="bg" type="noise" extent="instantaneous"/>
+ ça sera le quinze juin et les chèques cadoc au cinq septembre hein
+<Sync time="822.765"/>
+&lt; pour ceux qui choissisent
+</Turn>
+<Turn speaker="spk6" startTime="823.715" endTime="828.517">
+<Sync time="823.715"/>
+et là on touche &gt; et là vous voulez pas toucher au au quatre-vingts euros par enfants là pour les chèques cadoc pour Noël
+</Turn>
+<Turn speaker="spk2" startTime="828.517" endTime="834.062">
+<Sync time="828.517"/>
+bah je trouve que les en- enfin nous notre avis c'était que les enfants on va pas les mettre euh les enfants euh
+</Turn>
+<Turn speaker="spk6" startTime="834.062" endTime="836.878">
+<Sync time="834.062"/>
+enfin moi après mon avis c'est que c'est beaucoup donc
+</Turn>
+<Turn speaker="spk2" startTime="836.878" endTime="837.652">
+<Sync time="836.878"/>
+c'est clair
+</Turn>
+<Turn speaker="spk6" startTime="837.652" endTime="838.391">
+<Sync time="837.652"/>
+&lt; pourtant j'ai des enfants hein tu vois euh
+</Turn>
+<Turn speaker="spk2" startTime="838.391" endTime="842.627">
+<Sync time="838.391"/>
+mais bon à titre indicatif &gt; je veux dire moi j'ai fait la
+<Event desc="pf" type="noise" extent="instantaneous"/>
+ permanence mardi dernier euh
+</Turn>
+<Turn speaker="spk1" startTime="842.627" endTime="844.351">
+<Sync time="842.627"/>
+et on a pas les trente euros ¤S1¤
+</Turn>
+<Turn speaker="spk4" startTime="844.351" endTime="844.855">
+<Sync time="844.351"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="844.855" endTime="847.926">
+<Sync time="844.855"/>
+comment ça se fait qu'on a pas les 
+<Event desc="conv" type="noise" extent="begin"/>
+trente euros ¤S1¤ cette année 
+<Event desc="conv" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="847.926" endTime="848.966">
+<Sync time="847.926"/>
+voilà
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="848.966" endTime="849.691">
+<Sync time="848.966"/>
+mais
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="849.691" endTime="852.0">
+<Sync time="849.691"/>
+il y a pas de Saint-Nicolas
+</Turn>
+<Turn speaker="spk4" startTime="852.0" endTime="854.902">
+<Sync time="852.0"/>
+voilà ce que je lui ai dit euh voilà il y a pas de Saint-Nicolas quoi voilà pourquoi tu t'énerves après le
+<Sync time="854.612"/>
+¤S1¤
+</Turn>
+<Turn speaker="spk3" startTime="854.902" endTime="858.939">
+<Sync time="854.902"/>
+les agences &gt; exterieures nous ont signalés qu'il y a une fête de la Saint-Nicolas ici au siège et qu'il y en avait pas dans les différentes agences
+</Turn>
+<Turn speaker="spk4" startTime="858.939" endTime="859.125">
+<Sync time="858.939"/>
+ouais ouais j'ai compris
+</Turn>
+<Turn speaker="spk3" startTime="859.125" endTime="863.788">
+<Sync time="859.125"/>
+donc le but du jeu ça a été de couper court à la Saint-Nicolas ici à ¤T1¤ 
+<Event desc="conv" type="noise" extent="instantaneous"/>
+ bon c'était pas forcément une bonne solution
+</Turn>
+<Turn speaker="spk2" startTime="863.788" endTime="865.788">
+<Sync time="863.788"/>
+non ouais mais bon comme ça
+</Turn>
+<Turn speaker="spk5" startTime="865.788" endTime="871.405">
+<Sync time="865.788"/>
+il faut savoir aussi le problème de quand on avait fait les ¤S1¤ il y a ça fait quoi deux ans trois ans
+</Turn>
+<Turn speaker="spk3" startTime="871.405" endTime="872.248">
+<Sync time="871.405"/>
+oui à peu près
+</Turn>
+<Turn speaker="spk1" startTime="872.248" endTime="875.269">
+<Sync time="872.248"/>
+ouh
+<Event desc="conv" type="noise" extent="previous"/>
+ ***
+</Turn>
+<Turn speaker="spk5" startTime="875.269" endTime="882.031">
+<Sync time="875.269"/>
+*** ils ralaient tous
+<Sync time="876.74"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+parce que ils quand elle était à vingt ou trente kilomètres
+<Event desc="conv" type="noise" extent="end"/>
+ pour aller chercher les ***
+</Turn>
+<Turn speaker="spk6" startTime="882.031" endTime="883.064">
+<Sync time="882.031"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+c'est pour ça que je dis c'est beaucoup
+<Event desc="conv" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="883.064" endTime="885.66">
+<Sync time="883.064"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+et euh maintenant qu'on les donne plus ils râlent encore
+<Event desc="conv" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="885.66" endTime="886.655">
+<Sync time="885.66"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+on nous a reposé la question avant-hier aussi
+<Event desc="conv" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="886.655" endTime="887.978">
+<Sync time="886.655"/>
+
+<Event desc="conv" type="noise" extent="begin"/>
+bah voilà
+<Event desc="conv" type="noise" extent="end"/>
+
+<Sync time="887.366"/>
+et puis là euh
+</Turn>
+<Turn speaker="spk4" startTime="887.978" endTime="892.231">
+<Sync time="887.978"/>
+il y a une collègue son mari pour son fils il a vingt-trois euros
+</Turn>
+<Turn speaker="spk2" startTime="892.231" endTime="894.071">
+<Sync time="892.231"/>
+à la gendarmerie on a trente euros
+</Turn>
+<Turn speaker="spk4" startTime="894.071" endTime="894.411">
+<Sync time="894.071"/>
+voilà 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="894.411" endTime="895.231">
+<Sync time="894.411"/>
+ouais mais tu &lt; vois
+</Turn>
+<Turn speaker="spk4" startTime="895.231" endTime="896.107">
+<Sync time="895.231"/>
+nan mais voilà c'est &gt;
+</Turn>
+<Turn speaker="spk1" startTime="896.107" endTime="897.601">
+<Sync time="896.107"/>
+et les gens sont voilà
+</Turn>
+<Turn speaker="spk3" startTime="897.601" endTime="899.355">
+<Sync time="897.601"/>
+en en par ailleurs vous avez &lt; vous avez du chèque
+</Turn>
+<Turn speaker="spk5" startTime="899.355" endTime="900.734">
+<Sync time="899.355"/>
+quatre-vingts euros c'est pas mal hein &gt;
+</Turn>
+<Turn speaker="spk3" startTime="900.734" endTime="904.169">
+<Sync time="900.734"/>
+du chèque vacances euh gratos que tous les autres C.E. pratiquent
+</Turn>
+<Turn speaker="spk1" startTime="904.169" endTime="904.592">
+<Sync time="904.169"/>
+bien sûr
+</Turn>
+<Turn speaker="spk3" startTime="904.592" endTime="905.079">
+<Sync time="904.592"/>
+&lt; un système euh
+</Turn>
+<Turn speaker="spk2" startTime="905.079" endTime="905.434">
+<Sync time="905.079"/>
+voilà voilà &gt;
+</Turn>
+<Turn speaker="spk1" startTime="905.434" endTime="906.191">
+<Sync time="905.434"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="906.191" endTime="1243.046">
+<Sync time="906.191"/>
+et je sais 
+<Event desc="conv" type="noise" extent="begin"/>
+pas si tu as remarqué ¤P2¤ je tiens quand même à le préciser c'est quand même très important
+<Event desc="conv" type="noise" extent="end"/>
+
+<Sync time="909.551"/>
+à partir du premier janvier deux mille onze il ne sera plus possible de commander son crédit compte des chèques cultures chèques vacances ou chèques cadoc pour les agents du siège 
+<Sync time="918.91"/>
+l'agence d'¤T2¤ de ¤T3¤ et l'agence de ¤T4¤ 
+<Event desc="bg" type="noise" extent="instantaneous"/>
+ parce que je tiens à rappeller quand même que on a mis les chèques vacances uni chèques et caetera
+<Sync time="927.376"/>
+sur la billeterie c'était pour que les agences exterieures éloignées du siège puissent compenser le fait qu'ils ne sont pas tout près
+<Event desc="bg" type="noise" extent="instantaneous"/>
+ pour avoir toutes les activités
+<Sync time="935.957"/>
+### 
+<Comment desc="fin non transcrite"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

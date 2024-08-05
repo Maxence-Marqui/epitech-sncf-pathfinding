@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Emilie" audio_filename="Cours_MAU_15;Enregistrement_Estelle WAV" version="29" version_date="180802">
+  <Topics>
+    <Topic id="to1" desc="licence" />
+    <Topic id="to2" desc="cours_MAU_15" />
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="906.999" topic="to2">
+      <Turn startTime="0.0" endTime="2.778" speaker="spk1">
+        <Sync time="0.0" />
+        du coup ça
+        <Event desc="pap" type="noise" extent="begin" />
+        c'est la version genre entière
+      </Turn>
+      <Turn speaker="spk2" startTime="2.778" endTime="3.43">
+        <Sync time="2.778" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="3.43" endTime="10.629">
+        <Sync time="3.43" />
+        sans euh raccourcissement
+        <Event desc="pap" type="noise" extent="instantaneous" />
+        <Sync time="6.802" />
+        et ça c'est la version que j'aurai devant moi
+        <Event desc="pap" type="noise" extent="end" />
+        <Sync time="9.374" />
+        du coup j'ai
+      </Turn>
+      <Turn speaker="spk2" startTime="10.629" endTime="14.191">
+        <Sync time="10.629" />
+        tu aurais dû écrire plus gros parce que je te dis posé sur la table &lt; bah
+      </Turn>
+      <Turn speaker="spk1" startTime="14.191" endTime="15.671">
+        <Sync time="14.191" />
+        on &gt; est obligé de l'avoir posé sur la table
+      </Turn>
+      <Turn speaker="spk2" startTime="15.671" endTime="17.486">
+        <Sync time="15.671" />
+        ben tu le connais par coeur
+      </Turn>
+      <Turn speaker="spk1" startTime="17.486" endTime="18.995">
+        <Sync time="17.486" />
+        oui oui
+      </Turn>
+      <Turn speaker="spk2" startTime="18.995" endTime="27.639">
+        <Sync time="18.995" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        ben voilà je veux dire au moins tu le poses devant toi bon euh
+        <Sync time="22.675" />
+        le truc c'est que voilà si admettons tu as un trou de mémoire
+        <Sync time="25.101" />
+        si c'est écrit tout petit faut pas que tu cherches longtemps &lt; tu vois
+      </Turn>
+      <Turn speaker="spk1" startTime="27.639" endTime="32.95">
+        <Sync time="27.639" />
+        ouais &gt; mais après j'aurais utilisé enfin
+        <Sync time="29.247" />
+        je sais pas je pense que je l'aurai quand même dans les mains
+        <Sync time="31.662" />
+        on est obligé de l'avoir sur la table
+      </Turn>
+      <Turn speaker="spk3" startTime="32.95" endTime="35.125">
+        <Sync time="32.95" />
+        ouais &lt; dans les mains c'est bien
+      </Turn>
+      <Turn speaker="spk2" startTime="35.125" endTime="35.428">
+        <Sync time="35.125" />
+        ah &gt; dans les mains tu voulais &lt; dire
+      </Turn>
+      <Turn speaker="spk1" startTime="35.428" endTime="35.882">
+        <Sync time="35.428" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="35.882" endTime="38.887">
+        <Sync time="35.882" />
+        ah oui oui oui moi je croyais que tu le voulais pas du tout
+        <Sync time="37.822" />
+        c'est pour ça &lt; je me suis dit O.K.
+      </Turn>
+      <Turn speaker="spk1" startTime="38.887" endTime="39.219">
+        <Sync time="38.887" />
+        ah bah si attends &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="39.219" endTime="45.938">
+        <Sync time="39.219" />
+        oui tu peux l'avoir dans les mains mais c'est vrai que ça faisait
+        <Sync time="40.797" />
+        plus naturel euh tu sais ce qu'elle veut c'est vraiment que tu récites ton truc
+        <Sync time="44.757" />
+        genre comme si tu le connaissais par &lt; coeur
+      </Turn>
+      <Turn speaker="spk1" startTime="45.938" endTime="48.982">
+        <Sync time="45.938" />
+        ouais &gt; mais je sais que je vais pas savoir quoi faire de mes mains si jamais
+      </Turn>
+      <Turn speaker="spk2" startTime="48.982" endTime="56.126">
+        <Sync time="48.982" />
+        hum
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        ouais parce que c'est ça ce qu'elle a dit aussi
+        <Sync time="51.756" />
+        c'est éviter les tics du style
+        <Sync time="53.77" />
+        tu te grattes la tête tu te penches en avant
+      </Turn>
+      <Turn speaker="spk1" startTime="56.126" endTime="59.549">
+        <Sync time="56.126" />
+        se jouer enfin jouer avec les élastiques aussi +
+        <Sync time="58.321" />
+        à éviter
+      </Turn>
+      <Turn speaker="spk2" startTime="59.549" endTime="66.997">
+        <Sync time="59.549" />
+        voilà il y en avait une euh
+        <Sync time="61.852" />
+        c'était la semaine dernière
+        <Sync time="62.995" />
+        euh elle faisait que de se balancer sur sa table
+      </Turn>
+      <Turn speaker="spk3" startTime="66.997" endTime="67.784">
+        <Sync time="66.997" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="67.784" endTime="70.097">
+        <Sync time="67.784" />
+        comme ça +
+        <Sync time="68.495" />
+        c'était méga perturbant
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="70.097" endTime="73.575">
+        <Sync time="70.097" />
+        parce que tu es debout devant la salle euh
+        <Sync time="71.838" />
+        quand tu fais l'oral ou tu es à ta place
+      </Turn>
+      <Turn speaker="spk2" startTime="73.575" endTime="75.5">
+        <Sync time="73.575" />
+        non non tu es debout devant tu vas devant tout le monde
+      </Turn>
+      <Turn speaker="spk3" startTime="75.5" endTime="81.156">
+        <Sync time="75.5" />
+        non mais moi je demande parce que nous on (n')a pas ça
+        <Sync time="77.524" />
+        nous on a c'est juste un un écrit du coup euh on (n')a pas &lt; d'oral
+      </Turn>
+      <Turn speaker="spk2" startTime="81.156" endTime="104.004">
+        <Sync time="81.156" />
+        non &gt; non tu tu vas devant tout le monde comme ça euh
+        <Sync time="82.323" />
+        alors même moi qui suis à l'aise à l'oral hein je te jure euh
+        <Sync time="85.387" />
+        j'ai demandé à passer en première j'avais le coeur qui battait à fond
+        <Sync time="87.846" />
+        mais bon une fois que c'est parti c'est parti
+        <Sync time="89.302" />
+        ah oui si tu veux ce que je pourrai faire j'y ai pensé
+        <Sync time="91.094" />
+        parce que j'avais demandé quelqu'un le fasse pour moi
+        <Sync time="92.926" />
+        tu sais euh +
+        <Sync time="94.656" />
+        ben moi comme je serais en face
+        <Sync time="95.923" />
+        ce que je fais bah je je te chronomètre
+        <Sync time="97.886" />
+        et puis comme ça je te fais genre signe quand ça fait une minute deux minutes trois minutes
+        <Sync time="101.115" />
+        parce que sinon au niveau du temps c'est trop galère tu vas trop te perdre
+        <Event desc="rire en fond" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="104.004" endTime="105.245">
+        <Sync time="104.004" />
+        elle veut me faire paniquer tu sais
+      </Turn>
+      <Turn speaker="spk3" startTime="105.245" endTime="105.935">
+        <Sync time="105.245" />
+        elle va &lt; te faire un gros
+      </Turn>
+      <Turn speaker="spk1" startTime="105.935" endTime="107.195">
+        <Sync time="105.935" />
+        oh mon dieu &gt; oh mon dieu oh mon dieu
+        <Event desc="rire en fond" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="107.195" endTime="108.682">
+        <Sync time="107.195" />
+        il te reste trente secondes
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="108.682" endTime="112.557">
+        <Sync time="108.682" />
+        tu sais elle te fera un
+        <Event desc="rire" type="noise" extent="next" />
+        deux
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="112.557" endTime="114.674">
+        <Sync time="112.557" />
+        je pense que ça ira &lt; niveau temps
+      </Turn>
+      <Turn speaker="spk2" startTime="114.674" endTime="117.988">
+        <Sync time="114.674" />
+        hum &gt; euh attends hum hum hum
+      </Turn>
+      <Turn speaker="spk3" startTime="117.988" endTime="120.291">
+        <Sync time="117.988" />
+        et c'est quoi ton sujet du coup
+      </Turn>
+      <Turn speaker="spk1" startTime="120.291" endTime="125.165">
+        <Sync time="120.291" />
+        du coup j'ai fait sur euh le langage du regard
+        <Sync time="123.143" />
+        je savais pas quoi faire donc euh
+      </Turn>
+      <Turn speaker="spk3" startTime="125.165" endTime="126.823">
+        <Sync time="125.165" />
+        c'est pas mal et ça parle de quoi alors
+      </Turn>
+      <Turn speaker="spk1" startTime="126.823" endTime="134.483">
+        <Sync time="126.823" />
+        c'est euh ben tu sais enfin les +
+        <Sync time="129.545" />
+        ça me fait paniquer
+        <Event desc="rire en fond" type="noise" extent="previous" />
+        <Sync time="132.519" />
+        mon dieu j'espère qu'on me posera pas de question
+      </Turn>
+      <Turn speaker="spk3" startTime="134.483" endTime="135.597">
+        <Sync time="134.483" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="135.597" endTime="137.249">
+        <Sync time="135.597" />
+        moi j'en poserai
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="137.249" endTime="146.096">
+        <Sync time="137.249" />
+        non mais sur par exemple en fonction de ton regard
+        <Sync time="139.577" />
+        comment il est
+        <Sync time="140.347" />
+        ben ce que tu penses ou euh
+        <Sync time="142.213" />
+        ce que tu veux dire genre les clins d'oeil tu vois
+      </Turn>
+      <Turn speaker="spk3" startTime="146.096" endTime="148.185">
+        <Sync time="146.096" />
+        ah d'accord
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="148.185" endTime="149.114">
+        <Sync time="148.185" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="149.114" endTime="154.529">
+        <Sync time="149.114" />
+        ou genre quand tu clignes vite tu vois c'est +
+        <Sync time="150.864" />
+        tu es très intéressée aussi
+      </Turn>
+      <Turn speaker="spk3" startTime="154.529" endTime="157.118">
+        <Sync time="154.529" />
+        d'accord
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        différents signes qui &lt; montrent
+      </Turn>
+      <Turn speaker="spk2" startTime="157.118" endTime="167.223">
+        <Sync time="157.118" />
+        ah oui donc &gt; du coup ouais attends pour tu vas faire
+        <Sync time="159.162" />
+        la la numéro enfin comment tu vas
+        <Sync time="162.457" />
+        tu veux dire à chaque fois euh
+        <Sync time="163.684" />
+        quand on regarde en haut à droite on fait ça
+        <Sync time="165.091" />
+        quand on regarde en haut à gauche on fait ça
+      </Turn>
+      <Turn speaker="spk1" startTime="167.223" endTime="167.705">
+        <Sync time="167.223" />
+        ben ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="167.705" endTime="170.137">
+        <Sync time="167.705" />
+        tu veux pas qu'on te fasse le coup des dessins tu as des feuilles non
+      </Turn>
+      <Turn speaker="spk1" startTime="170.137" endTime="174.222">
+        <Sync time="170.137" />
+        non mais je sais pas je me vois pas sortir ma petite feuille en disant alors voilà comme ça &lt; c'est ça
+      </Turn>
+      <Turn speaker="spk2" startTime="174.222" endTime="193.312">
+        <Sync time="174.222" />
+        ouais ben &gt; il y en avait une qui avait fait ça elle avait pris une grande feuille
+        <Sync time="177.106" />
+        et attends c'était pourquoi je sais plus ce qu'elle avait mis dessus c'était pas des dessins
+        <Sync time="180.161" />
+        hum
+        <Event desc="b" type="noise" extent="begin" />
+        je me souviens
+        <Event desc="b" type="noise" extent="end" />
+        vraiment plus c'était quoi
+        <Sync time="184.104" />
+        mais elle avait mis une grande feuille au tableau
+        <Sync time="186.58" />
+        ou soit c'était pour montrer l'évolution des lettres je me rappelle vraiment plus
+        <Sync time="190.367" />
+        la prof elle est elle était contente elle était oh ben c'est bien il y a un support
+      </Turn>
+      <Turn speaker="spk1" startTime="193.312" endTime="194.553">
+        <Sync time="193.312" />
+        oh bon &lt; ben
+      </Turn>
+      <Turn speaker="spk3" startTime="194.553" endTime="196.941">
+        <Sync time="194.553" />
+        tu as &gt; qu'à dessiner sur le tableau tu fais un oeil
+      </Turn>
+      <Turn speaker="spk1" startTime="196.941" endTime="197.5">
+        <Sync time="196.941" />
+        ça va être long
+      </Turn>
+      <Turn speaker="spk2" startTime="197.5" endTime="211.256">
+        <Sync time="197.5" />
+        ouais mais sinon cinq minutes c'est trop rapide
+        <Sync time="199.708" />
+        la prof elle a dit ça sert à rien euh
+        <Sync time="201.605" />
+        enfin je veux dire de faire des longues intros
+        <Sync time="204.653" />
+        ou des accroches super longues
+        <Sync time="206.327" />
+        enfin tu sais c'est bien d'avoir une petite accroche mais cinq minutes ça passe trop trop vite
+        <Sync time="209.915" />
+        vraiment ça passe trop vite
+      </Turn>
+      <Turn speaker="spk1" startTime="211.256" endTime="214.856">
+        <Sync time="211.256" />
+        surtout si tu pars du principe où mieux vaut avoir c- moins de cinq minutes
+      </Turn>
+      <Turn speaker="spk2" startTime="214.856" endTime="215.515">
+        <Sync time="214.856" />
+        hum
+      </Turn>
+      <Turn speaker="spk1" startTime="215.515" endTime="217.11">
+        <Sync time="215.515" />
+        que trop
+      </Turn>
+      <Turn speaker="spk3" startTime="217.11" endTime="217.367">
+        <Sync time="217.11" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="217.367" endTime="229.995">
+        <Sync time="217.367" />
+        ben là après c'est bizarre parce que elle a mis qu'on avait cours de seize à dix-neuf
+        <Sync time="221.028" />
+        alors soit parce que c'est aujourd'hui la dernière séance
+        <Sync time="224.178" />
+        ah ouais donc soit il y a vraiment beaucoup de monde aujourd'hui et c'est pour ça qu'elle a rajouté une heure
+      </Turn>
+      <Turn speaker="spk3" startTime="229.995" endTime="230.721">
+        <Sync time="229.995" />
+        sûrement
+      </Turn>
+      <Turn speaker="spk1" startTime="230.721" endTime="234.001">
+        <Sync time="230.721" />
+        peut-être qu'elle a eu peur qu'il y ait pas assez de temps et qu'elle voulait vraiment faire passer tout le monde
+      </Turn>
+      <Turn speaker="spk2" startTime="234.001" endTime="250.79">
+        <Sync time="234.001" />
+        parce que nous je sais qu'à chaque fois
+        <Sync time="236.794" />
+        elle laisse dépasser allez jusqu'à
+        <Event desc="pf" type="noise" extent="instantaneous" />
+        six minutes
+        <Sync time="241.266" />
+        ouais six minutes trente un peu près tu vois
+        <Sync time="244.275" />
+        parce que du fait que on on (n')est pas beaucoup de monde qui passe à chaque fois
+        <Sync time="249.136" />
+        ben &lt; elle s'en fout quoi
+      </Turn>
+      <Turn speaker="spk3" startTime="250.79" endTime="252.686">
+        <Sync time="250.79" />
+        ouais &gt; vous êtes combien pour deux heures à passer
+      </Turn>
+      <Turn speaker="spk2" startTime="252.686" endTime="255.889">
+        <Sync time="252.686" />
+        <Event desc="rire" type="noise" extent="begin" />
+        tu peux pas savoir
+        <Event desc="rire" type="noise" extent="end" />
+      </Turn>
+      <Turn speaker="spk1" startTime="255.889" endTime="259.104">
+        <Sync time="255.889" />
+        non mais je sais pas non mais je regarde en fonction de ce qu'on avait marqué sur les listes
+      </Turn>
+      <Turn speaker="spk2" startTime="259.104" endTime="261.901">
+        <Sync time="259.104" />
+        c'est euh quatre &lt; je crois par heure
+      </Turn>
+      <Turn speaker="spk3" startTime="261.901" endTime="262.629">
+        <Sync time="261.901" />
+        quatre &gt; quatre par heure
+      </Turn>
+      <Turn speaker="spk2" startTime="262.629" endTime="263.781">
+        <Sync time="262.629" />
+        ouais un peu près
+      </Turn>
+      <Turn speaker="spk3" startTime="263.781" endTime="266.722">
+        <Sync time="263.781" />
+        alors s- sachant que c'est cinq minutes dit donc elles sont courtes les heures
+      </Turn>
+      <Turn speaker="spk2" startTime="266.722" endTime="269.43">
+        <Sync time="266.722" />
+        mais non c'est pas ça mais c'est qu'ensuite la prof elle &lt; pose des questions
+      </Turn>
+      <Turn speaker="spk3" startTime="269.43" endTime="269.527">
+        <Sync time="269.43" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="269.527" endTime="274.599">
+        <Sync time="269.527" />
+        et tout on en discute ouais et puis ouais personne tient vraiment cinq minutes
+      </Turn>
+      <Turn speaker="spk3" startTime="274.599" endTime="275.032">
+        <Sync time="274.599" />
+        &lt; max
+      </Turn>
+      <Turn speaker="spk2" startTime="275.032" endTime="278.068">
+        <Sync time="275.032" />
+        mais &gt; mais c'est pour ça qu'à chaque fois on sort plus tôt à moins le quart
+      </Turn>
+      <Turn speaker="spk3" startTime="278.068" endTime="285.351">
+        <Sync time="278.068" />
+        c'est en même temps je trouve c'est dur de tenir cinq minutes sur un exposé enfin
+        <Sync time="281.286" />
+        je veux dire soit tu en dis pas assez soit tu vas en dire trop et ça dépasse quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="285.351" endTime="286.952">
+        <Sync time="285.351" />
+        ben ouais c'est ça c'est que tu peux pas approfondir vraiment
+      </Turn>
+      <Turn speaker="spk2" startTime="286.952" endTime="296.849">
+        <Sync time="286.952" />
+        ben c'est ça ce qu'elle a reproché la prof c'est qu'à chaque fois on avait tous trouvé des bons sujets
+        <Sync time="290.505" />
+        mais ils étaient beaucoup trop larges donc du coup elle ce qu'elle voulait tu vois c'est des trucs super précis
+        <Sync time="294.626" />
+        toi c'est bien ce que tu as fait du coup Estelle parce que
+      </Turn>
+      <Turn speaker="spk1" startTime="296.849" endTime="298.434">
+        <Sync time="296.849" />
+        si elle me dit que c'est trop large
+      </Turn>
+      <Turn speaker="spk3" startTime="298.434" endTime="299.497">
+        <Sync time="298.434" />
+        <Event desc="rire" type="noise" extent="next" />
+      </Turn>
+      <Turn speaker="spk1" startTime="299.497" endTime="300.426">
+        <Sync time="299.497" />
+        ouais hein
+      </Turn>
+      <Turn speaker="spk2" startTime="300.426" endTime="312.738">
+        <Sync time="300.426" />
+        non parce que en fait
+        <Sync time="301.303" />
+        tu sais c'est pour ça ton intro n'oublie je sais pas si tu as marqué +
+        <Sync time="305.364" />
+        ouais voilà ce qui est bien tu vois c'est de dire ouais je vais parler du langage corporel
+        <Sync time="310.082" />
+        et plus particulièrement du langage euh des yeux
+      </Turn>
+      <Turn speaker="spk3" startTime="312.738" endTime="312.939">
+        <Sync time="312.738" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="312.939" endTime="315.51">
+        <Sync time="312.939" />
+        des yeux
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        du regard &lt; comme ça
+      </Turn>
+      <Turn speaker="spk3" startTime="315.51" endTime="316.555">
+        <Sync time="315.51" />
+        le langage &gt; des yeux qui &lt; parlent
+      </Turn>
+      <Turn speaker="spk2" startTime="316.555" endTime="319.048">
+        <Sync time="316.555" />
+        tu tu sais &gt; ça veut bien dire que au moins c'est super ciblé tu vois
+      </Turn>
+      <Turn speaker="spk1" startTime="319.048" endTime="323.55">
+        <Sync time="319.048" />
+        ouais mais dedans j'ai pas mis genre pourquoi j'avais choisi le sujet
+        <Sync time="321.885" />
+        je pense que je vais le mettre plutôt dans la conclusion ça
+      </Turn>
+      <Turn speaker="spk2" startTime="323.55" endTime="326.951">
+        <Sync time="323.55" />
+        ouais ou tu peux le mettre dans la conclusion faut juste que tu l'expliques c'est tout
+      </Turn>
+      <Turn speaker="spk1" startTime="326.951" endTime="333.745">
+        <Sync time="326.951" />
+        et euh le truc de genre euh
+        <Sync time="328.919" />
+        genre les yeux c'est le miroir de l'âme je l'ai pas mis non plus je savais pas trop où le mettre donc euh
+      </Turn>
+      <Turn speaker="spk2" startTime="333.745" endTime="339.567">
+        <Sync time="333.745" />
+        moi je trouvais ça cool dans l'intro
+        <Sync time="337.014" />
+        parce que du coup tu as essayé en te chronométrant ou pas
+      </Turn>
+      <Turn speaker="spk1" startTime="339.567" endTime="344.928">
+        <Sync time="339.567" />
+        non non j'ai pas essayé ben vu que j'ai pas la j'avais pas la conclusion je me suis dit
+        <Sync time="343.348" />
+        je vais pas essayer de chronométrer &lt; parce que
+      </Turn>
+      <Turn speaker="spk2" startTime="344.928" endTime="350.005">
+        <Sync time="344.928" />
+        hum &gt; bon après avec ce que tu as là normalement c- c- ça devrait le faire quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="350.005" endTime="352.216">
+        <Sync time="350.005" />
+        mais tu vois ce qui me gêne c'est que genre à la fin du deux là
+      </Turn>
+      <Turn speaker="spk1" startTime="352.216" endTime="352.714">
+        <Sync time="352.216" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="352.714" endTime="355.428">
+        <Sync time="352.714" />
+        ben tu sais j'a- j'arrête avec enfin en bas à droite tu vois
+      </Turn>
+      <Turn speaker="spk1" startTime="355.428" endTime="355.726">
+        <Sync time="355.428" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="355.726" endTime="359.119">
+        <Sync time="355.726" />
+        et après il y a rien je passe directement à la conclusion et je trouve que ça fait genre
+      </Turn>
+      <Turn speaker="spk1" startTime="359.119" endTime="404.11">
+        <Sync time="359.119" />
+        et mais non parce que je t'ai dit tu tu pouvais en blablater je sais pas euh
+        <Sync time="362.884" />
+        par rapport à enfin je sais pas ça doit te venir naturellement
+        <Sync time="365.757" />
+        par rapport à ce que tu as dit là
+        <Sync time="367.519" />
+        tu vois tu finis pas par euh en bas à droite machin
+        <Sync time="370.083" />
+        tu comme je te dis ce qu'elle aime bien la prof c'est que tu répètes toujours
+        <Sync time="373.244" />
+        tu sais ce que tu as dis avant même là quand tu passes au deux
+        <Sync time="376.233" />
+        n'oublie pas de rappeler deux trois petites choses du un tu vois
+        <Sync time="378.707" />
+        tu dis des trucs puis tu dis parce que par rapport au un on avait vu ça
+        <Sync time="382.063" />
+        enfin un truc comme ça
+        <Sync time="383.196" />
+        et du coup à la fin du deux tu tu verras je pense ça te viendra naturellement
+        <Sync time="388.142" />
+        en faisant ton truc en bas à droite et bah ensuite tu mets enfin
+        <Sync time="391.645" />
+        avant de passer à ta conclusion parce que ouais après c'est ta conclusion
+        <Sync time="395.585" />
+        et ben euh je sais pas tu peux faire une petite synthèse de de la partie là euh
+        <Sync time="400.647" />
+        parce que attends c'était sur quoi ta partie là déjà c'était des trucs complexes &lt; c'est ça
+      </Turn>
+      <Turn speaker="spk1" startTime="404.11" endTime="404.597">
+        <Sync time="404.11" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="404.597" endTime="423.193">
+        <Sync time="404.597" />
+        bah voilà tu dis euh du coup on peut parler euh de trucs complexes parce que
+        <Sync time="409.251" />
+        parce que je sais pas euh par rapport à ce que tu as mis
+        <Sync time="412.325" />
+        oui parce que voilà chaque petit détail de l'oeil représente quelque chose enfin +
+        <Sync time="417.785" />
+        genre tu vas pas te douter qu'il y a une différence entre si tu regardes en haut à droite ou en haut à gauche &lt; tu vois
+      </Turn>
+      <Turn speaker="spk1" startTime="423.193" endTime="424.747">
+        <Sync time="423.193" />
+        attends &gt; je vais sortir un stylo quand même
+      </Turn>
+      <Turn speaker="spk2" startTime="424.747" endTime="425.385">
+        <Sync time="424.747" />
+        <Event desc="rire" type="noise" extent="begin" />
+      </Turn>
+      <Turn speaker="spk1" startTime="425.385" endTime="428.51">
+        <Sync time="425.385" />
+        je vais pouvoir noter
+        <Event desc="rire" type="noise" extent="end" />
+        parce que /j'ai, je vais/ enco- je vais complètement zapper
+      </Turn>
+      <Turn speaker="spk2" startTime="428.51" endTime="430.758">
+        <Sync time="428.51" />
+        mais sinon au niveau de la longueur je pense c'est tranquille
+      </Turn>
+      <Turn speaker="spk1" startTime="430.758" endTime="432.126">
+        <Sync time="430.758" />
+        oui je pense que la longueur c'est tranquille
+        <Event desc="mic" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="432.126" endTime="433.864">
+        <Sync time="432.126" />
+        parce que tu parles pas rapidement toi à l'oral
+      </Turn>
+      <Turn speaker="spk1" startTime="433.864" endTime="441.379">
+        <Sync time="433.864" />
+        euh non mais je risque de paniquer un petit peu donc euh +
+        <Sync time="436.802" />
+        donc je vais bafouiller quoi c'est tout +
+        <Sync time="439.802" />
+        alors attends c'est quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="441.379" endTime="444.873">
+        <Sync time="441.379" />
+        bon après elle note cool hein puis surtout si c'est un quitus
+      </Turn>
+      <Turn speaker="spk3" startTime="444.873" endTime="447.039">
+        <Sync time="444.873" />
+        ben j'espère pas que c'est un quitus quand même
+      </Turn>
+      <Turn speaker="spk2" startTime="447.039" endTime="448.749">
+        <Sync time="447.039" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        j'espère pas non plus
+      </Turn>
+      <Turn speaker="spk1" startTime="448.749" endTime="452.356">
+        <Sync time="448.749" />
+        ben moi si c'est un quitus à la limite yolo
+        <Comment desc="you only live once - on ne vit qu'une fois" />
+        quoi
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="452.356" endTime="453.182">
+        <Sync time="452.356" />
+        ouais mais l'anglais
+        <Event desc="rire" type="noise" extent="next" />
+      </Turn>
+      <Turn speaker="spk3" startTime="453.182" endTime="456.295">
+        <Sync time="453.182" />
+        voilà si c'est un quitus ça veut dire que l'anglais ça fonctionne tout seul &lt; ça veut dire qu'il y a
+      </Turn>
+      <Turn speaker="spk2" startTime="456.295" endTime="458.294">
+        <Sync time="456.295" />
+        l'anglais
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="458.294" endTime="460.945">
+        <Sync time="458.294" />
+        il y a rien pour rattraper &lt; si on se tape
+      </Turn>
+      <Turn speaker="spk1" startTime="460.945" endTime="461.84">
+        <Sync time="460.945" />
+        ben après moi ça me dérange pas &gt; donc euh
+      </Turn>
+      <Turn speaker="spk2" startTime="461.84" endTime="463.548">
+        <Sync time="461.84" />
+        ah madame pense qu'à elle
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="463.548" endTime="464.64">
+        <Sync time="463.548" />
+        voilà voilà &lt; voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="464.64" endTime="467.011">
+        <Sync time="464.64" />
+        oui c'est tout moi je m'en moque vous avez qu'à pas être nulles
+        <Event desc="rire" type="noise" extent="next" />
+      </Turn>
+      <Turn speaker="spk3" startTime="467.011" endTime="468.079">
+        <Sync time="467.011" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        merci
+      </Turn>
+      <Turn speaker="spk1" startTime="468.079" endTime="469.686">
+        <Sync time="468.079" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        &lt; je plaisante
+      </Turn>
+      <Turn speaker="spk2" startTime="469.686" endTime="471.498">
+        <Sync time="469.686" />
+        j'ai fait &gt; un bac L
+        <Comment desc="littéraire" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="471.498" endTime="479.593">
+        <Sync time="471.498" />
+        euh alors du coup euh ///
+        <Event desc="pap" type="noise" extent="instantaneous" />
+        <Sync time="477.801" />
+        c'était quoi déjà
+        <Event desc="rire" type="noise" extent="next" />
+      </Turn>
+      <Turn speaker="spk2" startTime="479.593" endTime="481.221">
+        <Sync time="479.593" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        la fin de ta deuxième partie &lt; tu fais
+      </Turn>
+      <Turn speaker="spk1" startTime="481.221" endTime="481.4">
+        <Sync time="481.221" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="481.4" endTime="496.234">
+        <Sync time="481.4" />
+        une petite synthèse euh en gros en expliquant euh en quoi c'est complexe
+        <Sync time="485.299" />
+        enfin p- pourquoi est-ce que tu as appelé ça euh complexe
+        <Sync time="488.374" />
+        parce que là euh en gros tu tu décris toutes les formes
+        <Sync time="491.054" />
+        tu sais tout ce qui est complexe
+        <Sync time="492.627" />
+        et en gros du coup voilà tu peux mettre à la fin euh c'est pour ça &lt; qu'on parle euh
+      </Turn>
+      <Turn speaker="spk1" startTime="496.234" endTime="498.301">
+        <Sync time="496.234" />
+        oui que c'est pas le genre &gt; de chose que tu devines au premier regard enfin
+      </Turn>
+      <Turn speaker="spk2" startTime="498.301" endTime="510.059">
+        <Sync time="498.301" />
+        voilà c'est ça alors que les trucs simples
+        <Sync time="501.137" />
+        je sais pas tu as mis quoi dans tr- dans tes trucs simples mais c'est des choses que tu peux +
+        <Sync time="504.824" />
+        deviner quoi sans être non plus un expert euh voilà
+      </Turn>
+      <Turn speaker="spk1" startTime="510.059" endTime="511.994">
+        <Sync time="510.059" />
+        O.K.
+      </Turn>
+      <Turn speaker="spk2" startTime="511.994" endTime="536.476">
+        <Sync time="511.994" />
+        ///
+        <Comment desc="regarde son papier" />
+        hum hum hum ///
+        <Sync time="519.66" />
+        comme ça bon tu verras bien
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="521.99" />
+        parce que c'est quoi comme exemple que tu avais dans le un déjà ah oui regard long dans les yeux
+        <Sync time="526.852" />
+        enfin ouais enfin je veux dire euh ça c'est des choses qu'on peut deviner
+        <Sync time="530.556" />
+        tu vois ça tu peux le dire à l'oral
+        <Sync time="532.199" />
+        on dit que c'est merde comment est-ce qu'on dit tu sais quand c'est facile
+      </Turn>
+      <Turn speaker="spk1" startTime="536.476" endTime="545.687">
+        <Sync time="536.476" />
+        ben j'avais marqué que c'était euh
+        <Sync time="538.441" />
+        ça dif- enfin ça signifiait différentes choses mais c- qui étaient difficiles à décrypter
+        <Sync time="542.445" />
+        quand euh on on (n')avait pas le contexte &lt; hors contexte
+      </Turn>
+      <Turn speaker="spk2" startTime="545.687" endTime="547.353">
+        <Sync time="545.687" />
+        là &gt; là tu parles pour des choses complexes
+      </Turn>
+      <Turn speaker="spk1" startTime="547.353" endTime="548.767">
+        <Sync time="547.353" />
+        non pour des choses simples
+      </Turn>
+      <Turn speaker="spk2" startTime="548.767" endTime="549.621">
+        <Sync time="548.767" />
+        &lt; ben
+      </Turn>
+      <Turn speaker="spk1" startTime="549.621" endTime="550.572">
+        <Sync time="549.621" />
+        c'est &gt; ce qu'il(s) mettai(en)t dans l'article
+      </Turn>
+      <Turn speaker="spk2" startTime="550.572" endTime="559.27">
+        <Sync time="550.572" />
+        difficile(s) à décrypter euh +
+        <Sync time="553.34" />
+        oui et non parce que
+        <Sync time="554.993" />
+        je sais pas si admettons tu tu te prends la tête avec quelqu'un
+        <Sync time="558.908" />
+        &lt; et tu le regardes dans les
+      </Turn>
+      <Turn speaker="spk1" startTime="559.27" endTime="559.656">
+        <Sync time="559.27" />
+        parce que regarde &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="559.656" endTime="564.055">
+        <Sync time="559.656" />
+        yeux ben d'un côté tu vois ça veut dire que tu insistes &lt; et tu le comprends forcément
+      </Turn>
+      <Turn speaker="spk1" startTime="564.055" endTime="574.977">
+        <Sync time="564.055" />
+        oui mais justement &gt; genre sans le contexte ça veut dire que genre par exemple un regard long dans les yeux
+        <Sync time="567.431" />
+        c'est soit genre un signe d'amour
+        <Sync time="569.611" />
+        soit un une s- un signe d'agression donc euh genre si tu sais pas qu'il s'est pris la tête avant
+        <Sync time="573.748" />
+        tu sais pas trop c'est quoi enfin
+      </Turn>
+      <Turn speaker="spk2" startTime="574.977" endTime="578.337">
+        <Sync time="574.977" />
+        ah oui oui oui O.K. oui oui maintenant tu me diras &lt; oui c'est vrai
+      </Turn>
+      <Turn speaker="spk3" startTime="578.337" endTime="581.873">
+        <Sync time="578.337" />
+        pas mal &gt; quand même moi je regarderais pas longtemps quelqu'un alors
+      </Turn>
+      <Turn speaker="spk2" startTime="581.873" endTime="585.009">
+        <Sync time="581.873" />
+        tu voudras venir avec nous écouter l'exposé d'Estelle
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="585.009" endTime="588.179">
+        <Sync time="585.009" />
+        ben euh toi tu vas faire quoi du coup pendant les deux heures tu vas juste écouter
+      </Turn>
+      <Turn speaker="spk2" startTime="588.179" endTime="590.465">
+        <Sync time="588.179" />
+        puis je réviserai en même temps un peu l'étude du lexique
+      </Turn>
+      <Turn speaker="spk1" startTime="590.465" endTime="591.386">
+        <Sync time="590.465" />
+        on va se marrer
+      </Turn>
+      <Turn speaker="spk2" startTime="591.386" endTime="593.417">
+        <Sync time="591.386" />
+        tu as vu tout à l'heure je l'ai envoyé étude du Mexique
+      </Turn>
+      <Turn speaker="spk1" startTime="593.417" endTime="594.032">
+        <Sync time="593.417" />
+        qui
+      </Turn>
+      <Turn speaker="spk2" startTime="594.032" endTime="597.467">
+        <Sync time="594.032" />
+        moi tu as pas lu
+        <Sync time="595.507" />
+        tout à l'heure je t'ai dit ça te &lt; dit de venir
+      </Turn>
+      <Turn speaker="spk1" startTime="597.467" endTime="598.329">
+        <Sync time="597.467" />
+        ah oui du Mexique &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="598.329" endTime="611.731">
+        <Sync time="598.329" />
+        chez Emilie pour réviser mais à chaque fois que j'écris lexique il me corrige par Mexique
+        <Sync time="601.681" />
+        et à chaque fois bah tu sais je j'enlève avant
+        <Sync time="604.125" />
+        et puis là comme j'ai envoyé à fond ben ça met viens euh
+        <Sync time="607.27" />
+        chez Emilie on révisera l'étude du Mexique
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        cool
+      </Turn>
+      <Turn speaker="spk1" startTime="611.731" endTime="613.307">
+        <Sync time="611.731" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        super hey fajitas
+        <Event desc="es" type="language" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="613.307" endTime="614.972">
+        <Sync time="613.307" />
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="614.972" endTime="620.486">
+        <Sync time="614.972" />
+        s- surtout avec la ¤P1¤ quand même euh parler du Mexique ça serait bof hein
+      </Turn>
+      <Turn speaker="spk2" startTime="620.486" endTime="621.37">
+        <Sync time="620.486" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="621.37" endTime="625.2">
+        <Sync time="621.37" />
+        elle va sortir j'ai des origines mexicaines
+        <Event desc="rire en fond" type="noise" extent="next" />
+        et russes
+      </Turn>
+      <Turn speaker="spk3" startTime="625.2" endTime="627.209">
+        <Sync time="625.2" />
+        avec Austin
+      </Turn>
+      <Turn speaker="spk2" startTime="627.209" endTime="635.911">
+        <Sync time="627.209" />
+        <Event desc="rire" type="noise" extent="begin" />
+        enfin non mais on verra bien vendredi
+        <Event desc="rire" type="noise" extent="end" />
+        <Sync time="630.745" />
+        je sais pas à quoi m'attendre au partiel
+        <Sync time="632.465" />
+        je vais essayer d'avoir des des sujets de l'an dernier parce que
+        <Event desc="rire" type="noise" extent="next" />
+      </Turn>
+      <Turn speaker="spk3" startTime="635.911" endTime="641.681">
+        <Sync time="635.911" />
+        mais euh celle qui a redoublé elle nous en a
+        <Sync time="638.47" />
+        elle a dit qu'elle arrivait pas à le retrouver le sujet de l'année dernière &lt; donc euh
+      </Turn>
+      <Turn speaker="spk2" startTime="641.681" endTime="649.94">
+        <Sync time="641.681" />
+        oui &gt; elle l'avait plus en tête parce que moi ça me fait
+        <Sync time="643.603" />
+        mais de toute façon même si elle aurait le sujet le problème c'est que ils ont pas du tout fait comme nous l'an dernier
+        <Sync time="647.685" />
+        ils ont eu quinze heures de de plus que nous &lt; donc nous on aurait eu autre chose
+      </Turn>
+      <Turn speaker="spk3" startTime="649.94" endTime="657.799">
+        <Sync time="649.94" />
+        ah oui nous on &gt; a eu trois heures à tout casser et
+        <Sync time="652.382" />
+        ben c'est pour ça qu'elle a dit qu'elle ferait les le contrôle sur les cours de logique
+        <Sync time="655.711" />
+        de l'an dernier mais &lt; d'un côté c'est traitre
+      </Turn>
+      <Turn speaker="spk2" startTime="657.799" endTime="658.636">
+        <Sync time="657.799" />
+        et mais c- c'est dégueu &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="658.636" endTime="659.877">
+        <Sync time="658.636" />
+        va retrouver tes cours de logique de l'an dernier
+      </Turn>
+      <Turn speaker="spk3" startTime="659.877" endTime="668.162">
+        <Sync time="659.877" />
+        moi je les ai moi mais c'est traitre pour ceux qui sont par exemple ceux qui ont redoublé du
+        <Sync time="663.938" />
+        du de enfin tu sais ceux qui ont redoublé de L2
+        <Comment desc="licence 2" />
+        <Sync time="666.551" />
+        du coup ça fait longtemps qu'ils ont pas fait de logique
+      </Turn>
+      <Turn speaker="spk2" startTime="668.162" endTime="669.381">
+        <Sync time="668.162" />
+        et puis ceux qui viennent de ¤T1¤ &lt; qui ont jamais fait de logique
+      </Turn>
+      <Turn speaker="spk3" startTime="669.381" endTime="672.475">
+        <Sync time="669.381" />
+        et ceux qui viennent de &gt; et ben c'est pour ça qu'elle a demandé à les voir la dernière fois à la fin &lt; de l'heure
+      </Turn>
+      <Turn speaker="spk2" startTime="672.475" endTime="679.274">
+        <Sync time="672.475" />
+        mais &gt; là par contre c'est bizarre parce que enfin
+        <Sync time="674.945" />
+        même si on prend que ses cours à elle heureusement qu'on l'a jamais eu en prof de logique parce que
+      </Turn>
+      <Turn speaker="spk3" startTime="679.274" endTime="679.564">
+        <Sync time="679.274" />
+        on comprend &lt; rien
+      </Turn>
+      <Turn speaker="spk2" startTime="679.564" endTime="690.443">
+        <Sync time="679.564" />
+        je relisais &gt; ses cours moi je j'avais une su- une super note en logique
+        <Sync time="682.547" />
+        je sais plus j'avais genre dix huit et demi
+        <Sync time="684.023" />
+        ses cours je les comprends pas tu sais elle te balance le et comme ça
+        <Sync time="687.457" />
+        mais je veux dire si tu sais pas tu sais même pas que le signe ça veut dire et
+      </Turn>
+      <Turn speaker="spk3" startTime="690.443" endTime="692.984">
+        <Sync time="690.443" />
+        déjà ouais elle te balance des euh +
+        <Sync time="692.595" />
+        &lt; des fonctions comme ça
+      </Turn>
+      <Turn speaker="spk1" startTime="692.984" endTime="694.738">
+        <Sync time="692.984" />
+        ouais c'est vrai ça ouais &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="694.738" endTime="695.172">
+        <Sync time="694.738" />
+        ouais ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="695.172" endTime="698.31">
+        <Sync time="695.172" />
+        * ouais donc faudra réviser quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="698.31" endTime="699.828">
+        <Sync time="698.31" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="699.828" endTime="704.092">
+        <Sync time="699.828" />
+        mais vous vous faites quoi vous mettez un zéro ou plus moins ou v &lt; f
+      </Turn>
+      <Turn speaker="spk2" startTime="704.092" endTime="704.491">
+        <Sync time="704.092" />
+        euh v et f moi &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="704.491" endTime="706.87">
+        <Sync time="704.491" />
+        v f vous avez appris comme ça avec votre prof
+      </Turn>
+      <Turn speaker="spk1" startTime="706.87" endTime="706.915">
+        <Sync time="706.87" />
+        quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="706.915" endTime="708.12">
+        <Sync time="706.915" />
+        tu étais &lt; avec qui toi l'an dernier en logique
+      </Turn>
+      <Turn speaker="spk3" startTime="708.12" endTime="709.214">
+        <Sync time="708.12" />
+        dans le &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="709.214" endTime="711.029">
+        <Sync time="709.214" />
+        euh monsieur ¤P2¤
+      </Turn>
+      <Turn speaker="spk2" startTime="711.029" endTime="712.509">
+        <Sync time="711.029" />
+        le f- le faux vieux là
+      </Turn>
+      <Turn speaker="spk1" startTime="712.509" endTime="713.21">
+        <Sync time="712.509" />
+        non non il était
+      </Turn>
+      <Turn speaker="spk3" startTime="713.21" endTime="714.115">
+        <Sync time="713.21" />
+        ¤P3¤
+      </Turn>
+      <Turn speaker="spk1" startTime="714.115" endTime="714.987">
+        <Sync time="714.115" />
+        ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="714.987" endTime="716.384">
+        <Sync time="714.987" />
+        le jeune là il était cool
+      </Turn>
+      <Turn speaker="spk1" startTime="716.384" endTime="716.853">
+        <Sync time="716.384" />
+        il était trop &lt; bien
+      </Turn>
+      <Turn speaker="spk3" startTime="716.853" endTime="720.067">
+        <Sync time="716.853" />
+        nous c'est &gt; un zéro alors qu'on a appris comme ça &lt; il était trop cool celui là
+      </Turn>
+      <Turn speaker="spk2" startTime="720.067" endTime="741.687">
+        <Sync time="720.067" />
+        moi j'étais avec le faux vieux &gt; c'était un
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        je rigolais parce que c'est le genre de prof
+        <Sync time="723.622" />
+        tu peux pas vraiment pas savoir son âge
+        <Sync time="725.337" />
+        je te jure le le mec il arrive donc euh je sais pas
+        <Sync time="728.505" />
+        enfin physiquement tu vois sa tête il devait avoir je sais pas trente-cinq quarante ans tu vois
+        <Sync time="733.722" />
+        il était assez jeune par contre
+        <Event desc="rire" type="noise" extent="begin" />
+        <Sync time="735.905" />
+        je te jure c'est horrible
+        <Event desc="rire" type="noise" extent="begin" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+        <Sync time="737.101" />
+        le gros pantalon en velours
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="738.906" />
+        il a sorti le le vieux Nokia euh deux mille
+      </Turn>
+      <Turn speaker="spk3" startTime="741.687" endTime="742.915">
+        <Sync time="741.687" />
+        <Event desc="rire" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="742.915" endTime="743.643">
+        <Sync time="742.915" />
+        <Event desc="i" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="743.643" endTime="746.646">
+        <Sync time="743.643" />
+        et il avait des lunettes et tout &lt; c'était trop drôle
+      </Turn>
+      <Turn speaker="spk3" startTime="746.646" endTime="749.165">
+        <Sync time="746.646" />
+        oh non &gt; mais nous aussi il était particulier quand &lt; même
+      </Turn>
+      <Turn speaker="spk1" startTime="749.165" endTime="751.6">
+        <Sync time="749.165" />
+        oh nous &gt; quand il arrive avec ses costards trop grands genre &lt; tu es là tu es
+      </Turn>
+      <Turn speaker="spk3" startTime="751.6" endTime="752.393">
+        <Sync time="751.6" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="752.393" endTime="752.942">
+        <Sync time="752.393" />
+        <Event desc="rire" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="752.942" endTime="760.755">
+        <Sync time="752.942" />
+        il avait toujours des des remarques comme ça il regardait par la fenêtre et puis il disait euh
+        <Sync time="757.209" />
+        il parlait des des fenêtres d'en face &lt; tu te souviens quand il essayait de commenter
+      </Turn>
+      <Turn speaker="spk1" startTime="760.755" endTime="762.576">
+        <Sync time="760.755" />
+        ah ouais ouais quand il nous a sorti &gt; Pikachu président tu sais &lt; O.K.
+      </Turn>
+      <Turn speaker="spk3" startTime="762.576" endTime="763.09">
+        <Sync time="762.576" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="763.09" endTime="764.443">
+        <Sync time="763.09" />
+        sérieux c'est quoi ça
+      </Turn>
+      <Turn speaker="spk1" startTime="764.443" endTime="766.153">
+        <Sync time="764.443" />
+        c'était pour une valeur &lt; de vérité
+      </Turn>
+      <Turn speaker="spk3" startTime="766.153" endTime="766.628">
+        <Sync time="766.153" />
+        quand euh oui voilà &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="766.628" endTime="769.521">
+        <Sync time="766.628" />
+        Pikachu président O.K. oui
+      </Turn>
+      <Turn speaker="spk3" startTime="769.521" endTime="770.475">
+        <Sync time="769.521" />
+        &lt; et puis euh
+      </Turn>
+      <Turn speaker="spk1" startTime="770.475" endTime="771.669">
+        <Sync time="770.475" />
+        si je te dis qu'il &gt; est président c'est que c'est vrai
+      </Turn>
+      <Turn speaker="spk3" startTime="771.669" endTime="775.227">
+        <Sync time="771.669" />
+        si tu es pour Paris et puis que tu tapes des mains
+        <Sync time="773.7" />
+        quand euh OM chante ou &lt; je sais pas quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="775.227" endTime="775.664">
+        <Sync time="775.227" />
+        <Event desc="rire" type="noise" extent="begin" />
+        ouah c'est quoi ça
+        <Event desc="rire" type="noise" extent="end" />
+        &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="775.664" endTime="776.95">
+        <Sync time="775.664" />
+        <Event desc="rire" type="noise" extent="previous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="776.95" endTime="778.079">
+        <Sync time="776.95" />
+        ouais il nous parlait de foot
+      </Turn>
+      <Turn speaker="spk1" startTime="778.079" endTime="780.713">
+        <Sync time="778.079" />
+        si tu es fier d'êt- d'être parisien alors tu tapes dans tes mains donc
+      </Turn>
+      <Turn speaker="spk3" startTime="780.713" endTime="786.227">
+        <Sync time="780.713" />
+        mais si tu es pas parisien mais que tu es pour Paris
+        <Sync time="783.543" />
+        alors enfin il nous donnait tout le temps des exemples de malade &lt; pour les
+      </Turn>
+      <Turn speaker="spk1" startTime="786.227" endTime="787.983">
+        <Sync time="786.227" />
+        franchement &gt; il était vraiment super &lt; drôle
+      </Turn>
+      <Turn speaker="spk3" startTime="787.983" endTime="792.825">
+        <Sync time="787.983" />
+        ouais &gt; l'exemple de l'ascenseur aussi
+        <Sync time="789.41" />
+        genre tu as beau l'appuyer plein de fois sur le bouton d'ascenseur bah il arrivera à la même vitesse
+      </Turn>
+      <Turn speaker="spk1" startTime="792.825" endTime="795.43">
+        <Sync time="792.825" />
+        ouais moi je me suis tapée une sale note mais j'étais très &lt; contente de l'avoir
+      </Turn>
+      <Turn speaker="spk3" startTime="795.43" endTime="796.621">
+        <Sync time="795.43" />
+        oh je sais plus &gt; j'avais eu combien &lt; mais
+      </Turn>
+      <Turn speaker="spk2" startTime="796.621" endTime="798.885">
+        <Sync time="796.621" />
+        ben apparemment &gt; il a noté assez dur votre prof
+      </Turn>
+      <Turn speaker="spk3" startTime="798.885" endTime="800.906">
+        <Sync time="798.885" />
+        oh ben en même temps c'était plus dur nous ce qu'on avait vu &lt; je trouve
+      </Turn>
+      <Turn speaker="spk1" startTime="800.906" endTime="809.834">
+        <Sync time="800.906" />
+        en fait &gt; moi j'avais j'ai vraiment fait des trucs nuls et
+        <Sync time="804.059" />
+        au final je me suis quand même retrouvée avec onze du coup euh mon onze
+        <Event desc="rire" type="noise" extent="begin" />
+        <Sync time="807.856" />
+        est-ce que tu te souviens mon onze
+        <Event desc="rire" type="noise" extent="end" />
+      </Turn>
+      <Turn speaker="spk2" startTime="809.834" endTime="810.206">
+        <Sync time="809.834" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="810.206" endTime="810.465">
+        <Sync time="810.206" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="810.465" endTime="812.638">
+        <Sync time="810.465" />
+        le fameux onze
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="812.638" endTime="815.129">
+        <Sync time="812.638" />
+        moi ça je crois que j'avais eu quatorze ou quinze avec lui
+      </Turn>
+      <Turn speaker="spk1" startTime="815.129" endTime="816.379">
+        <Sync time="815.129" />
+        oh ben ça va
+      </Turn>
+      <Turn speaker="spk3" startTime="816.379" endTime="818.616">
+        <Sync time="816.379" />
+        mais ben il y avait des trucs à la fin c'était dur là
+      </Turn>
+      <Turn speaker="spk1" startTime="818.616" endTime="818.634">
+        <Sync time="818.616" />
+        &lt; non mais c'était dur son truc
+      </Turn>
+      <Turn speaker="spk3" startTime="818.634" endTime="822.286">
+        <Sync time="818.634" />
+        modus euh &gt; modus ponens là euh moi j'y comprenais &lt; rien du tout
+      </Turn>
+      <Turn speaker="spk1" startTime="822.286" endTime="827.045">
+        <Sync time="822.286" />
+        oui c'était c'était dur &gt;
+        <Sync time="823.081" />
+        ben c'était des trucs qu'on avait vu mais qui avaient enfin il avait pas vraiment expliqué
+      </Turn>
+      <Turn speaker="spk2" startTime="827.045" endTime="828.255">
+        <Sync time="827.045" />
+        modus ponens
+      </Turn>
+      <Turn speaker="spk1" startTime="828.255" endTime="828.318">
+        <Sync time="828.255" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk3" startTime="828.318" endTime="828.577">
+        <Sync time="828.318" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="828.577" endTime="829.349">
+        <Sync time="828.577" />
+        non mais laisse tomber on était *
+      </Turn>
+      <Turn speaker="spk3" startTime="829.349" endTime="841.157">
+        <Sync time="829.349" />
+        rien que d'y penser là j'ai
+        <Event desc="pf" type="noise" extent="instantaneous" />
+        après il y avait des images de ouf
+        <Sync time="834.182" />
+        je te montrerai à l'occasion
+        <Sync time="835.269" />
+        mais je te jure il nous mon- il nous faisait des schémas tu sais c'est un un carré
+        <Sync time="839.065" />
+        ou qu'il y a la contradiction et &lt; tout oh la la
+      </Turn>
+      <Turn speaker="spk1" startTime="841.157" endTime="843.635">
+        <Sync time="841.157" />
+        ah ouais &gt; les trucs à retenir non mais c'était la quatrième dimension
+      </Turn>
+      <Turn speaker="spk3" startTime="843.635" endTime="849.141">
+        <Sync time="843.635" />
+        et il y avait il y avait un autre modus c'était modus euh +
+        <Sync time="847.522" />
+        tolens un truc comme ça
+      </Turn>
+      <Turn speaker="spk2" startTime="849.141" endTime="850.666">
+        <Sync time="849.141" />
+        et vous l'avez eu ça au partiel
+      </Turn>
+      <Turn speaker="spk3" startTime="850.666" endTime="850.89">
+        <Sync time="850.666" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="850.89" endTime="851.796">
+        <Sync time="850.89" />
+        ouais on a eu une &lt; question dessus
+      </Turn>
+      <Turn speaker="spk2" startTime="851.796" endTime="852.488">
+        <Sync time="851.796" />
+        ouah &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="852.488" endTime="855.993">
+        <Sync time="852.488" />
+        c'est pour ça que c'était plus dur que vous avec vos simples vrai faux
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        &lt; tu sais
+      </Turn>
+      <Turn speaker="spk2" startTime="855.993" endTime="869.051">
+        <Sync time="855.993" />
+        non mais moi &gt; parce que le premier cours j'arrive
+        <Sync time="857.795" />
+        je me dis mais c'est c'est c'est vraiment nul enfin ça sert à rien
+        <Sync time="861.074" />
+        alors j'y suis plus allée et euh enfin je sais plus deux je crois deux séances
+        <Sync time="865.486" />
+        et la fois d'après je suis revenue et c'était là où on voyait tu sais les grandes tables de vérité
+      </Turn>
+      <Turn speaker="spk3" startTime="869.051" endTime="869.466">
+        <Sync time="869.051" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="869.466" endTime="871.52">
+        <Sync time="869.466" />
+        tu sais &gt; avec eux genre les formules avec des parenthèses
+      </Turn>
+      <Turn speaker="spk3" startTime="871.52" endTime="871.801">
+        <Sync time="871.52" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="871.801" endTime="879.324">
+        <Sync time="871.801" />
+        mais là pour moi c'était hyper dur je fais ça ça y est je suis foutue
+        <Sync time="874.975" />
+        puis il y a quelqu'un qui m'a dit non non t'inquiète
+        <Sync time="876.494" />
+        si on t'explique une fois ça va être facile j'ai eu dix-huit et demi
+      </Turn>
+      <Turn speaker="spk3" startTime="879.324" endTime="883.333">
+        <Sync time="879.324" />
+        mais en fait c'est
+        <Event desc="rire en fond" type="noise" extent="previous" />
+        exactement ça le le prof il nous a dit ça au début ça parait du chinois &lt; franchement
+      </Turn>
+      <Turn speaker="spk2" startTime="883.333" endTime="883.458">
+        <Sync time="883.333" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="883.458" endTime="895.592">
+        <Sync time="883.458" />
+        on aurait eu la ¤P1¤ dès le début on aurait rien compris
+        <Event desc="i" type="noise" extent="previous" />
+        <Sync time="886.112" />
+        mais nos profs l'année dernière ils nous expliquaient bien étape par étape ils commençaient par la base
+        <Sync time="889.887" />
+        genre p implique q euh machin
+        <Sync time="892.033" />
+        c'était la base et tu arrivais à comprendre euh vraiment les tables de vérité quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="895.592" endTime="895.846">
+        <Sync time="895.592" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="895.846" endTime="906.999">
+        <Sync time="895.846" />
+        ben nous aussi je pense qu'il expliquait bien c'est juste que +
+        <Sync time="898.195" />
+        il était trop je sais pas pédagogue enfin
+        <Sync time="902.682" />
+        on on aurait trop cru qu'on était des des collégiens je te jure il marquait tous ses cours au tableau
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="reecht1u" audio_filename="nonno_crz_14.wav" version="9" version_date="160102">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" type="male" dialect="nonnative" accent="italien" scope="local" />
+    <Speaker id="spk3" name="L3" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="890.065">
+      <Turn startTime="0.0" endTime="7.958" speaker="spk1">
+        <Sync time="0.0" />
+        ton super reportage de ton arrivée en France
+        <Sync time="2.632" />
+        en quittant la Sardaigne en +
+        <Event desc="silence" type="noise" extent="instantaneous" />
+        <Sync time="7.328" />
+        quelle &lt; année
+      </Turn>
+      <Turn speaker="spk2" startTime="7.958" endTime="8.95">
+        <Sync time="7.958" />
+        1961 &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="8.95" endTime="11.531">
+        <Sync time="8.95" />
+        d'accord et pourquoi tu es parti
+      </Turn>
+      <Turn speaker="spk2" startTime="11.531" endTime="96.846">
+        <Sync time="11.531" />
+        bon bah parce qu'on cherchait du travail + chez nous il y avait pas de boulot
+        <Sync time="16.558" />
+        donc euh la France elle avait demandé
+        <Sync time="19.26" />
+        elle a fait une de- fait une demande de main d'oeuvre de main d'oeuvre étrangère
+        <Sync time="23.989" />
+        parce que c'était le boom de la reconstruction et là il y avait une demande qui est passée
+        <Sync time="29.181" />
+        et on a dû faire des concours pour pouvoir partir parce qu'on partait pas comme ça à l'aveuglette
+        <Sync time="35.086" />
+        et là on est parti et quand on est arrivé en France
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        <Sync time="42.784" />
+        après plusieurs visites qu'on a dû passer pour voir si on était pas malade ou quoi
+        <Sync time="48.286" />
+        et quand on est arrivé en France après je suis arrivé à Nancy +
+        <Event desc="mic" type="noise" extent="instantaneous" />
+        au bout de quelques jours de voyage évidemment
+        <Sync time="56.21" />
+        et à Nancy c'est pareil après des visites au bureau d'émigration après ils nous ont envoyé +
+        <Sync time="64.788" />
+        chacun était envoyé dans un endroit différent
+        <Sync time="68.36" />
+        bon moi j'ai eu j'ai été envoyé à Commercy dans la Meuse
+        <Event desc="n" type="noise" extent="instantaneous" />
+        où + après une énième visite encore
+        <Sync time="78.692" />
+        parce que
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        j'ai commencé à travailler à la tréfilerie de Commercy +
+        <Sync time="85.506" />
+        mais je suis pas resté longtemps je suis resté deux mois
+        <Sync time="89.587" />
+        parce que j'avais euh j'ai vu que le travail était quand même très dangereux
+      </Turn>
+      <Turn speaker="spk1" startTime="96.846" endTime="98.009">
+        <Sync time="96.846" />
+        la c'est quoi la tréfilerie
+      </Turn>
+      <Turn speaker="spk2" startTime="98.009" endTime="113.168">
+        <Sync time="98.009" />
+        la tréfilerie c'est euh donc ils transforment le hum
+        <Sync time="103.637" />
+        ils faissaient des des du grillage des fils de fer hein
+        <Sync time="108.496" />
+        c'était une transformation des c'était des rondins de de d'acier
+      </Turn>
+      <Turn speaker="spk1" startTime="113.168" endTime="113.968">
+        <Sync time="113.168" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="113.968" endTime="139.414">
+        <Sync time="113.968" />
+        qui fallait qu'on soude qu'on passe dans des bobines des boîtes à savons des bobines et
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        <Sync time="121.33" />
+        et après euh des rondins qui faisaient en diamètre de euh d'un centimètre ou voire un centimètre et demi
+        <Sync time="131.17" />
+        on sortait du fil de fer +
+        <Sync time="134.014" />
+        tellement fin qui il avait un diamètre de un millimètre
+      </Turn>
+      <Turn speaker="spk1" startTime="139.414" endTime="140.013">
+        <Sync time="139.414" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="140.013" endTime="142.084">
+        <Sync time="140.013" />
+        après avoir passé sur trois bobines
+      </Turn>
+      <Turn speaker="spk3" startTime="142.084" endTime="144.055">
+        <Sync time="142.084" />
+        et du coup tu as fait quoi après
+      </Turn>
+      <Turn speaker="spk2" startTime="144.055" endTime="171.606">
+        <Sync time="144.055" />
+        et après bon bah vu j'avais jugé que +
+        <Sync time="147.904" />
+        c'était un peu dangereux
+        <Sync time="149.456" />
+        pour mes goûts donc euh j'ai quitté le travail
+        <Sync time="153.255" />
+        et je suis reparti au bureau de d'émi- d'imigration à Nancy
+        <Sync time="157.207" />
+        et de là
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        euh on m'a envoyé à Commercy à à Joffre
+        <Sync time="164.689" />
+        et à Joffre c'était une acier- une aciérie
+        <Sync time="169.749" />
+        c'est-à-dire il y avait des hauts fourneaux
+      </Turn>
+      <Turn speaker="spk1" startTime="171.606" endTime="172.368">
+        <Sync time="171.606" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="172.368" endTime="211.342">
+        <Sync time="172.368" />
+        et + et là il s'est passé un truc quand même qui était euh +
+        <Sync time="179.295" />
+        pour nous quand on arrivait de l'étranger
+        <Sync time="181.369" />
+        qu'on parlait pas un mot de français +
+        <Sync time="185.703" />
+        et quand je suis parti de Commercy
+        <Sync time="187.575" />
+        moi je ne savais pas je connaissais pas les lois
+        <Sync time="190.519" />
+        personne ne m'a prévenu et quand on est arrivé à à Joffre
+        <Sync time="195.515" />
+        le patron voulait bien nous prendre au travail
+        <Sync time="198.859" />
+        mais +
+        <Sync time="200.947" />
+        il nous fallait des papiers qui justifiaient qu'on était parti de Commercy
+        <Sync time="205.05" />
+        pour aller travailler à Joffre chose qu'on qu'on savait pas
+        <Sync time="209.697" />
+        on ignorait puisque
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="211.342" endTime="211.792">
+        <Sync time="211.342" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="211.792" endTime="223.967">
+        <Sync time="211.792" />
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        donc
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        euh vu euh on savait pas quoi faire déjà +
+        <Sync time="219.657" />
+        puis comme on a trouvé des copains
+        <Sync time="221.664" />
+        Sardes qui travaillaient déjà là-bas
+      </Turn>
+      <Turn speaker="spk1" startTime="223.967" endTime="225.529">
+        <Sync time="223.967" />
+        et eux ils parlaient déjà français
+      </Turn>
+      <Turn speaker="spk2" startTime="225.529" endTime="236.53">
+        <Sync time="225.529" />
+        oui ils parlaient français
+        <Sync time="227.201" />
+        et ils nous ont on a réu- il a réussi à nous faire entrer
+        <Sync time="231.921" />
+        dans les baraquements dans les dortoirs pour passer la nuit
+      </Turn>
+      <Turn speaker="spk1" startTime="236.53" endTime="237.289">
+        <Sync time="236.53" />
+        &lt; d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="237.289" endTime="240.581">
+        <Sync time="237.289" />
+        parce qu'on &gt;
+        <Sync time="237.452" />
+        savait pas où aller on avait pas d'argent
+        <Event desc="i" type="noise" extent="instantaneous" />
+        pour retourner à Nancy
+      </Turn>
+      <Turn speaker="spk3" startTime="240.581" endTime="240.889">
+        <Sync time="240.581" />
+        oh là là
+      </Turn>
+      <Turn speaker="spk2" startTime="240.889" endTime="254.575">
+        <Sync time="240.889" />
+        on avait rien du tout on avait rien à manger +
+        <Sync time="244.942" />
+        hein
+        <Sync time="245.433" />
+        parce que les sous qu'on nous avait donné à Commercy
+        <Sync time="248.785" />
+        la première paie j'en avais envoyé une partie en Italie
+        <Sync time="253.453" />
+        on gagnait pas beaucoup hein
+      </Turn>
+      <Turn speaker="spk1" startTime="254.575" endTime="255.116">
+        <Sync time="254.575" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="255.116" endTime="264.969">
+        <Sync time="255.116" />
+        la deuxième paie une fois qu'ils ont déduit le la cantine
+        <Sync time="260.558" />
+        et tous les frais de de il restait presque plus rien quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="264.969" endTime="265.761">
+        <Sync time="264.969" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="265.761" endTime="286.974">
+        <Sync time="265.761" />
+        donc on avait plus rien et et là on était trois copains
+        <Sync time="271.41" />
+        qu'on avait fait ça
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        <Sync time="273.893" />
+        et là euh deux de mes copains
+        <Sync time="276.731" />
+        ils nous restaient encore quoi ils nous restait euh quelques sous
+        <Sync time="280.422" />
+        et deux de mes copains
+        <Sync time="282.937" />
+        euh ils ont pu prendre le train pour aller à Metz au consulat
+      </Turn>
+      <Turn speaker="spk1" startTime="286.974" endTime="288.063">
+        <Sync time="286.974" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="288.063" endTime="290.014">
+        <Sync time="288.063" />
+        donc c'était quand même en fin de semaine
+      </Turn>
+      <Turn speaker="spk1" startTime="290.014" endTime="291.765">
+        <Sync time="290.014" />
+        et toi non tu as pas voulu ou
+      </Turn>
+      <Turn speaker="spk2" startTime="291.765" endTime="297.082">
+        <Sync time="291.765" />
+        bah moi il fallait que je garde les bagages
+        <Sync time="294.537" />
+        et puis on avait pas assez de sous
+        <Sync time="295.821" />
+        pour payer le train &lt; de trois personnes
+      </Turn>
+      <Turn speaker="spk1" startTime="297.082" endTime="297.926">
+        <Sync time="297.082" />
+        ah oui d'accord &gt;
+      </Turn>
+      <Turn speaker="spk3" startTime="297.926" endTime="298.584">
+        <Sync time="297.926" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="298.584" endTime="314.456">
+        <Sync time="298.584" />
+        donc je suis
+        <Event desc="n" type="noise" extent="instantaneous" />
+        je suis resté avec les bagages
+        <Sync time="301.133" />
+        les bagages on les avait quand même laissées
+        <Sync time="303.74" />
+        dedans dans le dortoir
+        <Sync time="305.304" />
+        mais quand on a passé la nuit
+        <Sync time="308.212" />
+        le matin à six heures du matin du matin
+        <Sync time="310.616" />
+        il a fallu sortir pour pas que le &lt; patron
+      </Turn>
+      <Turn speaker="spk3" startTime="314.456" endTime="314.745">
+        <Sync time="314.456" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="314.745" endTime="315.958">
+        <Sync time="314.745" />
+        et le concierge nous
+      </Turn>
+      <Turn speaker="spk1" startTime="315.958" endTime="316.971">
+        <Sync time="315.958" />
+        vous voient
+      </Turn>
+      <Turn speaker="spk2" startTime="316.971" endTime="334.692">
+        <Sync time="316.971" />
+        nous voient donc moi j'ai passé eux sont partis le lendemain matin
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        <Sync time="321.739" />
+        ils sont partis à Metz +
+        <Sync time="323.728" />
+        et moi je suis resté +
+        <Sync time="325.436" />
+        toute la journée à vadrouiller +
+        <Sync time="327.999" />
+        sans savoir quoi faire
+        <Sync time="329.951" />
+        c'était un samedi +
+        <Sync time="330.9" />
+        donc au consulat
+        <Sync time="333.535" />
+        bureaux fermés
+      </Turn>
+      <Turn speaker="spk1" startTime="334.692" endTime="336.274">
+        <Sync time="334.692" />
+        &lt; oh là là
+      </Turn>
+      <Turn speaker="spk2" startTime="336.274" endTime="338.066">
+        <Sync time="336.274" />
+        moi je ne savais pas &gt;
+        <Sync time="336.431" />
+        est-ce qu'ils étaient arrivés
+      </Turn>
+      <Turn speaker="spk1" startTime="338.066" endTime="340.03">
+        <Sync time="338.066" />
+        tu avais aucun moyen de les joindre
+      </Turn>
+      <Turn speaker="spk2" startTime="340.03" endTime="341.091">
+        <Sync time="340.03" />
+        aucun m- on n'avait pas de
+      </Turn>
+      <Turn speaker="spk1" startTime="341.091" endTime="341.772">
+        <Sync time="341.091" />
+        ah bah oui
+      </Turn>
+      <Turn speaker="spk2" startTime="341.772" endTime="343.979">
+        <Sync time="341.772" />
+        de téléphone on avait rien il y avait rien
+      </Turn>
+      <Turn speaker="spk3" startTime="343.979" endTime="344.951">
+        <Sync time="343.979" />
+        oh là là
+      </Turn>
+      <Turn speaker="spk2" startTime="344.951" endTime="369.099">
+        <Sync time="344.951" />
+        donc les le les rejoindre où
+        <Sync time="347.388" />
+        donc moi j'ai passé ma journée comme ça
+        <Sync time="350.114" />
+        et puis euh avec euh quelqu'un qui parlait italien
+        <Sync time="354.116" />
+        m'avait dit bah écoutez
+        <Sync time="356.176" />
+        essayez d'aller
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        à cette adresse
+        <Sync time="359.338" />
+        c'est un curé
+        <Sync time="361.251" />
+        qui souvent aide ces cas euh un peu particuliers +
+        <Sync time="368.186" />
+        et donc
+      </Turn>
+      <Turn speaker="spk1" startTime="369.099" endTime="369.79">
+        <Sync time="369.099" />
+        &lt; du coup tu y es allé
+      </Turn>
+      <Turn speaker="spk2" startTime="369.79" endTime="375.08">
+        <Sync time="369.79" />
+        j'étais à cette adresse &gt;
+        <Sync time="370.289" />
+        je suis allé et le curé était pas là
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        donc ils m'ont dit bah
+      </Turn>
+      <Turn speaker="spk1" startTime="375.08" endTime="375.771">
+        <Sync time="375.08" />
+        &lt; pas de chance
+      </Turn>
+      <Turn speaker="spk2" startTime="375.771" endTime="390.873">
+        <Sync time="375.771" />
+        peut-être &gt;
+        <Sync time="375.929" />
+        il va peut-être rentrer ce soir peut être
+        <Sync time="378.814" />
+        donc j'ai continué à vadrouiller et croyez-moi les filles
+        <Sync time="383.032" />
+        +
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        j'étais vraiment en désespoir j'allais me foutre sous le train
+      </Turn>
+      <Turn speaker="spk1" startTime="390.873" endTime="392.215">
+        <Sync time="390.873" />
+        ah bon
+      </Turn>
+      <Turn speaker="spk2" startTime="392.215" endTime="399.462">
+        <Sync time="392.215" />
+        oui vous me croyez peut-être pas mais c'est ça
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        <Sync time="395.583" />
+        c'est ça j'allais me foutre sous le train
+        <Sync time="397.251" />
+        parce que pas de nouvelle de mes copains
+      </Turn>
+      <Turn speaker="spk1" startTime="399.462" endTime="400.633">
+        <Sync time="399.462" />
+        ah oui du coup tu étais tout seul
+      </Turn>
+      <Turn speaker="spk2" startTime="400.633" endTime="405.675">
+        <Sync time="400.633" />
+        pas un mot
+        <Sync time="402.055" />
+        rien du tout j'étais tout seul
+        <Sync time="404.772" />
+        impossible
+      </Turn>
+      <Turn speaker="spk1" startTime="405.675" endTime="408.794">
+        <Sync time="405.675" />
+        en plus tu étais pas tu parlais pas enfin il y avait personne
+        <Sync time="407.751" />
+        &lt; qui parlait ta langue
+      </Turn>
+      <Turn speaker="spk2" startTime="408.794" endTime="415.334">
+        <Sync time="408.794" />
+        et pas un mot &gt;
+        <Sync time="408.904" />
+        pas un mot de français en deux mois tu apprends quoi
+        <Sync time="412.07" />
+        tu apprends à dire merci c'est tout
+        <Sync time="413.429" />
+        en deux mois tu apprends pas
+        <Sync time="414.758" />
+        &lt; grand chose
+      </Turn>
+      <Turn speaker="spk1" startTime="415.334" endTime="417.843">
+        <Sync time="415.334" />
+        et ils &gt;
+        <Sync time="415.427" />
+        vous ont envoyés en France alors que vous parliez même pas français quoi enfin
+      </Turn>
+      <Turn speaker="spk2" startTime="417.843" endTime="423.878">
+        <Sync time="417.843" />
+        oui mais ça c'était pas un problème puisque les deux mois que j'ai passé à Commercy
+        <Sync time="420.855" />
+        il y avait des gens qui parlaient italien à l'usine
+      </Turn>
+      <Turn speaker="spk1" startTime="423.878" endTime="428.721">
+        <Sync time="423.878" />
+        oui mais si tu parles avec des gens qui enfin en France
+        <Event desc="b" type="noise" extent="instantaneous" />
+        avec des gens qui parlent italien
+        <Sync time="427.509" />
+        tu apprends pas le français du coup
+      </Turn>
+      <Turn speaker="spk2" startTime="428.721" endTime="432.337">
+        <Sync time="428.721" />
+        oui mais ça c'était pas un problème sur le coup &lt; c'était
+      </Turn>
+      <Turn speaker="spk1" startTime="432.337" endTime="432.889">
+        <Sync time="432.337" />
+        oui &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="432.889" endTime="441.167">
+        <Sync time="432.889" />
+        pas un problème donc c'était un problème
+        <Sync time="435.054" />
+        parce que j'arrivais pas mais il m'avait dit le curé en plus il parle italien
+        <Sync time="438.675" />
+        donc si j'arrivais à l'avoir
+      </Turn>
+      <Turn speaker="spk1" startTime="441.167" endTime="441.697">
+        <Sync time="441.167" />
+        ah oui
+      </Turn>
+      <Turn speaker="spk2" startTime="441.697" endTime="445.252">
+        <Sync time="441.697" />
+        mais dans l'après midi euh moi j'ai j'ai eu
+      </Turn>
+      <Turn speaker="spk1" startTime="445.252" endTime="446.793">
+        <Sync time="445.252" />
+        &lt; tu t'es dit qu'est ce que je fous là
+      </Turn>
+      <Turn speaker="spk2" startTime="446.793" endTime="457.104">
+        <Sync time="446.793" />
+        il y a eu un moment &gt;
+        <Sync time="447.122" />
+        il y a eu un moment où où j'étais devant la voie ferrée
+        <Sync time="451.457" />
+        et c'était vraiment je sais pas ce qu'est je ne sais pas je sais pas ce qui m'a retenu je ne sais pas
+      </Turn>
+      <Turn speaker="spk1" startTime="457.104" endTime="458.015">
+        <Sync time="457.104" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        bon
+        <Sync time="457.729" />
+        &lt; bref
+      </Turn>
+      <Turn speaker="spk2" startTime="458.015" endTime="458.066">
+        <Sync time="458.015" />
+        bref &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="458.066" endTime="458.576">
+        <Sync time="458.066" />
+        tu l'as pas fait
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="458.576" endTime="469.779">
+        <Sync time="458.576" />
+        je continuais et puis le soir j'ai quand même trouvé le curé +
+        <Sync time="464.36" />
+        et je lui ai raconté mon histoire
+        <Sync time="466.588" />
+        et il pouvait pas faire grand chose non plus hein
+      </Turn>
+      <Turn speaker="spk1" startTime="469.779" endTime="470.481">
+        <Sync time="469.779" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk2" startTime="470.481" endTime="491.905">
+        <Sync time="470.481" />
+        mais il m'avait filé une paire de pièces +
+        <Sync time="475.827" />
+        euh soit +
+        <Sync time="478.372" />
+        euh aller rejoindre mes copains à Metz
+        <Sync time="480.883" />
+        il pouvait pas faire grand chose non plus hein +
+        <Sync time="483.466" />
+        euh soit les attendre
+        <Sync time="485.315" />
+        bah avec les pièces là qui m'a filé bah j'ai pris les bagages
+        <Sync time="488.917" />
+        et j'ai pris le train à l'aveuglette &lt; puisque
+      </Turn>
+      <Turn speaker="spk1" startTime="491.905" endTime="492.106">
+        <Sync time="491.905" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="492.106" endTime="504.732">
+        <Sync time="492.106" />
+        Metz c'est où j'en sais rien
+        <Event desc="e" type="noise" extent="instantaneous" />
+        hein
+        <Sync time="495.7" />
+        et puis euh j'arrive +
+        <Sync time="499.484" />
+        à Metz +
+        <Sync time="501.892" />
+        à la gare +
+        <Sync time="503.792" />
+        quoi faire +
+      </Turn>
+      <Turn speaker="spk1" startTime="504.732" endTime="506.933">
+        <Sync time="504.732" />
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        l'enfer
+      </Turn>
+      <Turn speaker="spk2" startTime="506.933" endTime="514.146">
+        <Sync time="506.933" />
+        alors je vais dans un comme il me restait comme il m'avait donné quand même un peu de sous de pouvoir
+      </Turn>
+      <Turn speaker="spk3" startTime="514.146" endTime="514.458">
+        <Sync time="514.146" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="514.458" endTime="519.33">
+        <Sync time="514.458" />
+        que je puisse manger parce qu'on a quand même passé deux jours avec au moins deux sucres hein
+      </Turn>
+      <Turn speaker="spk1" startTime="519.33" endTime="520.122">
+        <Sync time="519.33" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="520.122" endTime="532.683">
+        <Sync time="520.122" />
+        des morceaux de sucre
+        <Event desc="mic" type="noise" extent="instantaneous" />
+        et
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        <Sync time="523.933" />
+        <Event desc="mic" type="noise" extent="instantaneous" />
+        et j'étais donc le matin que je suis des- à la gare et j'étais
+        <Sync time="528.784" />
+        je suis sorti
+        <Sync time="529.514" />
+        de la gare j'étais dans un café pour prendre un café
+      </Turn>
+      <Turn speaker="spk1" startTime="532.683" endTime="533.195">
+        <Sync time="532.683" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="533.195" endTime="538.855">
+        <Sync time="533.195" />
+        hein et
+        <Event desc="b" type="noise" extent="instantaneous" />
+        <Event desc="pf" type="noise" extent="instantaneous" />
+        <Sync time="536.447" />
+        qui je trouve dans le café
+      </Turn>
+      <Turn speaker="spk1" startTime="538.855" endTime="539.279">
+        <Sync time="538.855" />
+        mes copains
+      </Turn>
+      <Turn speaker="spk3" startTime="539.279" endTime="539.929">
+        <Sync time="539.279" />
+        tes copains
+        <Event desc="b" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="539.929" endTime="541.454">
+        <Sync time="539.929" />
+        mes copains
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk3" startTime="541.454" endTime="543.207">
+        <Sync time="541.454" />
+        tu as eu de la chance
+      </Turn>
+      <Turn speaker="spk2" startTime="543.207" endTime="550.429">
+        <Sync time="543.207" />
+        et donc euh mais il a fallu attendre
+        <Sync time="546.567" />
+        le lundi matin donc on a passé la nuit à la gare
+      </Turn>
+      <Turn speaker="spk1" startTime="550.429" endTime="551.973">
+        <Sync time="550.429" />
+        mais eux ils venaient aussi de Sardaigne
+      </Turn>
+      <Turn speaker="spk2" startTime="551.973" endTime="552.852">
+        <Sync time="551.973" />
+        oui oui
+        <Sync time="552.266" />
+        &lt; parce que je les connaisais
+      </Turn>
+      <Turn speaker="spk1" startTime="552.852" endTime="554.268">
+        <Sync time="552.852" />
+        ah oui d'accord &gt;
+        <Sync time="552.953" />
+        tu les connaisais déjà d'avant
+      </Turn>
+      <Turn speaker="spk2" startTime="554.268" endTime="555.26">
+        <Sync time="554.268" />
+        de Lanusei
+      </Turn>
+      <Turn speaker="spk1" startTime="555.26" endTime="556.433">
+        <Sync time="555.26" />
+        O.K.
+      </Turn>
+      <Turn speaker="spk2" startTime="556.433" endTime="564.745">
+        <Sync time="556.433" />
+        c'était c'était des gars de Lanusei +
+        <Sync time="559.022" />
+        et
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        donc le lundi on a été au consulat
+      </Turn>
+      <Turn speaker="spk1" startTime="564.745" endTime="566.138">
+        <Sync time="564.745" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="566.138" endTime="574.039">
+        <Sync time="566.138" />
+        et le consulat à Metz
+        <Sync time="568.505" />
+        il nous a dit euh c'est pas de notre ressort
+        <Sync time="572.334" />
+        il faut retourner à Nancy
+      </Turn>
+      <Turn speaker="spk3" startTime="574.039" endTime="576.176">
+        <Sync time="574.039" />
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        &lt; l'enfer
+      </Turn>
+      <Turn speaker="spk2" startTime="576.176" endTime="593.047">
+        <Sync time="576.176" />
+        aux bureaux &gt; d'émigration
+        <Sync time="578.76" />
+        hein parce que ce qui c'était passé moi j'avais essayé d'expliquer à Joffre
+        <Sync time="582.337" />
+        parce que euh à ce qu'ils téléphonent à Commercy de comme on avait travaillé
+        <Sync time="589.635" />
+        mais nous on pouvait pas savoir
+        <Sync time="590.888" />
+        mais il leur fallait un papier de la gendarmerie
+      </Turn>
+      <Turn speaker="spk1" startTime="593.047" endTime="594.229">
+        <Sync time="593.047" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="594.229" endTime="604.034">
+        <Sync time="594.229" />
+        voilà donc on avait pas tout ça donc euh et euh le lundi donc euh la le consulat
+        <Sync time="599.975" />
+        euh je leur dit bon bah ils nous ont
+        <Sync time="602.849" />
+        filé les billets de train
+      </Turn>
+      <Turn speaker="spk1" startTime="604.034" endTime="604.706">
+        <Sync time="604.034" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="604.706" endTime="616.59">
+        <Sync time="604.706" />
+        pour retourner à Nancy
+        <Sync time="606.387" />
+        donc on est retourné à Nancy au bureau d'émigration
+        <Sync time="609.828" />
+        et ils nous ont pris les bureaux d'émigration ils nous ont pris pour des loubards
+        <Sync time="614.669" />
+        des gens qui ne voulaient n'avaient pas envie de travailler
+      </Turn>
+      <Turn speaker="spk1" startTime="616.59" endTime="617.341">
+        <Sync time="616.59" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="617.341" endTime="620.432">
+        <Sync time="617.341" />
+        qui ne voulaient pas euh tu vois
+        <Sync time="619.29" />
+        &lt; bah
+      </Turn>
+      <Turn speaker="spk1" startTime="620.432" endTime="621.584">
+        <Sync time="620.432" />
+        qui &gt;
+        <Sync time="620.673" />
+        étaient pas motivés quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="621.584" endTime="640.913">
+        <Sync time="621.584" />
+        qu'on (n')était pas motivés ils nous ont dit bah écoutez à ce point
+        <Sync time="625.659" />
+        on va euh on va vous rappatrier chez vous + hein
+        <Sync time="631.256" />
+        mais le rapatriment tu sais ce que c'était
+        <Sync time="634.354" />
+        c'était on t'accompagnait
+        <Sync time="635.472" />
+        jusqu'à la frontière en France
+        <Sync time="639.435" />
+        c'était tu étais accompagné
+      </Turn>
+      <Turn speaker="spk1" startTime="640.913" endTime="641.704">
+        <Sync time="640.913" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="641.704" endTime="650.326">
+        <Sync time="641.704" />
+        et à la frontière italienne c'était les carabiniers qui venaient te chercher
+        <Sync time="645.748" />
+        et te ramenaient chez toi les carabiniers
+      </Turn>
+      <Turn speaker="spk1" startTime="650.326" endTime="651.526">
+        <Sync time="650.326" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="651.526" endTime="656.514">
+        <Sync time="651.526" />
+        comme des malfrats euh donc moi j'ai dit non
+        <Event desc="e" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="656.514" endTime="657.387">
+        <Sync time="656.514" />
+        &lt; je veux pas je fais ma révolution
+      </Turn>
+      <Turn speaker="spk2" startTime="657.387" endTime="672.84">
+        <Sync time="657.387" />
+        *** avec mes copains &gt;
+        <Sync time="658.068" />
+        j'ai dit non non
+        <Sync time="659.193" />
+        j'ai dit écoutez euh
+        <Sync time="661.353" />
+        prouvez que c'est pas de la mauvaise volonté mais j'ai dit à Joffre c'est pas notre faute
+        <Sync time="664.538" />
+        on sait pas les lois on connait pas la loi parce que au bureau d'embauche au bureau d'émigration
+        <Sync time="668.93" />
+        c'était un il y avait ils parlaient italien ils parlaient tous
+        <Event desc="sic" type="noise" extent="instantaneous" />
+        les langues
+      </Turn>
+      <Turn speaker="spk1" startTime="672.84" endTime="673.691">
+        <Sync time="672.84" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="673.691" endTime="687.979">
+        <Sync time="673.691" />
+        et + et donc euh j'ai dit euh écoutez je sais pas les copains
+        <Sync time="679.773" />
+        mais moi si je reviens
+        <Sync time="681.724" />
+        si je retourne chez moi ça serait avec mes jambes
+        <Sync time="685.216" />
+        avec mon billet de train et de et de bateau
+      </Turn>
+      <Turn speaker="spk1" startTime="687.979" endTime="688.53">
+        <Sync time="687.979" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="688.53" endTime="725.847">
+        <Sync time="688.53" />
+        et de bus mais pas entre deux carabiniers
+        <Sync time="691.731" />
+        j'ai dit mette
+        <Event desc="sic" type="noise" extent="instantaneous" />
+        moi à faire ce que vous voulez
+        <Sync time="693.452" />
+        trouvez moi un boulot à nettoyer les chiottes à nettoyer les égouts
+        <Sync time="696.823" />
+        est-ce que vous voulez balayer les routes mais je retournerais en Italie par mes propres moyens +
+        <Sync time="703.968" />
+        et là euh ils ont dit bon bah écoutez euh
+        <Sync time="708.038" />
+        on va voir on a une demande de Jeandelaincourt
+        <Sync time="710.231" />
+        c'est une fabrication de tuiles
+        <Sync time="714.075" />
+        j'ai dit n'importe quoi n'importe quoi
+        <Sync time="717.226" />
+        on a été là bas donc ils sont venus nous chercher avec une camionnette
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        <Sync time="723.776" />
+        tu sais les petites camionnettes bâchées
+      </Turn>
+      <Turn speaker="spk1" startTime="725.847" endTime="726.326">
+        <Sync time="725.847" />
+        ah oui d'accord
+      </Turn>
+      <Turn speaker="spk3" startTime="726.326" endTime="726.896">
+        <Sync time="726.326" />
+        ah ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="726.896" endTime="728.158">
+        <Sync time="726.896" />
+        comme dans les films quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="728.158" endTime="755.795">
+        <Sync time="728.158" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        ils sont ils sont venus nous chercher avec une camionnette
+        <Sync time="731.202" />
+        bâchée à six heures du matin
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="735.301" />
+        on est arrivé à Jeandelaincourt
+        <Sync time="737.87" />
+        passé au bureau de +
+        <Sync time="741.196" />
+        la direction et tout ça et on a commencé à travailler
+        <Sync time="744.639" />
+        bon ils nous ont filé donc on avait là-bas c'était des dortoirs aussi
+        <Sync time="750.553" />
+        ils nous filaient euh tu arrivais comme comme dans l'armée quoi
+        <Event desc="e" type="noise" extent="instantaneous" />
+        où les prisonniers non
+      </Turn>
+      <Turn speaker="spk1" startTime="755.795" endTime="756.046">
+        <Sync time="755.795" />
+        &lt; les prisonniers
+      </Turn>
+      <Turn speaker="spk2" startTime="756.046" endTime="772.125">
+        <Sync time="756.046" />
+        les prisionniers &gt;
+        <Sync time="756.401" />
+        quand tu l'emmènes quand on l'emmène euh la personne quand on l'emmème en prison
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        <Sync time="759.973" />
+        elle arrive elle tend les bras on lui met une couverture un drap
+        <Sync time="765.136" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        un oreiller
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        <Sync time="769.095" />
+        et on t'emmène au dortoir
+      </Turn>
+      <Turn speaker="spk1" startTime="772.125" endTime="772.391">
+        <Sync time="772.125" />
+        ouais
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="772.391" endTime="780.452">
+        <Sync time="772.391" />
+        ça c'est ton lit
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="775.888" />
+        et voilà et le lendemain matin on a commencé à travailler
+      </Turn>
+      <Turn speaker="spk1" startTime="780.452" endTime="782.113">
+        <Sync time="780.452" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk2" startTime="782.113" endTime="793.7">
+        <Sync time="782.113" />
+        et puis euh +
+        <Sync time="785.208" />
+        on travaille pendant pendant on a travaillé pendant quinze jours
+        <Sync time="788.488" />
+        les le salaire on était payé tous les quinze jours c'était à la quinzaine
+      </Turn>
+      <Turn speaker="spk1" startTime="793.7" endTime="794.235">
+        <Sync time="793.7" />
+        je savais pas ça
+      </Turn>
+      <Turn speaker="spk2" startTime="794.235" endTime="798.019">
+        <Sync time="794.235" />
+        et on faisait des heures
+        <Sync time="796.677" />
+        on est pas compté
+      </Turn>
+      <Turn speaker="spk1" startTime="798.019" endTime="798.384">
+        <Sync time="798.019" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="798.384" endTime="802.871">
+        <Sync time="798.384" />
+        on faisait quatorze quinze dix-huit heures
+        <Sync time="800.515" />
+        j'en avais même fait vingt-quatre sur vingt-quatre
+      </Turn>
+      <Turn speaker="spk1" startTime="802.871" endTime="803.692">
+        <Sync time="802.871" />
+        oh putain
+      </Turn>
+      <Turn speaker="spk3" startTime="803.692" endTime="804.586">
+        <Sync time="803.692" />
+        oh là là
+      </Turn>
+      <Turn speaker="spk2" startTime="804.586" endTime="817.727">
+        <Sync time="804.586" />
+        oui oui et
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        et là on arrive à la quinzaine et on voit la paie
+        <Event desc="e" type="noise" extent="instantaneous" />
+        <Sync time="813.525" />
+        les heures supplémentaires payées euh
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        normal quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="817.727" endTime="818.833">
+        <Sync time="817.727" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="818.833" endTime="824.366">
+        <Sync time="818.833" />
+        euh il y a quelque chose qui cloche hein
+        <Sync time="821.267" />
+        hein il avait et il y avait un directeur qui parlait italien
+      </Turn>
+      <Turn speaker="spk1" startTime="824.366" endTime="825.758">
+        <Sync time="824.366" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="825.758" endTime="834.753">
+        <Sync time="825.758" />
+        à Jeandelaincourt parce que dans les boites là dans le temps il y avait quand même
+        <Sync time="828.83" />
+        quelqu'un qui comme il y avait beaucoup d'étrangers il y avait soit
+        <Sync time="832.824" />
+        qui parlaient polonais allemand turc
+      </Turn>
+      <Turn speaker="spk1" startTime="834.753" endTime="837.187">
+        <Sync time="834.753" />
+        fallait qu'il y ait un supérieur qui parle votre langue quand même quoi
+        <Event desc="tx" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="837.187" endTime="886.049">
+        <Sync time="837.187" />
+        et il y en avait qui est le directeur il parlait
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        euh italien
+        <Sync time="841.955" />
+        donc euh on a été le voir
+        <Sync time="843.356" />
+        j'ai dit écoutez voir mais ça ça concorde pas avec les heures qu'on a fait
+        <Sync time="848.255" />
+        le mec il dit oui euh tant d'heures par non mais
+        <Sync time="850.898" />
+        et les heures supplémentaires
+        <Sync time="852.513" />
+        oh bah alors écoutez euh si ça marche comme ça euh
+        <Sync time="856.871" />
+        ah j'ai dit non
+        <Event desc="e" type="noise" extent="instantaneous" />
+        ton grand-père il était un peu un peu rebelle hein
+        <Sync time="860.592" />
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        non non mais c'est vrai hein je dis non ça marche pas comme ça
+        <Sync time="865.232" />
+        je dis on veut bien travailler on veut bien se crever
+        <Sync time="867.802" />
+        mais après qu'on ait que les heures
+        <Sync time="869.841" />
+        supplémentaires soient payées euh normal j'ai dit non +
+        <Sync time="875.784" />
+        eh bah puisque c'est comme ça qu'il dit demain demain matin eh bah demain matin
+        <Sync time="880.859" />
+        vous irez au four
+        <Sync time="883.009" />
+        bon bah je dis on ira au four mais on travaillera pas à la tâche
+      </Turn>
+      <Turn speaker="spk1" startTime="886.049" endTime="886.392">
+        <Sync time="886.049" />
+        hum
+      </Turn>
+      <Turn speaker="spk2" startTime="886.392" endTime="890.065">
+        <Sync time="886.392" />
+        parce qu'au four dans les fours travaillaient à la tâche
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

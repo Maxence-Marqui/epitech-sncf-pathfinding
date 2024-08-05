@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Matt" audio_filename="jeu_thi_14.wav" version="10" version_date="151229">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="434.35">
+      <Turn startTime="0.0" endTime="15.872" speaker="spk1">
+        <Sync time="0.0" />
+        là ben j'avais sauvegardé juste avant qu'il y ait un assaut sur mon + sur mon +
+        <Sync time="5.956" />
+        ma partie parce que du coup j'avais sauvegardé juste après il y a eu un assaut
+        <Sync time="10.367" />
+        et l'assaut je me suis complètement fait rétamer euh je me suis bien fait défoncer et euh
+      </Turn>
+      <Turn speaker="spk2" startTime="15.872" endTime="17.906">
+        <Sync time="15.872" />
+        mais du coup il va se passer exactement la même chose ou
+      </Turn>
+      <Turn speaker="spk1" startTime="17.906" endTime="21.45">
+        <Sync time="17.906" />
+        non parce que du coup c'est beaucoup d'aléatoire et oula
+      </Turn>
+      <Turn speaker="spk2" startTime="21.45" endTime="27.881">
+        <Sync time="21.45" />
+        euh techniquement si c'est la même partie les bah les genres d'algorithmes euh ça
+        <Sync time="27.07" />
+        devrait être les mêmes en fait
+      </Turn>
+      <Turn speaker="spk1" startTime="27.881" endTime="37.979">
+        <Sync time="27.881" />
+        oui oui mais du coup ce qui reste tout ce qui reste en fait euh de ce qui va se passer c'est
+        <Sync time="32.64" />
+        euh que il va y avoir une attaque on sait pas si c'est un
+        <Event desc="conv" type="noise" extent="previous" />
+        assaut ou si c'est un
+        <Sync time="36.276" />
+        siège ou si c'est &lt; une attaque euh
+      </Turn>
+      <Turn speaker="spk2" startTime="37.979" endTime="38.879">
+        <Sync time="37.979" />
+        d'accord &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="38.879" endTime="77.026">
+        <Sync time="38.879" />
+        aléatoire et du coup euh la der- ben c'est marrant parce que la dernière fois j'avais
+        <Sync time="42.976" />
+        je m'étais fait défoncer parce que il y avait eu plein d'hommes qui sont venus ici des
+        <Sync time="46.493" />
+        pirates ils ont fait euh des mortiers et tout ça ils ont fait leur campement
+        <Sync time="50.096" />
+        alors du coup je me suis dit autant aller les attaquer le plus vite possible
+        <Sync time="53.18" />
+        alors j'ai réuni tous mes hommes et puis euh je les ai amenés là comme ça
+        <Sync time="56.593" />
+        et ils se sont fait défoncer et du coup je me suis dit arh
+        <Event desc="onomatopé" type="language" extent="previous" />
+        je vais
+        <Sync time="59.991" />
+        pas garder la partie là on s'est fait défoncer alors je suis revenu à la sauvegarde
+        <Sync time="63.272" />
+        pour réessayer de de refaire la chose et c'est là que j'ai compris que ça serait
+        <Sync time="67.632" />
+        pas exactement la même chose qui se passerait
+        <Sync time="69.387" />
+        et juste après ben j'ai une trentaine de d'hommes des bois qui sont venus par là
+        <Sync time="73.835" />
+        pour essayer de me défoncer et ils m'ont défoncé
+      </Turn>
+      <Turn speaker="spk2" startTime="77.026" endTime="79.492">
+        <Sync time="77.026" />
+        d'accord et tu sais que c'est pas forcément la même chose qui vont
+        <Comment desc="sic" />
+        se reproduire
+      </Turn>
+      <Turn speaker="spk1" startTime="79.492" endTime="106.392">
+        <Sync time="79.492" />
+        et puis j'ai voulu réessayer une troisième fois et là c'est un vaisseau extraterrestre qui
+        <Sync time="82.895" />
+        s'est écrasé ici donc j'ai ramené mes hommes je les ai fait se mettre en position
+        <Sync time="86.419" />
+        vraiment bien en plus on est bien équipé je les ai fait tirer sur le vaisseau parce que moi
+        <Sync time="90.543" />
+        j'en ai vu une fois un vaisseau extraterrestre tu tires dessus il y a un un monstre qui sort
+        <Sync time="95.42" />
+        j'ai tiré dessus il y a vingt monstres qui sont sortis je me suis fait défoncer
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        du coup ben
+        <Sync time="101.168" />
+        je me suis dit que je vais garder la sauvegarde mais ça semble être une impasse parce que les attaques
+        <Sync time="105.032" />
+        sont de plus en plus fortes
+      </Turn>
+      <Turn speaker="spk2" startTime="106.392" endTime="109.759">
+        <Sync time="106.392" />
+        ouais le le jeu devient de plus en plus difficile au fur et à mesure que tu avances euh
+      </Turn>
+      <Turn speaker="spk1" startTime="109.759" endTime="114.934">
+        <Sync time="109.759" />
+        ouais mais ça reste adapté par exemple si j'ai vingt de mes colonistes qui
+        <Sync time="113.597" />
+        mes colonistes
+        <Sync time="114.829" />
+        &lt; colons
+      </Turn>
+      <Turn speaker="spk2" startTime="114.934" endTime="118.811">
+        <Sync time="114.934" />
+        mes colons &gt;
+        <Sync time="115.437" />
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        ça fait deux fois déjà
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="118.811" endTime="119.473">
+        <Sync time="118.811" />
+        si j'ai vingt
+      </Turn>
+      <Turn speaker="spk2" startTime="119.473" endTime="120.802">
+        <Sync time="119.473" />
+        oh ben moi j'aime inventer des mots
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="120.802" endTime="131.325">
+        <Sync time="120.802" />
+        un peu de bravitude
+        <Sync time="123.878" />
+        euh mais du coup si j'ai vingt de mes de mes colons qui meurent
+        <Sync time="127.978" />
+        et ben euh j'aurai des problèmes d'intestin
+        <Event desc="rire forcé" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="131.325" endTime="138.4">
+        <Sync time="131.325" />
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+        j'étais en train de réfléchir mais qu'est-ce qu'il raconte
+      </Turn>
+      <Turn speaker="spk1" startTime="138.4" endTime="147.551">
+        <Sync time="138.4" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        et ben si j'ai d- vingt colons qui meurent euh ben ben déjà j'en ai pas vingt mais
+        <Sync time="145.52" />
+        euh la difficulté sera
+        <Sync time="147.408" />
+        &lt; un peu réduite ben
+      </Turn>
+      <Turn speaker="spk2" startTime="147.551" endTime="148.025">
+        <Sync time="147.551" />
+        tu en as combien là d- &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="148.025" endTime="152.562">
+        <Sync time="148.025" />
+        quinze quelque chose comme ça et j'ai un prisonnier parce que du coup j'ai eu
+      </Turn>
+      <Turn speaker="spk2" startTime="152.562" endTime="153.791">
+        <Sync time="152.562" />
+        ça a pas l'air très futuriste en fait
+      </Turn>
+      <Turn speaker="spk1" startTime="153.791" endTime="158.753">
+        <Sync time="153.791" />
+        non en effet mais c'est parce que j'ai choisi de pas faire un truc très futuriste normalement tu as des
+      </Turn>
+      <Turn speaker="spk2" startTime="158.753" endTime="160.481">
+        <Sync time="158.753" />
+        ben c'est un cow boy là un chapeau
+      </Turn>
+      <Turn speaker="spk1" startTime="160.481" endTime="163.098">
+        <Sync time="160.481" />
+        ouais je sais mais c'est parce que je les équipe comme je peux
+      </Turn>
+      <Turn speaker="spk2" startTime="163.098" endTime="164.709">
+        <Sync time="163.098" />
+        ben et lui il a une toge
+      </Turn>
+      <Turn speaker="spk1" startTime="164.709" endTime="165.939">
+        <Sync time="164.709" />
+        hein
+      </Turn>
+      <Turn speaker="spk2" startTime="165.939" endTime="167.056">
+        <Sync time="165.939" />
+        bah le chauve là
+      </Turn>
+      <Turn speaker="spk1" startTime="167.056" endTime="167.953">
+        <Sync time="167.056" />
+        qui ça
+      </Turn>
+      <Turn speaker="spk2" startTime="167.953" endTime="169.69">
+        <Sync time="167.953" />
+        Mégnogno
+        <Comment desc="lecture" />
+      </Turn>
+      <Turn speaker="spk1" startTime="169.69" endTime="173.014">
+        <Sync time="169.69" />
+        Mégnogno
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        il y a pas de Mégnogno il est où
+      </Turn>
+      <Turn speaker="spk2" startTime="173.014" endTime="173.693">
+        <Sync time="173.014" />
+        mais si là
+      </Turn>
+      <Turn speaker="spk1" startTime="173.693" endTime="207.975">
+        <Sync time="173.693" />
+        ah oui ah non ça c'est parce que c'est un prisonnier euh qu'on avait qu'on avait pris
+        <Sync time="178.645" />
+        parce que il y a eu des sauvages qui nous ont fait un raid sur la la base
+        <Sync time="182.085" />
+        et on en a tué plein mais on en a gardé euh quelques-uns en vie je l'ai fait prisonnier
+        <Event desc="tx" type="noise" extent="instantaneous" />
+        <Sync time="188.584" />
+        et celui là bah j'ai bien fait de le faire prisonnier franchement à quoi je pensais
+        <Sync time="192.103" />
+        le mec il a il a euh il a pris une balle dans le cerveau j'ai bien fait de le garder
+        <Sync time="198.561" />
+        lui du coup on l'a recueilli on l'a recruté donc maintenant on a un débile
+        <Sync time="203.069" />
+        dans notre camp
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        qui bouffe il mange autant que les autres mais alors il
+        <Sync time="207.871" />
+        &lt; ben il fait rien est
+      </Turn>
+      <Turn speaker="spk2" startTime="207.975" endTime="208.673">
+        <Sync time="207.975" />
+        complètement con &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="208.673" endTime="212.499">
+        <Sync time="208.673" />
+        ben il le fait mais très lentement du coup regarde sa barre de santé
+      </Turn>
+      <Turn speaker="spk2" startTime="212.499" endTime="214.297">
+        <Sync time="212.499" />
+        bah tu peux pas t'en débarrasser
+      </Turn>
+      <Turn speaker="spk1" startTime="214.297" endTime="224.642">
+        <Sync time="214.297" />
+        bah euh bah euh je peux le faire arrêter et le faire mourir de faim mais euh j'ai pas trop
+        <Sync time="219.005" />
+        envie parce que quand même ça fait un des bras en plus et puis il peut toujours porter une arme même s'il vise comme cul
+      </Turn>
+      <Turn speaker="spk2" startTime="224.642" endTime="225.215">
+        <Sync time="224.642" />
+        hum hum
+      </Turn>
+      <Turn speaker="spk1" startTime="225.215" endTime="246.135">
+        <Sync time="225.215" />
+        et euh pareil pendant ce raid là on avait recueilli un autre mec qui était installé
+        <Sync time="230.811" />
+        dans ce lit là et puis euh je m'étais rendu compte que il était blessé et donc j'avais
+        <Sync time="235.106" />
+        fait fournir des soins par mes docteurs et tout et euh le mec en fait
+        <Sync time="239.679" />
+        il avait euh il avait pris euh la masse de balle et il était devenu paraplégique parce que
+      </Turn>
+      <Turn speaker="spk2" startTime="246.135" endTime="247.452">
+        <Sync time="246.135" />
+        parce qu'il avait pris plein de balles
+      </Turn>
+      <Turn speaker="spk1" startTime="247.452" endTime="250.432">
+        <Sync time="247.452" />
+        ouais il avait pris plein de balles et c'était des des des blessures définitives
+      </Turn>
+      <Turn speaker="spk2" startTime="250.432" endTime="251.945">
+        <Sync time="250.432" />
+        ah et donc du coup il restait dans son lit
+      </Turn>
+      <Turn speaker="spk1" startTime="251.945" endTime="255.154">
+        <Sync time="251.945" />
+        du coup il restait dans son lit et on le nourrissait quand même et je m'en étais pas rendu compte
+      </Turn>
+      <Turn speaker="spk2" startTime="255.154" endTime="256.596">
+        <Sync time="255.154" />
+        du coup tu l'a laissé mourir
+      </Turn>
+      <Turn speaker="spk1" startTime="256.596" endTime="268.745">
+        <Sync time="256.596" />
+        bah du coup je me suis dit euh le mec je pourrais même pas le revendre à des marchands d'esclaves
+        <Sync time="261.157" />
+        je pourrai je pourrai pas l'envoyer se faire tuer au combat il me sert à rien du tout
+        <Sync time="265.695" />
+        alors du coup j'ai arrêté de lui fournir des soins et de
+      </Turn>
+      <Turn speaker="spk2" startTime="268.745" endTime="272.334">
+        <Sync time="268.745" />
+        pas d'acharnement thérapeutique ça coûte trop cher
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="272.334" endTime="278.488">
+        <Sync time="272.334" />
+        du coup bah je l'ai laissé mourir de faim puis après j'ai été le faire enterrer
+        <Sync time="275.32" />
+        dans mon grand cimetière qui est juste ici
+        <Comment desc="L1 pointe une zone sur l'écran" />
+        cimetière &lt; qui était
+      </Turn>
+      <Turn speaker="spk2" startTime="278.488" endTime="278.825">
+        <Sync time="278.488" />
+        ah oui &gt; d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="278.825" endTime="303.18">
+        <Sync time="278.825" />
+        cimetière qui a été qui est en train de se faire vider parce que j'ai fait installer
+        <Sync time="282.342" />
+        un crematorium parce que j'en ai j'ai des cadavres partout je sais pas quoi en faire
+        <Sync time="286.586" />
+        donc euh maintenant je les fais déterrer par euh par Bacchus et
+        <Sync time="291.883" />
+        et Bacchus à l'air de bien aimer les cadavres
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        donc euh je leur fait déterrer
+        <Sync time="296.591" />
+        les cadavres pour aller les brûler et je récupère les vêtements
+        <Sync time="299.084" />
+        parce que des fois il y a des bons vêtements sur les cadavres
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="303.18" endTime="304.938">
+        <Sync time="303.18" />
+        tu te rends compte de ce que tu dis quand même
+        <Event desc="rire en fond" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="304.938" endTime="306.451">
+        <Sync time="304.938" />
+        mais bon
+      </Turn>
+      <Turn speaker="spk2" startTime="306.451" endTime="310.904">
+        <Sync time="306.451" />
+        et donc alors là c'est ta seule vue du euh du jeu c'est toujours une vue du dessus
+      </Turn>
+      <Turn speaker="spk1" startTime="310.904" endTime="311.719">
+        <Sync time="310.904" />
+        ouais toujours
+      </Turn>
+      <Turn speaker="spk2" startTime="311.719" endTime="312.704">
+        <Sync time="311.719" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="312.704" endTime="313.914">
+        <Sync time="312.704" />
+        et du coup voilà alors c'est
+      </Turn>
+      <Turn speaker="spk2" startTime="313.914" endTime="316.534">
+        <Sync time="313.914" />
+        et les les arbres et tout ça c'est des ressources c'est des
+        <Sync time="316.185" />
+        &lt; choses à
+      </Turn>
+      <Turn speaker="spk1" startTime="316.534" endTime="323.1">
+        <Sync time="316.534" />
+        ouais c'est &gt;
+        <Sync time="316.619" />
+        des ressources tu peux les faire couper pour avoir du bois qui te servira
+        <Sync time="320.124" />
+        à faire les murs certains sols et les lits et tout ça
+      </Turn>
+      <Turn speaker="spk2" startTime="323.1" endTime="328.45">
+        <Sync time="323.1" />
+        et euh reviens en arrière et euh ta map
+        <Event desc="en" type="language" extent="previous" />
+        c'est l'intégralité
+        <Sync time="327.102" />
+        de ta map
+        <Event desc="en" type="language" extent="previous" />
+        là ta vue que tu as
+      </Turn>
+      <Turn speaker="spk1" startTime="328.45" endTime="329.544">
+        <Sync time="328.45" />
+        non j'ai euh
+      </Turn>
+      <Turn speaker="spk2" startTime="329.544" endTime="330.746">
+        <Sync time="329.544" />
+        est-ce que tu peux aller au dehors
+      </Turn>
+      <Turn speaker="spk1" startTime="330.746" endTime="334.785">
+        <Sync time="330.746" />
+        ah oui non je peux pas aller au dehors mais ça devrait être ajouté je suppose un jour
+      </Turn>
+      <Turn speaker="spk2" startTime="334.785" endTime="340.011">
+        <Sync time="334.785" />
+        parce que du coup là ton terrain il est quand même déjà grand par rapport au + à la map
+        <Event desc="en" type="language" extent="previous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="340.011" endTime="351.398">
+        <Sync time="340.011" />
+        euh ben non la map
+        <Event desc="en" type="language" extent="previous" />
+        en fait elle est énorme mais euh on peut pas y accéder
+        <Sync time="346.045" />
+        on a que le bout de terrain qu'on a
+        <Sync time="347.54" />
+        et on est censé pouvoir faire toute une partie sur un bout de terrain comme ça
+      </Turn>
+      <Turn speaker="spk2" startTime="351.398" endTime="354.811">
+        <Sync time="351.398" />
+        d'accord et le but du jeu c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="354.811" endTime="359.296">
+        <Sync time="354.811" />
+        de survivre le plus longtemps possible avec sa colonie et de la faire prospérer si possible
+      </Turn>
+      <Turn speaker="spk2" startTime="359.296" endTime="361.601">
+        <Sync time="359.296" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="361.601" endTime="362.271">
+        <Sync time="361.601" />
+        et du coup
+      </Turn>
+      <Turn speaker="spk2" startTime="362.271" endTime="363.671">
+        <Sync time="362.271" />
+        c'est quoi en haut à droite là
+      </Turn>
+      <Turn speaker="spk1" startTime="363.671" endTime="364.443">
+        <Sync time="363.671" />
+        en haut à droite
+      </Turn>
+      <Turn speaker="spk2" startTime="364.443" endTime="366.429">
+        <Sync time="364.443" />
+        là dans le petit truc le truc blanc là
+      </Turn>
+      <Turn speaker="spk1" startTime="366.429" endTime="381.567">
+        <Sync time="366.429" />
+        ah c'est des cadavres d'extraterrestres je savais pas quoi en faire parce que du coup c'est
+        <Sync time="369.457" />
+        des mécanoïdes et les mécanoïdes ne pourrissent pas donc on peut pas les incinérer
+        <Sync time="374.382" />
+        donc euh donc ben je les garde de côté pour euh du d'un côté où il y a souvent des
+        <Sync time="380.316" />
+        invasions comme ça les les in-
+      </Turn>
+      <Turn speaker="spk2" startTime="381.567" endTime="386.289">
+        <Sync time="381.567" />
+        mais c'est quoi le gros truc marron là euh au milieu c'est une montagne c'est quoi c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="386.289" endTime="386.909">
+        <Sync time="386.289" />
+        quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="386.909" endTime="388.853">
+        <Sync time="386.909" />
+        ben le euh le
+      </Turn>
+      <Turn startTime="388.853" endTime="389.189" speaker="spk1">
+        <Sync time="388.853" />
+        ça
+      </Turn>
+      <Turn speaker="spk2" startTime="389.189" endTime="390.071">
+        <Sync time="389.189" />
+        la texture marron ouais ça
+      </Turn>
+      <Turn speaker="spk1" startTime="390.071" endTime="391.709">
+        <Sync time="390.071" />
+        ah oui ça c'est des des des montagnes
+      </Turn>
+      <Turn speaker="spk2" startTime="391.709" endTime="393.32">
+        <Sync time="391.709" />
+        ah d'accord +
+      </Turn>
+      <Turn speaker="spk1" startTime="393.32" endTime="414.673">
+        <Sync time="393.32" />
+        et du coup euh c'est là que j'avais que j'avais prévu de faire mon bunker
+        <Sync time="399.07" />
+        parce que du coup euh ici j'avais installé des lits et tout c- ils étaient juste
+        <Sync time="404.076" />
+        ici ils pouvaient bombarder toute cette zone là donc j'avais installé des lits et tout ça j'avais
+        <Sync time="408.615" />
+        prévu déjà de creuser là-dedans j'avais fait déplacer plein de mes ressources de plantation sauf que
+      </Turn>
+      <Turn speaker="spk2" startTime="414.673" endTime="416.55">
+        <Sync time="414.673" />
+        tu n'avais pas prévu de mourir
+      </Turn>
+      <Turn speaker="spk1" startTime="416.55" endTime="421.711">
+        <Sync time="416.55" />
+        oui voilà c'est ça et du coup ben ça c'est des tourelles d'autodéfense
+      </Turn>
+      <Turn speaker="spk2" startTime="421.711" endTime="423.145">
+        <Sync time="421.711" />
+        et ça c'est quoi là c'est tes stocks
+      </Turn>
+      <Turn speaker="spk1" startTime="423.145" endTime="434.35">
+        <Sync time="423.145" />
+        euh ça c'est mes stocks de d'argent l'argent c'est le ben c'est l'argent
+        <Sync time="428.74" />
+        du jeu c'est la monnaie et euh ben c'est c'est bien c'est cool j'en ai pas mal
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

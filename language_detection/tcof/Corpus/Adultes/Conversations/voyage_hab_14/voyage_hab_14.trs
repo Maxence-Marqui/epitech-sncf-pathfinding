@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+
+<Trans scribe="Mahault" audio_filename="voyage_hab_14.wav" version="25" version_date="160105">
+  <Speakers>
+    <Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local" />
+    <Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local" />
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0.0" endTime="67.845">
+      <Turn startTime="0.0" endTime="9.048" speaker="spk1">
+        <Sync time="0.0" />
+        oui je suis partie en deux mille trois +
+        <Sync time="5.176" />
+        du coup j'avais dix ans +
+      </Turn>
+      <Turn speaker="spk2" startTime="9.048" endTime="13.374">
+        <Sync time="9.048" />
+        et du coup tu étais on tu étais pas encore arrivée à Nancy quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="13.374" endTime="17.26">
+        <Sync time="13.374" />
+        euh non euh j'habitais euh à Lunéville
+      </Turn>
+      <Turn speaker="spk2" startTime="17.26" endTime="25.429">
+        <Sync time="17.26" />
+        ouh Lunéville
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        folie folie
+        <Sync time="23.556" />
+        et donc tu es partie quand c'était l'été
+      </Turn>
+      <Turn speaker="spk1" startTime="25.429" endTime="33.3">
+        <Sync time="25.429" />
+        euh ouais je suis partie en été et même qu'ici c'était la canicule
+        <Sync time="29.484" />
+        et quand je suis revenue tout le monde m'a dit oh putain il faisait trop chaud
+        <Sync time="32.789" />
+        &lt; et tout
+      </Turn>
+      <Turn speaker="spk2" startTime="33.3" endTime="33.98">
+        <Sync time="33.3" />
+        c'est vrai &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="33.98" endTime="36.343">
+        <Sync time="33.98" />
+        alors que
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="36.343" endTime="36.881">
+        <Sync time="36.343" />
+        &lt; il faisait chaud la-bàs
+      </Turn>
+      <Turn speaker="spk1" startTime="36.881" endTime="40.003">
+        <Sync time="36.881" />
+        alors que &gt;
+        <Sync time="37.216" />
+        alors que moi je me tapais cinquante degrés quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="40.003" endTime="42.131">
+        <Sync time="40.003" />
+        ouais donc vingt degrés de plus qu'ici quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="42.131" endTime="43.108">
+        <Sync time="42.131" />
+        ouais ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="43.108" endTime="49.777">
+        <Sync time="43.108" />
+        la meuf eh eh
+        <Event desc="sonnerie téléphone" type="noise" extent="instantaneous" />
+        <Sync time="47.027" />
+        et tu es allée faire quoi là-bas tu es allée voir ta famille
+      </Turn>
+      <Turn speaker="spk1" startTime="49.777" endTime="53.986">
+        <Sync time="49.777" />
+        euh oui je suis allée voir toute la famille du côté de mon papa
+      </Turn>
+      <Turn speaker="spk2" startTime="53.986" endTime="54.862">
+        <Sync time="53.986" />
+        oh
+      </Turn>
+      <Turn speaker="spk1" startTime="54.862" endTime="56.483">
+        <Sync time="54.862" />
+        et du coup euh
+      </Turn>
+      <Turn speaker="spk2" startTime="56.483" endTime="57.74">
+        <Sync time="56.483" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="57.74" endTime="63.564">
+        <Sync time="57.74" />
+        du coup hum
+        <Event desc="sonnerie téléphone" type="noise" extent="instantaneous" />
+        +
+        <Sync time="62.979" />
+        donc voilà
+        <Sync time="63.47" />
+        &lt; quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="63.564" endTime="65.082">
+        <Sync time="63.564" />
+        donc &gt;
+        <Sync time="63.862" />
+        tu as vu la famille de ton papa
+      </Turn>
+      <Turn speaker="spk1" startTime="65.082" endTime="65.787">
+        <Sync time="65.082" />
+        voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="65.787" endTime="67.845">
+        <Sync time="65.787" />
+        d'accord
+      </Turn>
+    </Section>
+    <Section type="report" startTime="67.845" endTime="1024.727">
+      <Turn speaker="spk2" startTime="67.845" endTime="71.282">
+        <Sync time="67.845" />
+        et c- c- c'est vraiment différent là-bas d'ici ou
+      </Turn>
+      <Turn speaker="spk1" startTime="71.282" endTime="83.889">
+        <Sync time="71.282" />
+        ben déjà euh ce qu'il faisait bizarre c'est que hum je parlais pratiquement pas iranien
+        <Sync time="77.205" />
+        et que en arrivant ben
+        <Event desc="sonnerie téléphone" type="noise" extent="instantaneous" />
+        <Sync time="79.277" />
+        tout le monde essayait de communiquer avec moi sauf que je comprenais rien
+      </Turn>
+      <Turn speaker="spk2" startTime="83.889" endTime="84.709">
+        <Sync time="83.889" />
+        c'est con
+      </Turn>
+      <Turn speaker="spk1" startTime="84.709" endTime="93.675">
+        <Sync time="84.709" />
+        oui
+        <Sync time="86.08" />
+        mais euh du coup ça m'a fait apprendre super vite
+        <Sync time="88.662" />
+        et enfin ils m'ont mis tout de suite à l'aise et tout et du coup on a trop euh
+      </Turn>
+      <Turn speaker="spk2" startTime="93.675" endTime="95.952">
+        <Sync time="93.675" />
+        et tu as vu qui là-bas ta grand-mère ton
+      </Turn>
+      <Turn speaker="spk1" startTime="95.952" endTime="104.792">
+        <Sync time="95.952" />
+        j'ai vu ma grand-mère mon grand-père euh mes cousins mes cousines
+        <Sync time="99.154" />
+        j'ai été chez plein de gens qui sont reliés à ma
+        <Sync time="102.262" />
+        famille mais que je sais même pas c'est qui
+        <Sync time="104.736" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="104.792" endTime="107.48">
+        <Sync time="104.792" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="105.818" />
+        d'accord
+      </Turn>
+      <Turn speaker="spk1" startTime="107.48" endTime="109.613">
+        <Sync time="107.48" />
+        mais euh franchement c'était bien
+      </Turn>
+      <Turn speaker="spk2" startTime="109.613" endTime="110.814">
+        <Sync time="109.613" />
+        tu es partie combien de temps
+      </Turn>
+      <Turn speaker="spk1" startTime="110.814" endTime="120.247">
+        <Sync time="110.814" />
+        je suis partie quarante jours +
+        <Sync time="113.345" />
+        sauf que hum
+        <Sync time="115.438" />
+        par moment c'était un peu compliqué
+        <Sync time="117.19" />
+        parce que c'était la première fois que je partais aussi longtemps
+        <Sync time="119.669" />
+        &lt; et
+      </Turn>
+      <Turn speaker="spk2" startTime="120.247" endTime="120.787">
+        <Sync time="120.247" />
+        oh &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="120.787" endTime="127.492">
+        <Sync time="120.787" />
+        ça
+        <Sync time="121.012" />
+        faisait vraiment euh
+        <Sync time="122.935" />
+        ben ça ça faisait vraiment un changement avec ma vie de tous les jours
+        <Sync time="126.51" />
+        et tout c'est
+        <Sync time="127.346" />
+        &lt; pas du tout
+      </Turn>
+      <Turn speaker="spk2" startTime="127.492" endTime="128.015">
+        <Sync time="127.492" />
+        bah oui &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="128.015" endTime="133.966">
+        <Sync time="128.015" />
+        le même train de vie il y a plein d'autres contraintes que il y avait pas en France et tout
+      </Turn>
+      <Turn speaker="spk2" startTime="133.966" endTime="135.523">
+        <Sync time="133.966" />
+        tu m'étonnes
+      </Turn>
+      <Turn speaker="spk1" startTime="135.523" endTime="137.911">
+        <Sync time="135.523" />
+        du coup voilà +
+      </Turn>
+      <Turn speaker="spk2" startTime="137.911" endTime="150.542">
+        <Sync time="137.911" />
+        et je voulais te demander je sais plus quoi
+        <Sync time="141.997" />
+        c'est vachement intéressant
+        <Event desc="bg" type="noise" extent="instantaneous" />
+        +
+        <Sync time="146.024" />
+        et du coup euh
+        <Sync time="146.987" />
+        c'était c'était comment les journées types tu sors pas la journée il fait super
+        <Sync time="150.331" />
+        &lt; chaud du coup
+      </Turn>
+      <Turn speaker="spk1" startTime="150.542" endTime="167.579">
+        <Sync time="150.542" />
+        bah &gt;
+        <Sync time="150.784" />
+        en fait euh on sortait le matin +
+        <Sync time="154.238" />
+        et euh l'après-midi en fait eux ils font de la sieste
+        <Sync time="157.931" />
+        genre ils man- ils sortent le matin ils mangent
+        <Sync time="161.541" />
+        vers euh on finit de manger vers quatorze heures parce que les repas
+        <Sync time="165.239" />
+        il y a souvent toute la famille qui vient
+      </Turn>
+      <Turn speaker="spk2" startTime="167.579" endTime="167.999">
+        <Sync time="167.579" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="167.999" endTime="190.452">
+        <Sync time="167.999" />
+        limite &gt;
+        <Sync time="168.417" />
+        quatorze quinze à manger et c'est des repas énormes il y a plein de trucs
+        <Sync time="173.769" />
+        enfin et ils te resservent tout le temps en plus même si tu dis non tu es obligée de manger +
+        <Sync time="180.032" />
+        et euh du coup ça finit super tard
+        <Sync time="183.95" />
+        et après on a tellement m- m- mangé qu'on a besoin de dormir en fait
+        <Sync time="188.298" />
+        et en plus il fait tellement chaud
+      </Turn>
+      <Turn speaker="spk2" startTime="190.452" endTime="190.88">
+        <Sync time="190.452" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="190.88" endTime="192.781">
+        <Sync time="190.88" />
+        sauf &gt;
+        <Sync time="191.057" />
+        que dans la plupart des maisons il y a la clim quand même
+      </Turn>
+      <Turn speaker="spk2" startTime="192.781" endTime="193.755">
+        <Sync time="192.781" />
+        ah il y a la clim
+      </Turn>
+      <Turn speaker="spk1" startTime="193.755" endTime="206.75">
+        <Sync time="193.755" />
+        ouais
+        <Sync time="194.759" />
+        et hum +
+        <Sync time="197.585" />
+        après ben on sortait plutôt le soir et ils m'ont fait découvrir euh plein d'endroits hum
+        <Sync time="204.094" />
+        un peu typiques pour les touristes et tout
+        <Sync time="206.62" />
+        &lt; genre
+      </Turn>
+      <Turn speaker="spk2" startTime="206.75" endTime="207.117">
+        <Sync time="206.75" />
+        ah ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="207.117" endTime="217.318">
+        <Sync time="207.117" />
+        j'ai été ben dans la capitale forcément
+        <Sync time="209.876" />
+        j'ai été euh dans un village vieux de je sais pas combien d'années
+        <Sync time="214.396" />
+        et donc les maisons elles étaient toutes les unes sur les autres et tout c'était
+        <Sync time="217.224" />
+        &lt; super
+      </Turn>
+      <Turn speaker="spk2" startTime="217.318" endTime="218.217">
+        <Sync time="217.318" />
+        ah c'est &gt; chelou
+      </Turn>
+      <Turn speaker="spk1" startTime="218.217" endTime="222.259">
+        <Sync time="218.217" />
+        c'était super joli
+        <Sync time="219.992" />
+        genre on marchait sur les toits en fait
+      </Turn>
+      <Turn speaker="spk2" startTime="222.259" endTime="223.139">
+        <Sync time="222.259" />
+        ah putain
+      </Turn>
+      <Turn speaker="spk1" startTime="223.139" endTime="223.689">
+        <Sync time="223.139" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="223.689" endTime="225.573">
+        <Sync time="223.689" />
+        truc de fou
+      </Turn>
+      <Turn speaker="spk1" startTime="225.573" endTime="227.907">
+        <Sync time="225.573" />
+        et hum
+      </Turn>
+      <Turn speaker="spk2" startTime="227.907" endTime="229.768">
+        <Sync time="227.907" />
+        et du coup maintenant tu parles iranien
+      </Turn>
+      <Turn speaker="spk1" startTime="229.768" endTime="241.115">
+        <Sync time="229.768" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        bah oui du coup maintenant j'ai super bien appris à parler iranien
+        <Sync time="233.902" />
+        sauf que mon père il me parle le français
+        <Sync time="237.374" />
+        alors que je lui ai demandé de me parler iranien pour un peu
+        <Sync time="240.434" />
+        &lt; garder
+      </Turn>
+      <Turn speaker="spk2" startTime="241.115" endTime="241.662">
+        <Sync time="241.115" />
+        ah ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="241.662" endTime="251.798">
+        <Sync time="241.662" />
+        ouais ouais
+        <Sync time="242.725" />
+        pour garder le truc mais euh il arrive pas à prendre l'habitude
+        <Sync time="247.498" />
+        du coup j'ai perdu enfin je com- j- enfin je continue à comprendre ce qu'on me
+        <Sync time="251.724" />
+        &lt; dit
+      </Turn>
+      <Turn speaker="spk2" startTime="251.798" endTime="252.15">
+        <Sync time="251.798" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="252.15" endTime="264.243">
+        <Sync time="252.15" />
+        mais
+        <Sync time="252.241" />
+        par contre moi m'exprimer j'ai du mal +
+        <Sync time="255.642" />
+        donc voilà +
+        <Sync time="257.884" />
+        quand je téléphone à ma famille ou qu'il y a de la famille
+        <Sync time="260.737" />
+        qui vient en en France j'essaye un peu de pratiquer pour euh
+      </Turn>
+      <Turn speaker="spk2" startTime="264.243" endTime="265.127">
+        <Sync time="264.243" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="265.127" endTime="267.474">
+        <Sync time="265.127" />
+        pour garder le truc mais
+      </Turn>
+      <Turn speaker="spk2" startTime="267.474" endTime="269.888">
+        <Sync time="267.474" />
+        et il y avait que ton père qui est parti avec toi
+      </Turn>
+      <Turn speaker="spk1" startTime="269.888" endTime="282.373">
+        <Sync time="269.888" />
+        euh ouais +
+        <Sync time="271.519" />
+        il y avait que mon père euh
+        <Sync time="273.671" />
+        du coup mais je pen- je pense que je vais y retourner
+        <Sync time="277.154" />
+        un de ces quatre et pas forcément avec lui parce que maintenant je sais que
+        <Sync time="280.765" />
+        je pourrai me débrouiller là-bas et
+      </Turn>
+      <Turn speaker="spk2" startTime="282.373" endTime="282.931">
+        <Sync time="282.373" />
+        &lt; ah ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="282.931" endTime="285.325">
+        <Sync time="282.931" />
+        je sais &gt;
+        <Sync time="283.125" />
+        ce qu'il faut ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="285.325" endTime="286.335">
+        <Sync time="285.325" />
+        classe
+      </Turn>
+      <Turn speaker="spk1" startTime="286.335" endTime="288.541">
+        <Sync time="286.335" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="288.541" endTime="290.918">
+        <Sync time="288.541" />
+        ça doit être cool de partir là-bas quand même
+      </Turn>
+      <Turn speaker="spk1" startTime="290.918" endTime="301.713">
+        <Sync time="290.918" />
+        ben franchement ça m'a fait
+        <Sync time="293.365" />
+        ça m'a fait trop m'ouvrir au monde alors
+        <Event desc="sonnerie de téléphone en fond" type="noise" extent="instantaneous" />
+        que tu es euh
+        <Sync time="298.305" />
+        genre s- tu es super jeune alors du coup euh
+      </Turn>
+      <Turn speaker="spk2" startTime="301.713" endTime="304.003">
+        <Sync time="301.713" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="304.003" endTime="310.863">
+        <Sync time="304.003" />
+        du coup c'est vachement bien parce que ça ça t'ouvre à différentes cultures
+        <Sync time="307.822" />
+        quand tu es dans un esprit un peu
+      </Turn>
+      <Turn speaker="spk2" startTime="310.863" endTime="312.573">
+        <Sync time="310.863" />
+        et tu y es jamais retournée depuis
+      </Turn>
+      <Turn speaker="spk1" startTime="312.573" endTime="317.44">
+        <Sync time="312.573" />
+        non j'y suis jamais retournée +
+        <Sync time="316.208" />
+        et +
+      </Turn>
+      <Turn speaker="spk2" startTime="317.44" endTime="320.27">
+        <Sync time="317.44" />
+        du coup tu as jamais revu ta famille là-bas quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="320.27" endTime="323.356">
+        <Sync time="320.27" />
+        euh non il y a ma tante qui est venue cet été
+      </Turn>
+      <Turn speaker="spk2" startTime="323.356" endTime="325.013">
+        <Sync time="323.356" />
+        ah oui c'est vrai
+      </Turn>
+      <Turn speaker="spk1" startTime="325.013" endTime="333.573">
+        <Sync time="325.013" />
+        il y a mon oncle qui vient assez souvent aussi
+        <Sync time="328.862" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        avec qui je suis fusionnelle
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="333.573" endTime="337.103">
+        <Sync time="333.573" />
+        c'est vrai raconte moi tout ça
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="337.103" endTime="340.572">
+        <Sync time="337.103" />
+        &lt; et ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="340.572" endTime="341.442">
+        <Sync time="340.572" />
+        c'est le père de Rémi &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="341.442" endTime="342.702">
+        <Sync time="341.442" />
+        euh
+        <Sync time="342.465" />
+        &lt; non
+      </Turn>
+      <Turn speaker="spk2" startTime="342.702" endTime="343.212">
+        <Sync time="342.702" />
+        non &gt;
+        <Sync time="342.786" />
+        pas lui
+      </Turn>
+      <Turn speaker="spk1" startTime="343.212" endTime="347.413">
+        <Sync time="343.212" />
+        mon père le père de Rémi il habite en France en fait
+      </Turn>
+      <Turn speaker="spk2" startTime="347.413" endTime="350.323">
+        <Sync time="347.413" />
+        ah bah oui c'est vrai je suis con
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="350.323" endTime="355.917">
+        <Sync time="350.323" />
+        donc voilà +
+        <Sync time="354.9" />
+        donc c'était bien
+      </Turn>
+      <Turn speaker="spk2" startTime="355.917" endTime="357.569">
+        <Sync time="355.917" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        c'était bien
+      </Turn>
+      <Turn speaker="spk1" startTime="357.569" endTime="360.597">
+        <Sync time="357.569" />
+        j'ai jamais autant mangé de ma vie mais c'était bien
+      </Turn>
+      <Turn speaker="spk2" startTime="360.597" endTime="363.468">
+        <Sync time="360.597" />
+        je comme ce soir d'ailleurs c'est pas
+      </Turn>
+      <Turn speaker="spk1" startTime="363.468" endTime="375.731">
+        <Sync time="363.468" />
+        mais ce qui était bizarre aussi c'était de sortir euh dans la rue et euh
+        <Sync time="368.996" />
+        de voir euh déjà toutes les femmes qui doivent se préparer avant de sortir
+        <Sync time="373.732" />
+        de mettre des manteaux et des foulards
+      </Turn>
+      <Turn speaker="spk2" startTime="375.731" endTime="376.245">
+        <Sync time="375.731" />
+        &lt; ah ouais c'est ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="376.245" endTime="376.414">
+        <Sync time="376.245" />
+        sur la tête &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="376.414" endTime="376.941">
+        <Sync time="376.414" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="376.941" endTime="388.536">
+        <Sync time="376.941" />
+        alors que dehors il fait cinquante degrès et
+        <Sync time="380.347" />
+        euh d'aller à la piscine et la piscine c'est séparé entre les hommes et les femmes
+        <Sync time="385.786" />
+        on a été à la mer c'est pareil il y a un mur qui sépare
+      </Turn>
+      <Turn speaker="spk2" startTime="388.536" endTime="388.996">
+        <Sync time="388.536" />
+        &lt; ah ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="388.996" endTime="389.759">
+        <Sync time="388.996" />
+        les hommes &gt; et les femmes
+        <Sync time="389.485" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="389.759" endTime="393.023">
+        <Sync time="389.759" />
+        et du coup tu es et dans les moments là tu allais avec tes ta grand-mère et tout
+      </Turn>
+      <Turn speaker="spk1" startTime="393.023" endTime="394.256">
+        <Sync time="393.023" />
+        j'allais avec mes cousines
+      </Turn>
+      <Turn speaker="spk2" startTime="394.256" endTime="394.746">
+        <Sync time="394.256" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="394.746" endTime="412.45">
+        <Sync time="394.746" />
+        ouais voilà
+        <Sync time="395.559" />
+        et euh +
+        <Sync time="399.094" />
+        et ce qui est marrant aussi
+        <Sync time="400.443" />
+        c'est de voir tous les moyens qui font pour essayer de contourner toutes les règles +
+        <Sync time="405.382" />
+        que le régime a mis en place là-bas +
+        <Sync time="408.1" />
+        on voit aussi qu'ils essaient d- d- d'imiter un peu l'Europe et tout
+      </Turn>
+      <Turn speaker="spk2" startTime="412.45" endTime="412.748">
+        <Sync time="412.45" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="412.748" endTime="415.211">
+        <Sync time="412.748" />
+        genre &gt;
+        <Sync time="412.981" />
+        il y avait des cafés français des trucs comme ça
+      </Turn>
+      <Turn speaker="spk2" startTime="415.211" endTime="418.819">
+        <Sync time="415.211" />
+        et là ça se trouve ça a changé à mort aussi depuis que tu y es allée
+      </Turn>
+      <Turn speaker="spk1" startTime="418.819" endTime="419.879">
+        <Sync time="418.819" />
+        ouais je pense
+        <Sync time="419.653" />
+        &lt; que
+      </Turn>
+      <Turn speaker="spk2" startTime="419.879" endTime="420.035">
+        <Sync time="419.879" />
+        ça &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="420.035" endTime="437.352">
+        <Sync time="420.035" />
+        ça a vachement changé et hum aussi euh +
+        <Sync time="423.719" />
+        <Event desc="bg" type="noise" extent="instantaneous" />
+        mon père il m'a emmenée dans des familles qui étaient plus euh qui étaient moins aisées
+        <Sync time="431.01" />
+        et genre qui vivaient dans des pièces de je sais pas dix mètres carrés
+        <Sync time="436.469" />
+        ils étaient quinze dedans
+      </Turn>
+      <Turn speaker="spk2" startTime="437.352" endTime="438.941">
+        <Sync time="437.352" />
+        ah ouais ah la vache
+      </Turn>
+      <Turn speaker="spk1" startTime="438.941" endTime="442.713">
+        <Sync time="438.941" />
+        et du coup ça m'a trop fait découvrir plein de trucs enfin
+      </Turn>
+      <Turn speaker="spk2" startTime="442.713" endTime="447.322">
+        <Sync time="442.713" />
+        ouais
+        <Sync time="443.421" />
+        et genre quand il fait aussi chaud ils travaillent aussi ou il y a des moments où
+      </Turn>
+      <Turn speaker="spk1" startTime="447.322" endTime="448.047">
+        <Sync time="447.322" />
+        non ils travaillent
+      </Turn>
+      <Turn speaker="spk2" startTime="448.047" endTime="448.387">
+        <Sync time="448.047" />
+        &lt; ils travaillent
+      </Turn>
+      <Turn speaker="spk1" startTime="448.387" endTime="448.841">
+        <Sync time="448.387" />
+        tout le temps &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="448.841" endTime="449.564">
+        <Sync time="448.841" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="449.564" endTime="464.894">
+        <Sync time="449.564" />
+        et euh du coup je enfin c'est assez c'est pas facile
+        <Sync time="454.172" />
+        enfin ils ont plein de contraintes contre eux et cetera +
+        <Sync time="457.912" />
+        du coup voilà
+        <Event desc="pf" type="noise" extent="instantaneous" />
+        j'ai été visité une mosquée aussi +
+        <Sync time="463.935" />
+        et ça
+        <Sync time="464.659" />
+        &lt; je crois
+      </Turn>
+      <Turn speaker="spk2" startTime="464.894" endTime="465.157">
+        <Sync time="464.894" />
+        ah ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="465.157" endTime="468.615">
+        <Sync time="465.157" />
+        que c'est le moment qui m'a le plus euh +
+        <Sync time="467.743" />
+        bouleversée en fait
+      </Turn>
+      <Turn speaker="spk2" startTime="468.615" endTime="469.325">
+        <Sync time="468.615" />
+        c'est vrai
+        <Sync time="469.225" />
+        &lt; pourquoi
+      </Turn>
+      <Turn speaker="spk1" startTime="469.325" endTime="475.996">
+        <Sync time="469.325" />
+        parce que &gt;
+        <Sync time="470.201" />
+        quand tu entres dedans
+        <Sync time="471.831" />
+        c'est vu que c'est un lieu culte et tout c'est une amb- une atmosphère
+      </Turn>
+      <Turn speaker="spk2" startTime="475.996" endTime="477.686">
+        <Sync time="475.996" />
+        &lt; ouais tu sens une ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="477.686" endTime="482.904">
+        <Sync time="477.686" />
+        une ambiance trop bizarre &gt;
+        <Sync time="478.206" />
+        et ça m'a
+        <Event desc="bg" type="noise" extent="instantaneous" />
+        ça m'a trop bouleversée je suis sortie directement
+      </Turn>
+      <Turn speaker="spk2" startTime="482.904" endTime="483.484">
+        <Sync time="482.904" />
+        &lt; ah ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="483.484" endTime="483.894">
+        <Sync time="483.484" />
+        j'étais trop mal &gt;
+        <Sync time="483.727" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="483.894" endTime="486.562">
+        <Sync time="483.894" />
+        en plus t'étais petite alors du coup ça fait
+      </Turn>
+      <Turn speaker="spk1" startTime="486.562" endTime="490.765">
+        <Sync time="486.562" />
+        ben oui j'étais petite et toutes les femmes étaient en noir avec le
+        <Sync time="490.495" />
+        voile
+      </Turn>
+      <Turn speaker="spk2" startTime="490.765" endTime="492.053">
+        <Sync time="490.765" />
+        ah ouais &lt; c'était bizarre
+      </Turn>
+      <Turn speaker="spk1" startTime="492.053" endTime="492.389">
+        <Sync time="492.053" />
+        en noire &gt; et c'était
+      </Turn>
+      <Turn speaker="spk2" startTime="492.389" endTime="494.12">
+        <Sync time="492.389" />
+        ça doit être dérangeant un
+        <Sync time="493.921" />
+        &lt; peu
+      </Turn>
+      <Turn speaker="spk1" startTime="494.12" endTime="499.39">
+        <Sync time="494.12" />
+        ouais &gt;
+        <Sync time="494.344" />
+        voilà c'est ça
+        <Sync time="495.234" />
+        quand tu es eu- quand tu es euh européenne et que tu as pas l'habitude de voir
+        <Sync time="499.197" />
+        &lt; ça
+      </Turn>
+      <Turn speaker="spk2" startTime="499.39" endTime="500.587">
+        <Sync time="499.39" />
+        ouais c'est ça &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="500.587" endTime="507.941">
+        <Sync time="500.587" />
+        c'est trop bizarre +
+        <Sync time="503.143" />
+        mais avec le recul euh je suis tellement contente d'avoir découvert tout ça
+        <Sync time="507.107" />
+        quand je
+        <Sync time="507.564" />
+        &lt; vois
+      </Turn>
+      <Turn speaker="spk2" startTime="507.941" endTime="508.337">
+        <Sync time="507.941" />
+        tu m'étonnes &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="508.337" endTime="512.807">
+        <Sync time="508.337" />
+        mon cousin qui est plus vieux que moi et qui il y a jamais été en Iran
+      </Turn>
+      <Turn speaker="spk2" startTime="512.807" endTime="513.427">
+        <Sync time="512.807" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="513.427" endTime="519.851">
+        <Sync time="513.427" />
+        et il se sent tellement hum +
+        <Sync time="515.844" />
+        un peu mis de côté euh du point de vue de sa la culture
+      </Turn>
+      <Turn speaker="spk2" startTime="519.851" endTime="520.171">
+        <Sync time="519.851" />
+        ah ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="520.171" endTime="521.281">
+        <Sync time="520.171" />
+        ouais ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="521.281" endTime="523.455">
+        <Sync time="521.281" />
+        ah je savais pas que c'était à ce point
+      </Turn>
+      <Turn speaker="spk1" startTime="523.455" endTime="525.731">
+        <Sync time="523.455" />
+        si si à chaque fois il regrette
+      </Turn>
+      <Turn speaker="spk2" startTime="525.731" endTime="529.308">
+        <Sync time="525.731" />
+        ah ouais
+        <Sync time="526.696" />
+        mais ça il m'avait dit qu'il voulait y aller et
+        <Sync time="529.032" />
+        &lt; tout
+      </Turn>
+      <Turn speaker="spk1" startTime="529.308" endTime="530.36">
+        <Sync time="529.308" />
+        hum hum &gt;
+        <Sync time="529.625" />
+        c'est qu-
+      </Turn>
+      <Turn speaker="spk2" startTime="530.36" endTime="533.34">
+        <Sync time="530.36" />
+        qu'il aimerait bien y aller un jour mais je savais pas que ça le
+      </Turn>
+      <Turn speaker="spk1" startTime="533.34" endTime="541.312">
+        <Sync time="533.34" />
+        si si si en fait euh +
+        <Sync time="536.047" />
+        il a l'impression de trop euh avoir une partie incomplète en fait
+        <Sync time="541.197" />
+        &lt; dans sa
+      </Turn>
+      <Turn speaker="spk2" startTime="541.312" endTime="545.737">
+        <Sync time="541.312" />
+        ah ouais &gt;
+        <Sync time="541.924" />
+        abusé +
+      </Turn>
+      <Turn speaker="spk1" startTime="545.737" endTime="546.903">
+        <Sync time="545.737" />
+        donc voilà
+      </Turn>
+      <Turn speaker="spk2" startTime="546.903" endTime="550.305">
+        <Sync time="546.903" />
+        parce que son père il est arrivé avec ton père ils sont arrivés en même temps
+      </Turn>
+      <Turn speaker="spk1" startTime="550.305" endTime="567.938">
+        <Sync time="550.305" />
+        non son père il est arrivé avant mon père
+        <Sync time="552.862" />
+        et mon père il est arrivé hum au moment ou c'était
+        <Sync time="559.358" />
+        bah le régime s'est fait renverser et la chute du Shah d'Iran
+        <Sync time="563.127" />
+        et mon père il est venu quand les islamistes sont venus au pouvoir en fait
+      </Turn>
+      <Turn speaker="spk2" startTime="567.938" endTime="568.951">
+        <Sync time="567.938" />
+        O.K.
+      </Turn>
+      <Turn speaker="spk1" startTime="568.951" endTime="575.87">
+        <Sync time="568.951" />
+        et vu qu'il y avait déjà mon oncle qui habitait ici
+        <Sync time="572.641" />
+        et ben il l'a rejoint à Nancy et
+      </Turn>
+      <Turn speaker="spk2" startTime="575.87" endTime="577.164">
+        <Sync time="575.87" />
+        il était sur Nancy ton
+        <Sync time="576.964" />
+        &lt; oncle
+      </Turn>
+      <Turn speaker="spk1" startTime="577.164" endTime="581.261">
+        <Sync time="577.164" />
+        ouais &gt;
+        <Sync time="577.412" />
+        ouais il était à Nancy +
+      </Turn>
+      <Turn speaker="spk2" startTime="581.261" endTime="583.784">
+        <Sync time="581.261" />
+        oh mon doudou
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="583.784" endTime="587.73">
+        <Sync time="583.784" />
+        donc voilà putain
+      </Turn>
+      <Turn speaker="spk2" startTime="587.73" endTime="590.479">
+        <Sync time="587.73" />
+        j'en ai appris des choses tu m'avais pas raconté tout
+        <Sync time="590.195" />
+        ça
+      </Turn>
+      <Turn speaker="spk1" startTime="590.479" endTime="596.002">
+        <Sync time="590.479" />
+        non
+        <Sync time="590.847" />
+        c'est vrai
+        <Sync time="592.432" />
+        ça remonte mais j'ai trop encore les souvenirs en tête
+      </Turn>
+      <Turn speaker="spk2" startTime="596.002" endTime="597.517">
+        <Sync time="596.002" />
+        ouais bah c'est bien
+        <Sync time="597.142" />
+        &lt; enfin
+      </Turn>
+      <Turn speaker="spk1" startTime="597.517" endTime="603.468">
+        <Sync time="597.517" />
+        et &gt;
+        <Sync time="597.969" />
+        en plus je trouve qu'ils ont un rapport à la famille
+        <Sync time="601.25" />
+        vachement différent euh
+      </Turn>
+      <Turn speaker="spk2" startTime="603.468" endTime="604.256">
+        <Sync time="603.468" />
+        bah tu
+        <Sync time="604.021" />
+        &lt; m'étonnes
+      </Turn>
+      <Turn speaker="spk1" startTime="604.256" endTime="608.277">
+        <Sync time="604.256" />
+        de la &gt;
+        <Sync time="604.819" />
+        France
+        <Sync time="605.278" />
+        ils sont toujours euh tous ensemble dans la même maison
+      </Turn>
+      <Turn speaker="spk2" startTime="608.277" endTime="608.707">
+        <Sync time="608.277" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="608.707" endTime="610.018">
+        <Sync time="608.707" />
+        et tout &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="610.018" endTime="617.597">
+        <Sync time="610.018" />
+        mais ne serait-ce que là quant quand moi je te vois
+        <Sync time="613.626" />
+        avec ton père avec ton oncle et tout enfin
+        <Sync time="615.968" />
+        c'est pas du tout les mêmes
+      </Turn>
+      <Turn speaker="spk1" startTime="617.597" endTime="617.877">
+        <Sync time="617.597" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="617.877" endTime="622.696">
+        <Sync time="617.877" />
+        les mêmes rapports que moi j'ai +
+        <Sync time="620.602" />
+        après c'est peut être non pff je sais pas
+      </Turn>
+      <Turn speaker="spk1" startTime="622.696" endTime="624.773">
+        <Sync time="622.696" />
+        bah si je pense que ça fait partie euh
+      </Turn>
+      <Turn speaker="spk2" startTime="624.773" endTime="631.564">
+        <Sync time="624.773" />
+        ouais
+        <Event desc="bg" type="noise" extent="instantaneous" />
+        +
+        <Sync time="627.977" />
+        parce que même enfin ton père il appelle souvent son frère
+      </Turn>
+      <Turn speaker="spk1" startTime="631.564" endTime="631.804">
+        <Sync time="631.564" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="631.804" endTime="631.888">
+        <Sync time="631.804" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="631.888" endTime="633.204">
+        <Sync time="631.888" />
+        tout le temps &gt;
+        <Sync time="632.509" />
+        ils s'appellent tout le
+        <Sync time="633.072" />
+        &lt; temps
+      </Turn>
+      <Turn speaker="spk2" startTime="633.204" endTime="637.068">
+        <Sync time="633.204" />
+        alors &gt;
+        <Sync time="633.565" />
+        que tu vois ma mère elle est enfin elle l'appelle mais pas euh
+      </Turn>
+      <Turn speaker="spk1" startTime="637.068" endTime="637.694">
+        <Sync time="637.068" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="637.694" endTime="641.996">
+        <Sync time="637.694" />
+        pas super souvent tu vois que vraiment quand euh
+      </Turn>
+      <Turn speaker="spk1" startTime="641.996" endTime="651.09">
+        <Sync time="641.996" />
+        ouais c'est vrai
+        <Sync time="643.035" />
+        après ça dépend aussi des familles je pense mais
+        <Sync time="645.505" />
+        c'est vrai que ma mère aussi euh
+        <Sync time="647.32" />
+        elle a p- enfin elle appelle sa soeur genre pour son
+        <Sync time="650.001" />
+        anniversaire
+      </Turn>
+      <Turn speaker="spk2" startTime="651.09" endTime="651.552">
+        <Sync time="651.09" />
+        ouais voilà &lt; c'est ça
+      </Turn>
+      <Turn speaker="spk1" startTime="651.552" endTime="652.123">
+        <Sync time="651.552" />
+        des trucs comme ça quoi &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="652.123" endTime="654.843">
+        <Sync time="652.123" />
+        et puis mon père c'est pareil dans sa famille c'est
+        <Sync time="654.603" />
+        &lt; pas
+      </Turn>
+      <Turn speaker="spk1" startTime="654.843" endTime="655.007">
+        <Sync time="654.843" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="655.007" endTime="658.115">
+        <Sync time="655.007" />
+        <Event desc="bb" type="noise" extent="instantaneous" />
+        +
+      </Turn>
+      <Turn speaker="spk1" startTime="658.115" endTime="659.315">
+        <Sync time="658.115" />
+        non alors que non
+      </Turn>
+      <Turn speaker="spk2" startTime="659.315" endTime="664.098">
+        <Sync time="659.315" />
+        ouais mais je pense c'est ça doit être bien quand même c'est une chance d'avoir
+        <Sync time="662.496" />
+        plusieurs cultures comme ça
+      </Turn>
+      <Turn speaker="spk1" startTime="664.098" endTime="671.818">
+        <Sync time="664.098" />
+        ben moi je suis contente ça m'apporte euh
+        <Sync time="667.732" />
+        pas mal de trucs en plus mon père à chaque fois il me repète n'oublie pas que tu as
+        <Sync time="671.793" />
+        &lt; une
+      </Turn>
+      <Turn speaker="spk2" startTime="671.818" endTime="671.839">
+        <Sync time="671.818" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="671.839" endTime="674.923">
+        <Sync time="671.839" />
+        identité
+        <Sync time="672.34" />
+        de culture là et tout
+      </Turn>
+      <Turn speaker="spk2" startTime="674.923" endTime="679.166">
+        <Sync time="674.923" />
+        mais je pense que euh à partir du moment où tes parents ils t'en parlent et que euh
+      </Turn>
+      <Turn speaker="spk1" startTime="679.166" endTime="679.677">
+        <Sync time="679.166" />
+        ouais
+      </Turn>
+      <Turn speaker="spk2" startTime="679.677" endTime="682.785">
+        <Sync time="679.677" />
+        t- toi tu es interessée par ça après tu oublies pas enfin
+      </Turn>
+      <Turn speaker="spk1" startTime="682.785" endTime="683.691">
+        <Sync time="682.785" />
+        oui voilà c'est
+        <Sync time="683.527" />
+        &lt; ça
+      </Turn>
+      <Turn speaker="spk2" startTime="683.691" endTime="689.167">
+        <Sync time="683.691" />
+        si &gt;
+        <Sync time="683.836" />
+        tes parents t'en parlent et qu'ils
+        <Sync time="686.252" />
+        et qu'ils t'expliquent d'où ça vient et tout je pense que
+      </Turn>
+      <Turn speaker="spk1" startTime="689.167" endTime="698.929">
+        <Sync time="689.167" />
+        bah c'est ça surtout qu'en plus mes parents ils ont pas cherché à me
+        <Sync time="693.087" />
+        catégoriser ou me rentrer un truc dans la tête ils m'ont laissée libre
+        <Sync time="697.312" />
+        pareil pour la religion genre
+        <Sync time="698.914" />
+        &lt; j'ai
+      </Turn>
+      <Turn speaker="spk2" startTime="698.929" endTime="699.218">
+        <Sync time="698.929" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="699.218" endTime="704.649">
+        <Sync time="699.218" />
+        pas
+        <Sync time="699.431" />
+        été baptisée pas parce que mon père voulait pas parce que juste euh
+        <Sync time="702.679" />
+        ils se sont dit ben elle choisira toute
+        <Sync time="704.589" />
+        &lt; seule
+      </Turn>
+      <Turn speaker="spk2" startTime="704.649" endTime="705.21">
+        <Sync time="704.649" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="705.21" endTime="718.849">
+        <Sync time="705.21" />
+        parce
+        <Sync time="705.305" />
+        qu'elle a deux cultures et tout
+        <Sync time="707.749" />
+        et voilà ma mère elle a apporté euh
+        <Sync time="710.098" />
+        ce qu'elle avait de la culture européenne à mon père et mon père euh
+        <Sync time="713.919" />
+        lui a appris ce qu'il fallait sur l'Iran et du coup euh
+        <Sync time="718.349" />
+        &lt; c'était pas
+      </Turn>
+      <Turn speaker="spk2" startTime="718.849" endTime="719.101">
+        <Sync time="718.849" />
+        c'est vachement bien &gt;
+      </Turn>
+      <Turn startTime="719.101" endTime="724.799" speaker="spk1">
+        <Sync time="719.101" />
+        un truc euh +
+        <Sync time="722.589" />
+        genre ma mère elle sait écrire et tout
+      </Turn>
+      <Turn speaker="spk2" startTime="724.799" endTime="732.135">
+        <Sync time="724.799" />
+        ouais tu m'avais dit ça c'est trop cool +
+        <Sync time="727.907" />
+        mais c'est trop b- et pourquoi toi tu y es allée et pas ton cousin
+        <Sync time="730.732" />
+        &lt; c'est trop bizarre
+      </Turn>
+      <Turn speaker="spk1" startTime="732.135" endTime="740.005">
+        <Sync time="732.135" />
+        parce que &gt; hum
+        <Sync time="733.14" />
+        non non en fait quand tu es un garçon
+        <Sync time="736.345" />
+        né d'un père euh du coup iranien
+      </Turn>
+      <Turn speaker="spk2" startTime="740.005" endTime="740.553">
+        <Sync time="740.005" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="740.553" endTime="743.646">
+        <Sync time="740.553" />
+        si t- s'il y va il sera obligé de faire son service
+        <Sync time="743.485" />
+        &lt; militaire
+      </Turn>
+      <Turn speaker="spk2" startTime="743.646" endTime="749.764">
+        <Sync time="743.646" />
+        ouais ça &gt;
+        <Sync time="743.914" />
+        il m'avait dit mais genre quand tu as euh douze treize ans tu es enfin
+        <Sync time="747.599" />
+        c'est à quel âge le service militaire c'est pas à l'âge là
+      </Turn>
+      <Turn speaker="spk1" startTime="749.764" endTime="759.852">
+        <Sync time="749.764" />
+        ben je s- je pense pas mais en fait ils ont dû euh
+        <Sync time="753.303" />
+        commencer à réfléchir pour qu'il y aille et euh
+        <Sync time="756.912" />
+        ouais vers euh seize ans un truc comme
+        <Sync time="759.697" />
+        &lt; ça
+      </Turn>
+      <Turn speaker="spk2" startTime="759.852" endTime="760.786">
+        <Sync time="759.852" />
+        ah ouais &gt;
+        <Sync time="760.274" />
+        du coup c'est
+      </Turn>
+      <Turn speaker="spk1" startTime="760.786" endTime="766.373">
+        <Sync time="760.786" />
+        genre moi j- ouais
+        <Sync time="763.231" />
+        franchement je sais pas trop comment ça s'est déroulé cette histoire
+      </Turn>
+      <Turn speaker="spk2" startTime="766.373" endTime="771.108">
+        <Sync time="766.373" />
+        c'est trop bizarre
+        <Sync time="767.362" />
+        et il peut p- il y a pas un truc genre un visa enfin un truc qui dit
+        <Sync time="770.869" />
+        &lt; comme quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="771.108" endTime="771.495">
+        <Sync time="771.108" />
+        si mais je pense que &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="771.495" endTime="773.519">
+        <Sync time="771.495" />
+        il vit en France
+        <Sync time="772.465" />
+        et que enfin
+      </Turn>
+      <Turn speaker="spk1" startTime="773.519" endTime="781.297">
+        <Sync time="773.519" />
+        ben en fait la procédure là-bas c'est super compliqué c'est plus comme par exemple
+        <Sync time="778.01" />
+        quand par exemple ma famille veut venir en France
+      </Turn>
+      <Turn speaker="spk2" startTime="781.297" endTime="781.882">
+        <Sync time="781.297" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="781.882" endTime="784.941">
+        <Sync time="781.882" />
+        mon père doit leur envoyer une invitation
+      </Turn>
+      <Turn speaker="spk2" startTime="784.941" endTime="785.393">
+        <Sync time="784.941" />
+        ah
+        <Sync time="785.254" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="785.393" endTime="796.957">
+        <Sync time="785.393" />
+        qui c- &gt;
+        <Sync time="785.845" />
+        qui est vérifiée à l'ambassade
+        <Sync time="787.753" />
+        et ils sont int- euh enfin genre interviewés
+        <Sync time="791.166" />
+        à l'ambassade pour euh savoir leur(s) motif(s) pourquoi ils veulent venir en France et cetera
+      </Turn>
+      <Turn speaker="spk2" startTime="796.957" endTime="797.194">
+        <Sync time="796.957" />
+        oh là
+        <Sync time="797.174" />
+        &lt; là
+      </Turn>
+      <Turn speaker="spk1" startTime="797.194" endTime="804.782">
+        <Sync time="797.194" />
+        et si &gt;
+        <Sync time="797.848" />
+        ils ont encore de la famille euh
+        <Sync time="800.094" />
+        en Iran en fait ils veulent vérifier qu'ils vont pas euh rester en France
+      </Turn>
+      <Turn speaker="spk2" startTime="804.782" endTime="805.66">
+        <Sync time="804.782" />
+        d'accord ouais
+        <Sync time="805.372" />
+        &lt; qu'ils
+      </Turn>
+      <Turn speaker="spk1" startTime="805.66" endTime="813.358">
+        <Sync time="805.66" />
+        qu'ils &gt;
+        <Sync time="805.842" />
+        vont revenir donc si
+        <Sync time="806.49" />
+        il y a ils ont de la famille en Iran et tout
+        <Sync time="808.19" />
+        ils vont lui dire bon ben c'est bon eux ils vont pas s'installer là-bas euh
+        <Sync time="811.797" />
+        on va les laisser partir un
+        <Sync time="813.038" />
+        &lt; mois
+      </Turn>
+      <Turn speaker="spk2" startTime="813.358" endTime="813.538">
+        <Sync time="813.358" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="813.538" endTime="818.718">
+        <Sync time="813.538" />
+        on
+        <Sync time="813.656" />
+        va leur donner un visa
+        <Sync time="814.643" />
+        et la procédure pour sortir et rentrer dans le pays elle est super compliquée en
+        <Sync time="818.669" />
+        &lt; fait
+      </Turn>
+      <Turn speaker="spk2" startTime="818.718" endTime="821.11">
+        <Sync time="818.718" />
+        ah ouais &gt;
+        <Sync time="820.117" />
+        ah &lt; c'est chaud
+      </Turn>
+      <Turn speaker="spk1" startTime="821.11" endTime="833.262">
+        <Sync time="821.11" />
+        et &gt;
+        <Sync time="821.43" />
+        du coup voilà genre par exemple moi je me souviens j'avais un passeport français du coup
+        <Sync time="825.788" />
+        et un passeport euh iranien et
+        <Sync time="828.685" />
+        là si je dois me refaire mon passeport iranien je dois mettre le foulard euh enfin
+      </Turn>
+      <Turn speaker="spk2" startTime="833.262" endTime="834.064">
+        <Sync time="833.262" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="834.064" endTime="834.314">
+        <Sync time="834.064" />
+        &lt; c'est tout
+      </Turn>
+      <Turn speaker="spk2" startTime="834.314" endTime="837.307">
+        <Sync time="834.314" />
+        c'est un peu chaud &gt; +
+      </Turn>
+      <Turn speaker="spk1" startTime="837.307" endTime="846.029">
+        <Sync time="837.307" />
+        et déjà c'est ce qu'il me fait un peu hésiter à y aller
+        <Sync time="840.915" />
+        c'est de devoir euh me p- enfin
+        <Sync time="843.214" />
+        quand j'y étais j'y étais petite donc j'avais pas besoins
+        <Event desc="Sonnerie téléphone" type="noise" extent="instantaneous" />
+        encore de
+        <Sync time="845.857" />
+        &lt; me plier euh
+      </Turn>
+      <Turn speaker="spk2" startTime="846.029" endTime="847.879">
+        <Sync time="846.029" />
+        hum hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="847.879" endTime="858.545">
+        <Sync time="847.879" />
+        aux coutumes et là euh il va falloir que je mettre
+        <Comment desc="sic" />
+        un manteau euh
+        <Sync time="852.562" />
+        que je mette un voile euh
+        <Sync time="854.338" />
+        j'aurai pas le droit de marcher à côté d'un garçon dans la rue qui est pas de ma famille
+        <Event desc="sonnerie téléphone" type="noise" extent="instantaneous" />
+        enfin
+      </Turn>
+      <Turn speaker="spk2" startTime="858.545" endTime="859.458">
+        <Sync time="858.545" />
+        ah ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="859.458" endTime="862.231">
+        <Sync time="859.458" />
+        ouais des trucs comme ça
+        <Event desc="i" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk2" startTime="862.231" endTime="865.387">
+        <Sync time="862.231" />
+        ah putain je savais pas ça que tu avais même pas le droit de marcher à côté d'un
+        <Sync time="865.227" />
+        &lt; homme
+      </Turn>
+      <Turn speaker="spk1" startTime="865.387" endTime="875.363">
+        <Sync time="865.387" />
+        ouais &gt;
+        <Sync time="865.624" />
+        ils vont dire vous me dire vous vous connaissez comment et tout et si ils soupçonnent
+        <Sync time="869.301" />
+        rien qu'un peu que c'est ton copain et que tu es pas mariée
+        <Sync time="872.929" />
+        et ben tu risques euh
+      </Turn>
+      <Turn speaker="spk2" startTime="875.363" endTime="875.957">
+        <Sync time="875.363" />
+        oh la vache
+      </Turn>
+      <Turn speaker="spk1" startTime="875.957" endTime="879.1">
+        <Sync time="875.957" />
+        comme par exemple ben je t'en ai parlé je crois des hum
+      </Turn>
+      <Turn speaker="spk2" startTime="879.1" endTime="880.298">
+        <Sync time="879.1" />
+        ouais de la vidéo
+        <Sync time="880.275" />
+        &lt; là
+      </Turn>
+      <Turn speaker="spk1" startTime="880.298" endTime="880.613">
+        <Sync time="880.298" />
+        de la video &gt;
+      </Turn>
+      <Turn speaker="spk2" startTime="880.613" endTime="881.193">
+        <Sync time="880.613" />
+        qui avait été
+        <Sync time="881.085" />
+        &lt; ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="881.193" endTime="883.201">
+        <Sync time="881.193" />
+        hum &gt;
+        <Sync time="881.529" />
+        nan
+        <Sync time="883.008" />
+        &lt; mais
+      </Turn>
+      <Turn speaker="spk2" startTime="883.201" endTime="884.971">
+        <Sync time="883.201" />
+        putain &gt;
+        <Sync time="883.482" />
+        c'est chaud
+      </Turn>
+      <Turn speaker="spk1" startTime="884.971" endTime="888.596">
+        <Sync time="884.971" />
+        du coup c'est un peu les trucs gênants mais bon pour voir ma famille euh
+      </Turn>
+      <Turn speaker="spk2" startTime="888.596" endTime="889.152">
+        <Sync time="888.596" />
+        ça te dérange pas
+      </Turn>
+      <Turn speaker="spk1" startTime="889.152" endTime="891.527">
+        <Sync time="889.152" />
+        non mais je pense pas que j'y retournerai quarante jours quoi
+      </Turn>
+      <Turn speaker="spk2" startTime="891.527" endTime="892.362">
+        <Sync time="891.527" />
+        ouais ça fait long
+      </Turn>
+      <Turn speaker="spk1" startTime="892.362" endTime="899.768">
+        <Sync time="892.362" />
+        je pense que je vais y retourner dix jours et ce sera au printemps
+        <Sync time="895.215" />
+        pour pas avoir trop chaud ou quelque chose comme ça +
+      </Turn>
+      <Turn speaker="spk2" startTime="899.768" endTime="902.579">
+        <Sync time="899.768" />
+        parce qu'en fait la plupart de la famille de ton père elle est là-bas quoi
+      </Turn>
+      <Turn speaker="spk1" startTime="902.579" endTime="905.407">
+        <Sync time="902.579" />
+        hum ouais +
+      </Turn>
+      <Turn speaker="spk2" startTime="905.407" endTime="906.172">
+        <Sync time="905.407" />
+        hum
+        <Event desc="bb" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="906.172" endTime="913.017">
+        <Sync time="906.172" />
+        mais en plus c'est vraiment euh
+        <Sync time="908.505" />
+        genre tu vas dans les magasins les gens ils marchandent et tout enfin c'est pas du tout pareil
+        <Sync time="912.787" />
+        &lt; qu'en France
+      </Turn>
+      <Turn speaker="spk2" startTime="913.017" endTime="913.546">
+        <Sync time="913.017" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="913.546" endTime="918.26">
+        <Sync time="913.546" />
+        c'est les c'est vachement développé déjà moi je m'attendais pas à ce que ce soit autant développé par
+        <Sync time="918.059" />
+        &lt; contre
+      </Turn>
+      <Turn speaker="spk2" startTime="918.26" endTime="918.983">
+        <Sync time="918.26" />
+        hum &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="918.983" endTime="937.15">
+        <Sync time="918.983" />
+        genre c'est enfin l- les les apparts c'est comme ici et tout enfin bref
+        <Sync time="923.285" />
+        mais par contre euh c'est pas du tout la même mentalité genre euh
+        <Sync time="926.82" />
+        il y a des gens
+        <Sync time="928.525" />
+        des taxis genre euh tu tu demandes à quelqu'un
+        <Sync time="933.392" />
+        oh vous nous emmenez là et tu le paies et c'est pas forcément un taxi en fait
+      </Turn>
+      <Turn speaker="spk2" startTime="937.15" endTime="937.842">
+        <Sync time="937.15" />
+        ah ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="937.842" endTime="939.77">
+        <Sync time="937.842" />
+        genre euh tu fais comme ça dans la rue
+        <Sync time="939.652" />
+        &lt; tu fais un appel et tout
+      </Turn>
+      <Turn speaker="spk2" startTime="939.77" endTime="944.352">
+        <Sync time="939.77" />
+        oh putain c'est trop marrant ça &gt;
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        <Sync time="941.655" />
+        tu imagines tu fais ça ici hé
+        <Sync time="943.2" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="944.352" endTime="946.086">
+        <Sync time="944.352" />
+        le mec il te dit ben non
+      </Turn>
+      <Turn speaker="spk2" startTime="946.086" endTime="948.809">
+        <Sync time="946.086" />
+        <Event desc="rire" type="noise" extent="instantaneous" />
+        euh je crois pas non
+        <Event desc="rire" type="noise" extent="instantaneous" />
+      </Turn>
+      <Turn speaker="spk1" startTime="948.809" endTime="952.371">
+        <Sync time="948.809" />
+        ouais c'est clair
+        <Sync time="950.443" />
+        enfin il y a plein de trucs comme ça de ouf
+      </Turn>
+      <Turn speaker="spk2" startTime="952.371" endTime="954.485">
+        <Sync time="952.371" />
+        je savais pas +
+      </Turn>
+      <Turn speaker="spk1" startTime="954.485" endTime="959.431">
+        <Sync time="954.485" />
+        et j'ai été à un mariage aussi là-bas mariage de mon cousin
+        <Sync time="957.108" />
+        c'était trop bien
+      </Turn>
+      <Turn speaker="spk2" startTime="959.431" endTime="960.92">
+        <Sync time="959.431" />
+        putain ça doit être vachement différent
+        <Sync time="960.838" />
+        &lt; ça aussi
+      </Turn>
+      <Turn speaker="spk1" startTime="960.92" endTime="964.336">
+        <Sync time="960.92" />
+        ouais ça c'est pas &gt;
+        <Sync time="961.698" />
+        p- ben d'ailleurs toute la cérémonie c'est pas pareil
+      </Turn>
+      <Turn speaker="spk2" startTime="964.336" endTime="964.763">
+        <Sync time="964.336" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="964.763" endTime="970.15">
+        <Sync time="964.763" />
+        genre euh il y a un mollah qui en fait i- il y a les deux mariés
+      </Turn>
+      <Turn speaker="spk2" startTime="970.15" endTime="970.673">
+        <Sync time="970.15" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="970.673" endTime="974.798">
+        <Sync time="970.673" />
+        et il y a deux les parents qui tiennent un drap au dessus des mariés
+      </Turn>
+      <Turn speaker="spk2" startTime="974.798" endTime="975.344">
+        <Sync time="974.798" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="975.344" endTime="990.533">
+        <Sync time="975.344" />
+        et ils ils ont des des espèces de enfin de de draps et dedans
+        <Sync time="982.44" />
+        il y a des choses et ils tournent je crois que c'est du sucre ou je
+        <Sync time="985.617" />
+        sais pas exactement ce que c'est et ils tournent au dessus de la tête des mariés
+        <Sync time="989.37" />
+        donc sur le drap
+      </Turn>
+      <Turn speaker="spk2" startTime="990.533" endTime="991.02">
+        <Sync time="990.533" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="991.02" endTime="997.092">
+        <Sync time="991.02" />
+        pendant que le mollah il fait son discours et donc c'est ça la cérémonie tu vois
+        <Sync time="996.053" />
+        c'est pas comme euh
+      </Turn>
+      <Turn speaker="spk2" startTime="997.092" endTime="997.681">
+        <Sync time="997.092" />
+        ouais
+      </Turn>
+      <Turn speaker="spk1" startTime="997.681" endTime="1004.436">
+        <Sync time="997.681" />
+        le prêtre et cetera et après en fait en France le repas il dure super longtemps
+        <Sync time="1004.355" />
+        &lt; on est assis super longtemps
+      </Turn>
+      <Turn speaker="spk2" startTime="1004.436" endTime="1005.499">
+        <Sync time="1004.436" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="1005.499" endTime="1018.04">
+        <Sync time="1005.499" />
+        alors que là-bas c'est genre on a été manger dans une salle mais genre tr- en
+        <Sync time="1009.264" />
+        trente minute on a mangé debout c'était super bon tu vois mais on mangé
+        <Sync time="1013.425" />
+        t- pendant trente minutes et tout le reste du temps tu danses bon après
+        <Sync time="1017.134" />
+        il y a des buffets un
+        <Sync time="1017.974" />
+        &lt; peu partout
+      </Turn>
+      <Turn speaker="spk2" startTime="1018.04" endTime="1018.471">
+        <Sync time="1018.04" />
+        ouais &gt;
+      </Turn>
+      <Turn speaker="spk1" startTime="1018.471" endTime="1024.727">
+        <Sync time="1018.471" />
+        pour te servir tu vois mais euh c'est pas du tout pareil en fait
+        <Sync time="1022.195" />
+        c'est c'est vachement de la danse de la musique et tout
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
+

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="../../custom.xsl"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Corpus" audio_filename="lecturecroco_sd.wav" version="10" version_date="120423">
+<Speakers>
+<Speaker id="spk1" name="L1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="L2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="L3" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="310.611">
+<Turn startTime="0" endTime="5.246" speaker="spk1">
+<Sync time="0"/>
+vous savez que les crocodiles ils arrivent à manger sous l'eau tout en respirant en dehors de l'eau
+</Turn>
+<Turn speaker="spk2" startTime="5.246" endTime="5.662">
+<Sync time="5.246"/>
+c'est vrai
+</Turn>
+<Turn speaker="spk3" startTime="5.662" endTime="6.63">
+<Sync time="5.662"/>
+comment ça
+</Turn>
+<Turn speaker="spk1" startTime="6.63" endTime="13.822">
+<Sync time="6.63"/>
+ben ils arrivent à manger sous l'eau + tout en respirant en dehors de l'eau 
+<Sync time="10.943"/>
+tu vois c'est comme si nous 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ on se mettait dans la piscine ou dans le bain
+</Turn>
+<Turn speaker="spk1" startTime="13.822" endTime="14.15">
+<Sync time="13.822"/>
+&lt; ah
+</Turn>
+<Turn speaker="spk1" startTime="14.15" endTime="17.16">
+<Sync time="14.15"/>
+et &gt; qu'on mangeait un sandwich tout en respirant par le nez au dessus de l'eau
+</Turn>
+<Turn speaker="spk3" startTime="17.16" endTime="19.788">
+<Sync time="17.16"/>
+mais c'est impossible parce que le sandwich il serait tout foutu
+</Turn>
+<Turn speaker="spk1" startTime="19.788" endTime="21.724">
+<Sync time="19.788"/>
+ben oui 
+<Event desc="rire en fond" type="noise" extent="previous"/>
+ mais eux ils mangent des trucs sous l'eau
+</Turn>
+<Turn speaker="spk3" startTime="21.724" endTime="22.321">
+<Sync time="21.724"/>
+d'accord
+</Turn>
+<Turn speaker="spk1" startTime="22.321" endTime="26.284">
+<Sync time="22.321"/>
+c'est parce que leur larynx 
+<Event desc="b" type="noise" extent="previous"/>
+ il est + il se remonte jusqu'au dessus des
+</Turn>
+<Turn speaker="spk3" startTime="26.284" endTime="26.952">
+<Sync time="26.284"/>
+&lt; des dents
+</Turn>
+<Turn speaker="spk1" startTime="26.952" endTime="27.596">
+<Sync time="26.952"/>
+des orifices &gt; narinaires qui &lt; sont à
+</Turn>
+<Turn speaker="spk3" startTime="27.596" endTime="28.216">
+<Sync time="27.596"/>
+* &gt;
+</Turn>
+<Turn speaker="spk1" startTime="28.216" endTime="30.625">
+<Sync time="28.216"/>
+l'intérieur du nez + 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="30.625" endTime="31.584">
+<Sync time="30.625"/>
+d'accord
+</Turn>
+<Turn speaker="spk1" startTime="31.584" endTime="36.859">
+<Sync time="31.584"/>
+c'est trop marrant + alors nous on disait 
+<Sync time="33.93"/>
+mais nous aussi on peut respirer en dehors et avoir la bouche dans l'eau 
+<Event desc="bv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="36.859" endTime="37.527">
+<Sync time="36.859"/>
+ben oui
+</Turn>
+<Turn speaker="spk1" startTime="37.527" endTime="44.257">
+<Sync time="37.527"/>
+puis le prof 
+<Comment desc="abréviation de professeur"/>
+ il nous fait 
+<Sync time="38.73"/>
+oui mais le jour où vous mangez un sandwich sous l'eau et en respirant par le nez dehors euh
+<Sync time="42.714"/>
+il nous paie des prunes
+</Turn>
+<Turn speaker="spk2" startTime="44.257" endTime="45.311">
+<Sync time="44.257"/>
+ah ouais parce que ah ouais d'accord
+</Turn>
+<Turn speaker="spk3" startTime="45.311" endTime="46.98">
+<Sync time="45.311"/>
+ah ouais parce que c'est le le * 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="46.98" endTime="47.839">
+<Sync time="46.98"/>
+hum &lt; nous on peut pas
+</Turn>
+<Turn speaker="spk1" startTime="47.839" endTime="48.941">
+<Sync time="47.839"/>
+
+<Event desc="b" type="noise" extent="next"/>
+ on peut pas manger &gt;
+</Turn>
+<Turn speaker="spk2" startTime="48.941" endTime="50.019">
+<Sync time="48.941"/>
+et respirer euh
+</Turn>
+<Turn speaker="spk1" startTime="50.019" endTime="56.653">
+<Sync time="50.019"/>
+nous on peut * à cause 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ de notre larynx on peut soit manger soit respirer 
+<Sync time="53.622"/>
+mais on respire pas en même temps qu'on mange
+<Sync time="55.347"/>
+contrairement à ce qu'on pense
+</Turn>
+<Turn speaker="spk3" startTime="56.653" endTime="57.369">
+<Sync time="56.653"/>
+d'accord
+</Turn>
+<Turn speaker="spk2" startTime="57.369" endTime="57.664">
+<Sync time="57.369"/>
+ben &lt; oui mais euh
+</Turn>
+<Turn speaker="spk1" startTime="57.664" endTime="58.59">
+<Sync time="57.664"/>
+quand tu avales &gt;
+</Turn>
+<Turn speaker="spk2" startTime="58.59" endTime="59.334">
+<Sync time="58.59"/>
+voilà c'est juste
+</Turn>
+<Turn speaker="spk1" startTime="59.334" endTime="59.763">
+<Sync time="59.334"/>
+voilà
+</Turn>
+<Turn speaker="spk2" startTime="59.763" endTime="60.383">
+<Sync time="59.763"/>
+quand tu croques et 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="60.383" endTime="60.841">
+<Sync time="60.383"/>
+voilà 
+</Turn>
+<Turn speaker="spk2" startTime="60.841" endTime="64.804">
+<Sync time="60.841"/>
+juste quand tu avales que mais tu on pourrais le faire ça pourrais être euh 
+<Event desc="bruit" type="noise" extent="previous"/>
+ avec de &lt; la nourriture
+</Turn>
+<Turn speaker="spk3" startTime="64.804" endTime="65.453">
+<Sync time="64.804"/>
+oui &gt;
+</Turn>
+<Turn speaker="spk2" startTime="65.453" endTime="68.129">
+<Sync time="65.453"/>
+adaptée à manger sous l'eau mais que tu croques +
+</Turn>
+<Turn speaker="spk1" startTime="68.129" endTime="73.571">
+<Sync time="68.129"/>
+non + parce que tu vas avoir besoin de l'air qui +
+<Sync time="70.951"/>
+parce que tu vas aspirer de l'air par le nez je pense 
+<Event desc="b" type="noise" extent="previous"/>
+ + enfin
+</Turn>
+<Turn speaker="spk3" startTime="73.571" endTime="75.457">
+<Sync time="73.571"/>
+ben c'est bien justement c'est ce qu'on demande
+</Turn>
+<Turn speaker="spk2" startTime="75.457" endTime="76.061">
+<Sync time="75.457"/>
+parce que tu vois là je suis
+</Turn>
+<Turn speaker="spk1" startTime="76.061" endTime="78.784">
+<Sync time="76.061"/>
+tu vas aspirer de l'eau en fait je pense attends 
+</Turn>
+<Turn speaker="spk2" startTime="78.784" endTime="78.95">
+<Sync time="78.784"/>
+&lt; parce que 
+</Turn>
+<Turn speaker="spk1" startTime="78.95" endTime="79.142">
+<Sync time="78.95"/>
+ah ouais &gt;
+</Turn>
+<Turn speaker="spk2" startTime="79.142" endTime="81.913">
+<Sync time="79.142"/>
+étant donné que 
+<Event desc="b" type="noise" extent="previous"/>
+ l'eau elle s'arrête là euh ben ça change quoi finalement &lt; de
+</Turn>
+<Turn speaker="spk1" startTime="81.913" endTime="82.537">
+<Sync time="81.913"/>
+faudrait &gt;
+</Turn>
+<Turn speaker="spk1" startTime="82.537" endTime="83.749">
+<Sync time="82.537"/>
+essayer 
+<Event desc="rire" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="83.749" endTime="84.465">
+<Sync time="83.749"/>
+dans la baignoire 
+</Turn>
+<Turn speaker="spk2" startTime="84.465" endTime="84.811">
+<Sync time="84.465"/>
+allez &lt; fait couler le bain
+</Turn>
+<Turn speaker="spk1" startTime="84.811" endTime="85.638">
+<Sync time="84.811"/>
+je vais essayer &gt; dans la 
+<Event desc="rire" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="85.638" endTime="86.597">
+<Sync time="85.638"/>
+baignoire
+<Event desc="rire" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="86.597" endTime="91.085">
+<Sync time="86.597"/>
+je suis un crocodile 
+<Event desc="rire" type="noise" extent="previous"/>
+ +
+</Turn>
+<Turn speaker="spk1" startTime="91.085" endTime="97.047">
+<Sync time="91.085"/>
+hum +
+</Turn>
+<Turn speaker="spk3" startTime="97.047" endTime="101.392">
+<Sync time="97.047"/>
+c'est quand même pas tip top ces pâtes + c'est bon mais
+</Turn>
+<Turn speaker="spk1" startTime="101.392" endTime="101.993">
+<Sync time="101.392"/>
+hum
+</Turn>
+<Turn speaker="spk3" startTime="101.993" endTime="102.785">
+<Sync time="101.993"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="102.785" endTime="108.537">
+<Sync time="102.785"/>
+elles font des noeuds 
+<Event desc="bruit" type="noise" extent="previous"/>
+ +
+</Turn>
+<Turn speaker="spk3" startTime="108.537" endTime="110.545">
+<Sync time="108.537"/>
+
+<Event desc="ch" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="110.545" endTime="113.202">
+<Sync time="110.545"/>
+j'ai croisé monsieur ¤N1¤ tout à l'heure ah ben je t'ai dit il m'a &lt; dit
+</Turn>
+<Turn speaker="spk3" startTime="113.202" endTime="114.375">
+<Sync time="113.202"/>
+hum &gt;
+</Turn>
+<Turn speaker="spk1" startTime="114.375" endTime="120.414">
+<Sync time="114.375"/>
+oh ben je vous souhaite une bonne année puis mes meilleurs voeux et puis surtout 
+<Sync time="117.452"/>
+que votre amoureux soit gentil affectueux tendre
+</Turn>
+<Turn speaker="spk3" startTime="120.414" endTime="121.23">
+<Sync time="120.414"/>
+
+<Event desc="rire" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="121.23" endTime="126.076">
+<Sync time="121.23"/>
+patient surtout patient +
+<Sync time="123.75"/>
+parce qu'avec les filles il en faut de la patience hein
+</Turn>
+<Turn speaker="spk3" startTime="126.076" endTime="127.178">
+<Sync time="126.076"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="127.178" endTime="131.237">
+<Sync time="127.178"/>
+puis je le regarde je fais ah bon +
+<Sync time="128.841"/>
+il me fait oh oui croyez croyez en mon expérience
+</Turn>
+<Turn speaker="spk2" startTime="131.237" endTime="133.545">
+<Sync time="131.237"/>
+non j'ai de l'eau moi 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="133.545" endTime="134.021">
+<Sync time="133.545"/>
+cet homme &lt; il est dingue lui
+</Turn>
+<Turn speaker="spk1" startTime="134.021" endTime="136.315">
+<Sync time="134.021"/>
+*** + &gt;
+</Turn>
+<Turn speaker="spk3" startTime="136.315" endTime="139.606">
+<Sync time="136.315"/>
+
+<Event desc="rire " type="noise" extent="instantaneous"/>
+ 
+<Comment desc="chuchotement"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="139.606" endTime="143.231">
+<Sync time="139.606"/>
+mais il est un + il est un peu misogyne quand même hein +
+</Turn>
+<Turn speaker="spk3" startTime="143.231" endTime="148.244">
+<Sync time="143.231"/>
+ben 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ si c'était qu'un peu ça irait 
+<Event desc="rire" type="noise" extent="previous"/>
+ +
+</Turn>
+<Turn speaker="spk1" startTime="148.244" endTime="148.931">
+<Sync time="148.244"/>
+il est trop
+</Turn>
+<Turn speaker="spk2" startTime="148.931" endTime="150.176">
+<Sync time="148.931"/>
+c'est peut-être sa femme ***
+</Turn>
+<Turn speaker="spk3" startTime="150.176" endTime="150.562">
+<Sync time="150.176"/>
+oui &lt; 
+<Event desc="rire" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="150.562" endTime="151.278">
+<Sync time="150.562"/>
+ouais &gt; aussi
+</Turn>
+<Turn speaker="spk2" startTime="151.278" endTime="151.574">
+<Sync time="151.278"/>
+en même &lt; temps
+</Turn>
+<Turn speaker="spk3" startTime="151.574" endTime="152.094">
+<Sync time="151.574"/>
+oui &gt;
+</Turn>
+<Turn speaker="spk1" startTime="152.094" endTime="160.692">
+<Sync time="152.094"/>
+
+<Event desc="rire" type="noise" extent="previous"/>
+ hum des fois tu penses à un truc +
+<Sync time="155.441"/>
+et lui il hurle après en lui disant ce que tu étais en train de te penser 
+<Event desc="rire" type="noise" extent="previous"/>
+
+<Sync time="158.422"/>
+et là tu te dis putain il lit dans mes pensées 
+<Event desc="rires" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="160.692" endTime="162.886">
+<Sync time="160.692"/>
+ mais ben 
+<Event desc="rire" type="noise" extent="previous"/>
+ il est médium
+</Turn>
+<Turn speaker="spk1" startTime="162.886" endTime="163.435">
+<Sync time="162.886"/>
+ben oui
+</Turn>
+<Turn speaker="spk3" startTime="163.435" endTime="178.654">
+<Sync time="163.435"/>
+hein 
+<Event desc="b" type="noise" extent="previous"/>
+ +
+<Sync time="165.419"/>
+parce qu'une fois je me suis dit + oh la vache elle va accoucher ou quoi +
+<Sync time="169.23"/>
+elle arrêtait pas de parler d'un autre truc et 
+<Sync time="170.953"/>
+tout elle change de sujet tout le temps /putain,0/ elle va accoucher 
+<Event desc="rire en fond" type="noise" extent="previous"/>
+
+<Sync time="173.862"/>
+et lui il s'est mis à hurler et putain tu vas accoucher 
+<Event desc="rire" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="178.654" endTime="182.351">
+<Sync time="178.654"/>
+eh ben en ce moment je suis en train de lire "l'Empire des anges" tu vois 
+<Sync time="180.736"/>
+si ça se trouve i- il entend 
+<Event desc="rire en fond" type="noise" extent="previous"/>
+ il voit euh
+</Turn>
+<Turn speaker="spk1" startTime="182.351" endTime="183.286">
+<Sync time="182.351"/>
+j'ai sursauté &lt; ¤P2¤ il a sursauté 
+</Turn>
+<Turn speaker="spk3" startTime="183.286" endTime="184.458">
+<Sync time="183.286"/>
+c'était trop drôle &gt;
+</Turn>
+<Turn speaker="spk1" startTime="184.458" endTime="184.745">
+<Sync time="184.458"/>
+aussi
+</Turn>
+<Turn speaker="spk3" startTime="184.745" endTime="189.042">
+<Sync time="184.745"/>
+mais d'un coup elle a il a fait tu + nan /toi,pas/ tu vas la fermer
+</Turn>
+<Turn speaker="spk1" startTime="189.042" endTime="190.092">
+<Sync time="189.042"/>
+nan tu vas accoucher &lt; oui ou non
+</Turn>
+<Turn speaker="spk1" startTime="190.092" endTime="190.908">
+<Sync time="190.092"/>
+ah oui &gt;
+</Turn>
+<Turn speaker="spk3" startTime="190.908" endTime="194.251">
+<Sync time="190.908"/>
+tu vas accoucher comme ça tu sais l'autre elle a fait vas-y euh 
+<Event desc="rire en fond" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="194.251" endTime="198.992">
+<Sync time="194.251"/>
+moi je me suis regardée à l'intérieur de moi 
+<Sync time="196.614"/>
+je me suis dit merde si ça se trouve il m'a entendue hum 
+<Event desc="rire en fond" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="198.992" endTime="202.55">
+<Sync time="198.992"/>
+est-ce que je le dis euh à haute voix +
+</Turn>
+<Turn speaker="spk1" startTime="202.55" endTime="204.768">
+<Sync time="202.55"/>
+hum "l'Empire des anges" il est super bien
+</Turn>
+<Turn speaker="spk2" startTime="204.768" endTime="207.014">
+<Sync time="204.768"/>
+ah ouais franchement euh +
+</Turn>
+<Turn speaker="spk1" startTime="207.014" endTime="207.873">
+<Sync time="207.014"/>
+hum
+</Turn>
+<Turn speaker="spk2" startTime="207.873" endTime="211.049">
+<Sync time="207.873"/>
+hum les Werber ils sont bien + tous
+</Turn>
+<Turn speaker="spk1" startTime="211.049" endTime="213.291">
+<Sync time="211.049"/>
+ben "Les fourmis" il me motive moins mais
+</Turn>
+<Turn speaker="spk3" startTime="213.291" endTime="213.363">
+<Sync time="213.291"/>
+&lt; c'est la couverture
+</Turn>
+<Turn speaker="spk1" startTime="213.363" endTime="213.96">
+<Sync time="213.363"/>
+tu as déjà e- &gt;
+</Turn>
+<Turn speaker="spk1" startTime="213.96" endTime="214.889">
+<Sync time="213.96"/>
+tu as déjà essayé de lire
+</Turn>
+<Turn speaker="spk2" startTime="214.889" endTime="215.657">
+<Sync time="214.889"/>
+non non non &lt; je suis euh
+</Turn>
+<Turn speaker="spk2" startTime="215.657" endTime="216.759">
+<Sync time="215.657"/>
+hum &gt;
+</Turn>
+<Turn speaker="spk1" startTime="216.759" endTime="220.412">
+<Sync time="216.759"/>
+eh ben c'est que c'est que la couverture mais je te jure que tu lis deux pages et tu vas trouver ça &lt; génial
+</Turn>
+<Turn speaker="spk2" startTime="220.412" endTime="220.842">
+<Sync time="220.412"/>
+c'est vrai &gt;
+</Turn>
+<Turn speaker="spk1" startTime="220.842" endTime="234.219">
+<Sync time="220.842"/>
+ah ouais c'est trop bien + 
+<Sync time="222.833"/>
+mais j'ai lu que le premier et la moitié du deuxième +
+<Sync time="226.073"/>
+je sais plus pourquoi j'ai arrêté 
+<Event desc="b" type="noise" extent="previous"/>
+ +
+<Sync time="227.155"/>
++ mais c'était trop bien je sais pas pourquoi j'ai arrêté d'ailleurs 
+<Event desc="b" type="noise" extent="previous"/>
+ +
+</Turn>
+<Turn speaker="spk3" startTime="234.219" endTime="237.992">
+<Sync time="234.219"/>
+ben + une démotivation un manque de temps
+</Turn>
+<Turn speaker="spk1" startTime="237.992" endTime="238.998">
+<Sync time="237.992"/>
+mais j'aime pas trop les &lt; trucs qui euh
+</Turn>
+<Turn speaker="spk3" startTime="238.998" endTime="239.928">
+<Sync time="238.998"/>
+il y a une pression psychologique &gt;
+</Turn>
+<Turn speaker="spk1" startTime="239.928" endTime="247.755">
+<Sync time="239.928"/>
+nan mais j'aime pas les trucs qui se lisent en trois machins 
+<Event desc="b" type="noise" extent="previous"/>
+ + 
+<Sync time="243.185"/>
+j'aime bien un bouquin où il y en a qu'un + 
+<Event desc="b" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="247.755" endTime="250.908">
+<Sync time="247.755"/>
+comme "Harry Potter" +
+</Turn>
+<Turn speaker="spk2" startTime="250.908" endTime="252.987">
+<Sync time="250.908"/>
+ma soeur ma grande soeur elle les lisait carrément en anglais
+</Turn>
+<Turn speaker="spk3" startTime="252.987" endTime="254.132">
+<Sync time="252.987"/>
+wouah
+</Turn>
+<Turn speaker="spk1" startTime="254.132" endTime="254.388">
+<Sync time="254.132"/>
+&lt; c'est vrai 
+</Turn>
+<Turn speaker="spk2" startTime="254.388" endTime="255.062">
+<Sync time="254.388"/>
+hum &gt;
+</Turn>
+<Turn speaker="spk2" startTime="255.062" endTime="256.255">
+<Sync time="255.062"/>
+ah
+</Turn>
+<Turn speaker="spk3" startTime="256.255" endTime="258.144">
+<Sync time="256.255"/>
+hum +
+</Turn>
+<Turn speaker="spk2" startTime="258.144" endTime="262.322">
+<Sync time="258.144"/>
+ben elle a découvert le premier euh + parce que ¤P3¤ l'avait puis ça lui plaisait et euh +
+</Turn>
+<Turn speaker="spk1" startTime="262.322" endTime="263.324">
+<Sync time="262.322"/>
+du coup pour ses &lt; cours
+</Turn>
+<Turn speaker="spk2" startTime="263.324" endTime="263.543">
+<Sync time="263.324"/>
+ouais &gt;
+</Turn>
+<Turn speaker="spk2" startTime="263.543" endTime="269.319">
+<Sync time="263.543"/>
+résultat euh après elle euh + ouais puis étant donné qu'avec son boulot et tout 
+<Sync time="267.254"/>
+elle va quand-même parler anglais alors ça lui *** euh
+</Turn>
+<Turn speaker="spk1" startTime="269.319" endTime="283.597">
+<Sync time="269.319"/>
+ouais ben ouais + ¤P4¤ elle les a tous lus elle les a tous 
+<Event desc="rire" type="noise" extent="previous"/>
+ + 
+<Sync time="276.411"/>
+il y a des filles de ma classe en ce moment qui sont 
+<Sync time="277.964"/>
+en train de se les échanger ben ¤P5¤ + celle qui était à côté de toi là la petite rigolote
+</Turn>
+<Turn speaker="spk2" startTime="283.597" endTime="284.903">
+<Sync time="283.597"/>
+la blonde là
+</Turn>
+<Turn speaker="spk1" startTime="284.903" endTime="289.363">
+<Sync time="284.903"/>
+hum + celle qui a des petits seins et puis qui euh 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk2" startTime="289.363" endTime="290.868">
+<Sync time="289.363"/>
+celle qui a passé le nouvel an avec son copain 
+</Turn>
+<Turn speaker="spk1" startTime="290.868" endTime="291.175">
+<Sync time="290.868"/>
+oui &lt; 
+<Event desc="rires" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="291.175" endTime="293.059">
+<Sync time="291.175"/>
+qui a pas &gt; euh 
+<Event desc="rire" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="293.059" endTime="293.989">
+<Sync time="293.059"/>
+celle qui a des petits seins
+</Turn>
+<Turn speaker="spk2" startTime="293.989" endTime="295.992">
+<Sync time="293.989"/>
+hum hum 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk1" startTime="295.992" endTime="298.043">
+<Sync time="295.992"/>
+ah ben toute façon on en a parlé hier
+</Turn>
+<Turn speaker="spk3" startTime="298.043" endTime="299.808">
+<Sync time="298.043"/>
+hum hum
+</Turn>
+<Turn speaker="spk1" startTime="299.808" endTime="306.723">
+<Sync time="299.808"/>
+parce qu'elle remontait ses petits seins 
+<Event desc="rire en fond" type="noise" extent="previous"/>
+ + 
+<Sync time="304.299"/>
+alors ¤P6¤ lui a dit oui mais tu en as pas des seins
+</Turn>
+<Turn speaker="spk3" startTime="306.723" endTime="310.611">
+<Sync time="306.723"/>
+
+<Event desc="rire en fond" type="noise" extent="previous"/>
+ ah le bâtard 
+<Event desc="rire en fond" type="noise" extent="previous"/>
+ 
+<Comment desc="fin de l'enregistrement"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

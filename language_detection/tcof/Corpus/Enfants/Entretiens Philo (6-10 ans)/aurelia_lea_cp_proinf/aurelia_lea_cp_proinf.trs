@@ -1,0 +1,2397 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="SOW Youma" audio_filename="aurelia_lea_cp_proinf.wav" version="13" version_date="120524">
+<Speakers>
+<Speaker id="spk319" name="Adulte" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk320" name="Aurélia" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk321" name="Léa" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Topics>
+<Topic id="to1" desc="LS24/05/2012"/>
+</Topics>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="812.522" topic="to1">
+<Turn startTime="0" endTime="2.688" speaker="spk319">
+<Sync time="0"/>
+
+<Event desc="b" type="noise" extent="begin"/>
+ 
+<Event desc="mic" type="noise" extent="begin"/>
+ ouh tu es malade
+</Turn>
+<Turn speaker="spk320" startTime="2.688" endTime="3.204">
+<Sync time="2.688"/>
+hum 
+<Event desc="mic" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="3.204" endTime="20.989">
+<Sync time="3.204"/>
+oui ?
+<Sync time="4.063"/>
+alors de quoi est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ ça parle là ? +
+<Sync time="7.969"/>
+le début de l'histoire ? 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ ///
+<Sync time="13.487"/>
+ça parle de qui ? 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+ + hein ?
+<Sync time="17.442"/>
+d'une petite fille qui s'appelle comment ? 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+<Sync time="20.552"/>
+vous vous rappelez ?
+</Turn>
+<Turn speaker="spk321" startTime="20.989" endTime="21.552">
+<Sync time="20.989"/>
+Elfie
+</Turn>
+<Turn speaker="spk319" startTime="21.552" endTime="22.271">
+<Sync time="21.552"/>
+Elfie
+</Turn>
+<Turn speaker="spk321" startTime="22.271" endTime="22.583">
+<Sync time="22.271"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="22.583" endTime="31.605">
+<Sync time="22.583"/>
+super
+<Sync time="23.021"/>
+Elfie 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et alors ? +
+<Sync time="26.365"/>
+elle a donné son nom
+<Sync time="29.067"/>
+tout à l'heure vous m'avez donné votre nom
+</Turn>
+<Turn speaker="spk320" startTime="31.605" endTime="32.12">
+<Sync time="31.605"/>
+oui 
+<Event desc="mic" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="32.12" endTime="36.072">
+<Sync time="32.12"/>
+oui et est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ 
+<Event desc="mic" type="noise" extent="end"/>
+
+<Sync time="34.354"/>
+vous avez le même 
+<Event desc="lmEm" type="pronounce" extent="previous"/>
+ nom ? &lt; non
+</Turn>
+<Turn speaker="spk321" startTime="36.072" endTime="38.595">
+<Sync time="36.072"/>
+non &gt; +
+</Turn>
+<Turn speaker="spk319" startTime="38.595" endTime="39.815">
+<Sync time="38.595"/>
+et le même prénom ?
+</Turn>
+<Turn speaker="spk320 spk321" startTime="39.815" endTime="41.908">
+<Sync time="39.815"/>
+<Who nb="1"/>
+non +
+<Who nb="2"/>
+non 
+<Event desc="conv" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="41.908" endTime="44.439">
+<Sync time="41.908"/>
+est-ce que vous connaissez quelqu'un 
+<Sync time="43.174"/>
+qui a le même 
+<Event desc="lmEm" type="pronounce" extent="previous"/>
+ euh prénom que &lt; vous ?
+</Turn>
+<Turn speaker="spk321" startTime="44.439" endTime="45.658">
+<Sync time="44.439"/>
+oui &gt; moi 
+<Event desc="mic" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="45.658" endTime="46.736">
+<Sync time="45.658"/>
+tu connais quelqu'un ?
+</Turn>
+<Turn speaker="spk321" startTime="46.736" endTime="47.345">
+<Sync time="46.736"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="47.345" endTime="48.907">
+<Sync time="47.345"/>
+qui c'est ? 
+<Event desc="pap" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk321" startTime="48.907" endTime="55.382">
+<Sync time="48.907"/>
+euh c'est euh une fille euh
+<Sync time="51.798"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ euh c'est une copine à ma mamie
+</Turn>
+<Turn speaker="spk319" startTime="55.382" endTime="58.789">
+<Sync time="55.382"/>
+ouais 
+<Event desc="conv" type="noise" extent="previous"/>
+
+<Sync time="56.648"/>
+et toi tu connais quelqu'un 
+<Event desc="pap" type="noise" extent="end"/>
+
+<Sync time="57.852"/>
+qui a le même prénom que &lt; toi ?
+</Turn>
+<Turn speaker="spk320" startTime="58.789" endTime="61.15">
+<Sync time="58.789"/>
+non &gt; +
+</Turn>
+<Turn speaker="spk319" startTime="61.15" endTime="65.844">
+<Sync time="61.15"/>
+et cette fille
+<Sync time="62.993"/>
+elle est la même fi-
+<Sync time="64.478"/>
+elle est comme toi ?
+</Turn>
+<Turn speaker="spk321" startTime="65.844" endTime="67.172">
+<Sync time="65.844"/>
+non +
+</Turn>
+<Turn speaker="spk319" startTime="67.172" endTime="68.88">
+<Sync time="67.172"/>
+mais elle a le même 
+<Event desc="lmEm" type="pronounce" extent="previous"/>
+ prénom ? 
+<Event desc="pap" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk321" startTime="68.88" endTime="69.664">
+<Sync time="68.88"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="69.664" endTime="78.473">
+<Sync time="69.664"/>
+est-ce que vous croyez que dans le monde +
+<Sync time="72.648"/>
+il y a 
+<Event desc="pap" type="noise" extent="end"/>
+ une petite fille
+<Sync time="74.667"/>
+qui s'appelle comme toi ? + 
+<Event desc="conv" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk320" startTime="78.473" endTime="80.098">
+<Sync time="78.473"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ah si j'en connais une
+</Turn>
+<Turn speaker="spk319" startTime="80.098" endTime="81.161">
+<Sync time="80.098"/>
+tu en 
+<Event desc="ta~" type="pronounce" extent="previous"/>
+ connais une ?
+</Turn>
+<Turn speaker="spk320" startTime="81.161" endTime="83.477">
+<Sync time="81.161"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ une grande qui fait de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ danse
+</Turn>
+<Turn speaker="spk319" startTime="83.477" endTime="84.648">
+<Sync time="83.477"/>
+une grande qui fait de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ danse
+</Turn>
+<Turn speaker="spk320" startTime="84.648" endTime="87.867">
+<Sync time="84.648"/>
+/0,c'est/ une maman
+<Sync time="85.976"/>
+elle s'est cassée le bras 
+<Event desc="lbRa" type="pronounce" extent="previous"/>
+ +
+</Turn>
+<Turn speaker="spk319" startTime="87.867" endTime="89.148">
+<Sync time="87.867"/>
+en faisant 
+<Event desc="fza~" type="pronounce" extent="previous"/>
+ de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ danse ?
+</Turn>
+<Turn speaker="spk320" startTime="89.148" endTime="92.644">
+<Sync time="89.148"/>
+non je sais pas comment
+<Sync time="90.445"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que moi
+<Sync time="90.961"/>
+je fais 
+<Event desc="Sfe" type="pronounce" extent="previous"/>
+ pas de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ danse
+<Sync time="91.743"/>
+je fais 
+<Event desc="Sfe" type="pronounce" extent="previous"/>
+ de la 
+<Event desc="dla" type="pronounce" extent="previous"/>
+ gym
+</Turn>
+<Turn speaker="spk319" startTime="92.644" endTime="95.301">
+<Sync time="92.644"/>
+d'accord
+<Sync time="93.379"/>
+
+<Event desc="rire" type="noise" extent="begin"/>
+ et où tu l'as vue cette dame ? 
+<Event desc="rire" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk320" startTime="95.301" endTime="96.926">
+<Sync time="95.301"/>
+ben c'est Eva qui me l'a 
+<Event desc="mla" type="pronounce" extent="previous"/>
+ dit
+</Turn>
+<Turn speaker="spk319" startTime="96.926" endTime="105.844">
+<Sync time="96.926"/>
+d'accord
+<Sync time="97.613"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ mais donc ça veut dire que
+<Sync time="100.962"/>
+tout le monde 
+<Event desc="lmo~d" type="pronounce" extent="previous"/>
+ a un prénom et un nom
+<Sync time="103.247"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ c'est ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ dit Elfie
+<Sync time="105.248"/>
+hein ?
+</Turn>
+<Turn speaker="spk320" startTime="105.844" endTime="106.485">
+<Sync time="105.844"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="106.485" endTime="129.088">
+<Sync time="106.485"/>
+ouais
+<Sync time="107.594"/>
+et est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ +
+<Sync time="109.61"/>
+vous seriez 
+<Event desc="pap" type="noise" extent="begin"/>
+ quelqu'un d'autre 
+<Sync time="113.375"/>
+si vous aviez 
+<Event desc="pap" type="noise" extent="end"/>
+ un autre prénom ? + 
+<Sync time="118.857"/>
+ah ça c'est la première grande question + 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+<Sync time="122.957"/>
+est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ tu serais quelqu'un d'autre
+<Sync time="125.049"/>
+si tu ne t'appelais 
+<Event desc="taplE" type="pronounce" extent="previous"/>
+ pas +
+<Sync time="127.58"/>
+comme tu t'appelles ?
+</Turn>
+<Turn speaker="spk321" startTime="129.088" endTime="130.463">
+<Sync time="129.088"/>
+non
+</Turn>
+<Turn speaker="spk319" startTime="130.463" endTime="133.76">
+<Sync time="130.463"/>
+non ? +
+<Sync time="132.182"/>
+à ton avis et toi ?
+</Turn>
+<Turn speaker="spk320" startTime="133.76" endTime="134.572">
+<Sync time="133.76"/>
+non plus
+</Turn>
+<Turn speaker="spk319" startTime="134.572" endTime="136.229">
+<Sync time="134.572"/>
+vous êtes d'accord toutes les deux ?
+</Turn>
+<Turn speaker="spk320" startTime="136.229" endTime="136.354">
+<Sync time="136.229"/>
+&lt; oui
+</Turn>
+<Turn speaker="spk321" startTime="136.354" endTime="136.682">
+<Sync time="136.354"/>
+hum &gt;
+</Turn>
+<Turn speaker="spk319" startTime="136.682" endTime="136.947">
+<Sync time="136.682"/>
+alors dites- &lt; moi
+</Turn>
+<Turn speaker="spk320" startTime="136.947" endTime="137.244">
+<Sync time="136.947"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+ &gt;
+</Turn>
+<Turn speaker="spk319" startTime="137.244" endTime="141.994">
+<Sync time="137.244"/>
+pourquoi ? +
+<Sync time="139.524"/>
+pourquoi vous ne seriez 
+<Event desc="ns2Rije" type="pronounce" extent="previous"/>
+
+<Sync time="140.462"/>
+pas quelqu'un d'autre ?
+</Turn>
+<Turn speaker="spk320" startTime="141.994" endTime="144.088">
+<Sync time="141.994"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ qu'on (n') a pas envie
+<Sync time="143.119"/>
+de changer 
+<Event desc="dSa~Ze" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="144.088" endTime="145.494">
+<Sync time="144.088"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que tu (n') as pas envie
+<Sync time="144.916"/>
+de changer 
+<Event desc="dSa~Ze" type="pronounce" extent="previous"/>
+ ?
+</Turn>
+<Turn speaker="spk320" startTime="145.494" endTime="147.213">
+<Sync time="145.494"/>
+non +
+</Turn>
+<Turn speaker="spk319" startTime="147.213" endTime="149.449">
+<Sync time="147.213"/>
+est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ tu es d'accord
+<Sync time="148.088"/>
+avec ce qu'elle 
+<Event desc="skEl" type="pronounce" extent="previous"/>
+ est en train de 
+<Event desc="d" type="pronounce" extent="previous"/>
+ dire ?
+</Turn>
+<Turn speaker="spk321" startTime="149.449" endTime="150.808">
+<Sync time="149.449"/>
+oui +
+</Turn>
+<Turn speaker="spk319" startTime="150.808" endTime="155.053">
+<Sync time="150.808"/>
+donc toi tu crois que
+<Sync time="151.652"/>
+si tu t'appelais 
+<Event desc="taple" type="pronounce" extent="previous"/>
+ + Isabelle ?
+</Turn>
+<Turn speaker="spk321" startTime="155.053" endTime="156.006">
+<Sync time="155.053"/>
+non 
+<Event desc="rire" type="noise" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="156.006" endTime="161.921">
+<Sync time="156.006"/>
+ben si attends
+<Sync time="157.1"/>
+si tu t'appelais 
+<Event desc="taplE" type="pronounce" extent="previous"/>
+ Isabelle +
+<Sync time="159.506"/>
+est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ tu serais quand même toi ? +
+</Turn>
+<Turn speaker="spk321" startTime="161.921" endTime="162.796">
+<Sync time="161.921"/>
+euh oui
+</Turn>
+<Turn speaker="spk319" startTime="162.796" endTime="193.504">
+<Sync time="162.796"/>
+ouais
+<Sync time="163.125"/>
+pourquoi ? ///
+<Sync time="171.875"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que c'est quoi toi ? /// 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+<Sync time="179.68"/>
+comment on peut se décrire ? +
+<Sync time="182.743"/>
+en tout cas on a appris une chose ensemble
+<Sync time="185.353"/>
+c'est pas notre prénom + qui fait + que ben on est soi +
+<Sync time="192.884"/>
+d'accord ?
+</Turn>
+<Turn speaker="spk320" startTime="193.504" endTime="193.941">
+<Sync time="193.504"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="193.941" endTime="200.148">
+<Sync time="193.941"/>
+voilà +
+<Sync time="195.27"/>
+hein ?
+<Sync time="195.723"/>
+moi je pourrais 
+<Event desc="ZpuRE" type="pronounce" extent="previous"/>
+ m'appeler 
+<Event desc="maple" type="pronounce" extent="previous"/>
+ Isabelle
+<Sync time="198.052"/>
+hein ?
+<Sync time="198.552"/>
+et ben je serais 
+<Event desc="sRe" type="pronounce" extent="previous"/>
+ toujours moi
+</Turn>
+<Turn speaker="spk320" startTime="200.148" endTime="201.164">
+<Sync time="200.148"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+ +
+</Turn>
+<Turn speaker="spk319" startTime="201.164" endTime="202.117">
+<Sync time="201.164"/>
+tu es d'accord ?
+</Turn>
+<Turn speaker="spk321" startTime="202.117" endTime="202.539">
+<Sync time="202.117"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="202.539" endTime="205.383">
+<Sync time="202.539"/>
+sauf que je m'appelerais 
+<Event desc="ZmapElRE" type="pronounce" extent="previous"/>
+ pas Christine +
+<Sync time="204.711"/>
+ça c'est sûr
+</Turn>
+<Turn speaker="spk321" startTime="205.383" endTime="205.853">
+<Sync time="205.383"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="205.853" endTime="209.65">
+<Sync time="205.853"/>
+hein ?
+<Sync time="206.54"/>
+qu'est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ ça changerait 
+<Event desc="Sa~ZRE" type="pronounce" extent="previous"/>
+ ? +
+</Turn>
+<Turn speaker="spk320" startTime="209.65" endTime="216.76">
+<Sync time="209.65"/>
+ça changerait 
+<Event desc="Sa~ZRE" type="pronounce" extent="previous"/>
+ que
+<Sync time="210.95"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ si on change
+<Sync time="212.323"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et qu'on change tout
+<Sync time="213.869"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben on (n') a pas les mêmes cheveux
+</Turn>
+<Turn speaker="spk319" startTime="216.76" endTime="223.463">
+<Sync time="216.76"/>
+ah tu crois que 
+<Sync time="217.26"/>
+si je m'appelerais 
+<Event desc="ZmapElRE" type="pronounce" extent="previous"/>
+ + Isabelle
+<Sync time="218.995"/>
+j'aurais pas les mêmes cheveux +
+<Sync time="220.776"/>
+hein ?
+<Sync time="222.229"/>
+tu crois ça ? +
+</Turn>
+<Turn speaker="spk320" startTime="223.463" endTime="224.01">
+<Sync time="223.463"/>
+hum
+</Turn>
+<Turn speaker="spk319" startTime="224.01" endTime="225.933">
+<Sync time="224.01"/>
+ouais ?
+<Sync time="224.729"/>
+et toi tu es d'accord ?
+</Turn>
+<Turn speaker="spk321" startTime="225.933" endTime="226.652">
+<Sync time="225.933"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="226.652" endTime="227.23">
+<Sync time="226.652"/>
+ouais ?
+</Turn>
+<Turn speaker="spk321" startTime="227.23" endTime="229.215">
+<Sync time="227.23"/>
+et on (n') aura pas la même tête
+</Turn>
+<Turn speaker="spk319" startTime="229.215" endTime="239.151">
+<Sync time="229.215"/>
+et on (n') aurait pas la même tête
+<Sync time="231.387"/>
+d'accord 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="233.074"/>
+donc on serait 
+<Event desc="sRE" type="pronounce" extent="previous"/>
+ quelqu'un d'autre +
+<Sync time="237.371"/>
+c'est ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+
+<Sync time="237.698"/>
+vous êtes en train de me dire 
+<Event desc="mdiR" type="pronounce" extent="previous"/>
+ ?
+</Turn>
+<Turn speaker="spk320" startTime="239.151" endTime="239.338">
+<Sync time="239.151"/>
+&lt; oui
+</Turn>
+<Turn speaker="spk321" startTime="239.338" endTime="239.823">
+<Sync time="239.338"/>
+oui &gt;
+</Turn>
+<Turn speaker="spk319" startTime="239.823" endTime="243.792">
+<Sync time="239.823"/>
+on serait 
+<Event desc="sRE" type="pronounce" extent="previous"/>
+ quelqu'un d'autre d'accord
+<Sync time="241.26"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ à qui on donne des noms ? +
+</Turn>
+<Turn speaker="spk320" startTime="243.792" endTime="245.261">
+<Sync time="243.792"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ aux personnes
+</Turn>
+<Turn speaker="spk319" startTime="245.261" endTime="248.979">
+<Sync time="245.261"/>
+aux personnes
+<Sync time="246.339"/>
+et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ ? +
+</Turn>
+<Turn speaker="spk320" startTime="248.979" endTime="254.104">
+<Sync time="248.979"/>
+ben sinon quand on est bébé(s)
+<Sync time="250.179"/>
+la maman elle sait déjà son nom 
+<Sync time="251.76"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben on peut déjà 
+<Event desc="daZa" type="pronounce" extent="previous"/>
+ le savoir
+</Turn>
+<Turn speaker="spk319" startTime="254.104" endTime="258.119">
+<Sync time="254.104"/>
+ouais
+<Sync time="254.744"/>
+c'est vrai qu'on donne 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="255.791"/>
+vous savez quand est-ce qu'on 
+<Event desc="sko~" type="pronounce" extent="previous"/>
+
+<Sync time="256.619"/>
+donne le nom à une personne ?
+</Turn>
+<Turn speaker="spk320" startTime="258.119" endTime="258.322">
+<Sync time="258.119"/>
+&lt; non
+</Turn>
+<Turn speaker="spk321" startTime="258.322" endTime="259.087">
+<Sync time="258.322"/>
+non &gt;
+</Turn>
+<Turn speaker="spk319" startTime="259.087" endTime="263.588">
+<Sync time="259.087"/>
+ben quand on quand on naît +
+<Sync time="261.15"/>
+quand on naît c'est-à-dire
+<Sync time="261.963"/>
+quand on quand c'est la naissance
+</Turn>
+<Turn speaker="spk321" startTime="263.588" endTime="268.183">
+<Sync time="263.588"/>
+ben moi
+<Sync time="264.104"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ma maman elle a un bébé dans son ventre
+<Sync time="266.354"/>
+elle sait déjà
+<Sync time="267.167"/>
+comment il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ va &lt; s'appeler 
+<Event desc="saple" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="268.183" endTime="271.667">
+<Sync time="268.183"/>
+et ben &gt; alors c'est ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+
+<Sync time="269.496"/>
+je voulais 
+<Event desc="ZvulE" type="pronounce" extent="previous"/>
+ dire oui
+<Sync time="270.604"/>
+c'est exactement ce 
+<Event desc="sl2" type="pronounce" extent="previous"/>
+ &lt; à quoi je pensais
+</Turn>
+<Turn speaker="spk320" startTime="271.667" endTime="282.103">
+<Sync time="271.667"/>
+et ben ma maman &gt; 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ quand quand elle était petite
+<Sync time="274.995"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ y avait quelqu'un 
+<Sync time="276.729"/>
+qui était dans son ventre 
+<Event desc="va~t" type="pronounce" extent="previous"/>
+
+<Sync time="277.885"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et elle sait elle savait déjà
+<Sync time="279.572"/>
+comment elle s'appelait 
+<Event desc="saple" type="pronounce" extent="previous"/>
+
+<Sync time="280.275"/>
+elle s'appelait 
+<Event desc="saple" type="pronounce" extent="previous"/>
+ Olga +
+</Turn>
+<Turn speaker="spk319" startTime="282.103" endTime="283.384">
+<Sync time="282.103"/>
+
+<Event desc="rire" type="noise" extent="begin"/>
+ c'était qui ? 
+<Event desc="rire" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk320" startTime="283.384" endTime="284.212">
+<Sync time="283.384"/>
+ma maman
+</Turn>
+<Turn speaker="spk319" startTime="284.212" endTime="285.76">
+<Sync time="284.212"/>
+ah oui et ben oui &lt; ta maman
+</Turn>
+<Turn speaker="spk320" startTime="285.76" endTime="287.416">
+<Sync time="285.76"/>
+et après &gt; elle a fait un bébé 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="287.416" endTime="287.791">
+<Sync time="287.416"/>
+oui
+</Turn>
+<Turn speaker="spk320" startTime="287.791" endTime="290.26">
+<Sync time="287.791"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ c'était Alex après c'était moi
+</Turn>
+<Turn speaker="spk319" startTime="290.26" endTime="304.416">
+<Sync time="290.26"/>
+d'accord oui 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ donc en fait vous avez raison
+<Sync time="294.681"/>
+moi je me 
+<Event desc="Zm2" type="pronounce" extent="previous"/>
+ suis trompée
+<Sync time="295.666"/>
+j'ai dit qu'on donnait un nom aux enfants +
+<Sync time="299.229"/>
+quand ils naissaient
+<Sync time="300.682"/>
+mais vous vous m'avez dit non
+<Sync time="302.416"/>
+on leur donne déjà un nom &lt; avant
+</Turn>
+<Turn speaker="spk320" startTime="304.416" endTime="305.87">
+<Sync time="304.416"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ &gt;
+</Turn>
+<Turn speaker="spk319" startTime="305.87" endTime="308.698">
+<Sync time="305.87"/>
+quand ils sont encore dans le ventre de la maman
+</Turn>
+<Turn speaker="spk320" startTime="308.698" endTime="318.24">
+<Sync time="308.698"/>
+oui parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que ma maman elle m'a
+<Sync time="310.292"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle m'a dit quand j'ai quand j'avais cinq ans
+<Sync time="312.948"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben elle m'avait dit que
+<Sync time="315.459"/>
+je savais déjà ton nom 
+<Sync time="316.803"/>
+quand tu étais 
+<Event desc="tetE" type="pronounce" extent="previous"/>
+ petite
+</Turn>
+<Turn speaker="spk319" startTime="318.24" endTime="320.037">
+<Sync time="318.24"/>
+ouais même plus que petite petite &lt; comme ça
+</Turn>
+<Turn speaker="spk320" startTime="320.037" endTime="320.428">
+<Sync time="320.037"/>
+hum &gt;
+</Turn>
+<Turn speaker="spk319" startTime="320.428" endTime="321.21">
+<Sync time="320.428"/>
+tu veux dire ?
+</Turn>
+<Turn speaker="spk320" startTime="321.21" endTime="321.726">
+<Sync time="321.21"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="321.726" endTime="324.586">
+<Sync time="321.726"/>
+oui oui et toi ?
+</Turn>
+<Turn speaker="spk321" startTime="324.586" endTime="327.586">
+<Sync time="324.586"/>
+ben 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ + 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="327.586" endTime="329.445">
+<Sync time="327.586"/>
+tu m'as dit que ta 
+<Event desc="kta" type="pronounce" extent="previous"/>
+ maman
+<Sync time="328.414"/>
+elle attendait un bébé
+</Turn>
+<Turn speaker="spk321" startTime="329.445" endTime="330.148">
+<Sync time="329.445"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="330.148" endTime="332.148">
+<Sync time="330.148"/>
+et alors c'est quoi le nom du bébé ?
+</Turn>
+<Turn speaker="spk321" startTime="332.148" endTime="332.82">
+<Sync time="332.148"/>
+Lucas
+</Turn>
+<Turn speaker="spk319" startTime="332.82" endTime="336.382">
+<Sync time="332.82"/>
+Lucas 
+<Event desc="pap" type="noise" extent="instantaneous"/>
+
+<Sync time="334.023"/>
+donc elle sait déjà que c'est 
+<Event desc="kse" type="pronounce" extent="previous"/>
+ un garçon
+</Turn>
+<Turn speaker="spk321" startTime="336.382" endTime="338.789">
+<Sync time="336.382"/>
+oui 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="336.976"/>
+et en plus il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ deux Lucas &lt; j'en connais
+</Turn>
+<Turn speaker="spk319" startTime="338.789" endTime="339.43">
+<Sync time="338.789"/>
+où /c-,ç-/ ? &gt;
+</Turn>
+<Turn speaker="spk321" startTime="339.43" endTime="340.212">
+<Sync time="339.43"/>
+un
+</Turn>
+<Turn speaker="spk319" startTime="340.212" endTime="342.212">
+<Sync time="340.212"/>
+ah ben est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ ce sera 
+<Event desc="sRa" type="pronounce" extent="previous"/>
+ les mêmes ?
+</Turn>
+<Turn speaker="spk321" startTime="342.212" endTime="344.79">
+<Sync time="342.212"/>
+non non je crois 
+<Event desc="ZkRwa" type="pronounce" extent="previous"/>
+ pas
+</Turn>
+<Turn speaker="spk319" startTime="344.79" endTime="346.743">
+<Sync time="344.79"/>
+non je suis 
+<Event desc="SHi" type="pronounce" extent="previous"/>
+ même sûre que non &lt; hein ?
+</Turn>
+<Turn speaker="spk320" startTime="346.743" endTime="347.868">
+<Sync time="346.743"/>
+ben &gt; moi aussi
+</Turn>
+<Turn speaker="spk319" startTime="347.868" endTime="350.305">
+<Sync time="347.868"/>
+pourquoi ça sera pas les mêmes ? +
+</Turn>
+<Turn speaker="spk320" startTime="350.305" endTime="353.664">
+<Sync time="350.305"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ ils ont pas m- ils é-
+<Sync time="351.883"/>
+ils étaient pas nés en même temps
+</Turn>
+<Turn speaker="spk319" startTime="353.664" endTime="355.788">
+<Sync time="353.664"/>
+ouais
+<Sync time="354.57"/>
+et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ à votre &lt; avis ?
+</Turn>
+<Turn speaker="spk320" startTime="355.788" endTime="358.898">
+<Sync time="355.788"/>
+en &gt; plus il est déjà 
+<Event desc="dZa" type="pronounce" extent="previous"/>
+ grand
+<Sync time="357.695"/>
+et lui il est déjà 
+<Event desc="dZa" type="pronounce" extent="previous"/>
+ petit
+</Turn>
+<Turn speaker="spk319" startTime="358.898" endTime="360.195">
+<Sync time="358.898"/>
+ouais ça /veut,peut/ pas être 
+<Event desc="Et" type="pronounce" extent="previous"/>
+ les mêmes
+</Turn>
+<Turn speaker="spk320" startTime="360.195" endTime="360.648">
+<Sync time="360.195"/>
+hum
+</Turn>
+<Turn speaker="spk319" startTime="360.648" endTime="361.523">
+<Sync time="360.648"/>
+on est d'accord ?
+</Turn>
+<Turn speaker="spk320" startTime="361.523" endTime="361.914">
+<Sync time="361.523"/>
+&lt; hum
+</Turn>
+<Turn speaker="spk321" startTime="361.914" endTime="362.07">
+<Sync time="361.914"/>
+hum oui &gt;
+</Turn>
+<Turn speaker="spk319" startTime="362.07" endTime="370.633">
+<Sync time="362.07"/>
+donc on a dit qu'on donnait des noms
+<Sync time="363.632"/>
+vous avez dit qu'on donnait des noms
+<Sync time="364.866"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ aux enfants avant même qu'ils naissent 
+<Event desc="pap" type="noise" extent="begin"/>
+
+<Sync time="368.493"/>
+quand ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ sont encore
+<Sync time="369.134"/>
+dans le ventre de &lt; leurs mamans
+</Turn>
+<Turn speaker="spk320" startTime="370.633" endTime="370.649">
+<Sync time="370.633"/>
+mamans
+</Turn>
+<Turn speaker="spk321" startTime="370.649" endTime="371.586">
+<Sync time="370.649"/>
+mamans &gt; 
+<Event desc="pap" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="371.586" endTime="377.126">
+<Sync time="371.586"/>
+est-ce qu'on donne des noms à d'autres + choses ? 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk321" startTime="377.126" endTime="380.188">
+<Sync time="377.126"/>
+hum oui aux chiens et aux chats
+</Turn>
+<Turn speaker="spk319" startTime="380.188" endTime="381.954">
+<Sync time="380.188"/>
+ouais aux chiens et aux chats
+</Turn>
+<Turn speaker="spk320" startTime="381.954" endTime="384.657">
+<Sync time="381.954"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben moi mon chat il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle Nougat
+</Turn>
+<Turn speaker="spk319" startTime="384.657" endTime="385.501">
+<Sync time="384.657"/>
+comment Nougat ?
+</Turn>
+<Turn speaker="spk320" startTime="385.501" endTime="385.969">
+<Sync time="385.501"/>
+oui
+</Turn>
+<Turn speaker="spk321" startTime="385.969" endTime="393.282">
+<Sync time="385.969"/>
+et ben moi ma mamie et mon papi
+<Sync time="387.954"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ avaient un chien
+<Sync time="389.157"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ mais il est mort
+<Sync time="390.64"/>
+et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ elle s'appelait 
+<Event desc="saple" type="pronounce" extent="previous"/>
+ Spooky
+</Turn>
+<Turn speaker="spk319" startTime="393.282" endTime="394.064">
+<Sync time="393.282"/>
+Spooky ?
+</Turn>
+<Turn speaker="spk320" startTime="394.064" endTime="399.47">
+<Sync time="394.064"/>
+et ma mamie et mon papi
+<Sync time="395.392"/>
+avant ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ avaient un chien
+<Sync time="396.595"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il est pas mort mais ils l'ont perdu
+</Turn>
+<Turn speaker="spk319" startTime="399.47" endTime="400.314">
+<Sync time="399.47"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'est enfui ?
+</Turn>
+<Turn speaker="spk320" startTime="400.314" endTime="400.876">
+<Sync time="400.314"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="400.876" endTime="407.797">
+<Sync time="400.876"/>
+ouais ben moi j'avais un chat
+<Sync time="402.564"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ j'en ai un qui s'appelait /Charly,Charlie/
+<Sync time="404.97"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ j'en ai
+<Sync time="405.688"/>
+j'ai une chatte qui s'appelle *** 
+<Event desc="kifkif" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk320" startTime="407.797" endTime="408.36">
+<Sync time="407.797"/>
+hum
+</Turn>
+<Turn speaker="spk319" startTime="408.36" endTime="411.501">
+<Sync time="408.36"/>
+
+<Event desc="rire" type="noise" extent="begin"/>
+ et j'ai /0,eu/ 
+<Event desc="rire" type="noise" extent="end"/>
+ un chat qui s'appellait Diogène
+</Turn>
+<Turn speaker="spk320" startTime="411.501" endTime="412.845">
+<Sync time="411.501"/>
+c'est beau Diogène
+</Turn>
+<Turn speaker="spk319" startTime="412.845" endTime="422.417">
+<Sync time="412.845"/>
+
+<Event desc="rire" type="noise" extent="next"/>
+ ouais 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+<Sync time="413.564"/>
+et maintenant + et ben Diogène est mort
+<Sync time="416.877"/>
+donc on attend d'avoir un * 
+<Event desc="n" type="pronounce" extent="previous"/>
+
+<Sync time="418.346"/>
+des autres 
+<Event desc="zot" type="pronounce" extent="previous"/>
+ petits chats
+<Sync time="419.417"/>
+qui vont bientôt naître
+<Sync time="420.651"/>
+mais on leur pas encore donné de nom
+</Turn>
+<Turn speaker="spk320" startTime="422.417" endTime="423.323">
+<Sync time="422.417"/>
+hum
+</Turn>
+<Turn speaker="spk319" startTime="423.323" endTime="423.776">
+<Sync time="423.323"/>
+*
+</Turn>
+<Turn speaker="spk320" startTime="423.776" endTime="424.057">
+<Sync time="423.776"/>
+&lt; il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut savoir
+</Turn>
+<Turn speaker="spk321" startTime="424.057" endTime="425.479">
+<Sync time="424.057"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle Gédéon &gt;
+</Turn>
+<Turn speaker="spk319" startTime="425.479" endTime="426.386">
+<Sync time="425.479"/>
+Gédéon ?
+</Turn>
+<Turn speaker="spk321" startTime="426.386" endTime="426.729">
+<Sync time="426.386"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="426.729" endTime="427.12">
+<Sync time="426.729"/>
+ouais
+</Turn>
+<Turn speaker="spk320" startTime="427.12" endTime="427.558">
+<Sync time="427.12"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ &lt; il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ veut
+</Turn>
+<Turn speaker="spk319" startTime="427.558" endTime="428.09">
+<Sync time="427.558"/>
+ouais &gt;
+</Turn>
+<Turn speaker="spk320" startTime="428.09" endTime="430.823">
+<Sync time="428.09"/>
+d'abord savoir 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ comment il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="430.823" endTime="431.51">
+<Sync time="430.823"/>
+comment il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ s'appelle ?
+</Turn>
+<Turn speaker="spk320" startTime="431.51" endTime="437.885">
+<Sync time="431.51"/>
+oui 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ quand quand il est encore
+<Sync time="433.885"/>
+dans le ventre 
+<Event desc="lva~tR" type="pronounce" extent="previous"/>
+
+<Sync time="434.869"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ faut déjà euh savoir
+<Sync time="436.619"/>
+mais si tu le sais 
+<Event desc="lse" type="pronounce" extent="previous"/>
+ pas 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="437.885" endTime="438.119">
+<Sync time="437.885"/>
+ouais
+</Turn>
+<Turn speaker="spk320" startTime="438.119" endTime="441.779">
+<Sync time="438.119"/>
+et ben 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ ben tu peux pas le savoir encore ?
+</Turn>
+<Turn speaker="spk319" startTime="441.779" endTime="449.543">
+<Sync time="441.779"/>
+non non non et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ un chat
+<Sync time="443.604"/>
+c'est pas pareil
+<Sync time="444.135"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que souvent un chat
+<Sync time="445.526"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ quand on le voit 
+<Event desc="lvwa" type="pronounce" extent="previous"/>
+
+<Sync time="446.635"/>
+on a envie 
+<Sync time="447.198"/>
+de lui 
+<Event desc="dlHi" type="pronounce" extent="previous"/>
+ donner un prénom ou un chien
+</Turn>
+<Turn speaker="spk320" startTime="449.543" endTime="449.981">
+<Sync time="449.543"/>
+hum &lt; ouais
+</Turn>
+<Turn speaker="spk319" startTime="449.981" endTime="455.558">
+<Sync time="449.981"/>
+hein ? &gt; voilà moi moi j'ai deux garçons
+<Sync time="451.668"/>
+et ils se disputent 
+<Event desc="sdispyt" type="pronounce" extent="previous"/>
+ déjà
+<Sync time="452.496"/>
+pour savoir quel est le nom du chat qu'on aura
+<Sync time="455.246"/>
+et comme &lt; on sait pas
+</Turn>
+<Turn speaker="spk320" startTime="455.558" endTime="455.917">
+<Sync time="455.558"/>
+*** &gt;
+</Turn>
+<Turn speaker="spk319" startTime="455.917" endTime="458.277">
+<Sync time="455.917"/>
+si c'est une petite chatte ou un petit chat
+</Turn>
+<Turn speaker="spk320" startTime="458.277" endTime="465.815">
+<Sync time="458.277"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ peuvent faire d'abord
+<Sync time="460.029"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ 
+<Event desc="conv" type="noise" extent="begin"/>
+ peuvent faire
+<Sync time="461.428"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ comme tu as 
+<Event desc="ta" type="pronounce" extent="previous"/>
+ deux chats
+<Sync time="462.49"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ peuvent faire 
+<Event desc="conv" type="noise" extent="end"/>
+
+<Sync time="463.143"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ l'autre 
+<Event desc="lot" type="pronounce" extent="previous"/>
+ c'est son chat et
+<Sync time="464.909"/>
+l'autre 
+<Event desc="lot" type="pronounce" extent="previous"/>
+ c'est son chat
+</Turn>
+<Turn speaker="spk319" startTime="465.815" endTime="477.844">
+<Sync time="465.815"/>
+exactement c'est ce qu'on 
+<Event desc="sko~" type="pronounce" extent="previous"/>
+ va faire +
+<Sync time="467.814"/>
+alors donc on a appris ensemble
+<Sync time="469.516"/>
+qu'on donnait aussi des noms
+<Sync time="470.579"/>
+aux chats et aux chiens
+<Sync time="472.016"/>
+pourquoi on donne des noms
+<Sync time="472.813"/>
+aux enfants aux chiens et aux chats +
+<Sync time="475.11"/>
+et pas euh aux autres 
+<Event desc="zot" type="pronounce" extent="previous"/>
+ choses ? +
+</Turn>
+<Turn speaker="spk321" startTime="477.844" endTime="480.813">
+<Sync time="477.844"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que si on l'a déjà trouvé
+<Sync time="479.203"/>
+on peut plus 
+<Event desc="py" type="pronounce" extent="previous"/>
+ changer
+</Turn>
+<Turn speaker="spk319" startTime="480.813" endTime="487.485">
+<Sync time="480.813"/>
+hum hum +
+<Sync time="482.938"/>
+est-ce qu'on donne encore
+<Sync time="483.625"/>
+des noms à d'autres 
+<Event desc="dot" type="pronounce" extent="previous"/>
+ choses ?
+<Sync time="484.485"/>
+que des chats et des chiens et des enfants ?
+</Turn>
+<Turn speaker="spk321" startTime="487.485" endTime="490.516">
+<Sync time="487.485"/>
+euh euh +
+</Turn>
+<Turn speaker="spk320" startTime="490.516" endTime="494.813">
+<Sync time="490.516"/>
+*** 
+<Event desc="SeRse ?" type="pronounce" extent="previous"/>
+ au tigre
+<Sync time="492.641"/>
+quand il est petit dans son ventre +
+</Turn>
+<Turn speaker="spk319" startTime="494.813" endTime="495.141">
+<Sync time="494.813"/>
+ouais &lt; * 
+<Event desc="u" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk321" startTime="495.141" endTime="497.032">
+<Sync time="495.141"/>
+et &gt; aux autres 
+<Event desc="zot" type="pronounce" extent="previous"/>
+ animaux
+</Turn>
+<Turn speaker="spk319" startTime="497.032" endTime="502.422">
+<Sync time="497.032"/>
+on peut donner des noms aux animaux
+<Sync time="498.782"/>
+ouais
+<Sync time="499.438"/>
+mais à quels animaux on donne des noms ? +
+</Turn>
+<Turn speaker="spk320" startTime="502.422" endTime="505.562">
+<Sync time="502.422"/>
+aux girafes
+<Sync time="503.015"/>
+quand ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ 
+<Comment desc="Interprétation = elles"/>
+ sont petites
+<Sync time="504.422"/>
+encore dans le ventre 
+<Event desc="lva~tR" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="505.562" endTime="506.952">
+<Sync time="505.562"/>
+ouais c'est possible tu es &lt; d'accord toi ?
+</Turn>
+<Turn speaker="spk321" startTime="506.952" endTime="508.822">
+<Sync time="506.952"/>
+aux lions &gt; hum aux lions
+</Turn>
+<Turn speaker="spk319" startTime="508.822" endTime="511.102">
+<Sync time="508.822"/>
+ouais +
+<Sync time="510.462"/>
+vous pensez pas qu'on &lt; donne des noms
+</Turn>
+<Turn speaker="spk320" startTime="511.102" endTime="513.134">
+<Sync time="511.102"/>
+par exemple &gt; aux tortues
+</Turn>
+<Turn speaker="spk319" startTime="513.134" endTime="514.467">
+<Sync time="513.134"/>
+oui pourquoi les tortues ?
+</Turn>
+<Turn speaker="spk320" startTime="514.467" endTime="531.151">
+<Sync time="514.467"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ parce 
+<Event desc="s" type="pronounce" extent="previous"/>
+ que les tortues +
+<Sync time="518.064"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ 
+<Comment desc="Interprétation = elles"/>
+ euh pondent des oeufs
+<Sync time="519.346"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ 
+<Comment desc="Interprétation = elles"/>
+ les enterrent
+<Sync time="520.331"/>
+dans un sol
+<Sync time="521.159"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et après la maman elle s'enfuit
+<Sync time="522.722"/>
+et après ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ viennent
+<Sync time="524.003"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ viennent 
+<Comment desc="Interprétation = deviennent"/>
+
+<Sync time="524.472"/>
+tout petits
+<Sync time="524.986"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et après 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et après 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ si il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ un poisson
+<Sync time="527.823"/>
+qui /0,les/ voit
+<Sync time="528.604"/>
+ou un requin
+<Sync time="529.651"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben il les mange
+</Turn>
+<Turn speaker="spk319" startTime="531.151" endTime="533.917">
+<Sync time="531.151"/>
+ouais
+<Sync time="531.51"/>
+et qui c'est qui donne le nom alors aux tortues ? +
+</Turn>
+<Turn speaker="spk320" startTime="533.917" endTime="534.933">
+<Sync time="533.917"/>
+c'est la maman
+</Turn>
+<Turn speaker="spk319" startTime="534.933" endTime="535.949">
+<Sync time="534.933"/>
+ouais
+</Turn>
+<Turn speaker="spk321" startTime="535.949" endTime="538.527">
+<Sync time="535.949"/>
+et il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ aussi euh les oiseaux
+</Turn>
+<Turn speaker="spk319" startTime="538.527" endTime="539.241">
+<Sync time="538.527"/>
+oui
+</Turn>
+<Turn speaker="spk321" startTime="539.241" endTime="551.428">
+<Sync time="539.241"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ + et ben la maman elle fait des oeufs +
+<Sync time="545.538"/>
+elle les couvre
+<Sync time="547.022"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et puis elle attend que les oiseaux
+<Sync time="550.678"/>
+ils 
+<Event desc="i" type="pronounce" extent="previous"/>
+ naissent
+</Turn>
+<Turn speaker="spk319" startTime="551.428" endTime="551.6">
+<Sync time="551.428"/>
+&lt; d'accord
+</Turn>
+<Turn speaker="spk320" startTime="551.6" endTime="571.545">
+<Sync time="551.6"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ &gt; et un jour quand on était à la ferme
+<Sync time="553.647"/>
+chez les moyens
+<Sync time="554.361"/>
+moi et Léa et les autres 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben
+<Sync time="556.411"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ y avait une madame
+<Sync time="558.051"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ qui nous a montré le corps de la poule
+<Sync time="561.019"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ comment elle a fait 
+<Event desc="soRkle" type="pronounce" extent="next"/>
+ sorti 
+<Comment desc="sic"/>
+
+<Sync time="562.707"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle nous elle nous
+<Sync time="564.582"/>
+elle nous a montré l'oeuf
+<Sync time="565.738"/>
+après elle l'a cassé et elle l'a pas fait cuire
+<Sync time="568.295"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ mais elle a montré 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ où il est le bébé
+</Turn>
+<Turn speaker="spk319" startTime="571.545" endTime="571.842">
+<Sync time="571.545"/>
+oui
+</Turn>
+<Turn speaker="spk320" startTime="571.842" endTime="572.217">
+<Sync time="571.842"/>
+béb-
+</Turn>
+<Turn speaker="spk319" startTime="572.217" endTime="572.749">
+<Sync time="572.217"/>
+enfin 
+<Event desc="fe~" type="pronounce" extent="previous"/>
+ ce qui 
+<Event desc="ski" type="pronounce" extent="previous"/>
+ aurait &lt; pu être un bébé 
+</Turn>
+<Turn speaker="spk320" startTime="572.749" endTime="573.405">
+<Sync time="572.749"/>
+dans un pot &gt;
+</Turn>
+<Turn speaker="spk319" startTime="573.405" endTime="574.28">
+<Sync time="573.405"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk321" startTime="574.28" endTime="574.78">
+<Sync time="574.28"/>
+et puis 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ elle &lt; nous
+</Turn>
+<Turn speaker="spk320" startTime="574.78" endTime="575.889">
+<Sync time="574.78"/>
+dans &gt; un pot
+</Turn>
+<Turn speaker="spk319" startTime="575.889" endTime="576.952">
+<Sync time="575.889"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ ouais
+</Turn>
+<Turn speaker="spk320" startTime="576.952" endTime="580.147">
+<Sync time="576.952"/>
+mais elle a cassé l'oeuf
+<Sync time="577.944"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ pour * 
+<Event desc="k" type="pronounce" extent="previous"/>
+ savoir 
+<Event desc="sawva" type="pronounce" extent="previous"/>
+
+<Sync time="578.991"/>
+où il est le bébé
+</Turn>
+<Turn speaker="spk319" startTime="580.147" endTime="581.382">
+<Sync time="580.147"/>
+d'accord ouais
+</Turn>
+<Turn speaker="spk321" startTime="581.382" endTime="589.873">
+<Sync time="581.382"/>
+et puis euh 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ +
+<Sync time="583.695"/>
+et la dame elle de la ferme elle nous a fait euh
+<Sync time="587.092"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ porter les poules +
+</Turn>
+<Turn speaker="spk319" startTime="589.873" endTime="590.95">
+<Sync time="589.873"/>
+ouais 
+<Event desc="i" type="noise" extent="previous"/>
+ elle les &lt; elles les
+</Turn>
+<Turn speaker="spk321" startTime="590.95" endTime="591.2">
+<Sync time="590.95"/>
+elle les &gt;
+</Turn>
+<Turn speaker="spk319" startTime="591.2" endTime="592.418">
+<Sync time="591.2"/>
+les aimait bien ses poules ?
+</Turn>
+<Turn speaker="spk321" startTime="592.418" endTime="593.231">
+<Sync time="592.418"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="593.231" endTime="595.528">
+<Sync time="593.231"/>
+et alors est-ce qu'elle 
+<Event desc="skEl" type="pronounce" extent="previous"/>
+ leur avait
+<Sync time="594.216"/>
+donné un nom ?
+</Turn>
+<Turn speaker="spk320" startTime="595.528" endTime="598.925">
+<Sync time="595.528"/>
+hum on sait pas encore elle nous a pas dit
+</Turn>
+<Turn speaker="spk319" startTime="598.925" endTime="600.613">
+<Sync time="598.925"/>
+non ? elle vous a pas dit 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ &lt; bon
+</Turn>
+<Turn speaker="spk320" startTime="600.613" endTime="601.206">
+<Sync time="600.613"/>
+non &gt;
+</Turn>
+<Turn speaker="spk319" startTime="601.206" endTime="604.316">
+<Sync time="601.206"/>
+maintenant ça + /c'est,ça/ un nom ça ?
+</Turn>
+<Turn speaker="spk320" startTime="604.316" endTime="604.659">
+<Sync time="604.316"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ &lt; oui
+</Turn>
+<Turn speaker="spk321" startTime="604.659" endTime="605.487">
+<Sync time="604.659"/>
+oui &gt;
+</Turn>
+<Turn speaker="spk319" startTime="605.487" endTime="606.972">
+<Sync time="605.487"/>
+c'est quoi ? +
+</Turn>
+<Turn speaker="spk320" startTime="606.972" endTime="607.816">
+<Sync time="606.972"/>
+c'est un &lt; c'est un banc
+</Turn>
+<Turn speaker="spk321" startTime="607.816" endTime="608.738">
+<Sync time="607.816"/>
+fauteuil &gt;
+</Turn>
+<Turn speaker="spk319" startTime="608.738" endTime="609.927">
+<Sync time="608.738"/>
+ouais un banc un fauteuil
+</Turn>
+<Turn speaker="spk320" startTime="609.927" endTime="624.24">
+<Sync time="609.927"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et un jour ma maman quand elle était petite
+<Sync time="613.647"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben 
+<Event desc="conv" type="noise" extent="begin"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben elle s'est + 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ elle a 
+<Sync time="618.24"/>
+il y a 
+<Event desc="la" type="pronounce" extent="previous"/>
+ une maman 
+<Event desc="conv" type="noise" extent="end"/>
+
+<Sync time="618.88"/>
+qui s'est trompée de nom 
+<Event desc="dno~" type="pronounce" extent="previous"/>
+
+<Sync time="619.88"/>
+elle elle voul-
+<Sync time="620.833"/>
+elle voul- a 
+<Event desc="aR" type="pronounce" extent="previous"/>
+ voulu 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ l'appeler 
+<Event desc="laple" type="pronounce" extent="previous"/>
+ Titi
+<Sync time="623.318"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ mais en fait &lt; c'était
+</Turn>
+<Turn speaker="spk321" startTime="624.24" endTime="624.678">
+<Sync time="624.24"/>
+hum &gt;
+</Turn>
+<Turn speaker="spk320" startTime="624.678" endTime="625.303">
+<Sync time="624.678"/>
+Olga
+</Turn>
+<Turn speaker="spk319" startTime="625.303" endTime="626.975">
+<Sync time="625.303"/>
+
+<Event desc="rire" type="noise" extent="begin"/>
+ /c'est vrai,0/ ? d'accord oui 
+<Event desc="rire" type="noise" extent="end"/>
+
+</Turn>
+<Turn speaker="spk320" startTime="626.975" endTime="628.714">
+<Sync time="626.975"/>
+mais elle a changé de prénom 
+<Event desc="dpReno~" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="628.714" endTime="630.699">
+<Sync time="628.714"/>
+d'accord maintenant c'est Olga
+</Turn>
+<Turn speaker="spk320" startTime="630.699" endTime="631.136">
+<Sync time="630.699"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="631.136" endTime="638.699">
+<Sync time="631.136"/>
+ouais 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors je 
+<Event desc="Z9R" type="pronounce" extent="previous"/>
+ continue toujours ma petite idée
+<Sync time="633.849"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ nous on a donné un nom à ça +
+<Sync time="636.902"/>
+on a dit que ça 
+<Event desc="ksa" type="pronounce" extent="previous"/>
+ s'appelait 
+<Event desc="saple" type="pronounce" extent="previous"/>
+
+<Sync time="637.965"/>
+un banc 
+<Event desc="conv" type="noise" extent="begin"/>
+
+</Turn>
+<Turn speaker="spk321" startTime="638.699" endTime="639.667">
+<Sync time="638.699"/>
+oui +
+</Turn>
+<Turn speaker="spk319" startTime="639.667" endTime="642.761">
+<Sync time="639.667"/>
+mais est-ce que c'est la même chose que + Olga ?
+</Turn>
+<Turn speaker="spk321" startTime="642.761" endTime="643.026">
+<Sync time="642.761"/>
+&lt; non
+</Turn>
+<Turn speaker="spk320" startTime="643.026" endTime="644.541">
+<Sync time="643.026"/>
+non &gt; +
+</Turn>
+<Turn speaker="spk319" startTime="644.541" endTime="648.8">
+<Sync time="644.541"/>
+alors qu'est-ce que 
+<Event desc="sk2" type="pronounce" extent="previous"/>
+ c'est ?
+<Sync time="645.816"/>
+quelle est la différence ? +
+</Turn>
+<Turn speaker="spk320" startTime="648.8" endTime="654.036">
+<Sync time="648.8"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ parce 
+<Event desc="s" type="pronounce" extent="previous"/>
+ que le banc il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ *** 
+<Event desc="Sa~" type="pronounce" extent="previous"/>
+
+<Sync time="650.583"/>
+parce 
+<Event desc="s" type="pronounce" extent="previous"/>
+ que 
+<Event desc="i" type="pronounce" extent="previous"/>
+ une maman
+<Sync time="652.458"/>
+c'est pas pareil qu'un banc
+</Turn>
+<Turn speaker="spk319" startTime="654.036" endTime="661.505">
+<Sync time="654.036"/>
+ah non ça c'est sûr
+<Sync time="655.005"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors quelle est la différence
+<Sync time="656.943"/>
+entre les noms qu'on donne aux enfants +
+<Sync time="659.272"/>
+et les noms comme le banc ?
+</Turn>
+<Turn speaker="spk321" startTime="661.505" endTime="665.802">
+<Sync time="661.505"/>
+ah parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que euh
+<Sync time="662.755"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que c'est pas euh
+</Turn>
+<Turn speaker="spk319" startTime="665.802" endTime="666.286">
+<Sync time="665.802"/>
+ouais
+</Turn>
+<Turn speaker="spk321" startTime="666.286" endTime="666.349">
+<Sync time="666.286"/>
+ouais
+</Turn>
+<Turn speaker="spk319" startTime="666.349" endTime="666.77">
+<Sync time="666.349"/>
+c'est pas &lt; quoi ?
+</Turn>
+<Turn speaker="spk321" startTime="666.77" endTime="668.551">
+<Sync time="666.77"/>
+la &gt; même chose &lt; qu'une
+</Turn>
+<Turn speaker="spk319" startTime="668.551" endTime="669.114">
+<Sync time="668.551"/>
+non &gt;
+</Turn>
+<Turn speaker="spk321" startTime="669.114" endTime="670.193">
+<Sync time="669.114"/>
+maman +
+</Turn>
+<Turn speaker="spk319" startTime="670.193" endTime="671.193">
+<Sync time="670.193"/>
+ou que toi
+</Turn>
+<Turn speaker="spk321" startTime="671.193" endTime="673.146">
+<Sync time="671.193"/>
+ben oui /hum qu'un, avec un/ petit 
+<Event desc="pti" type="pronounce" extent="previous"/>
+ bébé
+</Turn>
+<Turn speaker="spk319" startTime="673.146" endTime="674.942">
+<Sync time="673.146"/>
+c'est quoi la différence ?
+</Turn>
+<Turn speaker="spk320" startTime="674.942" endTime="679.238">
+<Sync time="674.942"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ ce que ça c'est un objet
+<Sync time="676.817"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et les bébés c'est vivant
+</Turn>
+<Turn speaker="spk319" startTime="679.238" endTime="680.582">
+<Sync time="679.238"/>
+exactement &lt; et co-
+</Turn>
+<Turn speaker="spk320" startTime="680.582" endTime="683.199">
+<Sync time="680.582"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et &gt; les bébés 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ des des fois
+</Turn>
+<Turn speaker="spk319" startTime="683.199" endTime="683.683">
+<Sync time="683.199"/>
+ouais
+</Turn>
+<Turn speaker="spk320" startTime="683.683" endTime="688.151">
+<Sync time="683.683"/>
+et *** 
+<Event desc="ZeZe" type="pronounce" extent="previous"/>
+ il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ m'a montré une blague
+<Sync time="685.339"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ en fait c'est un bébé
+<Sync time="686.682"/>
+qui conduit dans le ventre 
+<Event desc="lva~tR" type="pronounce" extent="previous"/>
+ à &lt; maman mais et
+</Turn>
+<Turn speaker="spk319" startTime="688.151" endTime="688.885">
+<Sync time="688.151"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ &gt;
+</Turn>
+<Turn speaker="spk320" startTime="688.885" endTime="691.572">
+<Sync time="688.885"/>
+/et,0/ en fait ça c'est pour de faux
+<Sync time="690.479"/>
+c'est juste une blague
+</Turn>
+<Turn speaker="spk319" startTime="691.572" endTime="692.134">
+<Sync time="691.572"/>
+ouais &lt; ouais
+</Turn>
+<Turn speaker="spk320" startTime="692.134" endTime="699.826">
+<Sync time="692.134"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ &gt; un jour quand j'étais
+<Sync time="693.524"/>
+dans le ventre 
+<Event desc="va~t" type="pronounce" extent="previous"/>
+ de Maman
+<Sync time="694.568"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ j- j'étais en train de 
+<Event desc="d" type="pronounce" extent="previous"/>
+ dormir
+<Sync time="696.527"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et euh j'étais *** 
+<Event desc="op" type="pronounce" extent="previous"/>
+ l'hôpital 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk321" startTime="699.826" endTime="700.373">
+<Sync time="699.826"/>
+hum
+</Turn>
+<Turn speaker="spk320" startTime="700.373" endTime="705.528">
+<Sync time="700.373"/>
+et quand je sors
+<Sync time="701.123"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ et ben elle ma dit
+<Sync time="703.435"/>
+c'était c'était une fille ou un garçon
+</Turn>
+<Turn speaker="spk319" startTime="705.528" endTime="705.997">
+<Sync time="705.528"/>
+ouais
+</Turn>
+<Turn speaker="spk320" startTime="705.997" endTime="710.872">
+<Sync time="705.997"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors moi j'ai
+<Sync time="706.966"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ alors moi j'ai quand j'avais trois ans
+<Sync time="709.169"/>
+j'ai dis que c'était 
+<Event desc="ksete" type="pronounce" extent="previous"/>
+ une fille
+</Turn>
+<Turn speaker="spk319" startTime="710.872" endTime="713.152">
+<Sync time="710.872"/>
+d'accord
+<Sync time="711.715"/>
+c'était toi qui étais née ?
+</Turn>
+<Turn speaker="spk320" startTime="713.152" endTime="713.949">
+<Sync time="713.152"/>
+oui 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ &lt; d'abord
+</Turn>
+<Turn speaker="spk319" startTime="713.949" endTime="714.495">
+<Sync time="713.949"/>
+oui &gt;
+</Turn>
+<Turn speaker="spk320" startTime="714.495" endTime="715.949">
+<Sync time="714.495"/>
+mon frère puis après Alex
+</Turn>
+<Turn speaker="spk319" startTime="715.949" endTime="718.291">
+<Sync time="715.949"/>
+d'accord
+<Sync time="716.791"/>
+ils sont pas nés ensemble ?
+<Sync time="717.51"/>
+c'est pas des jumeaux ?
+</Turn>
+<Turn speaker="spk320" startTime="718.291" endTime="721.107">
+<Sync time="718.291"/>
+euh non 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ c'est d'abord Alex et après moi
+</Turn>
+<Turn speaker="spk319" startTime="721.107" endTime="725.899">
+<Sync time="721.107"/>
+d'accord ok 
+<Sync time="722.358"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ bon et ben on a fait une grande découverte
+<Sync time="724.586"/>
+qu'est-ce qu'on a découvert ?
+</Turn>
+<Turn speaker="spk320" startTime="725.899" endTime="726.242">
+<Sync time="725.899"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="726.242" endTime="727.867">
+<Sync time="726.242"/>
+qu'on donnait des noms à tout
+</Turn>
+<Turn speaker="spk321" startTime="727.867" endTime="728.789">
+<Sync time="727.867"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="728.789" endTime="732.195">
+<Sync time="728.789"/>
+mais que c'était pas pareil
+<Sync time="729.867"/>
+les noms qu'on donnait aux bancs &lt; et
+</Turn>
+<Turn speaker="spk321" startTime="732.195" endTime="732.445">
+<Sync time="732.195"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+ &gt;
+</Turn>
+<Turn speaker="spk319" startTime="732.445" endTime="735.008">
+<Sync time="732.445"/>
+toi tu as trouvé que c'était parce que ? +
+</Turn>
+<Turn speaker="spk321" startTime="735.008" endTime="736.617">
+<Sync time="735.008"/>
+c'est pas la même chose
+</Turn>
+<Turn speaker="spk319" startTime="736.617" endTime="738.586">
+<Sync time="736.617"/>
+ouais parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que c'était + &lt; c'était vivant
+</Turn>
+<Turn speaker="spk321" startTime="738.586" endTime="740.184">
+<Sync time="738.586"/>
+*** &gt; &lt; un bébé
+</Turn>
+<Turn speaker="spk320" startTime="740.184" endTime="743.215">
+<Sync time="740.184"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ oui &gt; mais pas un 
+<Event desc="R9~" type="pronounce" extent="previous"/>
+ banc
+<Sync time="742.215"/>
+c'est pas vivant &lt; un banc
+</Turn>
+<Turn speaker="spk319" startTime="743.215" endTime="745.372">
+<Sync time="743.215"/>
+non &gt; ben on lui donne
+<Sync time="743.887"/>
+quand même un un nom + &lt; mais
+</Turn>
+<Turn speaker="spk320" startTime="745.372" endTime="745.575">
+<Sync time="745.372"/>
+* &gt;
+</Turn>
+<Turn speaker="spk319" startTime="745.575" endTime="747.778">
+<Sync time="745.575"/>
+est-ce que celui-là on l'appelle comme celui-là ?
+</Turn>
+<Turn speaker="spk320" startTime="747.778" endTime="751.487">
+<Sync time="747.778"/>
+non 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que 
+<Event desc="sHi" type="pronounce" extent="next"/>
+ celui-là
+<Sync time="749.543"/>
+il est accroché
+<Sync time="750.268"/>
+il 
+<Event desc="i" type="pronounce" extent="previous"/>
+ peut se plier 
+<Event desc="splije" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="751.487" endTime="754.205">
+<Sync time="751.487"/>
+d'accord
+<Sync time="752.393"/>
+et tu crois que ça 
+<Event desc="ksa" type="pronounce" extent="previous"/>
+ s'appelle pas
+<Sync time="753.205"/>
+un banc ?
+</Turn>
+<Turn speaker="spk320" startTime="754.205" endTime="754.72">
+<Sync time="754.205"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ &lt; si
+</Turn>
+<Turn speaker="spk321" startTime="754.72" endTime="755.33">
+<Sync time="754.72"/>
+oui &gt;
+</Turn>
+<Turn speaker="spk319" startTime="755.33" endTime="756.19">
+<Sync time="755.33"/>
+et ben alors c'est le même &lt; nom
+</Turn>
+<Turn speaker="spk320" startTime="756.19" endTime="759.815">
+<Sync time="756.19"/>
+mais &gt; sauf sauf que /s-,c-/
+<Sync time="757.721"/>
+il y a 
+<Event desc="ja" type="pronounce" extent="previous"/>
+ pas les barres comme ça là
+</Turn>
+<Turn speaker="spk319" startTime="759.815" endTime="764.78">
+<Sync time="759.815"/>
+ouais mais pareil mais * 
+<Event desc="a~" type="pronounce" extent="previous"/>
+ mais d'accord
+<Sync time="761.503"/>
+il est pas tout à fait pareil 
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="763.331"/>
+mais on appelle quand même ça un banc
+</Turn>
+<Turn speaker="spk320" startTime="764.78" endTime="764.936">
+<Sync time="764.78"/>
+&lt; oui
+</Turn>
+<Turn speaker="spk321" startTime="764.936" endTime="765.327">
+<Sync time="764.936"/>
+oui &gt;
+</Turn>
+<Turn speaker="spk319" startTime="765.327" endTime="765.749">
+<Sync time="765.327"/>
+et celui- &lt; là ?
+</Turn>
+<Turn speaker="spk320" startTime="765.749" endTime="766.875">
+<Sync time="765.749"/>
+hum &gt; c'est &lt; aussi
+</Turn>
+<Turn speaker="spk321" startTime="766.875" endTime="767.14">
+<Sync time="766.875"/>
+* &gt;
+</Turn>
+<Turn speaker="spk320" startTime="767.14" endTime="767.405">
+<Sync time="767.14"/>
+un &lt; banc
+</Turn>
+<Turn speaker="spk319" startTime="767.405" endTime="768.327">
+<Sync time="767.405"/>
+et &gt; celui-là ?
+</Turn>
+<Turn speaker="spk320" startTime="768.327" endTime="769.171">
+<Sync time="768.327"/>
+aussi
+</Turn>
+<Turn speaker="spk319" startTime="769.171" endTime="769.405">
+<Sync time="769.171"/>
+alors que &lt; toi
+</Turn>
+<Turn speaker="spk320" startTime="769.405" endTime="769.733">
+<Sync time="769.405"/>
+hum &gt;
+</Turn>
+<Turn speaker="spk319" startTime="769.733" endTime="770.561">
+<Sync time="769.733"/>
+tu t'appelles comment ?
+</Turn>
+<Turn speaker="spk321" startTime="770.561" endTime="770.686">
+<Sync time="770.561"/>
+&lt; Léa
+</Turn>
+<Turn speaker="spk320" startTime="770.686" endTime="771.28">
+<Sync time="770.686"/>
+Léa &gt;
+</Turn>
+<Turn speaker="spk319" startTime="771.28" endTime="771.858">
+<Sync time="771.28"/>
+et toi ?
+</Turn>
+<Turn speaker="spk320" startTime="771.858" endTime="772.614">
+<Sync time="771.858"/>
+Aurélia
+</Turn>
+<Turn speaker="spk319" startTime="772.614" endTime="773.893">
+<Sync time="772.614"/>
+et moi ? &lt; Christine
+</Turn>
+<Turn speaker="spk320" startTime="773.893" endTime="774.783">
+<Sync time="773.893"/>
+-tine &gt;
+</Turn>
+<Turn speaker="spk319" startTime="774.783" endTime="779.064">
+<Sync time="774.783"/>
+ça veut dire que les choses
+<Sync time="776.799"/>
+qui ne vivent pas 
+<Event desc="i" type="noise" extent="instantaneous"/>
+ &lt; on leur
+</Turn>
+<Turn speaker="spk320" startTime="779.064" endTime="779.471">
+<Sync time="779.064"/>
+mais &gt;
+</Turn>
+<Turn speaker="spk319" startTime="779.471" endTime="780.471">
+<Sync time="779.471"/>
+donne ?
+</Turn>
+<Turn speaker="spk320" startTime="780.471" endTime="781.752">
+<Sync time="780.471"/>
+pas à manger &lt; 
+<Event desc="i" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="781.752" endTime="782.127">
+<Sync time="781.752"/>
+hum &gt;
+</Turn>
+<Turn speaker="spk320" startTime="782.127" endTime="782.517">
+<Sync time="782.127"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ que
+</Turn>
+<Turn speaker="spk319" startTime="782.517" endTime="783.548">
+<Sync time="782.517"/>
+on leur donne pas à manger &lt; ça c'est sûr
+</Turn>
+<Turn speaker="spk320" startTime="783.548" endTime="786.673">
+<Sync time="783.548"/>
+parce 
+<Event desc="pas" type="pronounce" extent="previous"/>
+ &gt; que ça a pas d-
+<Sync time="784.798"/>
+ça a pas de bouche 
+<Event desc="dbuS" type="pronounce" extent="previous"/>
+ ça a rien &lt; ni
+</Turn>
+<Turn speaker="spk319" startTime="786.673" endTime="787.407">
+<Sync time="786.673"/>
+rien du &gt;
+</Turn>
+<Turn speaker="spk320" startTime="787.407" endTime="788.016">
+<Sync time="787.407"/>
+de pied 
+<Event desc="dpije" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk319" startTime="788.016" endTime="792.73">
+<Sync time="788.016"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ je regrette +
+<Sync time="790.684"/>
+ça on appelle ça le pied d'avant
+</Turn>
+<Turn speaker="spk320" startTime="792.73" endTime="795.987">
+<Sync time="792.73"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ non mais si ça a des doigts de pied 
+<Event desc="dpije" type="pronounce" extent="previous"/>
+
+<Sync time="794.59"/>
+ça ça marche pas
+</Turn>
+<Turn speaker="spk319" startTime="795.987" endTime="796.362">
+<Sync time="795.987"/>
+&lt; 
+<Event desc="rire" type="noise" extent="next"/>
+ non
+</Turn>
+<Turn speaker="spk320" startTime="796.362" endTime="797.034">
+<Sync time="796.362"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk321" startTime="797.034" endTime="798.824">
+<Sync time="797.034"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ &gt;
+</Turn>
+<Turn speaker="spk319" startTime="798.824" endTime="803.059">
+<Sync time="798.824"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ bon et ben je vous 
+<Event desc="Zvu" type="pronounce" extent="previous"/>
+ remercie
+<Sync time="801.449"/>
+on a bien discuté
+</Turn>
+<Turn speaker="spk320" startTime="803.059" endTime="803.481">
+<Sync time="803.059"/>
+oui
+</Turn>
+<Turn speaker="spk321" startTime="803.481" endTime="803.715">
+<Sync time="803.481"/>
+oui
+</Turn>
+<Turn speaker="spk319" startTime="803.715" endTime="809.997">
+<Sync time="803.715"/>
+ouais ? 
+<Event desc="mic" type="noise" extent="begin"/>
+
+<Sync time="804.293"/>
+je vous 
+<Event desc="Zvu" type="pronounce" extent="previous"/>
+ remercie beaucoup 
+<Event desc="mic" type="noise" extent="end"/>
+
+<Sync time="805.809"/>
+je vais 
+<Event desc="Zve" type="pronounce" extent="previous"/>
+ pas vous garder
+<Sync time="806.7"/>
+vous allez aller rejoindre les autres &lt; d'accord ?
+</Turn>
+<Turn speaker="spk320" startTime="809.997" endTime="811.356">
+<Sync time="809.997"/>
+oui &gt; on peut prendre &lt; *
+</Turn>
+<Turn speaker="spk319" startTime="811.356" endTime="812.522">
+<Sync time="811.356"/>
+oui &gt; c'est pour 
+<Event desc="conv" type="noise" extent="end"/>
+ 
+<Event desc="b" type="noise" extent="end"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
